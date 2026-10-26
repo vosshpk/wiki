@@ -8,13 +8,9 @@ Information about Voss HPK, membership and how the club is run.
 - [Activities, events and trips](/en/klubben/aktivitetar)
 - [Volunteering and roles](/en/klubben/frivillig-arbeid)
 - [Communications](/en/kommunikasjon)
-- [Privacy](/en/klubben/kommunikasjon-og-personvern)
+- [Communications and privacy](/en/kommunikasjon/kommunikasjon-og-personvern)
 - [Insurance](/en/klubben/forsikring)
-- [Children, young people and safe sport](/en/klubben/barn-og-ungdom)
-- [Anti-doping](/en/klubben/antidoping)
-- [Club policies](/en/klubben/retningslinjer)
-- [Health, safety and environment](/en/sikkerhet/hms)
-- [Awards](/en/klubben/utmerkingar)
+- [Club policies](/en/organisatorisk/retningslinjer)
 - [Club equipment and facilities](/en/klubbutstyr)
 
 Other parts of the club:

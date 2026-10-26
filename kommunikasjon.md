@@ -8,6 +8,6 @@ Denne seksjonen samlar planane for intern og ekstern kommunikasjon, rolle- og an
 - [Ekstern kommunikasjonsplan](/kommunikasjon/ekstern-kommunikasjonsplan)
 - [Ansvar, kommunikasjon og fullmakter](/kommunikasjon/ansvar-kommunikasjon-og-myndigheit)
 - [Kommunikasjon ved hendingar](/kommunikasjon/kommunikasjon-ved-hendingar)
-- [Kommunikasjon og personvern](/klubben/kommunikasjon-og-personvern)
+- [Kommunikasjon og personvern](/kommunikasjon/kommunikasjon-og-personvern)
 
 Tilgang til interne planar bør avklarast i Wiki.js. Ikkje publiser personopplysningar, helseopplysningar eller ubekrefta opplysningar om ei hending ope.

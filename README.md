@@ -21,6 +21,16 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 
 ```text
 ├── home.md                 # Nynorsk home page (base locale: nn)
+├── rutiner.md              # Routines and maintenance section
+├── rutiner/                # Equipment and facility maintenance procedures
+│   ├── arshjul.md          # Annual routine calendar
+│   ├── bat-og-fortoying.md
+│   ├── bil.md
+│   ├── flyutstyr.md
+│   ├── startplassar.md
+│   ├── tilhenger.md
+│   ├── klubbhus.md
+│   └── klubbvogn.md
 ├── en/                     # English page translations (locale: en)
 ├── fly.md                  # Flying section index
 ├── fly/                    # Flying sites, visiting-pilot guidance and ROS analyses
@@ -40,6 +50,7 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ├── klubbutstyr.md          # Equipment and facilities index
 ├── klubbutstyr/            # Equipment, clubhouse, boat, trailer and car
 │   ├── utstyr.md
+│   ├── fasiliteter.md
 │   ├── klubbhus.md
 │   ├── bat.md
 │   ├── tilhenger.md
@@ -51,11 +62,8 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── organisasjonsplan.md
 │   ├── programplan-2025.md
 │   ├── styringsdokument.md
-│   ├── vedtekter.md
-│   ├── okonomirutinar.md
-│   ├── arshjul-og-mal.md
-│   ├── malar-og-skjema.md
-│   └── forvaltning-av-wikien.md
+│   ├── lov.md
+│   └── roller.md
 ├── klubben.md              # Club section index
 ├── klubben/                # Club information and governance
 │   ├── om-klubben.md
@@ -63,30 +71,24 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── medlemsfordelar.md
 │   ├── aktivitetar.md
 │   ├── frivillig-arbeid.md
-│   ├── kommunikasjon-og-personvern.md
 │   ├── forsikring.md
-│   ├── barn-og-ungdom.md
-│   ├── antidoping.md
-│   ├── retningslinjer.md
-│   ├── utmerkingar.md
 │   └── overnatting.md
 ├── kommunikasjon.md        # Communications section index
 ├── kommunikasjon/          # Internal/external plans, roles and incident communications
 │   ├── intern-kommunikasjonsplan.md
 │   ├── ekstern-kommunikasjonsplan.md
 │   ├── ansvar-kommunikasjon-og-myndigheit.md
-│   └── kommunikasjon-ved-hendingar.md
+│   ├── kommunikasjon-ved-hendingar.md
+│   └── kommunikasjon-og-personvern.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   ├── nodprosedyrer.md
-│   ├── tryggleiksgruppe.md
-│   └── hms.md
+│   └── tryggleiksgruppe.md
 ├── opplaering.md           # Training section index
 ├── opplaering/             # Opplæring, progresjon og sjekklister
 │   ├── progresjon.md
 │   ├── rammer-for-kursing.md
-│   ├── rammer-progresjonskurs.md
-│   └── roller.md
+│   └── rammer-progresjonskurs.md
 ├── assets/
 │   ├── landvinsj-transport.jpg
 │   ├── landvinsj-kontrollboks.jpg

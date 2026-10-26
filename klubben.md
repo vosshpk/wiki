@@ -8,13 +8,9 @@ Informasjon om Voss HPK, medlemskap og korleis klubben blir driven.
 - [Aktivitetar, arrangement og reiser](/klubben/aktivitetar)
 - [Frivillig arbeid og roller](/klubben/frivillig-arbeid)
 - [Kommunikasjon](/kommunikasjon)
-- [Personvern](/klubben/kommunikasjon-og-personvern)
+- [Kommunikasjon og personvern](/kommunikasjon/kommunikasjon-og-personvern)
 - [Forsikring](/klubben/forsikring)
-- [Barn, ungdom og trygg idrett](/klubben/barn-og-ungdom)
-- [Antidoping](/klubben/antidoping)
-- [Retningslinjer i klubben](/klubben/retningslinjer)
-- [HMS og tryggleik i klubbdrifta](/sikkerhet/hms)
-- [Utmerkingar](/klubben/utmerkingar)
+- [Retningslinjer i klubben](/organisatorisk/retningslinjer)
 - [Klubbutstyr og fasilitetar](/klubbutstyr)
 
 Andre delar av klubben:

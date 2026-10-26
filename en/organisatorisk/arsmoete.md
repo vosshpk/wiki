@@ -20,7 +20,7 @@ To vote or stand for elected office, a member must:
 
 Previous annual meeting papers, reports and minutes are available in the [official Voss HPK archive](https://vosshpk.no/om-klubben/arkiv/).
 
-Read the club’s [bylaws](/en/organisatorisk/vedtekter). The official source text is in Norwegian Nynorsk.
+Read the club’s [bylaws](/en/organisatorisk/lov). The official source text is in Norwegian Nynorsk.
 
 The club's governance information includes:
 

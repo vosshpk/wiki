@@ -1,9 +1,9 @@
-# Vedtekter for Voss Hang- og Paragliderklubb
+# Lov for Voss Hang- og Paragliderklubb
 
 **Stifta:** 1. april 1974  
 **Sist endra i kjeldedokumentet:** 8. mars 2024
 
-Dette er ei Markdown-utgåve av vedtektene. Nynorskversjonen er kjeldeteksten. Kontroller alltid at dette er gjeldande vedtekter og følg NIF-regelverket før formelle vedtak.
+Dette er ei Markdown-utgåve av klubben si lov. Nynorskversjonen er kjeldeteksten. Kontroller alltid at dette er gjeldande lov og følg NIF-regelverket før formelle vedtak.
 
 ## §1    Formål
 

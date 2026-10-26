@@ -5,5 +5,4 @@ Training information, pilot progression and the club's course guidelines.
 - [Courses and progression](/en/opplaering/progresjon)
 - [Course delivery framework](/en/opplaering/rammer-for-kursing)
 - [Progression course framework](/en/opplaering/rammer-progresjonskurs)
-- [Training roles](/en/opplaering/roller)
 - [For instructors: payments, expenses and equipment (Norwegian)](https://vosshpk.no/kurs/for-instruktorar/#elementor-toc__heading-anchor-0)

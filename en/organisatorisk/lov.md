@@ -6,4 +6,4 @@ The bylaws cover the club's purpose and affiliations; membership; representation
 
 The annual meeting is the club's highest governing body and is held each year by the end of March. Its responsibilities include approving reports and accounts, setting membership fees, adopting the budget and organizational plan, and electing the board and other roles specified by the bylaws and applicable NIF rules.
 
-Read the full [Nynorsk bylaws page](/organisatorisk/vedtekter) for a Markdown transcription. This English page is an overview, not a legal translation.
+Read the full [Nynorsk bylaws page](/organisatorisk/lov) for a Markdown transcription. This English page is an overview, not a legal translation.

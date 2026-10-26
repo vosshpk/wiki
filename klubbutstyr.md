@@ -9,3 +9,4 @@ Her finn du praktisk informasjon om klubben sitt utstyr, klubbhus og transport.
 - [Klubbvogna/tilhengaren](/klubbutstyr/tilhenger)
 - [Klubbilen og transport](/klubbutstyr/bil)
 - [Opptrekk med landvinsj](/klubbutstyr/opptrekk-landvinsj)
+- [Rutinar for vedlikehald](/rutiner)

@@ -9,3 +9,4 @@ Practical information about club equipment, the clubhouse and transport.
 - [Club trailer](/en/klubbutstyr/trailer)
 - [Club car and transport](/en/klubbutstyr/car)
 - [Ground-winch towing](/en/klubbutstyr/opptrekk-landvinsj)
+- [Maintenance routines](/en/rutiner)

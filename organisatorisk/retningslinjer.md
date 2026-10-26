@@ -2,7 +2,7 @@
 
 Klubben skal følgje gjeldande vedtekter, NIF/NLF-reglar og tryggleiksprosedyrar. Sentrale dokument i wikien:
 
-- [Vedtekter](/organisatorisk/vedtekter)
+- [Lov](/organisatorisk/lov)
 - [Styreinstruks](/styret/styreinstruks) (utkast, ikkje stadfesta vedteken)
 - [Lokale flytryggleiksreglar](/sikkerhet/flytrygging)
 - [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer)
