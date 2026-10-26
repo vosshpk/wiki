@@ -23,12 +23,14 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ├── home.md                 # Wiki home page
 ├── klubben/                # Club information and governance
 │   ├── om-klubben.md
+│   ├── fasiliteter.md
 │   ├── medlemskap.md
 │   ├── styret.md
 │   └── arsmoete.md
 ├── flysteder/              # Launch and landing sites, airspace, wind directions
 │   ├── flysteder.md
-│   └── hanguren.md
+│   ├── hanguren.md
+│   └── skulebakke.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   └── nodprosedyrer.md
