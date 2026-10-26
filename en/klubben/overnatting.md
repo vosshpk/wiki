@@ -14,5 +14,5 @@ Voss Folk High School offers summer accommodation with breakfast. It is about a 
 
 The club website may list member offers. Check [Fleischer’s Motel](https://www.fleischers.no/) and confirm current rates, terms and availability directly before booking.
 
-> [!NOTE]
 > Check the club’s [official accommodation information](https://vosshpk.no/kurs/praktisk-info-kurs/) for updates and further details.
+{.is-info}

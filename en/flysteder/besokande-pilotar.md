@@ -27,5 +27,5 @@ See [accommodation options in Voss](/en/klubben/overnatting) if you need a place
 - **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
 - **Flight logs:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
 
-> [!WARNING]
 > Information may change. Always check current rules and local conditions before flying. Fly only when your competence, equipment and conditions are appropriate.
+{.is-warning}

@@ -14,5 +14,5 @@ Voss folkehøgskule tilbyr sommarovernatting med frukost. Skulen ligg om lag 10�
 
 Klubben si nettside kan ha informasjon om medlemsavtalar. Sjå [Fleischer's Motel](https://www.fleischers.no/) og stadfest gjeldande pris, vilkår og tilgjenge direkte før bestilling.
 
-> [!NOTE]
 > Sjå [klubben si offisielle informasjon om overnatting](https://vosshpk.no/kurs/praktisk-info-kurs/) for eventuelle endringar og fleire detaljar.
+{.is-info}

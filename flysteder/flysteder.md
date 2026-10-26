@@ -2,8 +2,8 @@
 
 Voss Hang- og Paragliderklubb disponerer og held ved like fleire godkjende start- og landingsstader for ulike vindretningar, ferdigheitsnivå og årstider.
 
-> [!WARNING]
 > Informasjonen her kjem i tillegg til eigne vurderingar. Sjekk alltid oppdaterte vêrmeldingar, lokale vêrstasjonar, NOTAM, luftrom via [luftrom.info](https://luftrom.info) og lokale tilhøve før avgang. Fly aldri utan nødvendig lisens, forsikring og kompetanse.
+{.is-warning}
 
 ---
 

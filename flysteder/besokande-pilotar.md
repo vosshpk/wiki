@@ -27,5 +27,5 @@ Sjå [overnattingsalternativ på Voss](/klubben/overnatting) dersom du treng sta
 * **Live-sporing av bilen til klubben:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
 * **Flyloggar:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
 
-> [!WARNING]
 > Informasjonen kan bli endra. Kontroller alltid gjeldande reglar og lokale tilhøve før flyging. Fly berre når kompetansen, utstyret og tilhøva er forsvarlege.
+{.is-warning}

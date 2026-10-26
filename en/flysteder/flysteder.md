@@ -2,8 +2,8 @@
 
 Voss HPK maintains launch and landing sites for different wind directions, experience levels and seasons.
 
-> [!WARNING]
 > This local guide supplements, and does not replace, your own assessment. Check current weather, local wind stations, NOTAMs and airspace at [luftrom.info](https://luftrom.info), as well as conditions on site. Fly only with the required licence, insurance and competence.
+{.is-warning}
 
 ## Overview
 
