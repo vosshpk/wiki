@@ -1,61 +1,62 @@
-# Flytrygging og lokale regler
+# Flytryggleik og lokale reglar
 
-Voss byr på fantastiske flyforhold, men terning, gondoler, bebyggelse og delt luftrom krever at alle piloter opptrer med høy disiplin og følger klubbens vedtatte flytryggingsregler.
-
----
-
-## 🚡 Avstand til gondol og skiheiser
-
-Voss Gondol og skiheisene i Voss Resort og Myrkdalen har høyspentkabler, drivkabler og bæremaster som utgjør en alvorlig kollisjons- og turbulensfare.
-
-* **Minimumsavstand:** Det skal til enhver tid holdes en sikkerhetsavstand på **minimum 50 meter vertikalt og horisontalt** til gondolbane, heiskabler og master.
-* **Passering av gondolvaieren:** Ved innflyging fra Hanguren mot landing på Vangen skal vaieren alltid krysses med god glidehøyde. Vær oppmerksom på le-turbulens bak Hangurstoppen ved nordlige eller østlige vindkomponenter.
+Voss byr på gode flytilhøve. Terreng, gondolbaner, busetnad og delt luftrom krev likevel at pilotar følgjer dei lokale reglane og viser godt skjøn.
 
 ---
 
-## 🎿 Sikring av løse gjenstander og skiflyging
+## 🚡 Avstand til gondol og skiheisar
 
-Flyging over bygder, veier og folk stiller strenge krav til sikring mot fallende gjenstander:
+Voss Gondol og skiheisane i Voss Resort og Myrkdalen har høgspentkablar, drivkablar og master som kan gi fare for kollisjon og turbulens.
 
-* **Fangreimer ved skiflyging:** Ved flyging med ski skal det **alltid benyttes fangreimer** festet forsvarlig til begge ski, slik at skiene henger fast i selen selv om bindingen løser ut ved start eller i luften.
-* **Tech-bindinger:** Ved bruk av låsbare tech-bindinger (toppturbindinger) skal frambindingen settes i låst «gåmodus», og bakbindingen må være låst.
-* **Mobil og kamera:** Kameraer, actionkameraer på stang og mobiltelefoner skal sikres med solid fangsnor eller festestropp.
-
----
-
-## 🚁 Helikopteraktivitet ved Vangen
-
-Vestsiden av hovedlandingen ved kulturhuset/Prestegardslandet benyttes jevnlig som landingsplass for Luftambulansen og andre helikoptre.
-
-* **Vikeplikt:** Ser du et helikopter i luften eller under landing/avgang på Vangen, har helikopteret ubetinget forkjørsrett.
-* **Alternativ landing:** Avbryt innflygingen mot helikopterområdet og velg alternativ landing:
-  * Lenger øst på Prestegardslandet.
-  * På sandstranden i sørenden av Vangsvatnet.
-  * På Ringheim (kun utenom vekstsesongen).
+* **Minsteavstand:** Hald minst **50 meter vertikal og horisontal avstand** til gondolbaner, heiskablar og master.
+* **Kryssing av gondolkabelen:** Ved innflyging frå Hanguren mot Vangen skal kabelen kryssast med god høgd over han. Ver merksam på turbulens i le av Hangurstoppen ved nordleg eller austleg vind.
 
 ---
 
-## 🚫 Forbudte landingsområder
+## 🎿 Sikring av lause gjenstandar og skiflyging
 
-For å bevare gode relasjoner til lokalsamfunn og grunneiere er følgende steder **strengt forbudt** som landingsplass:
-1. **Mølstertunet:** Den gresskledde hyllen med fredet museum og dyrket mark over bebyggelsen.
-2. **Hoppbakken i Bavallen:** Botnen av hoppbakken er ikke godkjent og forbundet med fare.
-3. **Ringheim i vekstsesongen:** Ringheim er en godkjent landing høst/vinter, men er **stengt om sommeren** under gressproduksjon frem til slått.
+Flyging over bygder, vegar og folk krev at utstyr er sikra mot å falle ned:
+
+* **Fangreimar ved skiflyging:** Bruk fangreimar på begge skia, festa slik at skia blir hengande i selen dersom bindinga løyser ut.
+* **Tech-bindingar:** Ved låsbare toppturbindingar skal frambindinga vere låst i gåmodus og bakbindinga vere låst.
+* **Mobil og kamera:** Fest mobiltelefonar, kamera og actionkamera på stong med ei solid fangsnor eller festestropp.
+
+---
+
+## 🚁 Helikopter ved Vangen
+
+Vestsida av hovudlandinga ved Kulturhuset/Prestegardslandet blir jamleg brukt som landingsplass for Luftambulansen og andre helikopter.
+
+* **Vikeplikt:** Helikopter har alltid prioritet. Hald avstand dersom eit helikopter er i lufta eller landar/take av på Vangen.
+* **Alternativ landing:** Avbryt innflyginga mot helikopterområdet og vel ei anna landing:
+  * Lenger aust på Prestegardslandet.
+  * På sandstranda sør i Vangsvatnet.
+  * På Ringheim, men berre utanom vekstsesongen.
+
+---
+
+## 🚫 Landingsområde det er forbode å bruke
+
+For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stadene **ikkje tillatne som landingsplassar**:
+
+1. **Mølstertunet:** Den grasdekte hylla med freda museum og dyrka mark ovanfor busetnaden.
+2. **Hoppbakken i Bavallen:** Botnen av hoppbakken er ikkje godkjend og kan vere farleg.
+3. **Ringheim i vekstsesongen:** Ringheim kan brukast haust og vinter, men er stengd om sommaren medan graset blir dyrka fram til slåtten.
 
 ---
 
 ## 🗺️ Luftrom og Bømoen flyplass
 
-* **Høydebegrensning:** Normal høydebegrensning over Voss under kontrollert luftrom er **2 286 moh (7 500 fot)**. Sjekk alltid oppdatert status på [luftrom.info](https://luftrom.info).
-* **Bømoen flyplass (ENBM):** Bømoen er en aktiv luftsportsflyplass med betydelig fallskjermhopping, seilflyging og motorflytrafikk.
-  * Det er opprettet egen flyforbudssone / vernesone over flyplassen og droppsonen.
-  * Paraglidere og hangglidere skal holde god avstand til Bømoens trafikkrunde og luftsportssone.
-* **NOTAM:** Sjekk alltid NOTAM og gjeldende restriksjoner på IPPC eller HemsWX før avgang.
+* **Høgdegrense:** Den vanlege høgdegrensa over Voss under kontrollert luftrom er **2 286 moh (7 500 fot)**. Sjekk alltid status på [luftrom.info](https://luftrom.info).
+* **Bømoen flyplass (ENBM):** Bømoen er ein aktiv luftsportsflyplass med fallskjermhopping, seglflyging og motorflytrafikk.
+  * Det er oppretta flyforbodssone/vernesone over flyplassen og droppsona.
+  * Paraglider- og hanggliderpilotarar skal halde god avstand til trafikkrunden og luftsportssona på Bømoen.
+* **NOTAM:** Sjekk NOTAM og gjeldande restriksjonar på IPPC eller HemsWX før avgang.
 
 ---
 
-## 🌬️ Vurdering av vind og Vangsvatnet
+## 🌬️ Vind og Vangsvatnet
 
-* **Vindskjæring og rotor:** Ved østavind kan det oppstå betydelig rotor og kraftig turbulens nede ved Vangen og Minigolfen. Følg nøye med på krusninger på Vangsvatnet for å bedømme lokal vindstyrke og retning.
-* **Solgangsbris:** Fra mai til august drar det seg ofte opp en markant solgangsbris fra vest/sørvest utover ettermiddagen. Vinden kan da raskt snu og øke i styrke nede over vannet.
-* **Live tracking:** Aktiver sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at klubbens piloter og hentebiler kan se din posisjon.
+* **Vindskjer og rotor:** Ved austavind kan det bli rotor og kraftig turbulens ved Vangen og Minigolfen. Følg med på krusingane på Vangsvatnet for å vurdere lokal vindstyrke og retning.
+* **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen. Vinden over vatnet kan snu og auke raskt.
+* **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.

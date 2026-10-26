@@ -1,29 +1,29 @@
 # Årsmøte
 
-Årsmøtet er klubbens øverste myndighet og avholdes årlig innen utgangen av mars, i samsvar med Norges Idrettsforbunds (NIF) lovnorm og klubbens egne vedtekter.
+Årsmøtet er klubben sitt øvste organ og blir halde kvart år innan utgangen av mars, i samsvar med lovnorma til Noregs idrettsforbund (NIF) og klubben sine vedtekter.
 
 ---
 
 ## Gjennomføring og innkalling
 
-* **Innkalling:** Styret sender ut formell innkalling til alle stemmeberettigede medlemmer minst én måned før årsmøtet avholdes. Innkallingen publiseres på klubbens nettside og sendes per e-post.
-* **Frist for innsending av saker:** Medlemmer som ønsker å fremme saker for behandling på årsmøtet, må sende disse skriftlig til styret senest to uker før møtedatoen på [styret@vosshpk.no](mailto:styret@vosshpk.no).
-* **Sakspapirer:** Fullstendig saksliste, årsberetning, revidert regnskap, budsjettforslag, innkomne saker og valgkomiteens innstilling gjøres tilgjengelig for medlemmene senest én uke før årsmøtet.
+* **Innkalling:** Styret kallar inn alle røysteføre medlemer minst éin månad før årsmøtet. Innkallinga blir publisert på klubben si nettside og send på e-post.
+* **Frist for saker:** Send saker som du ønskjer at årsmøtet skal handsame, skriftleg til styret på [styret@vosshpk.no](mailto:styret@vosshpk.no) seinast to veker før møtet.
+* **Sakspapir:** Sakliste, årsmelding, revidert rekneskap, budsjettframlegg, innkomne saker og innstillinga frå valkomiteen skal vere tilgjengelege for medlemer seinast éi veke før årsmøtet.
 
 ---
 
-## Stemmerett og valgbarhet
+## Stemmerett og valbarheit
 
-For å ha stemmerett og være valgbar til tillitsverv på årsmøtet må et medlem:
+For å ha røysterett og vere valbar til tillitsverv på årsmøtet må eit medlem:
 1. Ha fylt 15 år i løpet av kalenderåret.
-2. Ha vært medlem i Voss HPK i minst én måned.
-3. Ha oppfylt sine økonomiske forpliktelser til klubben (betalt medlemskontingent).
+2. Ha vore medlem i Voss HPK i minst éin månad.
+3. Ha oppfylt dei økonomiske pliktene sine overfor klubben, mellom anna betalt medlemskontingent.
 
 ---
 
 ## Sakspapirer og referatarkiv
 
-Historiske årsmøtedokumenter, årsrapporter og referater er tilgjengelige via klubbens offisielle arkiv:
+Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv:
 📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/)
 
 | År | Dokumenter | Merknad |
@@ -35,7 +35,7 @@ Historiske årsmøtedokumenter, årsrapporter og referater er tilgjengelige via 
 
 ## Klubbens vedtekter og styring
 
-Klubben styres etter:
+Klubben følgjer desse styringsdokumenta:
 * **NLF / NIFs lovnorm for idrettslag**
-* **Voss HPK Styringsdokument 2024–2028:** Strategisk plan for klubbens anlegg, medlemsutvikling og sportslige tilbud.
-* **Årlig programplan:** Vedtatte mål og tiltak for inneværende driftsår.
+* **Voss HPK Styringsdokument 2024–2028:** Strategisk plan for anlegg, medlemsutvikling og sportsleg tilbod.
+* **Årleg programplan:** Vedtekne mål og tiltak for driftsåret.

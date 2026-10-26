@@ -1,22 +1,22 @@
 # Voss Hang- og Paragliderklubb (Voss HPK) — Wiki
 
-Velkommen til kunnskapsbasen for Voss Hang- og Paragliderklubb!
+Velkomen til kunnskapsbasen for Voss Hang- og Paragliderklubb!
 
-Denne wikien inneholder informasjon om flysteder på Voss og i nærområdet, klubbens sikkerhetsrutiner, fasiliteter, klubbutstyr, skoling og vedtekter.
+Denne wikien inneheld informasjon om flystader på Voss og i nærområdet, klubben sine tryggingsrutinar, fasilitetar, klubbutstyr, opplæring og vedtekter.
 
 ---
 
-## 🪂 Hurtiglenker
+## 🪂 Snøgglenkjer
 
-- [Flysteder](/flysteder/flysteder) — Oversikt over startsteder, landingsområder og lokal informasjon (inkludert [Hanguren](/flysteder/hanguren) og [Skolebakken](/flysteder/skulebakke)).
-- [Sikkerhet & Nødprosedyrer](/sikkerhet/nodprosedyrer) — Nødnumre, trelandinger, redningsbåt, ulykkesrutiner og lokale flytryggingsregler.
-- [Flytrygging](/sikkerhet/flytrygging) — Gondolsikkerhet, luftrom, helikopteraktivitet og ski/utstyrssikring.
-- [Klubben](/klubben/om-klubben) — Om klubben, [styret og utvalg](/klubben/styret), [medlemskap og fordeler](/klubben/medlemskap) og [årsmøte](/klubben/arsmoete).
-- [Fasiliteter & Transport](/klubben/fasiliteter) — Skolebakken, klubbhuset på Bømoen, klubbvogna på Vangen, redningsbåten, klubbbilen og kjørepriser.
-- [Skoling & Progresjon](/skoling/progresjon) — Kurs, instruktører, tandem og progresjonsstige.
-- [Utstyr & Vedlikehold](/utstyr/klubbutstyr) — Klubbvinger, seler, redningsbåt og nødskjermpakkedager.
+- [Flystader](/flysteder/flysteder) — Startstader, landingsområde og lokal informasjon, mellom anna [Hanguren](/flysteder/hanguren) og [Skulebakken](/flysteder/skulebakke).
+- [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer) — Naudnummer, trelanding, redningsbåt, ulukkesrutinar og lokale reglar for flytryggleik.
+- [Flytryggleik](/sikkerhet/flytrygging) — Gondol, luftrom, helikopteraktivitet og sikring av ski og utstyr.
+- [Klubben](/klubben/om-klubben) — Om klubben, [styre og utval](/klubben/styret), [medlemskap og fordelar](/klubben/medlemskap) og [årsmøte](/klubben/arsmoete).
+- [Fasilitetar og transport](/klubben/fasiliteter) — Skulebakken, klubbhuset på Bømoen, klubbvogna på Vangen, redningsbåten, klubbbilen og køyreprisar.
+- [Opplæring og progresjon](/opplaering/progresjon) — Kurs, instruktørar, tandem og progresjonsstige.
+- [Utstyr og vedlikehald](/utstyr/klubbutstyr) — Klubbvinger, selar, redningsbåt og felles pakkedagar for naudskjerm.
 
 ---
 
 > [!NOTE]
-> Sideinnhold synkroniseres periodisk med klubbens GitHub-lager ([vosshpk/wiki](https://github.com/vosshpk/wiki)) når Git Storage er konfigurert. Unngå å redigere samme side i Wiki.js og GitHub samtidig.
+> Sideinnhaldet blir synkronisert jamleg med klubben sitt GitHub-lager ([vosshpk/wiki](https://github.com/vosshpk/wiki)) når Git Storage er konfigurert. Unngå å redigere same side i Wiki.js og GitHub samstundes.

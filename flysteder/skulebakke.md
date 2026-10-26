@@ -1,40 +1,44 @@
-# Skolebakken (Bakkatun)
+# Skulebakken (Bakkatun)
 
-Skolebakken på Bakkatun ved Bømoen er klubbens faste treningsbakke for elever og piloter på bakkenivå. Bakken er avgjørende for nybegynneropplæring, bakkekontroll (groundhandling) og lave treningshopp.
+Skulebakken på Bakkatun ved Bømoen er klubben si faste treningsbakke for elevar og pilotar. Her kan ein øve på bakkekontroll, grunnleggande opplæring og låge treningshopp.
 
 ---
 
 ## Nøkkelinformasjon
 
-* **Område:** Bømoen / Bakkatun ved Voss fallskjermklubb sine lokaler.
-* **Formål:** Skoling, opplæring og egentrening for klubbens piloter utenom kurs.
-* **Sesong:** Vår, sommer og høst (med strenge hensyn til vekstsesong).
+* **Område:** Bømoen / Bakkatun ved lokala til Voss fallskjermklubb.
+* **Føremål:** Opplæring og eigentrening for klubben sine pilotar utanom kurs.
+* **Sesong:** Vår, sommar og haust. Ta særleg omsyn til vekstsesongen.
 
 ---
 
-## 🌾 Regler for bruk og hensyn til grunneiere
+## 🌾 Bruk og omsyn til grunneigarane
 
-Klubben har en god og langvarig avtale med lokale grunneiere. For at vi skal beholde denne avtalen, plikter samtlige piloter å etterleve følgende regler:
+Klubben har ei langvarig avtale med lokale grunneigarar. Alle pilotar må følgje desse reglane:
 
 ### 1. Vekstsesong og slått
-* Bakken kan benyttes fritt når **gresset er nyslått og kort**.
-* I vekstsesongen (når gresset er høyt og frem til slått) er aktiviteten **begrenset** for å unngå å tråkke ned avlingen.
-* Dersom du er i tvil om bakken er åpen, send e-post til daglig leder: [malene@vosshpk.no](mailto:malene@vosshpk.no).
 
-### 2. Soneinndeling
-* **Hovedbakken (merket A):** Dette er klubbens faste treningsområde som vi har ordinær tillatelse til å benytte (utenom høyt gress før slått).
-* **Områdene B, C og D:** Er **kun åpne** dersom dette er særskilt avtalt på forhånd med grunneier i forbindelse med kurs.
+* Bakken kan brukast fritt når graset er nyslått og kort.
+* Når graset er høgt og fram til slåtten, er aktiviteten avgrensa for å unngå å trakke ned avlinga.
+* Er du usikker på om bakken er open, kontakt dagleg leiar: [malene@vosshpk.no](mailto:malene@vosshpk.no).
+
+### 2. Soner
+
+* **Hovudbakken (merkt A):** Klubben kan bruke dette faste treningsområdet, men ta omsyn til høgt gras før slåtten.
+* **Område B, C og D:** Kan berre brukast når dette er avtalt særskilt med grunneigaren, til dømes i samband med kurs.
 
 ### 3. Parkering og ferdsel
-* **Strengt forbudt å parkere på gårdstunene** til naboene.
-* **Ingen kjøring eller parkering ut på grusveien.**
-* All parkering skal foregå på den oppmerkede parkeringsplassen ved **Voss fallskjermklubb** på Bømoen. Herfra går man bort til bakken.
 
-### 4. Renhold
-* Ta alltid med alt søppel, tape, plast og snorer. Bakken skal etterlates like ren som du fant den.
+* Ikkje parker på gardstuna til naboane.
+* Ikkje køyr eller parker ute på grusvegen.
+* Parker på den merkte parkeringsplassen ved Voss fallskjermklubb på Bømoen. Gå derfrå til bakken.
+
+### 4. Reinhald
+
+Ta med søppel, tape, plast og snorer. Lat bakken vere like rein som då du kom.
 
 ---
 
-## 🏠 Nærliggende fasiliteter
+## 🏠 Klubbhuset
 
-Skolebakken ligger i umiddelbar nærhet til [Klubbhuset på Bømoen](/klubben/fasiliteter#klubbhuset-pa-bømoen) (Flyplassvegen 135), der klubben lagrer skolemateriell og avholder teorikurs.
+Skulebakken ligg nær [klubbhuset på Bømoen](/klubben/fasiliteter#klubbhuset-pa-bømoen), Flyplassvegen 135. Der lagrar klubben skuleutstyr og held teorikurs.

@@ -1,101 +1,104 @@
-# Fasiliteter, klubbhus og transport
+# Fasilitetar, klubbhus og transport
 
-Voss Hang- og Paragliderklubb disponerer flere felles fasiliteter for medlemmer, elever og gjestepiloter. Felles for alle våre områder er at vi viser hensyn til grunneiere, lokalmiljøet og hverandre.
+Voss Hang- og Paragliderklubb har felles fasilitetar for medlemer, elevar og gjestepilotar. Vis omsyn til grunneigarar, nærmiljøet og kvarandre når du brukar dei.
 
 ---
 
-## 🌾 Skolebakken (Bakkatun)
+## 🌾 Skulebakken (Bakkatun)
 
-Skolebakken er klubbens treningsbakke på bakkenivå og skal og bør brukes så mye som mulig til egentrening og bakkekontroll utenom kursvirksomhet.
+Skulebakken er klubben si treningsbakke for bakkekontroll og eigentrening utanom kurs.
 
-### Regler for bruk
-* **Hensyn til vekstsesong og beitedyr:** Vise alltid hensyn til grunneierne. I perioder hvor gresset er høyt like før slått, begrenses all aktivitet. Bakken kan benyttes fritt når gresset er nyslått og kort.
-* **Soner i bakken:** Hovedbakken (merket **A** i klubbens oversiktskart) er det faste treningsområdet. Områdene **B–D** er kun åpne dersom det er avtalt på forhånd. Er du i tvil om bakken er åpen for fri flyging, send e-post til daglig leder ([malene@vosshpk.no](mailto:malene@vosshpk.no)).
+### Reglar for bruk
+
+* **Vekstsesong og beitedyr:** Vis omsyn til grunneigarane. Når graset er høgt før slåtten, er aktiviteten avgrensa. Bakken kan brukast fritt når graset er nyslått og kort.
+* **Soner:** Hovudbakken (merkt **A** på klubben sitt oversiktskart) er det faste treningsområdet. Område **B–D** kan berre brukast etter avtale på førehand. Er du usikker på om bakken er open, kontakt dagleg leiar ([malene@vosshpk.no](mailto:malene@vosshpk.no)).
 * **Parkering og ferdsel:**
-  * **Strengt forbudt** å parkere eller kjøre inn på gårdstunene.
-  * **Ingen** bilkjøring eller parkering ut på grusveien.
-  * Parkering skal **kun** skje på oppmerket parkering ved Voss fallskjermklubb på Bømoen.
-* **Renhold:** Ta med alt søppel og etterlat bakken i perfekt stand.
+  * Det er forbode å parkere eller køyre inn på gardstuna.
+  * Ikkje køyr eller parker ute på grusvegen.
+  * Parker berre på den merkte parkeringsplassen ved Voss fallskjermklubb på Bømoen. Gå derfrå til bakken.
+* **Reinhald:** Ta med alt avfall, og lat bakken vere like rein som då du kom.
 
 ---
 
 ## 🏠 Klubbhuset på Bømoen
 
-Klubbhuset ligger på Bømoen ved lokalene til Voss fallskjermklubb (Flyplassvegen 135). Lokalet benyttes gjennom hele året til teoriundervisning, instruktørmøter og klubbsamlinger.
+Klubbhuset ligg ved lokala til Voss fallskjermklubb på Bømoen (Flyplassvegen 135). Det blir brukt året rundt til teoriundervisning, instruktørmøte og klubbkveldar.
 
-* **Tilgang:** Alle medlemmer av Voss HPK har tilgang til klubbhuset.
-* **Dørkode:** Koden til dørlåsen skiftes med jevne mellomrom av sikkerhetshensyn. Kontakt driftsansvarlig eller daglig leder for å få oppdatert kode.
+* **Tilgang:** Alle medlemer av Voss HPK har tilgang.
+* **Dørkode:** Koden blir endra med jamne mellomrom. Kontakt driftsansvarleg eller dagleg leiar for å få den gjeldande koden.
 * **Bruk og orden:**
-  * Alt av klubbens opplærings- og fellesutstyr lagres i klubbhuset.
-  * Alle som benytter lokalet har et personlig ansvar for å rydde, vaske og holde det trivelig.
-  * Sørg for at dører og vinduer er forsvarlig lukket og låst når du forlater lokalet.
+  * Opplærings- og fellesutstyr blir lagra i klubbhuset.
+  * Alle som brukar lokalet, har ansvar for å rydde og vaske etter seg.
+  * Lukk og lås dører og vindauge når du går.
 
 ---
 
-## 🚐 Klubbvognen på Vangen
+## 🚐 Klubbvogna på Vangen
 
-Klubbvognen står plassert ved hovedlandingen på Prestegardslandet ved Vangsvatnet.
+Klubbvogna står ved hovudlandinga på Prestegardslandet ved Vangsvatnet.
 
-* **Funksjon:** Vogna fungerer som fremskutt base for klubben i sesongen. Her lagres blant annet tandemutstyr, betalingsterminaler og førstehjelpsutstyr.
-* **Ekstremsportveko:** Vogna er fullt operativ som infopunkt og tandembooking under festivalen.
-* **Sosial møteplass:** Utenfor vogna er det satt opp to benker og to griller til fri bruk for klubbens medlemmer. Dette er et naturlig samlingssted etter endt flydag, og under grunnkurs samles elever og instruktører ofte her til felles grilling.
-* **Renhold:** Hold området rundt vogna ryddig, kast alt avfall i avfallsdunkene og sørg for at grillene slukkes forsvarlig etter bruk.
+* **Base:** I sesongen blir tandemutstyr, betalingsterminalar og førstehjelpsutstyr lagra her.
+* **Ekstremsportveko:** Vogna fungerer som informasjonspunkt og stad for bestilling av tandemflyging under festivalen.
+* **Møteplass:** Medlemer kan bruke benkene og grillane utanfor vogna. Rydd etter deg, kast avfallet i dunkane og sløkk grillane forsvarleg.
 
 ---
 
 ## 🚤 Klubbåt og redningsbåt
 
-Klubben har en oransje redningsbåt stasjonert på Vangsvatnet for rask bistand ved landing i vannet.
+Klubben har ei oransje redningsbåt på Vangsvatnet for rask hjelp ved landing i vatnet.
 
-* **Beredskap:** Båten ligger fortøyd og er til enhver tid klar til bruk.
-* **Tilgang:** Båten har ikke kodelås, slik at alle kan ta den i bruk umiddelbart ved nødstilfeller eller behov for assistanse.
-* **Viktige sikkerhetsregler ved bruk:**
-  1. **Startes alltid i fri (nøytral).**
-  2. **Dødmannssnor må alltid kobles til fører før avgang.**
-  3. Bruk alltid redningsvest/flytevest under bruk av båten.
+* **Beredskap:** Båten ligg fortøydd og er klar til bruk.
+* **Tilgang:** Båten har ikkje kodelås og kan brukast ved naud eller behov for assistanse.
+* **Trygg bruk:**
+  1. Start alltid motoren i fri (nøytral).
+  2. Fest alltid dødmannssnora til føraren før avgang.
+  3. Bruk redningsvest eller flytevest.
 
 ---
 
 ## 🚗 Klubbil og felles transport
 
-Klubben drifter egen klubbil for transport av piloter fra landingsområdene opp til startstedene rundt Voss og i omlandet.
+Klubben har eigen bil for transport av pilotar frå landingsområda til startstadene rundt Voss og i omlandet.
 
-### Regler for bruk av klubbbilen
-1. **Sjåførfordel:** Sjåføren betaler ikke for turen vedkommende kjører, forutsatt at det er flere enn to personer i bilen.
-2. **Koordinering:** Planlagte turer annonseres i Facebook-gruppen *«Paragliding i Voss og omegn»* og i fellesskapschatten *«PG/SPG Flyging i Voss og omegn»* på Messenger.
-3. **Live sporing:** Sjåføren skal alltid aktivere live-sporing via [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all), slik at piloter i området kan se hvor bilen befinner seg.
-4. **Betaling:** Sjåføren har ansvar for at alle passasjerer gjør opp for seg. Det er ikke anledning til å skylde penger – legg ut for hverandre dersom noen mangler betalingsløsning.
-5. **Drivstoff og renhold:** Bilen skal alltid leveres tilbake med full drivstofftank og rengjort innvendig og utvendig.
-6. **Avviksmelding:** Meld umiddelbart fra til driftsansvarlig eller styret dersom noe på bilen ikke fungerer eller krever vedlikehold.
+### Reglar for bruk av klubbbilen
 
-### Prisliste for transport (per person)
+1. **Sjåførfordel:** Sjåføren betaler ikkje for turen dersom det er fleire enn to personar i bilen.
+2. **Koordinering:** Planlagde turar blir annonserte i Facebook-gruppa *«Paragliding i Voss og omegn»* og i Messenger-gruppa *«PG/SPG Flyging i Voss og omegn»*.
+3. **Sporing:** Sjåføren skal slå på [live-sporing i Volandoo](https://volandoo.com/clubs/voss-hpk/live/all), slik at andre kan sjå kvar bilen er.
+4. **Betaling:** Sjåføren har ansvar for at alle passasjerane betaler. Det er ikkje høve til å stå att med ubetalte turar; legg ut for kvarandre om nokon manglar betalingsløysing.
+5. **Drivstoff og reinhald:** Lever bilen tilbake med full tank og med rein kupé og utside.
+6. **Melding om feil:** Meld frå til driftsansvarleg eller styret dersom noko ikkje fungerer eller bilen treng vedlikehald.
 
-| Destinasjon / startsted | Pris ved 3+ passasjerer | Pris ved 2 passasjerer | Pris ved 1 passasjer (alenetur) |
-|---|---|---|---|
+### Prisar for transport (per person)
+
+| Stad / startstad | 3 eller fleire passasjerar | 2 passasjerar | 1 passasjer (åleine) |
+|---|---:|---:|---:|
 | **Bavallen** | 40 kr | 60 kr per person | 120 kr |
 | **Gjelle** | 30 kr | 45 kr per person | 90 kr |
 | **Rokne** | 50 kr | 75 kr per person | 150 kr |
 | **Bjørnestigen** | 50 kr | 75 kr per person | 150 kr |
 | **Liaset** | 60 kr | 90 kr per person | 180 kr |
 | **Fennastølane** | 60 kr | 90 kr per person | 180 kr |
-| **Aurland** | 100 kr per vei | Minimumspris 500 kr per vei | Minimumspris 500 kr per vei |
+| **Aurland** | 100 kr éin veg | Minstepris 500 kr éin veg | Minstepris 500 kr éin veg |
 
 ### Betaling for transport
+
 * **Vipps:** `101228`
 * **Bankkonto:** `9581.05.18384` (Vekselbanken)
-* **IBAN:** `NO0895810518384` | **SWIFT:** `VVELNO21XXX`
-* *Husk å merke betalingen med ditt fulle navn og «transport»!*
+* **IBAN:** `NO0895810518384` · **SWIFT:** `VVELNO21XXX`
+* Merk betalinga med fullt namn og «transport».
 
 ---
 
-## 🪂 Landingsavgift Aurland
+## 🪂 Landingsavgift i Aurland
 
-For flyging på Høgåsen i Aurland gjelder en lokal landingsavgift som dekker leie og vedlikehold av landingsområdet:
+For flyging på Høgåsen i Aurland gjeld ei lokal landingsavgift som dekkjer leige og vedlikehald av landingsområdet:
 
-* **Enkeltur:** 10 kr per tur (maksimalt 50 kr per dag).
+* **Enkelttur:** 10 kr per tur, maksimalt 50 kr per dag.
 * **Langhelg:** 100 kr.
 * **Årskort:** 300 kr.
 
-### Betaling av landingsavgift Aurland
-* **Vipps:** Søk opp «Voss HPK Flyavgift Aurland».
-* **Bankkonto:** `9581.05.18384`, merket med «Landingsavgift Aurland» og pilotens navn.
+### Betaling av landingsavgift
+
+* **Vipps:** Søk etter «Voss HPK Flyavgift Aurland».
+* **Bankkonto:** `9581.05.18384`. Merk betalinga med «Landingsavgift Aurland» og namnet på piloten.

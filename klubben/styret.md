@@ -1,18 +1,17 @@
-# Styre og utvalg
+# Styre og utval
 
-Styret er klubbens øverste myndighet mellom årsmøtene. Det velges av årsmøtet og har ansvar for klubbens økonomi, drift, strategiske retning og fellesanlegg.
+Styret er klubben sitt øvste organ mellom årsmøta. Årsmøtet vel styret, som har ansvar for økonomi, drift, strategisk retning og fellesanlegg.
 
-Har du saker du ønsker å fremme for styret, forslag eller spørsmål, kan du kontakte styret på:  
-📧 **[styret@vosshpk.no](mailto:styret@vosshpk.no)**
+Send saker, framlegg og spørsmål til styret på [styret@vosshpk.no](mailto:styret@vosshpk.no).
 
 ---
 
 ## Klubbstyret
 
-| Rolle | Navn | Telefon | E-post / merknad |
+| Rolle | Namn | Telefon | E-post / merknad |
 |---|---|---|---|
-| **Styreleder** | Gaute Hvidsten | 473 07 337 | [gaute@vosshpk.no](mailto:gaute@vosshpk.no) |
-| **Nestleder** | Renate Fossmark Pedersen | — | Styremedlem |
+| **Styreleiar** | Gaute Hvidsten | 473 07 337 | [gaute@vosshpk.no](mailto:gaute@vosshpk.no) |
+| **Nestleiar** | Renate Fossmark Pedersen | — | Styremedlem |
 | **Styremedlem** | Jon Ingemar Gjerde | 902 09 813 | Styremedlem |
 | **Styremedlem** | Kristian Backer | — | Styremedlem |
 | **Styremedlem** | Siv Mona Sve Edvardsen | — | Styremedlem |
@@ -21,62 +20,64 @@ Har du saker du ønsker å fremme for styret, forslag eller spørsmål, kan du k
 
 ---
 
-## Administrasjon og daglig drift
+## Administrasjon og dagleg drift
 
-* **Daglig leder / fungerende faglig leder:** Malene Hetle Hole
+* **Dagleg leiar / fungerande fagleg leiar:** Malene Hetle Hole
   * **Telefon:** +47 905 08 620
   * **E-post:** [malene@vosshpk.no](mailto:malene@vosshpk.no)
-  * **Kontor:** Vangsgata 45 (sammen med Ekstremsportveko), hverdager 09.00–16.00.
+  * **Kontor:** Vangsgata 45, saman med Ekstremsportveko. Kvardagar kl. 09.00–16.00.
 
 ---
 
-## Sikkerhetsgruppen
+## Tryggleiksgruppa
 
-Sikkerhetsgruppen i klubben er oppnevnt av faglig leder og har ansvar for at klubbens luftsportsfaglige funksjoner ivaretas i henhold til retningslinjer fra NLF/HPAC.
+Fagleg leiar peikar ut tryggleiksgruppa. Gruppa tek hand om klubben sine luftsportsfaglege oppgåver etter retningslinjene frå NLF/HPAC.
 
-Dersom du ønsker å bli instruktør, tandempilot eller ta tilleggsutdanning, starter prosessen med en henvendelse til sikkerhetsgruppen. Gruppen følger også opp lokale hendelsesrapporter (OBSREG) i samråd med seksjonen.
+Ta kontakt med gruppa om du vil bli instruktør eller tandem-pilot, eller ta vidare opplæring. Gruppa følgjer òg opp lokale hendingar i OBSREG i samråd med seksjonen.
 
-📧 **Kontakt:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
+**Kontakt:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
 
-| Funksjon | Ansvarlig | Kontakt |
+| Funksjon | Ansvarleg | Kontakt |
 |---|---|---|
-| **Faglig leder (midlertidig)** | Malene Hetle Hole | [malene@vosshpk.no](mailto:malene@vosshpk.no) |
-| **Sikkerhetsansvarlig** | Eilif Ullestad Rosnæs | [eilifrosnaes@gmail.com](mailto:eilifrosnaes@gmail.com) |
-| **Utdanningsansvarlig** | Jens Petter Bergtun | [jpb@sfjbb.net](mailto:jpb@sfjbb.net) |
-| **Tandemansvarlig** | Morten Knapstad | Sikkerhetsgruppen |
-| **Medlem** | Lars Haukom | Sikkerhetsgruppen |
+| **Fagleg leiar (mellombels)** | Malene Hetle Hole | [malene@vosshpk.no](mailto:malene@vosshpk.no) |
+| **Tryggleiksansvarleg** | Eilif Ullestad Rosnæs | [eilifrosnaes@gmail.com](mailto:eilifrosnaes@gmail.com) |
+| **Utdanningsansvarleg** | Jens Petter Bergtun | [jpb@sfjbb.net](mailto:jpb@sfjbb.net) |
+| **Tandemansvarleg** | Morten Knapstad | Tryggleiksgruppa |
+| **Medlem** | Lars Haukom | Tryggleiksgruppa |
 
-### Faglige funksjoner under faglig leder
-* Utdanningsansvarlig
-* Sikkerhetsansvarlig
-* Regelverksansvarlig
-* Miljøansvarlig
-* Politiattestansvarlig
+### Faglege funksjonar under fagleg leiar
+
+* Utdanningsansvarleg
+* Tryggleiksansvarleg
+* Regelverksansvarleg
+* Miljøansvarleg
+* Politiattestansvarleg
 
 ---
 
-## Valgkomité
+## Valkomité
 
-Valgkomiteen gjør et viktig arbeid gjennom hele året med å innstille tillitsvalgte til styret og utvalg i forkant av klubbens årsmøte:
+Valkomiteen føreslår kandidatar til styret og utvala før årsmøtet:
 
-* **Leder:** Malin Mannes Iversen (tlf: 916 76 599 / [malin_mannes@hotmail.no](mailto:malin_mannes@hotmail.no))
+* **Leiar:** Malin Mannes Iversen (tlf. 916 76 599 / [malin_mannes@hotmail.no](mailto:malin_mannes@hotmail.no))
 * **Medlem:** Mathias Helgesen ([Mathias.s.helgesen@gmail.com](mailto:Mathias.s.helgesen@gmail.com))
 * **Varamedlem:** Elisabeth Viken ([vikenelisabeth@gmail.com](mailto:vikenelisabeth@gmail.com))
 
 ---
 
-## Kontrollutvalg
+## Kontrollutval
 
-Kontrollutvalget fører tilsyn med at klubbens virksomhet, økonomiforvaltning og rapportering er i tråd med idrettens regelverk og klubbens vedtekter:
+Kontrollutvalet ser til at klubben følgjer idrettsregelverket og vedtektene, og at økonomi og rapportering blir handtert forsvarleg:
 
-* **Leder:** Thor Atle Søvig (tlf: 479 05 911 / [tasovig@outlook.com](mailto:tasovig@outlook.com))
+* **Leiar:** Thor Atle Søvig (tlf. 479 05 911 / [tasovig@outlook.com](mailto:tasovig@outlook.com))
 * **Medlem:** Hilde Pettersen ([hilde.marie.pettersen@gmail.com](mailto:hilde.marie.pettersen@gmail.com))
 * **Varamedlem:** Harald Horvei ([hhorv@online.no](mailto:hhorv@online.no))
 
 ---
 
-## Strategi og styringsdokumenter
+## Strategi og styringsdokument
 
-Klubbens arbeid styres etter:
-* **Styringsdokument 2024–2028:** Oppsummerer klubbens langsiktige strategi og visjon, og fungerer som rettesnor for styrets og administrasjonens prioriteringer.
-* **Programplan:** Årlig handlingsplan med konkrete mål og tiltak som skal gjennomføres inneværende år.
+Klubben arbeider etter desse dokumenta:
+
+* **Styringsdokument 2024–2028:** Strategi for anlegg, medlemsutvikling og sportsleg tilbod.
+* **Programplan:** Årleg handlingsplan med mål og tiltak for driftsåret.

@@ -1,42 +1,41 @@
 # Klubbutstyr og materiell
 
-Voss Hang- og Paragliderklubb disponerer felles opplærings- og klubbmateriell for å støtte kursvirksomhet, arrangementer, tandemflyging og klubbens medlemmer.
+Voss Hang- og Paragliderklubb har felles opplærings- og klubbmateriell til kurs, arrangement, tandemflyging og bruk for medlemer.
 
 ---
 
-## 📍 Lagring og lokasjoner
+## 📍 Lagring og plassering
 
-Klubbens utstyr er fordelt på tre faste baser:
+Klubbutstyret er fordelt på tre basar:
 
 1. **Klubbhuset på Bømoen (Flyplassvegen 135):**
-   * Her lagres alt av klubbens vinger, opplæringsseletøy, nødskjermer, hjelmer, sambandsradioer og kursmateriell.
-   * Dørkoden fås ved henvendelse til daglig leder eller driftsansvarlig.
-   * Alt utstyr skal henge tørt, rengjort og ryddig på sine faste plasser etter bruk.
-
-2. **Klubbvognen ved Prestegardslandet (Vangsvatnet):**
-   * Lagring for operativt materiell: tandemutstyr, nødredningsutstyr, førstehjelpskofferter og mobile betalingsterminaler.
-   * Brukes aktivt som base under kursdager og arrangementer som Ekstremsportveko.
-
+   * Her blir klubben sine vinger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmateriell lagra.
+   * Kontakt dagleg leiar eller driftsansvarleg for dørkode.
+   * Etter bruk skal utstyret vere tørt, reint og lagt på fast plass.
+2. **Klubbvogna ved Prestegardslandet (Vangsvatnet):**
+   * Her blir operativt utstyr lagra, mellom anna tandemutstyr, naudutstyr, førstehjelpsskrin og betalingsterminalar.
+   * Vogna er base under kursdagar og arrangement som Ekstremsportveko.
 3. **Redningsbåten på Vangsvatnet:**
-   * Oransje motorbåt for vannredning ved landing i vannet.
-   * Ulåst for akutt innsats (husk: start i fri, og fest alltid dødmannssnor).
+   * Oransje motorbåt for hjelp ved landing i vatnet.
+   * Båten er ulåst for naudbruk. Start i fri og fest alltid dødmannssnora.
 
 ---
 
-## 📋 Utlån og bruk av klubbutstyr
+## 📋 Utlån og bruk
 
-* **Hvem kan låne:** Elever på godkjente klubbkurs og medlemmer med gyldig NLF-lisens etter forhåndsavtale med faglig leder, utdanningsansvarlig eller daglig leder.
-* **Pre-flight kontroll:** Piloten som låner utstyr har selv det fulle ansvar for å utføre grundig inspeksjon før start:
-  * Duk og sømmer for rifter eller slitasje.
-  * Linelag, risere og mailloner (hurtigkoblinger).
-  * Seletøyets karabinere, spenner og nødskjermsplint.
-* **Meld fra om avvik:** Dersom utstyr utsettes for harde landinger, busklandinger, fukt eller skader, skal dette umiddelbart meldes til utstyrsansvarlig eller [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no). Skadet utstyr skal merkes tydelig og tas ut av drift.
+* **Kven kan låne:** Elevar på godkjende klubbkurs og medlemer med gyldig NLF-lisens, etter avtale med fagleg leiar, utdanningsansvarleg eller dagleg leiar.
+* **Kontroll før flyging:** Piloten som låner utstyret, har ansvar for å kontrollere det grundig før bruk. Sjå etter:
+  * Hol eller slitasje i duk og saum.
+  * Skadar på liner, risarar og maillonar.
+  * Tilstanden til karabinarar, spenner og splint på naudskjermen.
+* **Meld frå om avvik:** Meld straks frå til utstyrsansvarleg eller [tryggleiksgruppa](mailto:sikkerheit@vosshpk.no) om harde landingar, landing i buskar, fukt eller skade. Merk skadd utstyr tydeleg og ta det ut av bruk.
 
 ---
 
-## 🪂 Nødskjerm og felles pakkekvelder
+## 🪂 Naudskjerm og felles pakkekveldar
 
-En nødskjerm er en livsforsikring som krever regelmessig ettersyn og periodisk ompakking:
-* **NLF-krav:** Nødskjermen skal være pakket og kontrollert i henhold til forbundets gjeldende frister og produsentens manual (normalt minst én gang i året).
-* **Klubbens pakkedager:** Voss HPK arrangerer jevnlig felles nødskjermpakkedager (vanligvis på Bømoen eller i idrettshall) før sesongstart om våren og før vintersesongen. Her er godkjente pakkere og instruktører til stede for å veilede og godkjenne pakkingen.
-* **Loggføring:** Dato for ompakking og kontroll skal alltid innføres i loggbok og utstyrsjournal.
+Naudskjermen må kontrollerast og pakkast om med dei intervalla produsenten og gjeldande NLF-reglar krev.
+
+* **Kontroll:** Naudskjermen skal pakkast og kontrollerast i samsvar med gjeldande NLF-fristar og manualen frå produsenten (vanlegvis minst éin gong i året).
+* **Felles pakkedagar:** Voss HPK arrangerer pakkedagar, vanlegvis på Bømoen eller i ein idrettshall, før vår- og vintersesongen. Godkjende pakkarar og instruktørar kan rettleie.
+* **Loggføring:** Før dato for kontroll og ompakking i loggboka og utstyrsjournalen.
