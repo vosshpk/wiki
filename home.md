@@ -17,4 +17,4 @@ Dette wikien inneholder informasjon om flysteder på Voss og i omegn, klubbens s
 ---
 
 > [!NOTE]
-> Denne siden synkroniseres automatisk med klubbens GitHub-lager ([vosshpk/wiki](https://github.com/vosshpk/wiki)). Endringer gjort her blir lagret som Markdown-filer i Git.
+> Sideinnhold synkroniseres periodisk med klubbens GitHub-lager ([vosshpk/wiki](https://github.com/vosshpk/wiki)) når Git Storage er konfigurert. Unngå å redigere samme side i Wiki.js og GitHub samtidig.

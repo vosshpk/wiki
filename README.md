@@ -1,40 +1,45 @@
-# Voss HPK Wiki — Innhold & Git Storage
+# Voss HPK Wiki — Content and Git Storage
 
-Dette repositoriet (`vosshpk/wiki`) inneholder alle Markdown-artikler, guider og filer for **Voss Henge- og Paragliderklubb sin Wiki**.
+This repository (`vosshpk/wiki`) contains the Markdown articles, guides, and files for the **Voss Hang Gliding and Paragliding Club wiki**.
 
-Klubbens wiki kjører på **Wiki.js v2** i Google Cloud (Cloud Run + PostgreSQL 16), og er koblet direkte til dette repositoriet via Wiki.js sin innebygde **Git Storage**-modul.
-
----
-
-## 🔄 Hvordan synkronisering fungerer
-
-1. **Redigering i nettleseren (Wiki.js):**
-   * Når en godkjent bruker redigerer eller oppretter en side i nettleseren, oppretter Wiki.js automatisk en Git-commit og pusher endringen til `main`-branchen i dette repositoriet.
-2. **Redigering direkte i GitHub:**
-   * Du kan også gjøre endringer direkte i GitHub (via Pull Request eller direkte commit).
-   * Wiki.js trekker (puller) regelmessig nye commits fra GitHub og oppdaterer innholdet på nettsiden automatisk.
+The club wiki is planned to run on **Wiki.js v2** in Google Cloud (Cloud Run + PostgreSQL 18). Wiki.js can connect to this repository through its built-in **Git Storage** module.
 
 ---
 
-## 📁 Struktur
+## 🔄 How synchronization works
+
+1. **Editing in Wiki.js:**
+   * Git Storage can push page content to this repository during scheduled synchronization.
+2. **Editing through GitHub:**
+   * Changes can be submitted through pull requests. Wiki.js must be configured to pull from the repository; changes appear at the next scheduled synchronization, not immediately.
+3. **Avoiding conflicting changes:**
+   * Do not edit the same page in Wiki.js and a GitHub pull request at the same time. Git Storage is not a pull-request review workflow, and concurrent changes can cause conflicts.
+
+---
+
+## 📁 Repository structure
 
 ```text
-├── home.md                 # Hovedside / forside i wikien
-├── flysteder/              # Start- og landingssteder, luftrom, vindretninger
+├── home.md                 # Wiki home page
+├── flysteder/              # Launch and landing sites, airspace, wind directions
 │   └── hanguren.md
-├── sikkerhet/              # Nødprosedyrer, førstehjelp, OBSREG
+├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   └── nodprosedyrer.md
-├── klubben/                # Styret, årsmøter, vedtekter, medlemskap
-├── skoling/                # Kurs, progresjon (PP2-PP5), sjekklister
-├── utstyr/                 # Klubbvinger, seler, pakking av nødskjerm
-└── assets/                 # Bilder og vedlegg (opplastet via Wiki.js)
+├── klubben/                # Board, annual meetings, bylaws, membership
+├── skoling/                # Courses, progression (PP2–PP5), checklists
+├── utstyr/                 # Club wings, harnesses, reserve parachute packing
+└── assets/                 # Images and attachments (uploaded through Wiki.js)
 ```
+
+The existing folder names are retained because they are part of the page paths used by the wiki.
 
 ---
 
-## ✍️ Hvordan bidra med innhold
+## ✍️ Contributing content
 
-1. Opprett en branch eller gjør en `fork`.
-2. Skriv eller oppdater artikler i standard Markdown (`.md`).
-3. Send inn en **Pull Request** for vurdering av styret / redaktører.
-4. Når PR-en merges til `main`, oppdateres klubbwikien automatisk!
+1. Create a branch or fork the repository.
+2. Write or update articles in standard Markdown (`.md`).
+3. Submit a **pull request** for review by the board or editors.
+4. After the pull request is merged into `main`, Wiki.js should pick up the change during its next Git Storage synchronization. Check the synchronization status if a change does not appear.
+
+The Git repository contains page content. Wiki.js users, system settings, and uploaded media are stored in PostgreSQL and covered by Cloud SQL backups.
