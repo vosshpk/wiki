@@ -1,7 +1,8 @@
 # Klubbvogna
 
-Klubbvogna står ved hovudlandinga på Prestegardslandet ved Vangsvatnet. Ho er base for tandemutstyr, førstehjelpsutstyr og aktivitet under kurs og arrangement.
+Klubbvogna står ved hovudlandinga på Vangen/Prestegardslandet ved Vangsvatnet. Ho blir brukt til oppbevaring av tandemutstyr, betalingsterminalar og førstehjelpsutstyr, og som base for tandembooking under Ekstremsportveko.
 
-- Rydd etter deg og legg utstyr tilbake på fast plass.
-- Kast avfall i dunkane og sløkk grillane forsvarleg.
+- Benkar og grillar ved vogna er til bruk for medlemmene etter flyging og ved klubbaktivitetar.
+- Hald området ryddig, ta med avfall og sløkk grillane forsvarleg.
+- Legg utstyr tilbake på fast plass.
 - Meld frå om feil, skade eller behov for vedlikehald til dagleg leiar.

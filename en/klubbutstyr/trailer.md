@@ -1,7 +1,8 @@
 # Club Trailer
 
-The trailer is by the main landing area at Prestegardslandet, beside Lake Vangsvatnet. It serves as a base for tandem equipment, first-aid supplies, courses and events.
+The trailer is by the main landing at Vangen/Prestegardslandet, beside Lake Vangsvatnet. It stores tandem equipment, payment terminals and first-aid supplies, and serves as a base for tandem bookings during Ekstremsportveko.
 
-- Clean up and return equipment to its place.
-- Use the bins and extinguish grills safely.
+- Benches and grills beside the trailer are available for members after flying and during club activities.
+- Keep the area tidy, take rubbish with you and extinguish the grills safely.
+- Return equipment to its place.
 - Report faults, damage or maintenance needs to the managing director.

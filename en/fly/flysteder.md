@@ -58,7 +58,7 @@ The training hill by Bømoen is the club's regular practice area for students an
 - The main hill, marked A, is the regular practice area. Areas B, C and D require prior agreement with the landowner, for example during a course.
 - Do not park in farmyards or drive/park on the gravel road. Use the designated parking by the skydiving club and walk to the hill.
 - Take away rubbish, tape, plastic and lines. Leave the site clean.
-- The club stores training equipment and holds theory sessions in the [clubhouse at Bømoen](/klubbutstyr/fasiliteter).
+- The club stores training equipment and holds theory sessions in the [clubhouse at Bømoen](/en/klubbutstyr/clubhouse).
 
 ## Landing Areas on Voss
 
@@ -72,6 +72,10 @@ The training hill by Bømoen is the club's regular practice area for students an
 ## Other Flying Sites
 
 Other club launch sites are listed in the table above. Assess wind direction, experience requirements, access and local restrictions before flying. Also see [local flying safety rules](/en/sikkerhet/flytrygging).
+
+### Høgåsen, Aurland
+
+For flying in Aurland, the club lists a landing fee of **NOK 10 per flight**, up to **NOK 50 per day**. Alternatively, the fee is **NOK 100 for a long weekend** or **NOK 300 for a year**. Pay by Vipps to “Voss HPK Flyavgift Aurland” or to account **9581.05.18384**, using “landingsavgift Aurland” as the reference. See the [club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for current rates and terms.
 
 ## Transport and Weather
 

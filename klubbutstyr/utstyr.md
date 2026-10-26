@@ -4,7 +4,7 @@ Voss HPK har felles opplærings- og klubbmateriell til kurs, arrangement, tandem
 
 ## Lagring
 
-Klubben sine venger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmateriell blir lagra på [klubbhuset på Bømoen](/klubbutstyr/fasiliteter). Operativt tandem- og naudutstyr, førstehjelpsskrin og betalingsterminalar blir oppbevarte i [klubbvogna](/klubbutstyr/tilhenger).
+Klubben sine venger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmateriell blir lagra på [klubbhuset på Bømoen](/klubbutstyr/klubbhus). Operativt tandem- og naudutstyr, førstehjelpsskrin og betalingsterminalar blir oppbevarte i [klubbvogna](/klubbutstyr/tilhenger).
 
 ## Utlån og bruk
 
@@ -16,4 +16,4 @@ Klubben sine venger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmat
 
 Følg intervalla frå produsenten og gjeldande NLF-reglar. Klubben arrangerer pakkedagar før vår- og vintersesongen. Godkjende pakkarar og instruktørar kan rettleie. Før dato for kontroll og ompakking i loggboka og utstyrsjournalen.
 
-> **MÅ AVKLARAST:** Peik ut utstyrsansvarleg og publiser rutinar for årleg inventar, vedlikehald, utlån/retur og rapportering av feil. Sjå òg [utstyrs- og fasilitetsoversikta](/klubbutstyr/fasiliteter).
+> **MÅ AVKLARAST:** Peik ut utstyrsansvarleg og publiser rutinar for årleg inventar, vedlikehald, utlån/retur og rapportering av feil. Sjå òg [klubbutstyr og fasilitetar](/klubbutstyr).

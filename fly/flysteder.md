@@ -58,7 +58,7 @@ Skulebakken ved Bømoen er klubben sin faste treningsbakke for elevar og pilotar
 - Hovudbakken, merkt A, er det faste treningsområdet. Område B, C og D kan berre brukast etter særskild avtale med grunneigar, til dømes i samband med kurs.
 - Ikkje parker på gardstun eller køyr/parker på grusvegen. Bruk merka parkering ved fallskjermklubben og gå til bakken.
 - Ta med søppel, tape, plast og liner. Lat bakken vere rein.
-- Klubben lagrar skuleutstyr og held teorikurs i [klubbhuset på Bømoen](/klubbutstyr/fasiliteter).
+- Klubben lagrar skuleutstyr og held teorikurs i [klubbhuset på Bømoen](/klubbutstyr/klubbhus).
 
 ## Landingsområde på Voss
 
@@ -72,6 +72,10 @@ Skulebakken ved Bømoen er klubben sin faste treningsbakke for elevar og pilotar
 ## Andre flystader
 
 Klubben sine andre startstader står i tabellen ovanfor. Vurder vindretning, ferdigheitsnivå, tilkomst og lokale restriksjonar før du flyg. Sjå òg [lokale reglar for flytryggleik](/sikkerhet/flytrygging).
+
+### Høgåsen, Aurland
+
+For flyging i Aurland oppgir klubben ei landingsavgift på **10 kr per tur**, maksimalt **50 kr per dag**. Alternativt kostar avgifta **100 kr for ei langhelg** eller **300 kr for eit år**. Betal med Vipps til «Voss HPK Flyavgift Aurland» eller til konto **9581.05.18384**, merkt «landingsavgift Aurland». Sjå [fasilitetssida til klubben](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for oppdaterte satsar og vilkår.
 
 ## Transport og vêr
 

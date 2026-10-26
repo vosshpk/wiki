@@ -6,7 +6,7 @@ Voss HPK offers beginner and further training, tandem check-outs and instructor 
 
 ## Training offered
 
-1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubbutstyr/fasiliteter#clubhouse-at-bomoen), ground handling and low training hops at the [training hill](/en/fly/flysteder), followed by radio-guided high flights from [Hangurstoppen](/en/fly/flysteder) to Prestegardslandet.
+1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubbutstyr/clubhouse), ground handling and low training hops at the [training hill](/en/fly/flysteder), followed by radio-guided high flights from [Hangurstoppen](/en/fly/flysteder) to Prestegardslandet.
 2. **Speed-riding beginner course (winter):** Paraglider wing and skis in Myrkdalen and Bavallen, with theory at the clubhouse.
 3. **Tandem training:** For experienced pilots seeking approval to fly with a passenger.
 4. **Instructor training:** For pilots who want to support recruitment and training. Contact the safety committee at [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
