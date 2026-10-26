@@ -18,7 +18,7 @@ Presentasjonen viser denne overordna strukturen:
 - **Dagleg leiar/administrasjon** → medlemsservice, driftsansvar og kurskoordinering, nettside/butikk, fasilitetar, økonomi og arrangement.
 - Kursinstruktørar og tandeminstruktørar støttar aktivitet og opplæring.
 
-Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag. Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/styret).
+Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag. Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/styret/styret).
 
 ## Årshjul i presentasjonen
 

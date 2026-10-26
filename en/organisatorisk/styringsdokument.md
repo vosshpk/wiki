@@ -18,7 +18,7 @@ The presentation shows this high-level structure:
 - **Managing director/administration** → member services, operations and course coordination, website/shop, facilities, finance and events.
 - Course and tandem instructors support activities and training.
 
-This describes a 2024 chart and does not confirm current role holders. See the [organisation plan](/en/organisatorisk/organisasjonsplan) and [board and committees](/en/styret).
+This describes a 2024 chart and does not confirm current role holders. See the [organisation plan](/en/organisatorisk/organisasjonsplan) and [board and committees](/en/styret/styret).
 
 ## Annual cycle shown in the presentation
 

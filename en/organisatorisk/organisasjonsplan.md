@@ -58,7 +58,7 @@ The environment role covers wildlife and nature at flying sites, noise from any 
 
 ## Managing director
 
-The plan describes a permanent managing director role responsible for daily operations, finances and budget follow-up, marketing and membership, courses and instructors, and volunteer coordination. See the [managing director page](/en/dagleg-leiar) for related instructions.
+The plan describes a permanent managing director role responsible for daily operations, finances and budget follow-up, marketing and membership, courses and instructors, and volunteer coordination. See the [managing director page](/en/dagleg-leiar/dagleg-leiar) for related instructions.
 
 ## Review
 

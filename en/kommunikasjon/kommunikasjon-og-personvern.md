@@ -1,6 +1,6 @@
 # Communications and privacy
 
-The club uses its website, wiki, email and social media to communicate with members and others. See the [communications section](/en/kommunikasjon) for plans and responsibilities. Official contact points are listed on the [about the club page](/en/klubben/om-klubben).
+The club uses its website, wiki, email and social media to communicate with members and others. See the [communications section](/en/kommunikasjon/kommunikasjon) for plans and responsibilities. Official contact points are listed on the [about the club page](/en/klubben/om-klubben).
 
 ## Where information is stored
 

@@ -16,4 +16,4 @@ Club wings, training harnesses, reserve parachutes, helmets, radios and course m
 
 Follow the intervals required by the manufacturer and current NLF rules. The club arranges group repacking days before the spring and winter seasons. Approved packers and instructors can provide guidance. Record inspection and repacking dates in the logbook and equipment register.
 
-> **TO RESOLVE:** Assign an equipment owner and publish routines for annual inventory, maintenance, loans/returns and fault reporting. See also the [club equipment and facilities index](/en/klubbutstyr).
+> **TO RESOLVE:** Assign an equipment owner and publish routines for annual inventory, maintenance, loans/returns and fault reporting. See also the [club equipment and facilities index](/en/klubbutstyr/fasiliteter).

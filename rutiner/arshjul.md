@@ -1,6 +1,6 @@
 # Årshjul for rutinar
 
-> **Plasshaldar:** Dette årshjulet skal seie når kvar vedlikehaldsrutine i [rutineseksjonen](/rutiner) skal utførast. Ansvarlege, fristar og dokumentasjonsstad må stadfestast.
+> **Plasshaldar:** Dette årshjulet skal seie når kvar vedlikehaldsrutine i [rutineseksjonen](/rutiner/rutiner) skal utførast. Ansvarlege, fristar og dokumentasjonsstad må stadfestast.
 
 | Tidspunkt | Rutine | Oppgåver | Ansvarleg | Dokumentasjon |
 |---|---|---|---|---|

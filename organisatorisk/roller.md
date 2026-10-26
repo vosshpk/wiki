@@ -54,4 +54,4 @@ Støttar fagleg leiar og tryggleiksgruppa med tryggleiksarbeid, risikovurderinga
 
 Administrasjon og medlemsservice · styresaker og vedtaksoppfølging · medlemsregister og kontingent · nettside og informasjonsflyt · kommunikasjon · økonomi, budsjett og rapportering · søknader, sponsing og avtalar · innkjøp, materiell og fasilitetar · aktivitetskalender og dugnadskoordinering · kurskoordinering · Veko · sosial aktivitet og arrangement · konkurransar · betalingskort og kreditt · personale og frivillige · samarbeid med NLF og andre aktørar · årsrapport.
 
-> **Må stadfestast:** Ansvar for Veko, sosial aktivitet, konkurransar, nettstad, betalingskort/kreditt, sponsing og kommunikasjon må følgje styrevedtak, arbeidsavtale, budsjett og godkjend fullmaktsmatrise. Sjå [dagleg leiar](/dagleg-leiar).
+> **Må stadfestast:** Ansvar for Veko, sosial aktivitet, konkurransar, nettstad, betalingskort/kreditt, sponsing og kommunikasjon må følgje styrevedtak, arbeidsavtale, budsjett og godkjend fullmaktsmatrise. Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar).

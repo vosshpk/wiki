@@ -71,7 +71,7 @@ Planen nemner kurs og instruktørar, teknisk vedlikehald av redningsbåtar, star
 
 ## Dagleg leiar
 
-Planen oppgir fast tilsett dagleg leiar med ansvar for dagleg drift, økonomi og budsjettoppfølging, marknadsføring og medlemsarbeid, kurs og instruktørverksemd og koordinering av dugnad. Sjå [dagleg leiar](/dagleg-leiar) for tilhøyrande instruksar.
+Planen oppgir fast tilsett dagleg leiar med ansvar for dagleg drift, økonomi og budsjettoppfølging, marknadsføring og medlemsarbeid, kurs og instruktørverksemd og koordinering av dugnad. Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar) for tilhøyrande instruksar.
 
 ## Revisjon
 

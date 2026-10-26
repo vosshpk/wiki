@@ -1,6 +1,6 @@
 # Kommunikasjon og personvern
 
-Klubben brukar nettsida, wikien, e-post og sosiale medium for å informere medlemer og andre. Sjå [kommunikasjonsseksjonen](/kommunikasjon) for planar og ansvar. Offisielle kontaktpunkt står på [om klubben-sida](/klubben/om-klubben).
+Klubben brukar nettsida, wikien, e-post og sosiale medium for å informere medlemer og andre. Sjå [kommunikasjonsseksjonen](/kommunikasjon/kommunikasjon) for planar og ansvar. Offisielle kontaktpunkt står på [om klubben-sida](/klubben/om-klubben).
 
 ## Kvar informasjon skal lagrast
 

@@ -27,5 +27,5 @@ The club's governance information includes:
 - [Organisation plan](/en/organisatorisk/organisasjonsplan)
 - [Strategy document 2024–2028](/en/organisatorisk/styringsdokument) (adoption status needs confirmation)
 - [2025 programme plan](/en/organisatorisk/programplan-2025) (historical)
-- [Club information in the wiki](/en/klubben)
+- [Club information in the wiki](/en/klubben/om-klubben)
 - [Official club archive](https://vosshpk.no/om-klubben/arkiv/)

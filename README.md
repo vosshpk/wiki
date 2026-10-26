@@ -21,33 +21,24 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 
 ```text
 ├── home.md                 # Nynorsk home page (base locale: nn)
-├── rutiner.md              # Routines and maintenance section
-├── rutiner/                # Equipment and facility maintenance procedures
-│   ├── arshjul.md          # Annual routine calendar
-│   ├── bat-og-fortoying.md
-│   ├── bil.md
-│   ├── flyutstyr.md
-│   ├── startplassar.md
-│   ├── tilhenger.md
-│   ├── klubbhus.md
-│   └── klubbvogn.md
-├── en/                     # English page translations (locale: en)
-├── fly.md                  # Flying section index
+├── dagleg-leiar/           # Managing director role and procedures
+│   ├── dagleg-leiar.md
+│   ├── stillingsinstruks.md
+│   ├── fullmaktsmatrise.md
+│   └── personalrutinar.md
 ├── fly/                    # Flying sites, visiting-pilot guidance and ROS analyses
 │   ├── flysteder.md        # One consolidated page, including Hanguren and Skulebakken
 │   ├── besokande-pilotar.md
 │   ├── ROS.md              # Index of site risk analyses
 │   └── ROS/                # Markdown analyses for nine flying sites
-├── styret.md               # Board members and board instructions
-├── styret/
-│   ├── styreinstruks.md
-│   └── utval.md
-├── dagleg-leiar.md         # Managing director overview
-├── dagleg-leiar/
-│   ├── stillingsinstruks.md
-│   ├── fullmaktsmatrise.md
-│   └── personalrutinar.md
-├── klubbutstyr.md          # Equipment and facilities index
+├── klubben/                # Club information, membership and activities
+│   ├── om-klubben.md
+│   ├── medlemskap.md
+│   ├── medlemsfordelar.md
+│   ├── aktivitetar.md
+│   ├── frivillig-arbeid.md
+│   ├── forsikring.md
+│   └── overnatting.md
 ├── klubbutstyr/            # Equipment, clubhouse, boat, trailer and car
 │   ├── utstyr.md
 │   ├── fasiliteter.md
@@ -56,7 +47,18 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── tilhenger.md
 │   ├── bil.md
 │   └── opptrekk-landvinsj.md
-├── organisatorisk.md       # Governance documents index
+├── kommunikasjon/          # Communications plans, roles, privacy and incidents
+│   ├── kommunikasjon.md
+│   ├── intern-kommunikasjonsplan.md
+│   ├── ekstern-kommunikasjonsplan.md
+│   ├── ansvar-kommunikasjon-og-myndigheit.md
+│   ├── kommunikasjon-ved-hendingar.md
+│   └── kommunikasjon-og-personvern.md
+├── opplaering/             # Training, progression and course guidance
+│   ├── opplaering.md
+│   ├── progresjon.md
+│   ├── rammer-for-kursing.md
+│   └── rammer-progresjonskurs.md
 ├── organisatorisk/         # AGM, organisation plan, strategy, programme and bylaws
 │   ├── arsmoete.md
 │   ├── organisasjonsplan.md
@@ -64,37 +66,31 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── styringsdokument.md
 │   ├── lov.md
 │   └── roller.md
-├── klubben.md              # Club section index
-├── klubben/                # Club information and governance
-│   ├── om-klubben.md
-│   ├── medlemskap.md
-│   ├── medlemsfordelar.md
-│   ├── aktivitetar.md
-│   ├── frivillig-arbeid.md
-│   ├── forsikring.md
-│   └── overnatting.md
-├── kommunikasjon.md        # Communications section index
-├── kommunikasjon/          # Internal/external plans, roles and incident communications
-│   ├── intern-kommunikasjonsplan.md
-│   ├── ekstern-kommunikasjonsplan.md
-│   ├── ansvar-kommunikasjon-og-myndigheit.md
-│   ├── kommunikasjon-ved-hendingar.md
-│   └── kommunikasjon-og-personvern.md
+├── rutiner/                # Equipment and facility maintenance procedures
+│   ├── rutiner.md
+│   ├── arshjul.md          # Annual routine calendar
+│   ├── bat-og-fortoying.md
+│   ├── bil.md
+│   ├── flyutstyr.md
+│   ├── startplassar.md
+│   ├── tilhenger.md
+│   ├── klubbhus.md
+│   └── klubbvogn.md
+├── styret/                 # Board overview, members, instructions and committees
+│   ├── styret.md
+│   ├── styreinstruks.md
+│   └── utval.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   ├── nodprosedyrer.md
 │   └── tryggleiksgruppe.md
-├── opplaering.md           # Training section index
-├── opplaering/             # Opplæring, progresjon og sjekklister
-│   ├── progresjon.md
-│   ├── rammer-for-kursing.md
-│   └── rammer-progresjonskurs.md
+├── en/                     # English page translations (locale: en)
 ├── assets/
 │   ├── landvinsj-transport.jpg
 │   ├── landvinsj-kontrollboks.jpg
 │   └── ros/                # Map screenshots cropped from the ROS source PDFs
-├── tandem.md               # Member-only section index (configure Wiki.js access)
-└── tandem/
+└── tandem/                 # Member-only content (configure Wiki.js access)
+    ├── tandem.md
     ├── kompensasjon-2026.md # Member-only tandem compensation
     ├── eigenfrasegn.md      # Links to current official NLF print forms
     └── archived 2023/2024 tandem source pages
