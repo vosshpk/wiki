@@ -27,7 +27,7 @@ Flyging over bygder, vegar og folk krev at utstyr er sikra mot å falle ned:
 
 Vestsida av hovudlandinga ved Kulturhuset/Prestegardslandet blir jamleg brukt som landingsplass for Luftambulansen og andre helikopter.
 
-* **Vikeplikt:** Helikopter har alltid prioritet. Hald avstand dersom eit helikopter er i lufta eller landar/take av på Vangen.
+* **Vikeplikt:** Helikopter har alltid prioritet. Hald avstand dersom eit helikopter er i lufta eller landar eller tek av på Vangen.
 * **Alternativ landing:** Avbryt innflyginga mot helikopterområdet og vel ei anna landing:
   * Lenger aust på Prestegardslandet.
   * På sandstranda sør i Vangsvatnet.
@@ -58,5 +58,5 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
 ## 🌬️ Vind og Vangsvatnet
 
 * **Vindskjer og rotor:** Ved austavind kan det bli rotor og kraftig turbulens ved Vangen og Minigolfen. Følg med på krusingane på Vangsvatnet for å vurdere lokal vindstyrke og retning.
-* **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen. Vinden over vatnet kan snu og auke raskt.
+* **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen. Vinden over vatnet kan snu og auke raskt. Sterk vind frå sør viser seg ikkje alltid tydeleg på vatnet, så ikkje bruk krusingane som einaste vindindikator.
 * **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.

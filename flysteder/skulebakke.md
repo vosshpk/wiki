@@ -1,6 +1,6 @@
 # Skulebakken (Bakkatun)
 
-Skulebakken på Bakkatun ved Bømoen er klubben si faste treningsbakke for elevar og pilotar. Her kan ein øve på bakkekontroll, grunnleggande opplæring og låge treningshopp.
+Skulebakken på Bakkatun ved Bømoen er klubben sin faste treningsbakke for elevar og pilotar. Her kan ein øve på bakkekontroll, grunnleggjande opplæring og låge treningshopp.
 
 ---
 
@@ -41,4 +41,4 @@ Ta med søppel, tape, plast og snorer. Lat bakken vere like rein som då du kom.
 
 ## 🏠 Klubbhuset
 
-Skulebakken ligg nær [klubbhuset på Bømoen](/klubben/fasiliteter#klubbhuset-pa-bømoen), Flyplassvegen 135. Der lagrar klubben skuleutstyr og held teorikurs.
+Skulebakken ligg nær [klubbhuset på Bømoen](/klubben/fasiliteter), Flyplassvegen 135. Der lagrar klubben skuleutstyr og held teorikurs.

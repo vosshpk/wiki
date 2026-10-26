@@ -31,11 +31,11 @@ Sørstarten kan vere eit godt utgangspunkt for termikk- og distanseturar ved sø
 * **Plassering og tilkomst:** [Kart over sørstarten](https://maps.app.goo.gl/Fj6ytebL6V3v2AWW9). Ta gondolen til toppen og gå om lag 200 høgdemeter ned sørsida mot Vangen.
 * **Startretning:** Sør (S) til sørvest (SW).
 * **Skildring:** Grasbakke med jamn helling som går over i ein markert kant med småskog nedanfor.
-* **Kompetansenivå:** Eigna for paragliderpilotarar frå **PP2**. Termiske tilhøve krev god kontroll på vingen under start og utflyging.
+* **Kompetansenivå:** Eigna for paragliderpilotar frå **PP2**. Termiske tilhøve krev god kontroll på vingen under start og utflyging.
 * ⚠️ **ÅTVARING:** **Sørstarten er ikkje eigna for speedglider (SPG).**
 * **Vind og vêr:**
   * Aktiv termikkside frå mars–april til september, ofte med termikk frå kl. 13–14. Normal skybase ligg på 1 500–2 000 moh.
-  * **Sønavind:** Vind som kjem rett opp Bordalen frå andre sida av Vangsvatnet, kan bli sterk og turbulent ved sørstarten. Hangflyging på sønnavind er sjeldan trygg.
+  * **Vind frå sør:** Vind som kjem rett opp Bordalen frå andre sida av Vangsvatnet, kan bli sterk og turbulent ved sørstarten. Hangflyging under slike tilhøve er sjeldan trygg.
   * **Solgangsbris:** Frå mai/juni kjem det ofte ein markert solgangsbris frå vest over vatnet om ettermiddagen. Då kan sørstarten bli utilgjengeleg. Rokne eller Liaset kan vere alternativ ved vestavind.
 * **Viktige omsyn:** Gondolkablane går like aust for startområdet. Hald god avstand, særleg ved vestleg vindkomponent, som kan føre deg mot kablane rett etter start.
 
@@ -54,7 +54,7 @@ Aktuelle landingsstader varierer med vind og årstid. Vurder tilhøva på staden
 
 ### 2. Minigolfen
 
-Landingsplass ved rolege tilhøve og svak sønnavind. Det kan bli turbulent ved austavind.
+Landingsplass ved rolege tilhøve og svak vind frå sør. Det kan bli turbulent ved austavind.
 
 ### 3. Ringheim (landingsjordet ved Bavallsvegen)
 

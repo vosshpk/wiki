@@ -71,7 +71,7 @@ Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
 
 1. **Før landing:** Løysne eventuelle beinstroppar eller bryststropp rett før nedslaget dersom situasjonen tillèt det. Ikkje løys dei så tidleg at du kan gli ut av selen i lufta.
 2. **I vatnet:** Kom deg straks fri frå liner og vinge. Sym bort frå duken så du ikkje viklar deg inn.
-3. **Bruk av klubben si redningsbåt:**
+3. **Bruk av redningsbåten til klubben:**
    * Den oransje båten ligg på Vangsvatnet.
    * Båten har ikkje kodelås og kan brukast i ein naudssituasjon.
    * **Trygg bruk:** Start motoren i fri (nøytral), og fest dødmannssnora til føraren før du gir gass.

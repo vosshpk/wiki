@@ -13,6 +13,7 @@ dateCreated: 2026-10-26T04:12:37.147Z
 Styret er klubben sitt øvste organ mellom årsmøta. Årsmøtet vel styret, som har ansvar for økonomi, drift, strategisk retning og fellesanlegg.
 
 Send saker, framlegg og spørsmål til styret på [styret@vosshpk.no](mailto:styret@vosshpk.no).
+Namn og verv kan endre seg. Sjå [den oppdaterte oversikta over styre og utval på klubben si nettside](https://vosshpk.no/om-klubben/styre-og-utval/).
 
 ---
 

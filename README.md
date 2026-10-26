@@ -1,6 +1,6 @@
 # Voss HPK Wiki — Content and Git Storage
 
-This repository (`vosshpk/wiki`) contains the Markdown pages for the **Voss Hang- og Paragliderklubb wiki**. The default-language pages in the repository root are written in Norwegian Nynorsk (`nn`). Wiki.js does not translate page content automatically: English page translations must be added separately under `en/` using the same paths.
+This repository (`vosshpk/wiki`) contains the Markdown pages for the **Voss Hang- og Paragliderklubb wiki**. The default-language pages in the repository root are written in Norwegian Nynorsk (`nn`); English translations are stored under `en/` with matching paths. Wiki.js does not translate page content automatically.
 
 The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with PostgreSQL 18. Wiki.js connects to this repository through its built-in **Git Storage** module.
 
@@ -21,17 +21,19 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 
 ```text
 ├── home.md                 # Nynorsk home page (base locale: nn)
-├── en/                     # English page translations (locale: en; currently to be added)
+├── en/                     # English page translations (locale: en)
 ├── klubben/                # Club information and governance
 │   ├── om-klubben.md
 │   ├── fasiliteter.md
 │   ├── medlemskap.md
 │   ├── styret.md
-│   └── arsmoete.md
+│   ├── arsmoete.md
+│   └── overnatting.md
 ├── flysteder/              # Launch and landing sites, airspace, wind directions
 │   ├── flysteder.md
 │   ├── hanguren.md
-│   └── skulebakke.md
+│   ├── skulebakke.md
+│   └── besokande-pilotar.md # Guidance for visiting pilots
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   └── nodprosedyrer.md

@@ -21,19 +21,19 @@ For å ha røysterett og vere valbar til tillitsverv på årsmøtet må eit medl
 
 ---
 
-## Sakspapirer og referatarkiv
+## Sakspapir og referatarkiv
 
 Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv:
 📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/)
 
-| År | Dokumenter | Merknad |
+| År | Dokument | Merknad |
 |---|---|---|
-| **2024** | Innkalling, årsmelding, regnskap og protokoll | Godkjent på årsmøtet |
-| **2023** | Årsmelding, regnskap og protokoll | Godkjent på årsmøtet |
+| **2024** | Innkalling, årsmelding, rekneskap og protokoll | Godkjent på årsmøtet |
+| **2023** | Årsmelding, rekneskap og protokoll | Godkjent på årsmøtet |
 
 ---
 
-## Klubbens vedtekter og styring
+## Klubben sine vedtekter og styring
 
 Klubben følgjer desse styringsdokumenta:
 * **NLF / NIFs lovnorm for idrettslag**

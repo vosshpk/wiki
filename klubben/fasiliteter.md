@@ -1,12 +1,12 @@
 # Fasilitetar, klubbhus og transport
 
-Voss Hang- og Paragliderklubb har felles fasilitetar for medlemer, elevar og gjestepilotar. Vis omsyn til grunneigarar, nærmiljøet og kvarandre når du brukar dei.
+Voss Hang- og Paragliderklubb har felles fasilitetar for medlemer, elevar og gjestepilotar. Vis omsyn til grunneigarane, nærmiljøet og kvarandre når du brukar dei. Sjå òg [klubben si offisielle fasilitetsside](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for oppdateringar.
 
 ---
 
 ## 🌾 Skulebakken (Bakkatun)
 
-Skulebakken er klubben si treningsbakke for bakkekontroll og eigentrening utanom kurs.
+Skulebakken er klubben sin treningsbakke for bakkekontroll og eigentrening utanom kurs.
 
 ### Reglar for bruk
 
@@ -39,16 +39,16 @@ Klubbvogna står ved hovudlandinga på Prestegardslandet ved Vangsvatnet.
 
 * **Base:** I sesongen blir tandemutstyr, betalingsterminalar og førstehjelpsutstyr lagra her.
 * **Ekstremsportveko:** Vogna fungerer som informasjonspunkt og stad for bestilling av tandemflyging under festivalen.
-* **Møteplass:** Medlemer kan bruke benkene og grillane utanfor vogna. Rydd etter deg, kast avfallet i dunkane og sløkk grillane forsvarleg.
+* **Møteplass:** Medlemer kan bruke benkane og grillane utanfor vogna. Rydd etter deg, kast avfallet i dunkane og sløkk grillane forsvarleg.
 
 ---
 
-## 🚤 Klubbåt og redningsbåt
+## 🚤 Redningsbåt
 
-Klubben har ei oransje redningsbåt på Vangsvatnet for rask hjelp ved landing i vatnet.
+Klubben har ein oransje redningsbåt på Vangsvatnet for rask hjelp ved landing i vatnet.
 
-* **Beredskap:** Båten ligg fortøydd og er klar til bruk.
-* **Tilgang:** Båten har ikkje kodelås og kan brukast ved naud eller behov for assistanse.
+* **Beredskap:** Båten ligg fortøyd og er klar til bruk.
+* **Tilgang:** Båten har ikkje kodelås og er tilgjengeleg ved naud eller behov for assistanse.
 * **Trygg bruk:**
   1. Start alltid motoren i fri (nøytral).
   2. Fest alltid dødmannssnora til føraren før avgang.
@@ -56,11 +56,11 @@ Klubben har ei oransje redningsbåt på Vangsvatnet for rask hjelp ved landing i
 
 ---
 
-## 🚗 Klubbil og felles transport
+## 🚗 Transport med klubben sin bil
 
 Klubben har eigen bil for transport av pilotar frå landingsområda til startstadene rundt Voss og i omlandet.
 
-### Reglar for bruk av klubbbilen
+### Reglar for bruk av bilen
 
 1. **Sjåførfordel:** Sjåføren betaler ikkje for turen dersom det er fleire enn to personar i bilen.
 2. **Koordinering:** Planlagde turar blir annonserte i Facebook-gruppa *«Paragliding i Voss og omegn»* og i Messenger-gruppa *«PG/SPG Flyging i Voss og omegn»*.
@@ -70,6 +70,8 @@ Klubben har eigen bil for transport av pilotar frå landingsområda til startsta
 6. **Melding om feil:** Meld frå til driftsansvarleg eller styret dersom noko ikkje fungerer eller bilen treng vedlikehald.
 
 ### Prisar for transport (per person)
+
+Prisane nedanfor er publiserte av klubben og kan bli endra. Sjå [den offisielle sida om fasilitetar](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for gjeldande satsar og betalingsinformasjon.
 
 | Stad / startstad | 3 eller fleire passasjerar | 2 passasjerar | 1 passasjer (åleine) |
 |---|---:|---:|---:|
