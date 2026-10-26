@@ -2,7 +2,7 @@
 
 Tryggleik kjem først i Voss Hang- og Paragliderklubb. Pilotar skal kjenne naudnummer, lokale varslingsrutinar og handlingsplanar før dei flyg.
 
-Les òg den [separate handlingsplanen ved hang-, para- eller speedgliderulukke](/sikkerhet/handlingsplan-ved-ulykke) og [opptrekksprosedyrane for landvinsj](/flysteder/opptrekk-landvinsj).
+Les òg den [separate handlingsplanen ved hang-, para- eller speedgliderulukke](/sikkerhet/handlingsplan-ved-ulykke), [opptrekksprosedyrane for landvinsj](/klubbutstyr/opptrekk-landvinsj) og informasjonen om [klubbåten](/klubbutstyr/bat).
 
 ---
 

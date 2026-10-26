@@ -19,12 +19,12 @@ Voss Gondol og startstadene på Hangurstoppen er eit midtpunkt for flyaktivitete
 
 ## Organisering og leiing
 
-Årsmøtet er klubben sitt øvste organ og vel styret. Den daglege og faglege drifta blir teken hand om av tilsett leiing i samarbeid med utvala:
+Årsmøtet er klubben sitt øvste organ og vel styret. Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utvala:
 
-* **Dagleg leiar / fungerande fagleg leiar:** Malene Hetle Hole ([malene@vosshpk.no](mailto:malene@vosshpk.no) / tlf. 905 08 620).
-* **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga. Sjå [styre og utval](/klubben/styret).
-* **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar.
-* **Fasilitetar og drift:** Sjå [fasilitetar og transport](/klubben/fasiliteter) for informasjon om klubbhuset på Bømoen, skulebakken på Bakkatun, klubbvogna på Vangen, redningsbåten og bilen til klubben.
+* **Dagleg leiar / fungerande fagleg leiar:** Sjå [dagleg leiar](/dagleg-leiar) for kontakt og instruksar.
+* **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga. Sjå [styret](/styret).
+* **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar. Sjå [tryggleiksgruppa](/sikkerhet/tryggleiksgruppe).
+* **Utstyr og fasilitetar:** Sjå [klubbutstyr og fasilitetar](/klubbutstyr) for klubbhuset, klubbvogna, redningsbåten og klubbilen. Skulebakken er omtala under [flystader](/fly/flysteder).
 
 ---
 

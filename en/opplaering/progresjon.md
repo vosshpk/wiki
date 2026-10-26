@@ -4,7 +4,7 @@ Voss HPK offers beginner and further training, tandem check-outs and instructor 
 
 ## Training offered
 
-1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubben/fasiliteter#clubhouse-at-bomoen), ground handling and low training hops at the [training hill](/en/flysteder/skulebakke), followed by radio-guided high flights from [Hangurstoppen](/en/flysteder/hanguren) to Prestegardslandet.
+1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubbutstyr/fasiliteter#clubhouse-at-bomoen), ground handling and low training hops at the [training hill](/en/fly/flysteder), followed by radio-guided high flights from [Hangurstoppen](/en/fly/flysteder) to Prestegardslandet.
 2. **Speed-riding beginner course (winter):** Paraglider wing and skis in Myrkdalen and Bavallen, with theory at the clubhouse.
 3. **Tandem training:** For experienced pilots seeking approval to fly with a passenger.
 4. **Instructor training:** For pilots who want to support recruitment and training. Contact the safety committee at [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
@@ -24,8 +24,8 @@ This is a brief local guide, not a substitute for current NLF requirements or an
 
 ## After the beginner course
 
-- Join club evenings at the [club trailer in Vangen](/en/klubben/fasiliteter#club-trailer-at-vangen) and fly with experienced pilots.
-- Practise wing control and launch technique at the [training hill](/en/flysteder/skulebakke) when it is open.
+- Join club evenings at the [club trailer in Vangen](/en/klubbutstyr/trailer) and fly with experienced pilots.
+- Practise wing control and launch technique at the [training hill](/en/fly/flysteder) when it is open.
 - Ask an experienced pilot or instructor about launch conditions, wind and airspace before setting up if uncertain.
 
 ## Training contacts

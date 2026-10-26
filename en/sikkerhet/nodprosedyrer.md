@@ -2,7 +2,7 @@
 
 Safety comes first at Voss HPK. Pilots should know emergency numbers, local notification procedures and response plans before flying.
 
-See the [separate hang-, para- or speedglider accident response plan](/en/sikkerhet/handlingsplan-ved-ulykke) and the [winch towing procedures](/en/flysteder/opptrekk-landvinsj).
+See the [separate hang-, para- or speedglider accident response plan](/en/sikkerhet/handlingsplan-ved-ulykke), the [winch towing procedures](/en/klubbutstyr/opptrekk-landvinsj), and information about the [club boat](/en/klubbutstyr/boat).
 
 ## Emergency and important phone numbers
 

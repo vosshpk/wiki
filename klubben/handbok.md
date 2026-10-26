@@ -2,30 +2,25 @@
 
 Denne handboka samlar praktisk informasjon, organisering og rutinar for Voss Hang- og Paragliderklubb. Ho er meint for medlemer, tillitsvalde, tilsette, instruktørar og frivillige.
 
-## Om klubben
+## Organisering
 
 - [Om Voss HPK](/klubben/om-klubben)
-- [Styringsdokument 2024–2028](/klubben/styringsdokument)
-- [Organisasjonsplan](/klubben/organisasjonsplan)
-- [Årsmøte](/klubben/arsmoete)
-- [Vedtekter](/klubben/vedtekter)
-- [Styre og utval](/klubben/styret)
-- [Samla styreinstruks – utkast til handsaming](/klubben/styreinstruks)
+- [Styre og styreinstruks](/styret)
+- [Dagleg leiar](/dagleg-leiar)
 
 ## Medlemskap og aktivitet
 
 - [Medlemskap](/klubben/medlemskap)
 - [Kurs og progresjon](/opplaering/progresjon)
-- [Flystader](/flysteder/flysteder)
+- [Flystader](/fly/flysteder)
 - [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer)
-- [Fasilitetar og utstyr](/klubben/fasiliteter)
+- [Klubbutstyr og fasilitetar](/klubbutstyr)
+- [Besøksinformasjon for pilotar](/fly/besokande-pilotar)
 
 ## Dagleg drift
 
-- [Dagleg leiar](/klubben/dagleg-leiar)
-- [Stillingsinstruks for dagleg leiar](/klubben/dagleg-leiar/stillingsinstruks)
-- [Fullmaktsmatrise for dagleg leiar](/klubben/dagleg-leiar/fullmaktsmatrise)
-- [Programplan 2025 – historisk dokument](/klubben/programplan-2025)
+- [Stillingsinstruks for dagleg leiar](/dagleg-leiar/stillingsinstruks)
+- [Fullmaktsmatrise for dagleg leiar](/dagleg-leiar/fullmaktsmatrise)
 
 ## Tema som treng eigne, oppdaterte rutinar
 

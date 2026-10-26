@@ -9,9 +9,9 @@ Kursdatoar, prisar, påmelding og opptakskrav kan endre seg. Sjå den [oppdatert
 ## 🎓 Opplæringstilbod
 
 1. **Grunnkurs i paragliding (vår, sommar og haust):**
-   * Teori og pakking på [klubbhuset på Bømoen](/klubben/fasiliteter).
-   * Bakketrening, starttrening og låge hopp i [Skulebakken på Bakkatun](/flysteder/skulebakke).
-   * Høgdeturar med radiorettleiing frå [Hangurstoppen](/flysteder/hanguren) til Prestegardslandet.
+   * Teori og pakking på [klubbhuset på Bømoen](/klubbutstyr/fasiliteter).
+   * Bakketrening, starttrening og låge hopp i [Skulebakken på Bakkatun](/fly/flysteder).
+   * Høgdeturar med radiorettleiing frå [Hangurstoppen](/fly/flysteder) til Prestegardslandet.
 2. **Grunnkurs i speedriding (om vinteren):**
    * Kombinasjon av paraglidervinge og ski i Myrkdalen og Bavallen.
    * Teori og samlingsstad på klubbhuset på Bømoen.
@@ -37,8 +37,8 @@ Informasjonen i tabellen er ei kort lokal oversikt, ikkje ei erstatning for dei 
 
 ## 🎒 Etter grunnkurset
 
-* **Fadderordning og fellesflyging:** Delta på klubbkveldar ved [klubbvogna på Vangen](/klubben/fasiliteter), og bli med erfarne pilotar på tur.
-* **Bakkekontroll:** Bruk [Skulebakken](/flysteder/skulebakke) til å øve på vingekontroll og startteknikk når bakken er open.
+* **Fadderordning og fellesflyging:** Delta på klubbkveldar ved [klubbvogna på Vangen](/klubbutstyr/fasiliteter), og bli med erfarne pilotar på tur.
+* **Bakkekontroll:** Bruk [Skulebakken](/fly/flysteder) til å øve på vingekontroll og startteknikk når bakken er open.
 * **Be om råd:** Er du usikker på starttilhøve, vind eller luftrom, spør ein erfaren pilot eller instruktør før du riggar opp.
 
 ---

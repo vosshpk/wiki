@@ -2,30 +2,25 @@
 
 This handbook brings together practical information, governance and routines for Voss Hang- og Paragliderklubb. It is intended for members, elected officers, employees, instructors and volunteers.
 
-## About the club
+## Governance
 
 - [About Voss HPK](/en/klubben/om-klubben)
-- [Strategy document 2024–2028](/en/klubben/styringsdokument)
-- [Organisation plan](/en/klubben/organisasjonsplan)
-- [Annual general meeting](/en/klubben/arsmoete)
-- [Bylaws](/en/klubben/vedtekter)
-- [Board and committees](/en/klubben/styret)
-- [Consolidated board instructions — draft for review](/en/klubben/styreinstruks)
+- [Board and board instructions](/en/styret)
+- [Managing director](/en/dagleg-leiar)
 
 ## Membership and activities
 
 - [Membership](/en/klubben/medlemskap)
 - [Training and progression](/en/opplaering/progresjon)
-- [Flying sites](/en/flysteder/flysteder)
+- [Flying sites](/en/fly/flysteder)
 - [Safety and emergency procedures](/en/sikkerhet/nodprosedyrer)
-- [Facilities and equipment](/en/klubben/fasiliteter)
+- [Club equipment and facilities](/en/klubbutstyr)
+- [Guide for visiting pilots](/en/fly/besokande-pilotar)
 
 ## Daily operations
 
-- [Managing director](/en/klubben/dagleg-leiar)
-- [Managing director job description](/en/klubben/dagleg-leiar/stillingsinstruks)
-- [Managing director delegation matrix](/en/klubben/dagleg-leiar/fullmaktsmatrise)
-- [2025 programme plan — historical](/en/klubben/programplan-2025)
+- [Managing director job description](/en/dagleg-leiar/stillingsinstruks)
+- [Managing director delegation matrix](/en/dagleg-leiar/fullmaktsmatrise)
 
 ## Topics needing current procedures
 

@@ -22,32 +22,44 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ```text
 ├── home.md                 # Nynorsk home page (base locale: nn)
 ├── en/                     # English page translations (locale: en)
+├── fly.md                  # Flying section index
+├── fly/                    # Flying sites and visiting-pilot guidance
+│   ├── flysteder.md        # One consolidated page, including Hanguren and Skulebakken
+│   └── besokande-pilotar.md
+├── styret.md               # Board members and board instructions
+├── styret/
+│   └── styreinstruks.md
+├── dagleg-leiar.md         # Managing director overview
+├── dagleg-leiar/
+│   ├── stillingsinstruks.md
+│   └── fullmaktsmatrise.md
+├── klubbutstyr.md          # Equipment and facilities index
+├── klubbutstyr/            # Equipment, clubhouse, boat, trailer and car
+│   ├── utstyr.md
+│   ├── fasiliteter.md
+│   ├── bat.md
+│   ├── tilhenger.md
+│   ├── bil.md
+│   └── opptrekk-landvinsj.md
+├── organisatorisk.md       # Governance documents index
+├── organisatorisk/         # AGM, organisation plan, strategy, programme and bylaws
+│   ├── arsmoete.md
+│   ├── organisasjonsplan.md
+│   ├── programplan-2025.md
+│   ├── styringsdokument.md
+│   ├── vedtekter.md
+│   └── utval.md
 ├── klubben/                # Club information and governance
 │   ├── handbok.md          # Handbook index and outstanding topics
 │   ├── om-klubben.md
-│   ├── fasiliteter.md
 │   ├── medlemskap.md
-│   ├── styret.md
-│   ├── arsmoete.md
-│   ├── overnatting.md
-│   ├── organisasjonsplan.md
-│   ├── styreinstruks.md    # Consolidated draft
-│   ├── styringsdokument.md # Text version of 2024–2028 presentation
-│   ├── programplan-2025.md # Historical plan
-│   ├── dagleg-leiar.md
-│   └── dagleg-leiar/       # Job description and delegation matrix
-├── flysteder/              # Launch and landing sites, airspace, wind directions
-│   ├── flysteder.md
-│   ├── hanguren.md
-│   ├── skulebakke.md
-│   └── besokande-pilotar.md # Guidance for visiting pilots
+│   └── overnatting.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
-│   └── nodprosedyrer.md
+│   ├── nodprosedyrer.md
+│   └── tryggleiksgruppe.md
 ├── opplaering/             # Opplæring, progresjon og sjekklister
 │   └── progresjon.md
-├── utstyr/                 # Club equipment and maintenance
-│   └── klubbutstyr.md
 └── assets/
     ├── landvinsj-transport.jpg
     └── landvinsj-kontrollboks.jpg
