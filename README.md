@@ -48,7 +48,6 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── bil.md
 │   └── opptrekk-landvinsj.md
 ├── kommunikasjon/          # Communications plans, roles, privacy and incidents
-│   ├── kommunikasjon.md
 │   ├── intern-kommunikasjonsplan.md
 │   ├── ekstern-kommunikasjonsplan.md
 │   ├── ansvar-kommunikasjon-og-myndigheit.md

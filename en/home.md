@@ -18,7 +18,7 @@ Read the [local flying rules](/en/sikkerhet/flytrygging), and keep the [emergenc
 
 ### 🏠 The club and membership
 
-Find [club information](/en/klubben/om-klubben), [membership](/en/klubben/medlemskap) and [member benefits](/en/klubben/medlemsfordelar), the [communications plans](/en/kommunikasjon/kommunikasjon), [club equipment and facilities](/en/klubbutstyr/fasiliteter), [routines and maintenance](/en/rutiner/rutiner), the [board](/en/styret/styret), the [managing director](/en/dagleg-leiar/dagleg-leiar), and [governance documents](/en/organisatorisk/organisasjonsplan).
+Find [club information](/en/klubben/om-klubben), [membership](/en/klubben/medlemskap) and [member benefits](/en/klubben/medlemsfordelar), the [internal communications plan](/en/kommunikasjon/intern-kommunikasjonsplan), [club equipment and facilities](/en/klubbutstyr/fasiliteter), [routines and maintenance](/en/rutiner/rutiner), the [board](/en/styret/styret), the [managing director](/en/dagleg-leiar/dagleg-leiar), and [governance documents](/en/organisatorisk/organisasjonsplan).
 
 ## Before you fly
 
