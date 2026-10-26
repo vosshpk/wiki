@@ -1,0 +1,19 @@
+# Risk assessment: Liaset
+
+| Field | Information |
+|---|---|
+| Club | Voss Hang- og Paragliderklubb |
+| Site | Liaset |
+| Prepared by | Malene Hetle Hole |
+| Date in source | 03.09.2026 |
+
+| No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
+|---:|---|---|---|---|---:|---:|---:|
+| 1 | Aborted launch: slip/trip | Front/asymmetric collapse may result from poor wing control, no “point of no return”, poor run-up line/distance, weather or pilot skill. Typical in crosswind, light wind or rotor. | Fall and muscle/joint injury, typically cuts, impact injury or sprain. | Progression course focused on launch technique and wing control. Practise wing control throughout a flying career. | 2 | 1 | 2 |
+| 2 | Sink or collapse after launch | Lee-side turbulence in crosswind, sea breeze, thermic sink or evening cold-air drainage. Common late in the day when conditions are good. Sink may also occur if the pilot sits down abruptly before full airspeed. | Near miss with little terrain clearance, or emergency landing injuring pilot/wing. Possible compression fracture from sitting abruptly in the harness. | Assess local conditions and terrain. Avoid launching in suboptimal wind directions. | 2 | 2 | 2 |
+| 3 | Tree snag/landing – tall spruce below takeoff | Misjudged weather/conditions, insufficient margin after “point of no return”, or low speed due to inadequate running, wind or braked takeoff. | Fall and muscle/joint injury, cuts, impact, back or suspension injury. | Remove trees and bushes. | 2 | 2 | 2 |
+| 4 | Emergency landing | Equipment fault such as cravat/tension knot, altitude loss during manoeuvre or inadequate assessment/change in weather. | Secondary injury from a poor landing. | Map alternative landing sites and clarify decision altitude. | 1 | 2 | 2 |
+| 5 | Flying in strong wind/rain | Strong desire to fly and time/logistics invested may obscure the weather picture. Convergence, wave conditions or fronts may change rapidly. | Collapse/sink, discomfort or danger. | Use weather stations and local information; post signs at launch. Forecast/measurement differences or forecasts of changing weather indicate unpredictability. | 1 | 2 | 2 |
+| 6 | Injury during top landing | Misjudged conditions, wind, terrain or skill. | Minor to serious injury, commonly ankle or compression fracture; possible third-party/property damage. | Plan the flight, account for fitness and keep room to abort the approach. Practise top landing at suitable sites. | 1 | 2 | 2 |
+| 7 | Power lines and other cables | Poor mapping/flight planning may reduce obstacle clearance. Misjudged weather or fixation on another event may reduce awareness. | Serious pilot injury and possible third-party property damage. | Establish a safety zone and information map. | 1 | 3 | 2 |
+| 8 | Canopy collision (ridge/thermal and PG/SPG approach) | Conflict near takeoff or ridge/thermal; poor communication/five-point check or loss of awareness in flight. | Serious injury to two people. | Plan flights, follow right-of-way rules and account for fitness. | 1 | 3 | 2 |

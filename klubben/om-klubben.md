@@ -22,7 +22,7 @@ Voss Gondol og startstadene på Hangurstoppen er eit midtpunkt for flyaktivitete
 Årsmøtet er klubben sitt øvste organ og vel styret. Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utvala:
 
 * **Dagleg leiar / fungerande fagleg leiar:** Sjå [dagleg leiar](/dagleg-leiar) for kontakt og instruksar.
-* **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga. Sjå [styret](/styret).
+* **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga. Sjå [styret og utvala](/styret).
 * **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar. Sjå [tryggleiksgruppa](/sikkerhet/tryggleiksgruppe).
 * **Utstyr og fasilitetar:** Sjå [klubbutstyr og fasilitetar](/klubbutstyr) for klubbhuset, klubbvogna, redningsbåten og klubbilen. Skulebakken er omtala under [flystader](/fly/flysteder).
 

@@ -18,8 +18,8 @@ The board leads the club between annual general meetings and has overall respons
 
 See the [consolidated board instructions](/en/styret/styreinstruks). They are a draft and must be adopted by the board before being treated as current policy.
 
-## Related roles and committees
+## Committees
 
 - The [organisation plan](/en/organisatorisk/organisasjonsplan) describes responsibilities and structure.
-- [Election and audit committees](/en/organisatorisk/utval)
+- [Election and audit committees](/en/styret/utval)
 - [Safety group](/en/sikkerhet/tryggleiksgruppe)

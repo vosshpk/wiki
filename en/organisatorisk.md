@@ -7,4 +7,3 @@ Find the club's formal governance documents and information about the annual gen
 - [2025 programme plan](/en/organisatorisk/programplan-2025) (historical)
 - [Strategy document 2024–2028](/en/organisatorisk/styringsdokument) (adoption status needs confirmation)
 - [Bylaws](/en/organisatorisk/vedtekter)
-- [Election and audit committees](/en/organisatorisk/utval)

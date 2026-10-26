@@ -1,6 +1,6 @@
-# Membership and benefits
+# Membership
 
-Membership of Voss HPK connects you with the club and may provide access to shared facilities, transport arrangements and partner discounts.
+Membership of Voss HPK connects you with the club and may provide access to shared facilities and transport arrangements. See the separate page about [member benefits](/en/klubben/medlemsfordelar).
 
 ## Join the club
 
@@ -8,10 +8,6 @@ Membership of Voss HPK connects you with the club and may provide access to shar
 - **Join online:** [Register through MinIdrett](https://medlemskap.nif.no/Start/Index/25357).
 - **Membership card:** Find the digital card in your MinIdrett profile or app. Some partner discounts require it.
 - **Licence and insurance:** Independent flying also requires a valid licence and insurance through the [Norwegian Air Sports Federation (NLF)](https://nlf.no).
-
-## Member benefits and discounts
-
-Show a valid membership card or provide the applicable discount code. Offers, terms and prices change, so check the [club’s current member-benefits page](https://vosshpk.no/om-klubben/bli-medlem/) before booking or buying. The NLF also publishes [member benefits and partner offers](https://nlf.no/om-nlf/medlemsfordeler-og-partnere/).
 
 ## Membership and flying safety
 

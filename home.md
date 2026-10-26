@@ -18,7 +18,7 @@ Les [lokale flygereglar](/sikkerhet/flytrygging), og ha [naudprosedyrane](/sikke
 
 ### 🏠 Klubben og medlemskap
 
-Finn [klubbhandboka](/klubben/handbok), informasjon om [medlemskap](/klubben/medlemskap), [klubbutstyr og fasilitetar](/klubbutstyr), [styret](/styret), [dagleg leiar](/dagleg-leiar) og [organisatoriske dokument](/organisatorisk).
+Finn [klubbhandboka](/klubben/handbok), informasjon om [medlemskap](/klubben/medlemskap) og [medlemsfordelar](/klubben/medlemsfordelar), [klubbutstyr og fasilitetar](/klubbutstyr), [styret](/styret), [dagleg leiar](/dagleg-leiar) og [organisatoriske dokument](/organisatorisk).
 
 ## Før du flyg
 

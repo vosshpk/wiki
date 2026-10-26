@@ -18,8 +18,8 @@ Styret leier klubben mellom årsmøta og har overordna ansvar for drift, økonom
 
 Sjå [samla styreinstruks](/styret/styreinstruks). Han er eit konsolidert utkast og må vedtakast av styret før han kan reknast som gjeldande.
 
-## Andre roller og utval
+## Utval
 
 - [Organisasjonsplan](/organisatorisk/organisasjonsplan) skildrar ansvar og organisering.
-- [Valkomité og kontrollutval](/organisatorisk/utval)
+- [Valkomité og kontrollutval](/styret/utval)
 - [Tryggleiksgruppa](/sikkerhet/tryggleiksgruppe)

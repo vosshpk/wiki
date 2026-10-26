@@ -11,6 +11,7 @@ This handbook brings together practical information, governance and routines for
 ## Membership and activities
 
 - [Membership](/en/klubben/medlemskap)
+- [Member benefits](/en/klubben/medlemsfordelar)
 - [Training and progression](/en/opplaering/progresjon)
 - [Flying sites](/en/fly/flysteder)
 - [Safety and emergency procedures](/en/sikkerhet/nodprosedyrer)

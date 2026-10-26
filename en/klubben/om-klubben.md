@@ -18,7 +18,7 @@ Voss Gondola and the launch sites on Hangurstoppen are central to flying activit
 The annual meeting is the club’s highest authority and elects the board. Day-to-day and sporting operations are handled by the club’s management and committees.
 
 - **Managing director / acting technical lead:** See [managing director](/en/dagleg-leiar) for contact details and instructions.
-- **Board:** Responsible for strategic and financial development. See the [board](/en/styret).
+- **Board:** Responsible for strategic and financial development. See the [board and committees](/en/styret).
 - **Safety group:** Works with training, safety, rules, environmental matters and police certificates. See the [safety group page](/en/sikkerhet/tryggleiksgruppe).
 - **Equipment and facilities:** See [club equipment and facilities](/en/klubbutstyr) for the clubhouse, trailer, rescue boat and club car. The training hill is included in the [flying-sites page](/en/fly/flysteder).
 

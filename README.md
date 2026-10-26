@@ -23,12 +23,15 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ├── home.md                 # Nynorsk home page (base locale: nn)
 ├── en/                     # English page translations (locale: en)
 ├── fly.md                  # Flying section index
-├── fly/                    # Flying sites and visiting-pilot guidance
+├── fly/                    # Flying sites, visiting-pilot guidance and ROS analyses
 │   ├── flysteder.md        # One consolidated page, including Hanguren and Skulebakken
-│   └── besokande-pilotar.md
+│   ├── besokande-pilotar.md
+│   ├── ROS.md              # Index of site risk analyses
+│   └── ROS/                # Markdown analyses for nine flying sites
 ├── styret.md               # Board members and board instructions
 ├── styret/
-│   └── styreinstruks.md
+│   ├── styreinstruks.md
+│   └── utval.md
 ├── dagleg-leiar.md         # Managing director overview
 ├── dagleg-leiar/
 │   ├── stillingsinstruks.md
@@ -47,22 +50,28 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── organisasjonsplan.md
 │   ├── programplan-2025.md
 │   ├── styringsdokument.md
-│   ├── vedtekter.md
-│   └── utval.md
+│   └── vedtekter.md
 ├── klubben/                # Club information and governance
 │   ├── handbok.md          # Handbook index and outstanding topics
 │   ├── om-klubben.md
 │   ├── medlemskap.md
+│   ├── medlemsfordelar.md
 │   └── overnatting.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   ├── nodprosedyrer.md
 │   └── tryggleiksgruppe.md
+├── opplaering.md           # Training section index
 ├── opplaering/             # Opplæring, progresjon og sjekklister
-│   └── progresjon.md
-└── assets/
-    ├── landvinsj-transport.jpg
-    └── landvinsj-kontrollboks.jpg
+│   ├── progresjon.md
+│   ├── rammer-for-kursing.md
+│   └── rammer-progresjonskurs.md
+├── assets/
+│   ├── landvinsj-transport.jpg
+│   └── landvinsj-kontrollboks.jpg
+├── tandem.md               # Member-only section index (configure Wiki.js access)
+└── tandem/
+    └── kompensasjon-2026.md # Member-only tandem compensation
 ```
 
 Folder names map directly to the page paths used by the wiki.
@@ -77,6 +86,10 @@ Folder names map directly to the page paths used by the wiki.
 4. After the pull request is merged into `main`, Wiki.js should pick up the change during its next Git Storage synchronization. Check the synchronization status if a change does not appear.
 
 The Git repository contains the Markdown wiki pages and two extracted winch photos; source PDFs are converted to text and are not retained in this repository. Embedded photos use the public GitHub `main` branch. Wiki.js users, settings, and files uploaded through its Assets tool are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket.
+
+### Member-only tandem pages
+
+In Wiki.js, create a `Members` group and grant it `read:pages` with page rules for paths starting with `/tandem` and `/en/tandem`. In the `Guests` group, add more specific `Deny` rules for `read:pages` on both paths; also remove any broad guest rule that would otherwise expose these pages. Test while signed out and with a normal member account. Wiki.js page permissions do not protect the Git repository: if this repository is public, tandem Markdown is public on GitHub too. Keep confidential/member-only page source out of a public repository, or make the repository private before syncing it.
 
 ## Language and initial import into Wiki.js
 

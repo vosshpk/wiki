@@ -11,6 +11,7 @@ Denne handboka samlar praktisk informasjon, organisering og rutinar for Voss Han
 ## Medlemskap og aktivitet
 
 - [Medlemskap](/klubben/medlemskap)
+- [Medlemsfordelar](/klubben/medlemsfordelar)
 - [Kurs og progresjon](/opplaering/progresjon)
 - [Flystader](/fly/flysteder)
 - [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer)

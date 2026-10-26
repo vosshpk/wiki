@@ -4,6 +4,8 @@ Voss Hang- og Paragliderklubb tilbyr grunnkurs, vidaregåande opplæring, tandem
 
 Kursdatoar, prisar, påmelding og opptakskrav kan endre seg. Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/) og [elevguiden etter fullført kurs](https://vosshpk.no/etter-fullfort-kurs/) før du melder deg på eller planlegg vidare progresjon.
 
+Sjå òg klubben sine [rammer for kursing](/opplaering/rammer-for-kursing) og [rammer for progresjonskurs](/opplaering/rammer-progresjonskurs).
+
 ---
 
 ## 🎓 Opplæringstilbod
