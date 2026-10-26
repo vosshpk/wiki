@@ -1,6 +1,6 @@
 # Voss HPK Wiki — Content and Git Storage
 
-This repository (`vosshpk/wiki`) contains the Markdown pages for the **Voss Hang Gliding and Paragliding Club wiki**. Wiki content is written in Norwegian, as agreed for the club audience.
+This repository (`vosshpk/wiki`) contains the Markdown pages for the **Voss Hang- og Paragliderklubb wiki**. Wiki content is written in Norwegian, as agreed for the club audience.
 
 The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with PostgreSQL 18. Wiki.js connects to this repository through its built-in **Git Storage** module.
 

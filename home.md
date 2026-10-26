@@ -1,6 +1,6 @@
-# Voss Henge- og Paragliderklubb (Voss HPK) — Wiki
+# Voss Hang- og Paragliderklubb (Voss HPK) — Wiki
 
-Velkommen til kunnskapsbasen for Voss Henge- og Paragliderklubb!
+Velkommen til kunnskapsbasen for Voss Hang- og Paragliderklubb!
 
 Dette wikien inneholder informasjon om flysteder på Voss og i omegn, klubbens sikkerhetsrutiner, utstyr, skoling og vedtekter.
 

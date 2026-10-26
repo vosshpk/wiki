@@ -2,7 +2,7 @@
 
 ## Kort om klubben
 
-Voss Henge- og Paragliderklubb (Voss HPK) er klubbmiljøet for hang- og paragliderpiloter på Voss.
+Voss Hang- og Paragliderklubb (Voss HPK) er klubbmiljøet for hang- og paragliderpiloter på Voss.
 
 > **Klubben må fylle inn:** Bruk denne siden til en kort, godkjent presentasjon av klubben, aktivitetene og hvem tilbudet passer for. Kontroller formuleringen før publisering.
 
