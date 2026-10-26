@@ -7,6 +7,10 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 9/12/2026 |
 
+![Ortofoto av startområdet på Gjelle, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-gjelle-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Bomstart – pilot får ikkje teke av | «Point of no return» er ikkje sett, punktet er plassert dårleg eller ikkje følgt. Dårleg linjeval for springebana med omsyn til vindretning og terreng, teknikk eller manglande vingekontroll. Venge med glideeigenskapar som ikkje passar til brattheita på starten. | Lettare skade, til dømes vrikka ankel eller skrubbsår på handledd. Ved sein bomstart kan piloten rulle vidare nedover terrenget og få slag- eller fallskade. | Bruk rutine og «point of no return» aktivt for å avbryte i tide. Kontroller vengen og kjenn eige utstyr. | 3 | 1 | 2 |

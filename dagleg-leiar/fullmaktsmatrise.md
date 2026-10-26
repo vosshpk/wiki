@@ -20,6 +20,7 @@
 ## Føresetnader og kontroll
 
 - Fullmaktene skal følgje budsjettet som er vedteke av rett organ.
+- Matrisa er meint å vere tilpassa klubben sin storleik, økonomi og kompleksitet. Styret må godkjenne henne og føre vedtaket i protokollen, og gjere grensene kjende for dagleg leiar og andre relevante personar.
 - Styret skal få jamlege rapportar om økonomi og aktivitet.
 - Tryggleiksrelaterte avgjerder om flyging, utstyr og kurs må følgje gjeldande NLF/NIF-reglar; tryggleiksgruppa si faglege vurdering skal innhentast når relevant.
 - Styret bør gå gjennom matrisa minst årleg og når organisering, budsjett eller ansvar endrar seg.

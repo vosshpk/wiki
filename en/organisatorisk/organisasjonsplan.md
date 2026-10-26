@@ -6,6 +6,10 @@
 
 The AGM is the club's highest authority. Between AGMs, the board leads the club. Voss HPK is affiliated with NLF/HPS through the relevant section. The technical lead is responsible for flying-related roles and the safety group; the managing director handles daily operations and administration.
 
+### Gender representation
+
+The 2025 organisation plan refers to section 5 of the club's bylaws and says both genders must be represented on the board, councils and committees, with at least two representatives of each gender in bodies with more than three members. **Check this wording against current NIF rules and bylaws before relying on it**, since the source may refer to older rules.
+
 ### Roles shown in the 2025 organisation chart
 
 - **AGM** elects the board and considers matters reserved for the AGM.
@@ -26,7 +30,7 @@ The plan states that voting and eligibility require the member to be at least 15
 
 ## Board and board work
 
-The plan describes the board as the club's highest authority between AGMs. Duties include implementing AGM and higher-level decisions, ensuring sound financial management, appointing committees and responsible officers, representing the club, and appointing the police-certificate and children's-sport officers.
+The plan describes the board as the club's highest authority between AGMs. Duties include implementing AGM and higher-level decisions, ensuring sound financial management, appointing committees and responsible officers, representing the club, and appointing the police-certificate and children's-sport officers. The board is also responsible for keeping the club handbook current; this wiki now serves as that handbook.
 
 The board also plans operations, develops strategy and budgets, ensures activities follow sports rules, acts as employer for any staff, and keeps the organisation plan current. Treasurer and secretary tasks may be assigned at election or after the board is constituted.
 
@@ -44,11 +48,13 @@ Reviews the club's finances and whether accounts are kept according to applicabl
 
 ### Technical lead and safety group
 
-The plan assigns the technical lead responsibility for the club's safety and training system, compliance with the safety system, information flow to and from NLF/HPS, an annual safety meeting, instructor follow-up and recruiting instructor candidates. The technical lead should attend the NLF/HPS leadership seminar at least every other year.
+The plan assigns the technical lead responsibility for the club's safety and training system, compliance with the safety system, information flow to and from NLF/HPS, an annual safety meeting, instructor follow-up and recruiting instructor candidates. The technical lead should attend the NLF/HPS leadership seminar at least every other year. The plan also says the technical lead should approve the club's instructors and tandem pilots annually. The bylaws say the technical lead is appointed by the section and governed by the HPS safety system; confirm current accountability and reporting lines with NLF/HPS.
 
 Roles under the technical lead may include education, safety, rules, environment, police certificates, tandem and equipment. Qualified people may combine or delegate these roles. The technical lead appoints the safety group. An up-to-date internal register of role holders should be maintained.
 
 The plan also mentions instructors, technical maintenance of rescue boats, launch sites, clubhouse and club van, and a social/events committee for events such as Ekstremsportveko, Easter flying gatherings, club gatherings and trips.
+
+The environment role covers wildlife and nature at flying sites, noise from any powered flying, and landowner dialogue about site use. The environment officer should know NLF's environmental instructions and contact its environment committee when needed.
 
 ## Managing director
 
@@ -57,3 +63,5 @@ The plan describes a permanent managing director role responsible for daily oper
 ## Review
 
 The source says the organisation plan is considered by and may only be changed by the AGM. **The latest decision and current version need confirmation.**
+
+> **TO RESOLVE:** Add a current list of elected, appointed and technical role holders, including the police-certificate and children's-sport officers, and state where the internal role register is maintained. Confirm whether the managing director is still a permanent employee and which responsibilities belong to the administration, board and safety group.

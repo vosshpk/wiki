@@ -7,6 +7,10 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 12.09.2026 |
 
+![Ortofoto av startområdet på Hangurstoppen Sør, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Stress på start | Turistar, tilskodarar og sauer; gruppedynamikk og kamera. | Stress reduserer konsentrasjonen og kan føre til feilvurdering av forhold eller dårleg startteknikk. | Hjelp kvarandre, ta omsyn til dagsform og gje kvarandre tid til grundig utstyrssjekk. | 2 | 1 | 2 |

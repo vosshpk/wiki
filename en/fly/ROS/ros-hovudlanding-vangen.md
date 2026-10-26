@@ -7,6 +7,10 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 03.09.2026 |
 
+![Aerial image of the main landing area at Vangen from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Collision on approach | No approach plan, impulsive changes, unclear landing pattern or heavy traffic. | Too little time to deploy reserve; crash landing may injure two pilots and a third party. | Clear landing-pattern rules. | 1 | 3 | 2 |

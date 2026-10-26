@@ -1,6 +1,6 @@
 # Voss Hang- og Paragliderklubb
 
-Welcome to the Voss HPK knowledge base. Find practical information about flying sites, safety, training and the club.
+Welcome to the Voss HPK knowledge base. This wiki is the club handbook for members, pilots, instructors, elected officers and staff. Use the topic sections to find practical information about flying sites, safety, training, governance and the club.
 
 ## What would you like to do?
 
@@ -18,7 +18,7 @@ Read the [local flying rules](/en/sikkerhet/flytrygging), and keep the [emergenc
 
 ### 🏠 The club and membership
 
-Find the [club handbook](/en/klubben/handbok), information about [membership](/en/klubben/medlemskap) and [member benefits](/en/klubben/medlemsfordelar), [club equipment and facilities](/en/klubbutstyr), the [board](/en/styret), the [managing director](/en/dagleg-leiar), and [governance documents](/en/organisatorisk).
+Find [club information](/en/klubben), [membership](/en/klubben/medlemskap) and [member benefits](/en/klubben/medlemsfordelar), the [communications plans](/en/kommunikasjon), [club equipment and facilities](/en/klubbutstyr), the [board](/en/styret), the [managing director](/en/dagleg-leiar), and [governance documents](/en/organisatorisk).
 
 ## Before you fly
 

@@ -10,6 +10,7 @@ The board's published overview lists Malene Hetle Hole as managing director / ac
 
 - [Managing director job description](/en/dagleg-leiar/stillingsinstruks) describes duties, responsibilities and reporting.
 - [Delegation matrix](/en/dagleg-leiar/fullmaktsmatrise) describes proposed authority and matters requiring board approval.
+- [Staff procedures](/en/dagleg-leiar/personalrutinar) covers employer responsibilities and staff support.
 
 > **Important:** These documents were transcribed from submitted drafts. Adoption status and date are not recorded. The board must confirm the delegated limits before they are relied on.
 

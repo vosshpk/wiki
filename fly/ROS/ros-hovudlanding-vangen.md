@@ -7,6 +7,10 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 03.09.2026 |
 
+![Ortofoto av hovudlandinga på Vangen, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Kollisjon under innflyging | Manglande plan for innflyging, impulsiv planendring, uoversiktleg mønster eller mykje trafikk. | Lite tid til å kaste nødskjerm; krasjlanding med mogleg skade på to pilotar og tredjepart. | Tydlege retningslinjer for landingsmønster. | 1 | 3 | 2 |

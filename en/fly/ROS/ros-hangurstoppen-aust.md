@@ -7,6 +7,10 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 12.09.2026 |
 
+![Aerial image of the Hangurstoppen East launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-aust-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Aborted launch: slip/trip, front collapse or asymmetric collapse | Inadequate flight plan, “point of no return”, line/distance assessment, weather or personal skill; crosswind or light wind. | Fall and muscle/joint injury, typically cuts, impact injury or sprain. | Progression course focused on launch technique and wing control through ground handling. | 2 | 1 | 2 |

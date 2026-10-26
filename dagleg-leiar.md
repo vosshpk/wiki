@@ -10,6 +10,7 @@ Oversikta styret har publisert, oppgir Malene Hetle Hole som dagleg leiar / fung
 
 - [Stillingsinstruks for dagleg leiar](/dagleg-leiar/stillingsinstruks) skildrar oppgåver, ansvar og rapportering.
 - [Fullmaktsmatrise for dagleg leiar](/dagleg-leiar/fullmaktsmatrise) skildrar føreslåtte fullmakter og saker som krev styregodkjenning.
+- [Personalrutinar](/dagleg-leiar/personalrutinar) samlar rutinar for arbeidsgjevaransvar og personaloppfølging.
 
 > **Viktig:** Dokumenta er transkriberte frå innsendte utkast. Vedtaksstatus og dato er ikkje dokumenterte her. Fullmaktsgrensene må stadfestast av styret før dei blir lagde til grunn.
 

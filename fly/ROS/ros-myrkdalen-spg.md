@@ -7,6 +7,12 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 11.09.2026 |
 
+### Kartutsnitt frå kjelde-PDF-en
+
+![Oversiktskart for Myrkdalen SPG](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-overview.png)
+
+![Kart over start-, landings- og kitingområde i Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Pilot sit fast i skitrekket (T-krok på veg opp) | Manglande utstyrskontroll og oversikt. | Skade på pilot og materiell, og stans i heisen. | Kontroller utstyret. | 1 | 2 | 2 |

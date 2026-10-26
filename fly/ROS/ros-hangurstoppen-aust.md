@@ -7,6 +7,10 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 12.09.2026 |
 
+![Ortofoto av startområdet på Hangurstoppen Aust, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-aust-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Bomstart: skli/snuble på start, frontkollaps eller asymmetrisk innklapp | Mangelfull flyplan, fastsetjing av «point of no return», vurdering av linje/distanse for opptrekk og akselerasjon, vêr eller eigne ferdigheiter. Sidevind eller lite vind. | Fall og skade på musklar/ledd, typisk sår, slagskade eller overtråkk. | Progresjonskurs med fokus på startteknikk og god vingekontroll gjennom bakkehandtering. | 2 | 1 | 2 |

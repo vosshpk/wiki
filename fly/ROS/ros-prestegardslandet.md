@@ -7,6 +7,10 @@
 | Utført av | Ikkje oppgjeve i kjelda |
 | Dato i kjelda | Ikkje oppgjeven |
 
+![Ortofoto av landingsområdet på Prestegardslandet, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-prestegardslandet-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Kollisjon under innflyging – særleg om pilotar landar på hovudlandinga og Prestegardslandet samtidig, til dømes under Ekstremsportveko | Manglande innflygingsplan, impulsiv planendring, uoversiktleg mønster eller mykje trafikk. | Lite tid til nødskjermkast; krasjlanding med mogleg skade på to pilotar og tredjepart. | Tydlege reglar for landingsmønster og tidleg avklaring. | 1 | 3 | 2 |

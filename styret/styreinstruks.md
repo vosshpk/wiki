@@ -33,7 +33,10 @@ Dagleg leiar skal:
 - varsle styret når viktige føresetnader for tidlegare vedtak endrar seg;
 - varsle styreleiar om oppseiing frå nøkkelpersonell og eige fråvær utover tre dagar;
 - delta på styremøte med møte- og talerett, men utan stemmerett, med mindre styret avgjer at dagleg leiar ikkje skal delta i ei sak;
+- delta på årsmøtet og kunne svare på spørsmål om økonomi, rekneskap og andre saker som skal avgjerast;
 - kalle inn til ekstraordinært styremøte når ei viktig hending krev det.
+
+Den eldste instruksversjonen nemner òg marknad, produkt, organisasjon, større avtalar, GDPR-etterleving og forslag til forbetringar som faste rapporteringstema. Styret kan krevje nærare utgreiing om konkrete saker. Rapporteringsintervall og endeleg innhald må fastsetjast i den vedtekne instruksen.
 
 Styret skal årleg evaluere dagleg leiar.
 
@@ -51,9 +54,11 @@ Styret kan gjere vedtak når vilkåra for vedtaksførleik i gjeldande vedtekter 
 
 På slutten av møtet set styret av tid til eiga evaluering utan dagleg leiar eller andre frå administrasjonen. Styreleiar gir dagleg leiar relevant tilbakemelding etterpå.
 
+Instruksversjonen frå 2024 seier at styremøte skal haldast minst annakvar månad, at norsk eller engelsk kan brukast i innkalling, og at meir enn halvparten av styret kan krevje ei bestemt møteform. Dette er kjeldedetaljar som ikkje er stadfesta som gjeldande; dei må takast inn i den endelege instruksen dersom styret vedtek dei.
+
 ## Protokoll
 
-Protokollen skal minst dokumentere møtetidspunkt, stad eller møteform, deltakarar, saker og vedtak. Han skal kort beskrive avgjerdsgrunnlaget når det er relevant, og føre opp inhabilitet og usemje. Protokollen skal vere tilgjengeleg for styremedlemene innan sju dagar og signerast etter gjeldande reglar og vedtekter. Signert protokoll blir lagra i klubben sitt godkjende styrearkiv.
+Protokollen skal minst dokumentere møtetidspunkt, stad eller møteform, deltakarar, saker og vedtak. Han skal kort beskrive avgjerdsgrunnlaget når det er relevant, og føre opp inhabilitet og usemje. Den eldre kjelda nemner òg kontroll av at sakshandsaminga følgjer NIF-lov og vedtekter, kven som røysta for eller imot ved usemje, og retten til å få eit avvikande syn ført inn. Protokollen skal vere tilgjengeleg for styremedlemene innan sju dagar og signerast etter gjeldande reglar og vedtekter. Signert protokoll blir lagra i klubben sitt godkjende styrearkiv.
 
 ## Teieplikt
 

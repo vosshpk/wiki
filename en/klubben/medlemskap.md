@@ -9,6 +9,12 @@ Membership of Voss HPK connects you with the club and may provide access to shar
 - **Membership card:** Find the digital card in your MinIdrett profile or app. Some partner discounts require it.
 - **Licence and insurance:** Independent flying also requires a valid licence and insurance through the [Norwegian Air Sports Federation (NLF)](https://nlf.no).
 
+## Membership and activity fees
+
+Check the current membership fee on the [club's membership page](https://vosshpk.no/om-klubben/bli-medlem/). Course, training and participant fees may vary by activity.
+
+> **TO RESOLVE:** Publish a consolidated explanation of approved fees, what they cover, payment deadlines and cancellation/refund terms. For courses, see [training and progression](/en/opplaering/progresjon).
+
 ## Membership and flying safety
 
 Members using club sites and shared facilities must follow current NLF/HPAC safety rules, [local Voss flying rules](/en/sikkerhet/flytrygging), and [emergency procedures](/en/sikkerhet/nodprosedyrer).
@@ -16,3 +22,5 @@ Members using club sites and shared facilities must follow current NLF/HPAC safe
 ## Update or end membership
 
 Update your contact details, address or membership through your personal [MinIdrett](https://minidrett.nif.no) profile.
+
+> **TO RESOLVE:** Document who in the club handles membership questions, joining and leaving, fee notices and membership-register errors, and how members can get help with MinIdrett. Describe only the current membership system and procedures.

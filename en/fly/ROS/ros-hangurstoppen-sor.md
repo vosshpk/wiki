@@ -7,6 +7,10 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 12.09.2026 |
 
+![Aerial image of the Hangurstoppen South launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Stress at launch | Tourists, spectators and sheep; group dynamics and cameras. | Stress reduces focus and may lead to poor assessment or launch technique. | Help one another, allow for daily condition and give each other time for equipment checks. | 2 | 1 | 2 |

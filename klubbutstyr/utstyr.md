@@ -15,3 +15,5 @@ Klubben sine venger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmat
 ## Naudskjerm og ompakking
 
 Følg intervalla frå produsenten og gjeldande NLF-reglar. Klubben arrangerer pakkedagar før vår- og vintersesongen. Godkjende pakkarar og instruktørar kan rettleie. Før dato for kontroll og ompakking i loggboka og utstyrsjournalen.
+
+> **MÅ AVKLARAST:** Peik ut utstyrsansvarleg og publiser rutinar for årleg inventar, vedlikehald, utlån/retur og rapportering av feil. Sjå òg [utstyrs- og fasilitetsoversikta](/klubbutstyr/fasiliteter).

@@ -33,7 +33,10 @@ The managing director shall:
 - notify the board when important assumptions behind earlier decisions change;
 - inform the chair of resignations by key personnel and personal absence exceeding three days;
 - attend board meetings with speaking rights but no vote, unless excused for a particular matter;
+- attend the AGM and be prepared to answer questions about finances, accounts and other matters for decision;
 - call an extraordinary board meeting when an important event requires one.
+
+The older instruction also lists markets, products, organisation, major agreements, GDPR compliance and improvement proposals as regular reporting topics. The board may request a more detailed report on specific matters. The reporting interval and final content must be set in the adopted instruction.
 
 The board shall evaluate the managing director annually.
 
@@ -51,9 +54,11 @@ The board may decide matters when the quorum requirements in the current bylaws 
 
 At the end of a meeting, the board reserves time to evaluate its work without the managing director or other administration staff present. The chair gives the managing director relevant feedback afterwards.
 
+The 2024 instruction says meetings should be held at least every other month, notices may be in Norwegian or English, and more than half of the board may require a particular meeting format. These source details are not confirmed as current; include them in the final instruction only if the board adopts them.
+
 ## Minutes
 
-Minutes shall record at least the time, place or meeting format, participants, matters and decisions. Where relevant, they briefly record the basis for decisions, conflicts of interest and dissent. Minutes should be available to board members within seven days and signed as required by current rules and bylaws. Signed minutes are stored in the club's approved board archive.
+Minutes shall record at least the time, place or meeting format, participants, matters and decisions. Where relevant, they briefly record the basis for decisions, conflicts of interest and dissent. The older source also mentions confirming compliance with NIF rules and the bylaws, naming votes for and against when there is disagreement, and the right to have a dissenting view recorded. Minutes should be available to board members within seven days and signed as required by current rules and bylaws. Signed minutes are stored in the club's approved board archive.
 
 ## Confidentiality
 

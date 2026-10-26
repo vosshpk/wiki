@@ -2,6 +2,8 @@
 
 Voss HPK offers beginner and further training, tandem check-outs and instructor training in cooperation with the Norwegian Air Sports Federation (NLF/HPAC). Training and licensing must follow current NLF programmes and safety requirements. See the [club’s current course pages](https://vosshpk.no/kurs/) and [post-course student guide](https://vosshpk.no/etter-fullfort-kurs/) for dates, prices and requirements.
 
+> **TO RESOLVE:** Publish current course fees, what they cover, cancellation deadlines and refund terms alongside course information.
+
 ## Training offered
 
 1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubbutstyr/fasiliteter#clubhouse-at-bomoen), ground handling and low training hops at the [training hill](/en/fly/flysteder), followed by radio-guided high flights from [Hangurstoppen](/en/fly/flysteder) to Prestegardslandet.

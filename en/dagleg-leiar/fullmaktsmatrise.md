@@ -20,6 +20,7 @@
 ## Conditions and review
 
 - Authority must remain within the budget approved by the proper body.
+- The matrix should fit the club's size, finances and complexity. The board must approve it, record the decision in the minutes, and communicate the limits to the managing director and other relevant people.
 - The board should receive regular financial and activity reports.
 - Decisions concerning flying, equipment and courses must follow current NLF/NIF rules; consult the safety group's technical assessment where relevant.
 - The board should review this matrix at least annually and when the organisation, budget or responsibilities change.

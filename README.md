@@ -35,7 +35,8 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ├── dagleg-leiar.md         # Managing director overview
 ├── dagleg-leiar/
 │   ├── stillingsinstruks.md
-│   └── fullmaktsmatrise.md
+│   ├── fullmaktsmatrise.md
+│   └── personalrutinar.md
 ├── klubbutstyr.md          # Equipment and facilities index
 ├── klubbutstyr/            # Equipment, clubhouse, boat, trailer and car
 │   ├── utstyr.md
@@ -50,31 +51,54 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── organisasjonsplan.md
 │   ├── programplan-2025.md
 │   ├── styringsdokument.md
-│   └── vedtekter.md
+│   ├── vedtekter.md
+│   ├── okonomirutinar.md
+│   ├── arshjul-og-mal.md
+│   ├── malar-og-skjema.md
+│   └── forvaltning-av-wikien.md
+├── klubben.md              # Club section index
 ├── klubben/                # Club information and governance
-│   ├── handbok.md          # Handbook index and outstanding topics
 │   ├── om-klubben.md
 │   ├── medlemskap.md
 │   ├── medlemsfordelar.md
+│   ├── aktivitetar.md
+│   ├── frivillig-arbeid.md
+│   ├── kommunikasjon-og-personvern.md
+│   ├── forsikring.md
+│   ├── barn-og-ungdom.md
+│   ├── antidoping.md
+│   ├── retningslinjer.md
+│   ├── utmerkingar.md
 │   └── overnatting.md
+├── kommunikasjon.md        # Communications section index
+├── kommunikasjon/          # Internal/external plans, roles and incident communications
+│   ├── intern-kommunikasjonsplan.md
+│   ├── ekstern-kommunikasjonsplan.md
+│   ├── ansvar-kommunikasjon-og-myndigheit.md
+│   └── kommunikasjon-ved-hendingar.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
 │   ├── flytrygging.md
 │   ├── nodprosedyrer.md
-│   └── tryggleiksgruppe.md
+│   ├── tryggleiksgruppe.md
+│   └── hms.md
 ├── opplaering.md           # Training section index
 ├── opplaering/             # Opplæring, progresjon og sjekklister
 │   ├── progresjon.md
 │   ├── rammer-for-kursing.md
-│   └── rammer-progresjonskurs.md
+│   ├── rammer-progresjonskurs.md
+│   └── roller.md
 ├── assets/
 │   ├── landvinsj-transport.jpg
-│   └── landvinsj-kontrollboks.jpg
+│   ├── landvinsj-kontrollboks.jpg
+│   └── ros/                # Map screenshots cropped from the ROS source PDFs
 ├── tandem.md               # Member-only section index (configure Wiki.js access)
 └── tandem/
-    └── kompensasjon-2026.md # Member-only tandem compensation
+    ├── kompensasjon-2026.md # Member-only tandem compensation
+    ├── eigenfrasegn.md      # Links to current official NLF print forms
+    └── archived 2023/2024 tandem source pages
 ```
 
-Folder names map directly to the page paths used by the wiki.
+Folder names map directly to the page paths used by the wiki. The wiki itself is the club handbook; there is no separate handbook page. The source guide in `docs/veileder-klubbhandbok-pr-august-2023.docx` was considered as a checklist for relevant topics and placeholders. Its applicable themes are distributed across the club, board, managing director, governance, training, equipment and safety sections. Generic team-sport topics that do not fit hang- and paragliding have not been copied as if they applied.
 
 ---
 
@@ -85,11 +109,11 @@ Folder names map directly to the page paths used by the wiki.
 3. Submit a **pull request** for review by the board or editors.
 4. After the pull request is merged into `main`, Wiki.js should pick up the change during its next Git Storage synchronization. Check the synchronization status if a change does not appear.
 
-The Git repository contains the Markdown wiki pages and two extracted winch photos; source PDFs are converted to text and are not retained in this repository. Embedded photos use the public GitHub `main` branch. Wiki.js users, settings, and files uploaded through its Assets tool are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket.
+The Git repository contains the Markdown wiki pages, two winch photos and map screenshots cropped from the ROS source PDFs; source PDFs are not stored in this repository. Images embedded in pages currently use the public GitHub `main` branch. If this repository is private, public Wiki.js visitors will not be able to load those GitHub-hosted images; upload them through Wiki.js Assets and update the page links if the wiki pages are public. Wiki.js users, settings, and files uploaded through its Assets tool are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket.
 
-### Member-only tandem pages
+### Member-only pages
 
-In Wiki.js, create a `Members` group and grant it `read:pages` with page rules for paths starting with `/tandem` and `/en/tandem`. In the `Guests` group, add more specific `Deny` rules for `read:pages` on both paths; also remove any broad guest rule that would otherwise expose these pages. Test while signed out and with a normal member account. Wiki.js page permissions do not protect the Git repository: if this repository is public, tandem Markdown is public on GitHub too. Keep confidential/member-only page source out of a public repository, or make the repository private before syncing it.
+In Wiki.js, create a `Members` group and grant it `read:pages` with page rules for paths starting with `/tandem` and `/en/tandem`. In the `Guests` group, add more specific `Deny` rules for `read:pages` on both paths; also remove any broad guest rule that would otherwise expose these pages. The internal communications and incident pages may also need member-only access; review `/kommunikasjon/intern-kommunikasjonsplan`, `/kommunikasjon/ansvar-kommunikasjon-og-myndigheit`, `/kommunikasjon/kommunikasjon-ved-hendingar` and their `/en/` translations. Test while signed out and with a normal member account. Wiki.js page permissions do not protect the Git repository: if this repository is public, its Markdown is public on GitHub too. Keep confidential/member-only page source out of a public repository, or make the repository private before syncing it.
 
 ## Language and initial import into Wiki.js
 

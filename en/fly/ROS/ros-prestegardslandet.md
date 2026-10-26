@@ -7,6 +7,10 @@
 | Prepared by | Not stated in source |
 | Date in source | Not stated |
 
+![Aerial image of the Prestegardslandet landing area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-prestegardslandet-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Collision on approach, especially when pilots use both the main landing and Prestegardslandet, e.g. during Ekstremsportveko | No approach plan, impulsive changes, unclear pattern or heavy traffic. | Too little time to deploy reserve; crash landing may injure two pilots and a third party. | Clear landing-pattern rules and early coordination. | 1 | 3 | 2 |
