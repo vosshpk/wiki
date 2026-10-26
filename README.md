@@ -1,8 +1,8 @@
 # Voss HPK Wiki — Content and Git Storage
 
-This repository (`vosshpk/wiki`) contains the Markdown articles, guides, and files for the **Voss Hang Gliding and Paragliding Club wiki**.
+This repository (`vosshpk/wiki`) contains the Markdown pages for the **Voss Hang Gliding and Paragliding Club wiki**. Wiki content is written in Norwegian, as agreed for the club audience.
 
-The club wiki is planned to run on **Wiki.js v2** in Google Cloud (Cloud Run + PostgreSQL 18). Wiki.js can connect to this repository through its built-in **Git Storage** module.
+The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with PostgreSQL 18. Wiki.js connects to this repository through its built-in **Git Storage** module.
 
 ---
 
@@ -11,7 +11,7 @@ The club wiki is planned to run on **Wiki.js v2** in Google Cloud (Cloud Run + P
 1. **Editing in Wiki.js:**
    * Git Storage can push page content to this repository during scheduled synchronization.
 2. **Editing through GitHub:**
-   * Changes can be submitted through pull requests. Wiki.js must be configured to pull from the repository; changes appear at the next scheduled synchronization, not immediately.
+   * Changes can be submitted through pull requests. With Git Storage set to bidirectional sync, merged changes are imported on the next scheduled synchronization (or after an administrator runs **Force Sync**).
 3. **Avoiding conflicting changes:**
    * Do not edit the same page in Wiki.js and a GitHub pull request at the same time. Git Storage is not a pull-request review workflow, and concurrent changes can cause conflicts.
 
@@ -21,13 +21,21 @@ The club wiki is planned to run on **Wiki.js v2** in Google Cloud (Cloud Run + P
 
 ```text
 ├── home.md                 # Wiki home page
+├── klubben/                # Club information and governance
+│   ├── om-klubben.md
+│   ├── medlemskap.md
+│   ├── styret.md
+│   └── arsmoete.md
 ├── flysteder/              # Launch and landing sites, airspace, wind directions
+│   ├── flysteder.md
 │   └── hanguren.md
 ├── sikkerhet/              # Emergency procedures, first aid, OBSREG
+│   ├── flytrygging.md
 │   └── nodprosedyrer.md
-├── klubben/                # Board, annual meetings, bylaws, membership
-├── skoling/                # Courses, progression (PP2–PP5), checklists
-├── utstyr/                 # Club wings, harnesses, reserve parachute packing
+├── skoling/                # Courses, progression, checklists
+│   └── progresjon.md
+├── utstyr/                 # Club equipment and maintenance
+│   └── klubbutstyr.md
 └── assets/                 # Images and attachments (uploaded through Wiki.js)
 ```
 
@@ -42,4 +50,8 @@ The existing folder names are retained because they are part of the page paths u
 3. Submit a **pull request** for review by the board or editors.
 4. After the pull request is merged into `main`, Wiki.js should pick up the change during its next Git Storage synchronization. Check the synchronization status if a change does not appear.
 
-The Git repository contains page content. Wiki.js users, system settings, and uploaded media are stored in PostgreSQL and covered by Cloud SQL backups.
+The Git repository contains Markdown page content. Wiki.js users, settings, and uploaded media are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket; Git is not a backup of the database or media.
+
+## Initial import into Wiki.js
+
+Connecting Git Storage does not by itself import all existing files. After the Git Storage status is healthy, use **Administration → Storage → Git → Import Everything** once to import the existing repository pages into a fresh Wiki.js database. Check the sync mode before running it: **pull** makes Git authoritative, **push** makes the wiki authoritative, and **sync** reconciles both sides. See the infrastructure repository's `GCP_SETUP_GUIDE.md` for the full deployment and operations notes.

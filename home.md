@@ -8,9 +8,9 @@ Dette wikien inneholder informasjon om flysteder på Voss og i omegn, klubbens s
 
 ## 🪂 Hurtiglenker
 
-- [Flysteder](/flysteder/hanguren) — Startsteder, landingsområder, vindretninger og luftrom.
+- [Flysteder](/flysteder/flysteder) — Oversikt over startsteder, landingsområder og lokal informasjon.
 - [Sikkerhet & Nødprosedyrer](/sikkerhet/nodprosedyrer) — Nødnumre, trelandinger, redning og klubbrutiner.
-- [Klubben](/klubben/om-klubben) — Styret, medlemskap, årsmøter og vedtekter.
+- [Klubben](/klubben/om-klubben) — Om klubben, [styret](/klubben/styret), [medlemskap](/klubben/medlemskap) og [årsmøte](/klubben/arsmoete).
 - [Skoling & Progresjon](/skoling/progresjon) — Kurs, tandem, PP2-PP5 krav og sjekkliste.
 - [Utstyr & Vedlikehold](/utstyr/klubbutstyr) — Klubbvinger, seler, nødskjermpakkedager.
 
