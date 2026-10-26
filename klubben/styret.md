@@ -1,3 +1,13 @@
+---
+title: styret
+description: 
+published: true
+date: 2026-10-26T04:15:02.965Z
+tags: 
+editor: markdown
+dateCreated: 2026-10-26T04:12:37.147Z
+---
+
 # Styre og utval
 
 Styret er klubben sitt øvste organ mellom årsmøta. Årsmøtet vel styret, som har ansvar for økonomi, drift, strategisk retning og fellesanlegg.
@@ -15,7 +25,7 @@ Send saker, framlegg og spørsmål til styret på [styret@vosshpk.no](mailto:sty
 | **Styremedlem** | Jon Ingemar Gjerde | 902 09 813 | Styremedlem |
 | **Styremedlem** | Kristian Backer | — | Styremedlem |
 | **Styremedlem** | Siv Mona Sve Edvardsen | — | Styremedlem |
-| **Varamedlem** | Henrik Nyhus | — | [henriknyhus@gmail.com](mailto:henriknyhus@gmail.com) |
+| **Varamedlem** | Henrik Nyhus | — | [henrik@vosshpk.no](mailto:henrik@vosshpk.no) |
 | **Varamedlem** | Janne Berit Stokke | — | Varamedlem |
 
 ---
