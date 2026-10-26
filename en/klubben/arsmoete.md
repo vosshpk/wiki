@@ -20,4 +20,12 @@ To vote or stand for elected office, a member must:
 
 Previous annual meeting papers, reports and minutes are available in the [official Voss HPK archive](https://vosshpk.no/om-klubben/arkiv/).
 
-The club’s governance includes the NLF/NIF model rules for sports clubs, the **Voss HPK Governance Document 2024–2028**, and an annual programme plan. Check the official archive for current versions.
+Read the club’s [bylaws](/en/klubben/vedtekter). The official source text is in Norwegian Nynorsk.
+
+The club's governance information includes:
+
+- [Organisation plan](/en/klubben/organisasjonsplan)
+- [Strategy document 2024–2028](/en/klubben/styringsdokument) (adoption status needs confirmation)
+- [2025 programme plan](/en/klubben/programplan-2025) (historical)
+- [Club handbook](/en/klubben/handbok)
+- [Official club archive](https://vosshpk.no/om-klubben/arkiv/)

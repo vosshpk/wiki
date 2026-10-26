@@ -18,7 +18,7 @@ Read the [local flying rules](/en/sikkerhet/flytrygging), and keep the [emergenc
 
 ### 🏠 The club and membership
 
-Find information about [membership](/en/klubben/medlemskap), [facilities and transport](/en/klubben/fasiliteter), the [board and committees](/en/klubben/styret), and [accommodation](/en/klubben/overnatting).
+Find the [club handbook](/en/klubben/handbok), information about [membership](/en/klubben/medlemskap), [facilities and transport](/en/klubben/fasiliteter), the [board and committees](/en/klubben/styret), and [accommodation](/en/klubben/overnatting).
 
 ## Before you fly
 

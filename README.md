@@ -23,12 +23,19 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 ├── home.md                 # Nynorsk home page (base locale: nn)
 ├── en/                     # English page translations (locale: en)
 ├── klubben/                # Club information and governance
+│   ├── handbok.md          # Handbook index and outstanding topics
 │   ├── om-klubben.md
 │   ├── fasiliteter.md
 │   ├── medlemskap.md
 │   ├── styret.md
 │   ├── arsmoete.md
-│   └── overnatting.md
+│   ├── overnatting.md
+│   ├── organisasjonsplan.md
+│   ├── styreinstruks.md    # Consolidated draft
+│   ├── styringsdokument.md # Text version of 2024–2028 presentation
+│   ├── programplan-2025.md # Historical plan
+│   ├── dagleg-leiar.md
+│   └── dagleg-leiar/       # Job description and delegation matrix
 ├── flysteder/              # Launch and landing sites, airspace, wind directions
 │   ├── flysteder.md
 │   ├── hanguren.md
@@ -41,7 +48,9 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   └── progresjon.md
 ├── utstyr/                 # Club equipment and maintenance
 │   └── klubbutstyr.md
-└── assets/                 # Images and attachments (uploaded through Wiki.js)
+└── assets/
+    ├── landvinsj-transport.jpg
+    └── landvinsj-kontrollboks.jpg
 ```
 
 Folder names map directly to the page paths used by the wiki.
@@ -55,7 +64,7 @@ Folder names map directly to the page paths used by the wiki.
 3. Submit a **pull request** for review by the board or editors.
 4. After the pull request is merged into `main`, Wiki.js should pick up the change during its next Git Storage synchronization. Check the synchronization status if a change does not appear.
 
-The Git repository contains Markdown page content. Wiki.js users, settings, and uploaded media are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket; Git is not a backup of the database or media.
+The Git repository contains the Markdown wiki pages and two extracted winch photos; source PDFs are converted to text and are not retained in this repository. Embedded photos use the public GitHub `main` branch. Wiki.js users, settings, and files uploaded through its Assets tool are stored in PostgreSQL on the VM's persistent data disk. Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucket.
 
 ## Language and initial import into Wiki.js
 

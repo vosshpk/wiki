@@ -86,9 +86,10 @@ Kontrollutvalet ser til at klubben følgjer idrettsregelverket og vedtektene, og
 
 ---
 
-## Strategi og styringsdokument
+## Styring og instruksar
 
-Klubben arbeider etter desse dokumenta:
-
-* **Styringsdokument 2024–2028:** Strategi for anlegg, medlemsutvikling og sportsleg tilbod.
-* **Programplan:** Årleg handlingsplan med mål og tiltak for driftsåret.
+- [Klubbhandbok](/klubben/handbok)
+- [Organisasjonsplan](/klubben/organisasjonsplan)
+- [Styreinstruks – konsolidert utkast](/klubben/styreinstruks)
+- [Styringsdokument 2024–2028](/klubben/styringsdokument) (status må stadfestast)
+- [Programplan 2025](/klubben/programplan-2025) (historisk)

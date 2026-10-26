@@ -36,6 +36,8 @@ Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offis
 ## Klubben sine vedtekter og styring
 
 Klubben følgjer desse styringsdokumenta:
-* **NLF / NIFs lovnorm for idrettslag**
-* **Voss HPK Styringsdokument 2024–2028:** Strategisk plan for anlegg, medlemsutvikling og sportsleg tilbod.
-* **Årleg programplan:** Vedtekne mål og tiltak for driftsåret.
+* [Vedtekter for Voss HPK](/klubben/vedtekter)
+* [Organisasjonsplan](/klubben/organisasjonsplan)
+* [Styringsdokument 2024–2028](/klubben/styringsdokument) (vedtaksstatus må stadfestast)
+* [Programplan 2025](/klubben/programplan-2025) (historisk)
+* [Klubbhandbok](/klubben/handbok)

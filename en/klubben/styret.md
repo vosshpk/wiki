@@ -53,6 +53,10 @@ The audit committee monitors compliance with sports regulations and the club’s
 - **Member:** Hilde Pettersen · [hilde.marie.pettersen@gmail.com](mailto:hilde.marie.pettersen@gmail.com)
 - **Deputy member:** Harald Horvei · [hhorv@online.no](mailto:hhorv@online.no)
 
-## Strategy documents
+## Governance and instructions
 
-The club works according to its **2024–2028 governance document** and an annual programme plan. See the club’s [official archive](https://vosshpk.no/om-klubben/arkiv/) for current documents.
+- [Club handbook](/en/klubben/handbok)
+- [Organisation plan](/en/klubben/organisasjonsplan)
+- [Board instructions — consolidated draft](/en/klubben/styreinstruks)
+- [Strategy document 2024–2028](/en/klubben/styringsdokument) (status needs confirmation)
+- [2025 programme plan](/en/klubben/programplan-2025) (historical)
