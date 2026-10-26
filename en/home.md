@@ -1,23 +1,33 @@
-# Voss Hang- og Paragliderklubb (Voss HPK) — Wiki
+# Voss Hang- og Paragliderklubb
 
-Welcome to the knowledge base of Voss Hang- og Paragliderklubb!
+Welcome to the Voss HPK knowledge base. Find practical information about flying sites, safety, training and the club.
 
-This wiki contains local information about flying sites around Voss, safety procedures, club facilities, equipment, training and club governance.
+## What would you like to do?
 
-## Quick links
+### 🪂 Fly in Voss
 
-- [Flying sites](/en/flysteder/flysteder) — Launch and landing areas, including [Hanguren](/en/flysteder/hanguren) and the [training hill](/en/flysteder/skulebakke).
-- [Safety and emergency procedures](/en/sikkerhet/nodprosedyrer)
+Find [flying sites and local conditions](/en/flysteder/flysteder), or read the [guide for visiting pilots](/en/flysteder/besokande-pilotar).
+
+### 🎓 Learn to fly
+
+See [courses and pilot progression](/en/opplaering/progresjon) and information about the [training hill at Bakkatun](/en/flysteder/skulebakke).
+
+### 🛟 Fly safely
+
+Read the [local flying rules](/en/sikkerhet/flytrygging), and keep the [emergency procedures](/en/sikkerhet/nodprosedyrer) handy.
+
+### 🏠 The club and membership
+
+Find information about [membership](/en/klubben/medlemskap), [facilities and transport](/en/klubben/fasiliteter), the [board and committees](/en/klubben/styret), and [accommodation](/en/klubben/overnatting).
+
+## Before you fly
+
+Check weather, wind, airspace and local rules before every flight. This wiki supplements your own assessment and current NLF/HPAC requirements.
+
+- [Flying sites and local conditions](/en/flysteder/flysteder)
 - [Local flying safety rules](/en/sikkerhet/flytrygging)
-- [The club](/en/klubben/om-klubben), [board and committees](/en/klubben/styret), [membership](/en/klubben/medlemskap), and [annual meeting](/en/klubben/arsmoete)
-- [Facilities and transport](/en/klubben/fasiliteter)
-- [Accommodation](/en/klubben/overnatting)
-- [Training and pilot progression](/en/opplaering/progresjon)
-- [Club equipment](/en/utstyr/klubbutstyr)
-- [Visiting pilots](/en/flysteder/besokande-pilotar)
+- [Safety and emergency procedures](/en/sikkerhet/nodprosedyrer)
 
-Wiki.js synchronizes the page content with the club’s [GitHub repository](https://github.com/vosshpk/wiki) when Git Storage is configured. Avoid editing the same page in Wiki.js and GitHub at the same time.
+## Visiting pilots
 
-## Nynorsk version
-
-See the [Nynorsk home page](/home).
+Read the [guide for visiting pilots](/en/flysteder/besokande-pilotar) before flying in Voss. For current courses, prices and club news, visit [vosshpk.no](https://vosshpk.no/).

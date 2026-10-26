@@ -1,26 +1,33 @@
-# Voss Hang- og Paragliderklubb (Voss HPK) — Wiki
+# Voss Hang- og Paragliderklubb
 
-Velkomen til kunnskapsbasen for Voss Hang- og Paragliderklubb!
+Velkomen til Voss HPK sin kunnskapsbase. Her finn du praktisk informasjon om flystader, tryggleik, opplæring og klubben.
 
-Denne wikien inneheld informasjon om flystader på Voss og i nærområdet, klubben sine tryggingsrutinar, fasilitetar, klubbutstyr, opplæring og vedtekter.
+## Kva vil du gjere?
 
----
+### 🪂 Fly på Voss
 
-## 🪂 Snøgglenkjer
+Finn [flystader og lokale tilhøve](/flysteder/flysteder), eller les [besøksinformasjonen for pilotar](/flysteder/besokande-pilotar).
 
-- [Flystader](/flysteder/flysteder) — Startstader, landingsområde og lokal informasjon, mellom anna [Hanguren](/flysteder/hanguren) og [Skulebakken](/flysteder/skulebakke).
-- [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer) — Naudnummer, trelanding, redningsbåt, ulukkesrutinar og lokale reglar for flytryggleik.
-- [Flytryggleik](/sikkerhet/flytrygging) — Gondol, luftrom, helikopteraktivitet og sikring av ski og utstyr.
-- [Klubben](/klubben/om-klubben) — Om klubben, [styre og utval](/klubben/styret), [medlemskap og fordelar](/klubben/medlemskap) og [årsmøte](/klubben/arsmoete).
-- [Fasilitetar og transport](/klubben/fasiliteter) — Skulebakken, klubbhuset på Bømoen, klubbvogna på Vangen, redningsbåten, bilen til klubben og køyreprisar.
-- [Overnatting](/klubben/overnatting) — Aktuelle overnattingsalternativ for besøkande pilotar og kursdeltakarar.
-- [Opplæring og progresjon](/opplaering/progresjon) — Kurs, instruktørar, tandem og progresjonsstige.
-- [Utstyr og vedlikehald](/utstyr/klubbutstyr) — Klubbvenger, selar, redningsbåt og felles pakkedagar for naudskjerm.
-- [Besøkande pilotar](/flysteder/besokande-pilotar) — Krav til lisens, forsikring og flyging som gjest i Noreg.
+### 🎓 Lære å fly
 
----
+Sjå [kurs og progresjon](/opplaering/progresjon) og informasjon om [Skulebakken på Bakkatun](/flysteder/skulebakke).
 
-> [!NOTE]
-> Sideinnhaldet blir synkronisert jamleg med klubben sitt GitHub-lager ([vosshpk/wiki](https://github.com/vosshpk/wiki)) når Git Storage er konfigurert. Unngå å redigere same side i Wiki.js og GitHub samstundes.
+### 🛟 Fly trygt
 
-Dei engelske sidene er tilgjengelege gjennom språkveljaren i Wiki.js. Start på [den engelske framsida](/en/home).
+Les [lokale flygereglar](/sikkerhet/flytrygging), og ha [naudprosedyrane](/sikkerhet/nodprosedyrer) lett tilgjengelege.
+
+### 🏠 Klubben og medlemskap
+
+Finn informasjon om [medlemskap](/klubben/medlemskap), [fasilitetar og transport](/klubben/fasiliteter), [styre og utval](/klubben/styret) og [overnatting](/klubben/overnatting).
+
+## Før du flyg
+
+Sjekk vêr, vind, luftrom og lokale reglar før kvar flytur. Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav frå NLF/HPAC.
+
+- [Flystader og lokale tilhøve](/flysteder/flysteder)
+- [Flytryggleik og lokale reglar](/sikkerhet/flytrygging)
+- [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer)
+
+## Besøkande pilotar
+
+Les [rettleiinga for besøkande pilotar](/flysteder/besokande-pilotar) før du flyg på Voss. For oppdaterte kurs, prisar og klubbnyheiter, sjå [vosshpk.no](https://vosshpk.no/).
