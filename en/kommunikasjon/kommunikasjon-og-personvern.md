@@ -57,3 +57,5 @@ Restrict access, document what happened and who may be affected, and assess whet
 
 Keep what the club needs—no more, in no more places, and for no longer than necessary.
 Do not put sensitive personal information in the wiki.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

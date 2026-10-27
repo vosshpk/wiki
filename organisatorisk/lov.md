@@ -163,3 +163,5 @@ Ein føresetnad for eit gyldig vedtak om oppløysing er at idrettslaget skriftle
 Vedtak om samanslutning eller utmelding frå særforbund, og nødvendige lovendringar i tilknyting til dette, må gjerast med 2/3 fleirtal av årsmøtet.
 
 (3) For reglar om utmelding og tap av medlemskap i NIF gjeld NIFs lov [§ 10-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-2).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

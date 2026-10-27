@@ -99,3 +99,5 @@ Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
 
 Når situasjonen er under kontroll, skal uønskte hendingar, nestenulukker og utstyrsfeil meldast i NLF/HPAC sitt rapporteringssystem **OBSREG**.
 Systemet skal støtte førebyggjande tryggleiksarbeid i klubben og forbundet.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -9,3 +9,5 @@ Det blir brukt til kursing gjennom året, og klubben lagrar klubbutstyr her.
 - Lukk og lås dører og vindauge når du går.
 
 Sjå [klubben si offisielle fasilitetsside](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for oppdatert informasjon.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -413,3 +413,5 @@ Ved unormal situasjon skal piloten alltid prioritere kontroll på vinga og trygg
 Vinsjing er lagarbeid.
 Følg beskjedane frå startar og vinsjeførar, hald oversikt over vinga og vinsjen gjennom heile vinsjefasen, og bidra til arbeidet på bakken.
 Er du usikkjer på utstyr, prosedyre, signal eller kva du skal gjere i ein situasjon, skal dette avklarast før du koplar deg til vinsjelina.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

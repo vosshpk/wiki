@@ -34,3 +34,5 @@ Ved ulukker med hang-, para- eller speedglider skal følgjande varslast når sit
 
 Telefonlista kan endre seg.
 Bruk den oppdaterte lista på NLF si nettside under dokument.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -62,3 +62,5 @@ The employment agreement and applicable law take precedence where they regulate 
 
 The source says the board and managing director should review this instruction annually.
 **Adoption date and minutes:** not recorded.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

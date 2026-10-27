@@ -14,3 +14,5 @@ Remove equipment from use if it is damaged, has an unknown history or its airwor
 - **Equipment manager:** To be assigned.
 - **Inspection interval and qualifications:** To be confirmed.
 - **Log:** Equipment, date, inspector, result, actions and next due date.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

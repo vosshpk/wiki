@@ -14,3 +14,5 @@ Arbeid som kan påverke terreng eller natur skal avklarast med grunneigar og ret
 - **Ansvarleg per startplass:** Må avklarast.
 - **Kontrolltidspunkt:** Må fastsetjast i årshjulet.
 - **Logg:** Stad, dato, observasjon, avtalt tiltak, ansvarleg og status.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -15,3 +15,5 @@ Key documents in this wiki:
 
 Generic policies written for team sports are not automatically relevant to air sports.
 Adapt them or leave them out after considering whether they apply.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

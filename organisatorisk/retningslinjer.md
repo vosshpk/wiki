@@ -14,3 +14,5 @@ Sentrale dokument i wikien:
 > Vedtekne retningslinjer skal ha ansvarleg eigar og vedtaksdato.
 
 Generelle malar for lagidrett er ikkje automatisk relevante for luftsport; tilpass eller utelat dei etter ei konkret vurdering.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

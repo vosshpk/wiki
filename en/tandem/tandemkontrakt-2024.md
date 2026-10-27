@@ -68,3 +68,5 @@ Confirm processes and sanctions against current NLF/HPS rules and the club's byl
 
 The source document has fields for the tandem instructor's name in block letters, place and date.
 Use an updated, approved agreement for signatures; do not sign or enter personal information on this archive page.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

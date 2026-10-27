@@ -15,3 +15,5 @@
 
 Oppdater kalenderen når rutineeigarane er peika ut.
 Registrer utført dato, avvik, tiltak og kven som følgde opp.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

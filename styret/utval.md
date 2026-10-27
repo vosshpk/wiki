@@ -20,3 +20,5 @@ Kontrollutvalet ser til at klubben følgjer idrettsregelverket og vedtektene, og
   479 05 911 / [tasovig@outlook.com](mailto:tasovig@outlook.com))
 - **Medlem:** Hilde Pettersen ([hilde.marie.pettersen@gmail.com](mailto:hilde.marie.pettersen@gmail.com))
 - **Varamedlem:** Harald Horvei ([hhorv@online.no](mailto:hhorv@online.no))
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -79,3 +79,5 @@ Alle tandemflygingar skulle loggførast dagleg i Flightlog, også når klubbtand
 Tandempilotar som flaug for klubben, skulle signere tandemkontrakten; kjelda seier at papirversjonar låg i klubbvogna.
 
 Kjelda legg vekt på samarbeid, tydeleg kommunikasjon, tryggleik og godt samarbeid mellom pilotar og frivillige.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

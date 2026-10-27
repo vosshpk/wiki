@@ -77,3 +77,5 @@ Kjeldedokumentet skisserer desse rollene; styret må stadfeste kven som har dei:
 Moglege måltal er besøk på nettsida, følgjarar og engasjement i sosiale medium, og deltaking på kurs og arrangement.
 Kjeldedokumentet føreslår kvartalsvis evaluering.
 Avklar kven som samlar tala, og bruk dei til å justere tiltaka.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

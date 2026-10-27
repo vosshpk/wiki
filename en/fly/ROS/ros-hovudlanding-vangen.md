@@ -25,3 +25,5 @@
 | 10 | Hard landing | Low turn, loss of height awareness, inadequate planning/training or impulsive flight-plan changes. | Pilot injury, potentially serious at high speed. | Landing pattern and AM course. | 1 | 3 | 2 |
 | 11 | Winter water landing | Manoeuvres over water or misjudged approach. | Landing injury, severe hypothermia and drowning when the rescue boat is not on the water. | Explain the winter risk when the boat is not on the water. | 1 | 3 | 2 |
 | 12 | Impulsive fast or advanced landing for filming | Human factors, especially friends, spectators and cameras. | Hard landing, collision with people or miscalculation. | Teach and emphasise human factors. | 3 | 2 | 3 |
+
+<!-- wiki-refresh-probe-2026-10-27 -->

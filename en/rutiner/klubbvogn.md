@@ -13,3 +13,5 @@ Check that equipment is stored dry and securely, and that benches, grills and th
 - **Owner:** To be assigned.
 - **Inspection frequency:** To be set.
 - **Log:** Date, inspection, deficiencies, actions and owner.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

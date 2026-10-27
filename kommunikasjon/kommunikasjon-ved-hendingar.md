@@ -50,3 +50,5 @@ Del minst mogleg personinformasjon.
 > Vi tek vare på dei involverte og følgjer gjeldande varslingsrutinar.
 > Unngå vidare deling og spekulasjonar.
 > Neste oppdatering kjem når vi har stadfesta informasjon.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

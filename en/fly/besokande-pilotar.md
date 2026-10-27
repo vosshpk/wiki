@@ -38,3 +38,5 @@ See [accommodation options in Voss](/en/klubben/overnatting) if you need a place
 > Information may change.
 Always check current rules and local conditions before flying.
 Fly only when your competence, equipment and conditions are appropriate. {.is-warning}
+
+<!-- wiki-refresh-probe-2026-10-27 -->

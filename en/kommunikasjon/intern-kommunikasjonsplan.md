@@ -82,3 +82,5 @@ The board should appoint the people responsible and confirm these roles.
 Possible measures include email responses, activity in collaboration tools, attendance at member meetings and social events, and member feedback.
 The source document proposes a review every six months.
 The board should assign responsibility and set a date.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

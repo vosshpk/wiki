@@ -26,3 +26,5 @@ They are a draft and must be adopted by the board before being treated as curren
 - The [organisation plan](/en/organisatorisk/organisasjonsplan) describes responsibilities and structure.
 - [Election and audit committees](/en/styret/utval)
 - [Safety group](/en/sikkerhet/tryggleiksgruppe)
+
+<!-- wiki-refresh-probe-2026-10-27 -->

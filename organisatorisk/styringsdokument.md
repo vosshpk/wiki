@@ -93,3 +93,5 @@ Dette skal styrkje eigarskap og tilhøyrsle til klubben.
 
 Det årlege arbeidsprogrammet skal konkretisere mål og tiltak.
 Sjå [programplanen for 2025](/organisatorisk/programplan-2025), som no er historisk, og stadfest kvar nyaste vedtekne plan blir publisert.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

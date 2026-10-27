@@ -42,3 +42,5 @@ This is a brief local guide, not a substitute for current NLF requirements or an
 - **Training officer:** Jens Petter Bergtun · [jpb@sfjbb.net](mailto:jpb@sfjbb.net)
 - **Tandem officer:** Morten Knapstad
 - **Safety committee:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
+
+<!-- wiki-refresh-probe-2026-10-27 -->

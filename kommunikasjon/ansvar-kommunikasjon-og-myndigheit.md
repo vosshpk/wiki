@@ -55,3 +55,5 @@ Stadfest dette mot tryggleikssystemet.
 
 Ved ei tryggleikshending skisserer kjeldedokumentet at fagleg leiar og tryggleiksgruppa kan stanse aktivitet, dagleg leiar følgjer opp praktiske behov og ressursar, og styret vurderer langsiktige tiltak.
 Sjå [kommunikasjon ved hendingar](/kommunikasjon/kommunikasjon-ved-hendingar) og [naudprosedyrane](/sikkerhet/nodprosedyrer).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

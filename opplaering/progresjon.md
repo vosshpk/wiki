@@ -57,3 +57,5 @@ Informasjonen i tabellen er ei kort lokal oversikt, ikkje ei erstatning for dei 
 * **Utdanningsansvarleg:** Jens Petter Bergtun ([jpb@sfjbb.net](mailto:jpb@sfjbb.net))
 * **Tandemansvarleg:** Morten Knapstad
 * **Tryggleiksgruppa:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
+
+<!-- wiki-refresh-probe-2026-10-27 -->

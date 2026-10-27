@@ -55,3 +55,5 @@ Confirm this against the safety system.
 
 For a safety incident, the source document describes the head of training and safety group as able to stop activities, the managing director as handling practical needs and resources, and the board as considering longer-term measures.
 See [communications during incidents](/en/kommunikasjon/kommunikasjon-ved-hendingar) and the [emergency procedures](/en/sikkerhet/nodprosedyrer).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

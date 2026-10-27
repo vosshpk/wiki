@@ -29,3 +29,5 @@ Administration and member services · board papers and decision follow-up · mem
 
 - Board decision and minutes approving the job description and delegation matrix.
 - Practical routines for staff matters, workplace safety, financial reporting and leave/absence.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

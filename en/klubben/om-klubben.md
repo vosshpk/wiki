@@ -52,3 +52,5 @@ Confirm details with the club before use.
 - **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
 - **Social media:** [Facebook](https://www.facebook.com/Vosshpk/) · [Instagram](https://www.instagram.com/vosshpk/)
 - **Grassroots share:** Support the club through Norway’s Norsk Tipping by selecting Voss Hang- og Paragliderklubb.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

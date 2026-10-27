@@ -33,3 +33,5 @@
 **Vedteke dato:** ikkje registrert.
 **Styremøte/protokoll:** ikkje registrert.
 **Signatur styreleiar:** ikkje registrert.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

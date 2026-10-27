@@ -22,3 +22,5 @@ Klubben si nettside kan ha informasjon om medlemsavtalar.
 Sjå [Fleischer's Motel](https://www.fleischers.no/) og stadfest gjeldande pris, vilkår og tilgjenge direkte før bestilling.
 
 > Sjå [klubben si offisielle informasjon om overnatting](https://vosshpk.no/kurs/praktisk-info-kurs/) for eventuelle endringar og fleire detaljar. {.is-info}
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -17,3 +17,5 @@
 | 6 | Injury during top landing | Misjudged conditions, wind, terrain or skill. | Minor to serious injury, commonly ankle or compression fracture; possible third-party/property damage. | Plan the flight, account for fitness and keep room to abort the approach. Practise top landing at suitable sites. | 1 | 2 | 2 |
 | 7 | Power lines and other cables | Poor mapping/flight planning may reduce obstacle clearance. Misjudged weather or fixation on another event may reduce awareness. | Serious pilot injury and possible third-party property damage. | Establish a safety zone and information map. | 1 | 3 | 2 |
 | 8 | Canopy collision (ridge/thermal and PG/SPG approach) | Conflict near takeoff or ridge/thermal; poor communication/five-point check or loss of awareness in flight. | Serious injury to two people. | Plan flights, follow right-of-way rules and account for fitness. | 1 | 3 | 2 |
+
+<!-- wiki-refresh-probe-2026-10-27 -->

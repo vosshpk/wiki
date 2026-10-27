@@ -14,3 +14,5 @@ Utstyr med skade, ukjend historikk eller tvil om luftdyktig stand skal takast ut
 - **Materiellforvaltar:** Må avklarast.
 - **Kontrollintervall og kompetansekrav:** Må stadfestast.
 - **Logg:** Utstyr, dato, kontrollør, resultat, tiltak og neste frist.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

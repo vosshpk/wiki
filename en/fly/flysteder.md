@@ -114,3 +114,5 @@ See [club car and transport](/klubbutstyr/bil) for current procedures and prices
 
 Wind readings from Gjelle, Hangur South and East, the main Kulturhuset landing, Rokne and Ondrahaugen in Myrkdalen are available in the [current weather and wind overview](https://vosshpk.no/fly-pa-voss/vaer-og-vind/).
 Readings do not replace an on-site assessment.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -14,3 +14,5 @@ Avklar kven som bestiller reinhaldsmiddel og melder frå om skadar eller feil.
 - **Ansvarleg / reserve:** Må avklarast.
 - **Rydding og reinhald:** Frekvens og sjekkliste må fastsetjast.
 - **Logg:** Dato, utført arbeid, avvik og oppfølging.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

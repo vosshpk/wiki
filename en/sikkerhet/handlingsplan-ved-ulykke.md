@@ -35,3 +35,5 @@ Once the situation is under control, it says to notify:
 Phone lists can change.
 Use the current list on the NLF website under documents.
 Also see [Safety and emergency procedures](/en/sikkerhet/nodprosedyrer).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

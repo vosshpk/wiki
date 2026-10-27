@@ -25,3 +25,5 @@
 | 10 | Hard landing | Låg sving, tap av høgdemedvit, manglande planlegging/trening eller impulsiv endring av flyplan. | Pilotskade, potensielt alvorleg ved høg fart. | Landingsmønster og AM-kurs. | 1 | 3 | 2 |
 | 11 | Vasslanding om vinteren | Manøver over vatn eller feilberekna innflyging. | Landingsskade, kraftig nedkjøling og drukning når redningsbåt ikkje er på vatnet. | Informer om risikoen om vinteren når båten ikkje er på vatnet. | 1 | 3 | 2 |
 | 12 | Impulsiv, rask eller avansert landing for filming | Menneskelege faktorar, særleg vener, tilskodarar og kamera. | Hard landing, kollisjon med folk eller feilberekning. | Undervis og legg vekt på menneskelege faktorar. | 3 | 2 | 3 |
+
+<!-- wiki-refresh-probe-2026-10-27 -->

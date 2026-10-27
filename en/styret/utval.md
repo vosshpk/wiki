@@ -18,3 +18,5 @@ The audit committee monitors compliance with sports rules and the club's bylaws,
 - **Chair:** Thor Atle Søvig (+47 479 05 911 / [tasovig@outlook.com](mailto:tasovig@outlook.com))
 - **Member:** Hilde Pettersen ([hilde.marie.pettersen@gmail.com](mailto:hilde.marie.pettersen@gmail.com))
 - **Deputy member:** Harald Horvei ([hhorv@online.no](mailto:hhorv@online.no))
+
+<!-- wiki-refresh-probe-2026-10-27 -->

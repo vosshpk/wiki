@@ -31,3 +31,5 @@
 
 **Kjeldemerknad:** PDF-eksporten er feilformaterte på fleire stader; tabellen er sett opp att frå den lesbare teksten.
 Skårane er førte slik dei står i eksporten.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

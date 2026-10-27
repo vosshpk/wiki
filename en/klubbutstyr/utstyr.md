@@ -23,3 +23,5 @@ Record inspection and repacking dates in the logbook and equipment register.
 
 > **TO RESOLVE:** Assign an equipment owner and publish routines for annual inventory, maintenance, loans/returns and fault reporting.
 > See also the [club equipment and facilities index](/en/klubbutstyr/fasiliteter).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

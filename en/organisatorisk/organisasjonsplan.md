@@ -90,3 +90,5 @@ The source says the organisation plan is considered by and may only be changed b
 
 > **TO RESOLVE:** Add a current list of elected, appointed and technical role holders, including the police-certificate and children's-sport officers, and state where the internal role register is maintained.
 > Confirm whether the managing director is still a permanent employee and which responsibilities belong to the administration, board and safety group.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

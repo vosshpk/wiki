@@ -16,3 +16,5 @@ Ta kontakt om du vil bli instruktør eller tandem-pilot, ta vidare opplæring el
 
 Faglege funksjonar omfattar utdanning, tryggleik, regelverk, miljø og politiattest.
 Namn og verv kan endre seg; stadfest gjeldande oversikt med klubben.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

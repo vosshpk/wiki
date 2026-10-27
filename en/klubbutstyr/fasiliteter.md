@@ -11,3 +11,5 @@ See the [official club facilities page](https://vosshpk.no/om-klubben/fasiliteta
 - [Club boat on Lake Vangsvatnet](/en/klubbutstyr/boat)
 - [Club car and transport](/en/klubbutstyr/car)
 - [Training hill at Bakkatun](/en/fly/flysteder)
+
+<!-- wiki-refresh-probe-2026-10-27 -->

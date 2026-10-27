@@ -46,3 +46,5 @@ Hald fram treninga til alle deltakarane har gjennomført fleire startar og landi
 
 Dokumentet ber om møte med SPG-instruktørane for å evaluere og samle innspel til seksjonen: Kva kan betrast?
 Sesongen er heile året.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

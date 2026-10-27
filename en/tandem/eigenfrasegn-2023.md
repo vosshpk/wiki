@@ -46,3 +46,5 @@ Confirm current terms and amounts directly with NLF/the insurer; this table is h
 
 Use the [current NLF form for printing and signing](/en/tandem/eigenfrasegn), not this 2023 archive page.
 Store signed forms and health information securely outside the wiki and Git repository.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

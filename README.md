@@ -138,3 +138,5 @@ Connecting Git Storage does not by itself import all existing files.
 After the Git Storage status is healthy, use **Administration → Storage → Git → Import Everything** once to import the existing repository pages into a fresh Wiki.js database.
 Check the sync mode before running it: **pull** makes Git authoritative, **push** makes the wiki authoritative, and **sync** reconciles both sides.
 See the infrastructure repository's `GCP_SETUP_GUIDE.md` for the full deployment and operations notes.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

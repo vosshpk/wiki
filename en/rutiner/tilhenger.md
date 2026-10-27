@@ -14,3 +14,5 @@ Check that the trailer is safely loaded and coupled before driving.
 - **Owner:** To be assigned.
 - **Inspection interval / next due date:** To be filled in.
 - **Log:** Date, inspection/service, issues, actions and next due date.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

@@ -23,3 +23,5 @@
 | 8 | Ground handling on landing area during activity | Courses/training with many pilots, e.g. in summer or during Ekstremsportveko. | Landing collision or evasive manoeuvre leading to poor landing. | Avoid during organised activity. Prestegardslandet is better suited for ground handling in west wind. | 2 | 3 | 3 |
 | 9 | Impulsive landing at higher speed or advanced landing for filming | Human factors, especially friends, spectators and cameras. | Hard landing, collision with people or miscalculation. | Teach and emphasise human factors. | 3 | 1 | 2 |
 | 10 | Hard landing | Low turn, loss of height awareness, inadequate planning/training or impulsive flight-plan changes. | Pilot injury, potentially serious at high speed. | Landing pattern and AM course; apply competence limits during events. | 1 | 3 | 2 |
+
+<!-- wiki-refresh-probe-2026-10-27 -->

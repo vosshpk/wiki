@@ -16,3 +16,5 @@
 | 5 | Flyging i sterk vind | Starten blir ofte brukt i vestavind. Solgangsbris og terrengløft kan gje sterk vind. Sterk vilje til å fly/tidsbruk kan skjule vêrbiletet; vêrfront kan endre vind og regn raskt. | Kollaps/sekking i lufta, ubehageleg oppleving eller fare; mogleg sekundær naudlanding/krasjlanding. | Bruk vêrstasjonar og lokal informasjon. Skilt på start. Avvik mellom melding og målt vind, eller varsla skiftande vind/vêr, er teikn på uforutsigbarheit. | 2 | 2 | 2 |
 | 6 | Naudlanding | Mangelfull flyplan, stort høgdetap ved manøvrar eller mangelfull vurdering/endring av vêret. | Sekundærskade ved dårleg landing. | Kartlegg alternative landingar og gjer pilotar medvitne om avgjerdshøgda. | 1 | 2 | 2 |
 | 7 | Feilberekna topplanding | Vind kan gje mekanisk turbulens. Overvurdering av ferdigheiter eller spontan landingsavgjerd på grunn av motivasjon. | Skade ved dårleg landing eller trelanding. | Tren plan og teknikk for topplanding på eigna stader med god margin. Unngå spontane avgjerder. Ved naud: vel landing med størst mogleg margin nedanfor starten. | 1 | 2 | 2 |
+
+<!-- wiki-refresh-probe-2026-10-27 -->

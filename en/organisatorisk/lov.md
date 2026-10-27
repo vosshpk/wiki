@@ -169,3 +169,5 @@ For a resolution to dissolve to be valid, the sports club must notify the sports
 A resolution to merge or withdraw from a sport-specific federation, and any necessary amendments to these bylaws in connection with this, must be adopted by a two-thirds majority of the annual meeting.
 
 (3) The rules on withdrawal from NIF and loss of NIF membership are set out in NIF's bylaws [§ 10-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-2).
+
+<!-- wiki-refresh-probe-2026-10-27 -->

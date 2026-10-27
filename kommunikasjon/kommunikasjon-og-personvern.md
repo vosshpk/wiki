@@ -57,3 +57,5 @@ Avgrens tilgangen, dokumenter kva som har skjedd og kven som kan vere råka, og 
 
 Ta vare på det klubben treng – ikkje meir, ikkje fleire stader og ikkje lenger enn nødvendig.
 Ikkje legg sensitive personopplysningar i wikien.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

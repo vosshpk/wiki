@@ -62,3 +62,5 @@ Arbeidsavtalen og gjeldande lovverk går føre denne generelle instruksen dersom
 
 Kjeldedokumentet seier at styret og dagleg leiar skal revidere instruksen årleg.
 **Vedteke dato og protokoll:** ikkje registrert.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

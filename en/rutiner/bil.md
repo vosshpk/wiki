@@ -20,3 +20,5 @@ Check tread depth, pressure, damage and the condition of the spare wheel.
 - **Owner:** To be assigned.
 - **Next service / tyre change:** To be filled in.
 - **Record:** Location, date, mileage, work, issues and next due date.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

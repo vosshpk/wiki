@@ -17,3 +17,5 @@ Vurderingane er kjeldedokument frå klubben og bør gjennomgåast og daterast p�
 
 **Skala i kjeldene:** Sannsyn og konsekvens er skåra 1 (låg), 2 (middels) eller 3 (høg).
 Risikotalet er ført slik det står i kjeldedokumentet; det er ikkje rekna om.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

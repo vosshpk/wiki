@@ -29,3 +29,5 @@ Administrasjon og medlemsservice · styresaker og vedtaksoppfølging · medlemsr
 
 - Dato og styreprotokoll for godkjenning av instruks og fullmaktsmatrise.
 - Praktiske rutinar for personalsaker, HMS, økonomirapportering og ferie/fråvær.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

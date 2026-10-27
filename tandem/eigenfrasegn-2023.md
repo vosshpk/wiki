@@ -47,3 +47,5 @@ Kontroller gjeldande vilkår og beløp direkte med NLF/forsikringsselskapet; den
 
 Bruk [gjeldande NLF-skjema for utskrift og signering](/tandem/eigenfrasegn), ikkje denne 2023-arkivsida.
 Signerte skjema og helseopplysningar skal lagrast sikkert utanfor wikien og Git-repoet.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

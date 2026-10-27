@@ -67,3 +67,5 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
   Vinden over vatnet kan snu og auke raskt.
   Sterk vind frå sør viser seg ikkje alltid tydeleg på vatnet, så ikkje bruk krusingane som einaste vindindikator.
 * **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

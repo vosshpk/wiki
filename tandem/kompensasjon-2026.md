@@ -33,3 +33,5 @@ Ingen tandeminstruktør skal operere med andre prisar enn dei som er oppgjevne o
 
 Kjeldedokumentet skildrar betalings- og avstemmingsrutinar som arbeid under innføring.
 Stadfest gjeldande rutine med klubben før utbetaling.
+
+<!-- wiki-refresh-probe-2026-10-27 -->

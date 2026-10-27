@@ -45,3 +45,5 @@ Continue training until each participant has completed several takeoffs and land
 
 The source calls for a meeting with SPG instructors to review the section and gather suggestions for improvement.
 The season is year-round.
+
+<!-- wiki-refresh-probe-2026-10-27 -->
