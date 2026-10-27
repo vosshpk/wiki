@@ -20,4 +20,3 @@ Kontroller mønsterdjupn, lufttrykk, skadar og tilstanden til reservehjulet.
 - **Ansvarleg:** Må avklarast.
 - **Neste service / dekkskifte:** Må fyllast inn.
 - **Dokumentasjon:** Stad, dato, kilometerstand, arbeid, avvik og neste frist.
-test 2
