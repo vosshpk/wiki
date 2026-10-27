@@ -54,7 +54,6 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── kommunikasjon-ved-hendingar.md
 │   └── kommunikasjon-og-personvern.md
 ├── opplaering/             # Training, progression and course guidance
-│   ├── opplaering.md
 │   ├── progresjon.md
 │   ├── rammer-for-kursing.md
 │   └── rammer-progresjonskurs.md
@@ -66,7 +65,6 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── lov.md
 │   └── roller.md
 ├── rutiner/                # Equipment and facility maintenance procedures
-│   ├── rutiner.md
 │   ├── arshjul.md          # Annual routine calendar
 │   ├── bat-og-fortoying.md
 │   ├── bil.md
@@ -89,7 +87,6 @@ The club wiki runs on **Wiki.js v2** on a Google Compute Engine VM, with Postgre
 │   ├── landvinsj-kontrollboks.jpg
 │   └── ros/                # Map screenshots cropped from the ROS source PDFs
 └── tandem/                 # Member-only content (configure Wiki.js access)
-    ├── tandem.md
     ├── kompensasjon-2026.md # Member-only tandem compensation
     ├── eigenfrasegn.md      # Links to current official NLF print forms
     └── archived 2023/2024 tandem source pages

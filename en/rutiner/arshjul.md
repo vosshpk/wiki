@@ -1,6 +1,6 @@
 # Annual maintenance calendar
 
-> **Placeholder:** This calendar should show when each maintenance routine in the [routines section](/en/rutiner/rutiner) is due. Owners, deadlines and record locations need to be confirmed.
+> **Placeholder:** This calendar should show when each maintenance routine is due. Owners, deadlines and record locations need to be confirmed.
 
 | Timing | Routine | Tasks | Owner | Record |
 |---|---|---|---|---|
