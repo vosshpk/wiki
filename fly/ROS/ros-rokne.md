@@ -16,5 +16,3 @@
 | 5 | Naudlanding | Mangelfull flyplan, stort høgdetap ved manøvrar eller mangelfull vurdering/endring av vêret. | Sekundærskade ved dårleg landing. | Kartlegg alternative landingar og gjer pilotar medvitne om avgjerdshøgda. | 1 | 2 | 2 |
 | 6 | Luftromskonflikt med fly | Starten og moglege flyplanar ligg nær Bømoen flyplass. | Ubehageleg nærpassering/turbulens; i verste fall kollisjon mellom paraglider og fallskjermfly med fatal ulukke. | Legg vekt på synlegheit og rutinar. Kommuniser mellom luftsportsklubbane, informer medlemene og formidle tilrådde flyplanar. | 1 | 3 | 2 |
 | 7 | Feilberekna topplanding | Vind kan gje mekanisk turbulens. Overvurdering av ferdigheiter eller spontan landingsavgjerd på grunn av motivasjon. | Skade ved dårleg landing eller trelanding. | Tren plan og teknikk for topplanding på eigna stader med god margin. Unngå spontane avgjerder. Ved naud: vel landing med størst mogleg margin nedanfor starten. | 1 | 2 | 2 |
-
-**Kjeldemerknad:** PDF-eksporten har òg ei rad 17 kalla «Test», med skår 1/3/2. Ho er ikkje teken med som ei reell hending.

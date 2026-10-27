@@ -20,5 +20,3 @@
 | 5 | Innklapp/kollaps over land og nødskjermkast | Feil gjennomføring av øvingar i låg høgd, til dømes under kurs. | Naudlanding/krasjlanding; fare knytt til høgspent ved landing, elv og vatn. | Ha god margin i flyplanen, tilpassa kompetansenivået. | 1 | 3 | 2 |
 | 6 | Luftromskonflikt | Fallskjermfly eller opptrekk av seglfly har ofte flyplanar nær Gjelle. | Ubehageleg nærpassering; i verste fall kollisjon dersom pilotar ikkje er merksame eller brukar verktøy for synlegheit. | Bruk SafeSky eller liknande og informer om lokal aktivitet i luftrommet. | 1 | 3 | 2 |
 | 7 | Feilvurdere reell vindstyrke | Terrengformasjonar og plasseringa av vêrstasjonen. | Takeoff i rotor. | Sjekk vêrstasjonar i nærliggande område for eit betre bilete av middelvind og retning. | 1 | 2 | 2 |
-
-**Kjeldemerknad:** PDF-eksporten har òg ei rad 17 kalla «Test», med skår 1/3/2. Ho er ikkje teken med som ei reell hending.

@@ -28,5 +28,3 @@
 | 13 | Skade ved topplanding | Feilvurdering av forhold, vindstyrke eller eigne ferdigheiter. | Lett til alvorleg pilotskade, typisk ankel- eller kompresjonsbrot. Fare for skade på tredjepart eller materiell. | Planlegg flyturen, ta omsyn til dagsform og ha margin til å avbryte innflyginga. | 1 | 2 | 2 |
 | 14 | Utstyrsfeil: kravatt/lineover/tensionknot, asymmetrisk trim, venge ute av trim eller låst/surra styreline | Dagsform, manglande kontrollrutine, dårleg fokus eller flyplan utan merksemd på «point of no return». | Bomstart eller naudlanding. | Rutine for utstyrskontroll og kunnskap om eige utstyr. | 2 | 2 | 2 |
 | 15 | Takeoff i ueigna forhold | Tilskodarar, mykje aktivitet, kø og plassmangel. Gondolen gjer starten lett tilgjengeleg; kamera kan distrahere. | Bomstart eller naudlanding. Stress kan føre vidare til manglande flyplan og spontane avanserte manøvrar i lufta eller ved landing. | Ver merksam på gruppedynamikk og menneskelege faktorar. | 2 | 3 | 3 |
-
-**Kjeldemerknad:** PDF-eksporten har òg ei rad 17 kalla «Test», med skår 1/3/2. Ho er ikkje teken med som ei reell hending.

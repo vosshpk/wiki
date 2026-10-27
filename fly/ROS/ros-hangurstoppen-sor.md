@@ -24,5 +24,3 @@
 | 9 | Miste lause gjenstandar | Manglande sikring og merksemd på omgjevnadene medan ein fokuserer på flyplanen. | Skade på hus eller tredjepart. | Minn jamleg om sikring, særleg ved skiflyging om vinteren, men òg for kamera og anna utstyr resten av året. | 1 | 2 | 2 |
 | 10 | Skjermkollisjon | Manglande avklaring av felles flyplan; ulik fart mellom SPG, PG og fallskjerm. Aktuelt ved stor aktivitet og arrangement. | Nødkast eller krasjlanding med skade på éin eller to pilotar; skade på tredjepart ved flyging over busetnad. | Gje ekstra informasjon ved stor aktivitet og planlagde arrangement. Informer tydeleg om retningslinjene. | 1 | 3 | 2 |
 | 11 | Nødskjermkast over vatn | Trening på manøvrar, akro eller SIV. | Skade ved naudlanding; drukningsfare dersom redningsbåt ikkje er bemanna eller det er vinter. | Ha to redningsbåtar i sesongen; bemann båt under kurs. | 1 | 3 | 2 |
-
-**Kjeldemerknad:** PDF-eksporten har òg ei rad 17 kalla «Test», med skår 1/3/2. Ho er ikkje teken med som ei reell hending.

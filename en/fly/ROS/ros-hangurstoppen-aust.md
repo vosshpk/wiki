@@ -28,5 +28,3 @@
 | 13 | Injury during top landing | Misjudged conditions, wind or skills. | Minor to serious pilot injury, commonly ankle or compression fracture; possible third-party/property damage. | Plan the flight, account for fitness and keep room to abort the approach. | 1 | 2 | 2 |
 | 14 | Equipment fault: cravat/line-over/tension knot, asymmetric trim, out-of-trim wing or locked/tangled brake line | Fitness, poor inspection routine, lack of focus or flight plan without a clear “point of no return”. | Aborted launch or emergency landing. | Routine equipment checks and knowledge of own equipment. | 2 | 2 | 2 |
 | 15 | Takeoff in unsuitable conditions | Spectators, high activity, queues and limited space; gondola makes the launch easily accessible, and cameras distract. | Aborted launch/emergency landing; stress may lead to poor flight planning or spontaneous advanced manoeuvres. | Account for group dynamics and human factors. | 2 | 3 | 3 |
-
-**Source note:** The PDF export also contains row 17, “Test”, scored 1/3/2. It is not included as a real hazard.
