@@ -1,6 +1,7 @@
 # ROS-analysar
 
-Risiko- og sårbarheitsanalysar (ROS) for flystader i klubben. Vurderingane er kjeldedokument frå klubben og bør gjennomgåast og daterast på nytt av ansvarlege før dei blir brukte som gjeldande tryggleiksgrunnlag.
+Risiko- og sårbarheitsanalysar (ROS) for flystader i klubben.
+Vurderingane er kjeldedokument frå klubben og bør gjennomgåast og daterast på nytt av ansvarlege før dei blir brukte som gjeldande tryggleiksgrunnlag.
 
 | Flystad | ROS-analyse |
 |---|---|
@@ -14,4 +15,5 @@ Risiko- og sårbarheitsanalysar (ROS) for flystader i klubben. Vurderingane er k
 | Rokne | [ROS-analyse for Rokne](/fly/ROS/ros-rokne) |
 | Tverrberg | [ROS-analyse for Tverrberg](/fly/ROS/ros-tverrberg) |
 
-**Skala i kjeldene:** Sannsyn og konsekvens er skåra 1 (låg), 2 (middels) eller 3 (høg). Risikotalet er ført slik det står i kjeldedokumentet; det er ikkje rekna om.
+**Skala i kjeldene:** Sannsyn og konsekvens er skåra 1 (låg), 2 (middels) eller 3 (høg).
+Risikotalet er ført slik det står i kjeldedokumentet; det er ikkje rekna om.

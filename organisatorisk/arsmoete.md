@@ -6,7 +6,8 @@
 
 ## Gjennomføring og innkalling
 
-* **Innkalling:** Styret kallar inn alle røysteføre medlemer minst éin månad før årsmøtet. Innkallinga blir publisert på klubben si nettside og send på e-post.
+* **Innkalling:** Styret kallar inn alle røysteføre medlemer minst éin månad før årsmøtet.
+  Innkallinga blir publisert på klubben si nettside og send på e-post.
 * **Frist for saker:** Send saker som du ønskjer at årsmøtet skal handsame, skriftleg til styret på [styret@vosshpk.no](mailto:styret@vosshpk.no) seinast to veker før møtet.
 * **Sakspapir:** Sakliste, årsmelding, revidert rekneskap, budsjettframlegg, innkomne saker og innstillinga frå valkomiteen skal vere tilgjengelege for medlemer seinast éi veke før årsmøtet.
 
@@ -23,8 +24,7 @@ For å ha røysterett og vere valbar til tillitsverv på årsmøtet må eit medl
 
 ## Sakspapir og referatarkiv
 
-Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv:
-📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/)
+Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv: 📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/)
 
 | År | Dokument | Merknad |
 |---|---|---|

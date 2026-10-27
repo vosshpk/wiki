@@ -1,6 +1,8 @@
 # Board
 
-The board leads the club between annual general meetings and has overall responsibility for operations, finances and strategic direction. Send matters and questions to [styret@vosshpk.no](mailto:styret@vosshpk.no). Names and roles may change; confirm the current list on the [club website](https://vosshpk.no/om-klubben/styre-og-utval/).
+The board leads the club between annual general meetings and has overall responsibility for operations, finances and strategic direction.
+Send matters and questions to [styret@vosshpk.no](mailto:styret@vosshpk.no).
+Names and roles may change; confirm the current list on the [club website](https://vosshpk.no/om-klubben/styre-og-utval/).
 
 ## Board members
 
@@ -16,7 +18,8 @@ The board leads the club between annual general meetings and has overall respons
 
 ## Board instructions
 
-See the [consolidated board instructions](/en/styret/styreinstruks). They are a draft and must be adopted by the board before being treated as current policy.
+See the [consolidated board instructions](/en/styret/styreinstruks).
+They are a draft and must be adopted by the board before being treated as current policy.
 
 ## Committees
 

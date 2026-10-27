@@ -36,6 +36,7 @@
 
 ## Interested in helping with courses?
 
-Email [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no). Briefly describe your experience, what motivates you to become an instructor, and, if you are already an instructor, why you want to teach courses on behalf of the club.
+Email [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
+Briefly describe your experience, what motivates you to become an instructor, and, if you are already an instructor, why you want to teach courses on behalf of the club.
 
 For practical information about instructor payments, expenses and equipment, see the [instructor guide on vosshpk.no (Norwegian)](https://vosshpk.no/kurs/for-instruktorar/#elementor-toc__heading-anchor-0).

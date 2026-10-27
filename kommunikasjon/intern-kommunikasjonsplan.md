@@ -20,7 +20,8 @@ Måla er å:
 
 ## Kanalar
 
-Kanalane bør vere enkle å bruke og tilgjengelege for målgruppa. Kva kanalar klubben faktisk nyttar, og kva informasjon som skal gå kvar, må stadfestast av styret.
+Kanalane bør vere enkle å bruke og tilgjengelege for målgruppa.
+Kva kanalar klubben faktisk nyttar, og kva informasjon som skal gå kvar, må stadfestast av styret.
 
 ### Digitale kanalar
 
@@ -40,23 +41,29 @@ Kanalane bør vere enkle å bruke og tilgjengelege for målgruppa. Kva kanalar k
 
 ### Klare roller
 
-Gjer ansvar for styremedlemmer, utvalsleiarar og frivillige tydeleg. Organisasjonsplanen bør vere lett tilgjengeleg for medlemmene. Dette kan redusere uklart ansvar og dobbeltarbeid.
+Gjer ansvar for styremedlemmer, utvalsleiarar og frivillige tydeleg.
+Organisasjonsplanen bør vere lett tilgjengeleg for medlemmene.
+Dette kan redusere uklart ansvar og dobbeltarbeid.
 
 ### Regelmessige oppdateringar
 
-Kjeldedokumentet føreslår vekentlege prosjektoppdateringar og månadlege e-postar frå styret om status og komande aktivitetar. Styret bør fastsetje ein realistisk frekvens og kanal.
+Kjeldedokumentet føreslår vekentlege prosjektoppdateringar og månadlege e-postar frå styret om status og komande aktivitetar.
+Styret bør fastsetje ein realistisk frekvens og kanal.
 
 ### Tilbakemelding
 
-Legg til rette for tovegs kommunikasjon, til dømes med ei digital eller fysisk tilbakemeldingskasse og opne spørjetimar med styret. Avklar korleis innspel blir mottekne og følgde opp.
+Legg til rette for tovegs kommunikasjon, til dømes med ei digital eller fysisk tilbakemeldingskasse og opne spørjetimar med styret.
+Avklar korleis innspel blir mottekne og følgde opp.
 
 ### Opplæring og ressursar
 
-Tilby rettleiing i digitale verktøy klubben faktisk nyttar. Hald rettleiingar om tryggleik, flystader og vedlikehald av utstyr oppdaterte.
+Tilby rettleiing i digitale verktøy klubben faktisk nyttar.
+Hald rettleiingar om tryggleik, flystader og vedlikehald av utstyr oppdaterte.
 
 ### Openheit om avgjerder
 
-Del relevante styremøtereferat med medlemmene og presenter strategiske mål og planar på årsmøtet. Ta omsyn til personvern og saker som må handsamast konfidensielt.
+Del relevante styremøtereferat med medlemmene og presenter strategiske mål og planar på årsmøtet.
+Ta omsyn til personvern og saker som må handsamast konfidensielt.
 
 ### Sosialt og inkluderande miljø
 
@@ -72,4 +79,6 @@ Styret må peike ut ansvarlege personar og stadfeste rollene.
 
 ## Evaluering
 
-Moglege mål er svar på e-postar, aktivitet i samarbeidsverktøy, oppmøte på medlemsmøte og sosiale arrangement, og tilbakemeldingar frå medlemmer. Kjeldedokumentet føreslår gjennomgang kvart halvår. Styret bør fastsetje ansvar og tidspunkt.
+Moglege mål er svar på e-postar, aktivitet i samarbeidsverktøy, oppmøte på medlemsmøte og sosiale arrangement, og tilbakemeldingar frå medlemmer.
+Kjeldedokumentet føreslår gjennomgang kvart halvår.
+Styret bør fastsetje ansvar og tidspunkt.

@@ -1,9 +1,11 @@
 # Managing Director Job Description
 
-> **Status:** Transcribed from “Stillingsinstruks DL 2024”. No approval date is provided. This is a working document for board confirmation, not proof of current employment terms.
+> **Status:** Transcribed from “Stillingsinstruks DL 2024”.
+> No approval date is provided.
+> This is a working document for board confirmation, not proof of current employment terms.
 
-**Title:** Managing Director  
-**Reports to:** Board of Voss Hang- og Paragliderklubb  
+**Title:** Managing Director <br>
+**Reports to:** Board of Voss Hang- og Paragliderklubb
 **Purpose:** Ensure responsible operations and development in line with the bylaws, NIF rules and club strategy, supporting members through sound administration and financial management.
 
 ## Main duties
@@ -39,7 +41,8 @@
 
 ## Authority
 
-The managing director may make decisions in daily operations and make purchases or agreements within the approved budget, board policies and adopted delegation matrix. They may supervise employees and volunteers within delegated responsibility.
+The managing director may make decisions in daily operations and make purchases or agreements within the approved budget, board policies and adopted delegation matrix.
+They may supervise employees and volunteers within delegated responsibility.
 
 ## Reporting and cooperation
 
@@ -51,8 +54,11 @@ The source mentions administrative and financial experience, knowledge of NIF an
 
 ## Working hours and terms
 
-Hours are described as flexible, including evenings and weekends when needed. Pay and employment conditions are set by the board and employment agreement. The employment agreement and applicable law take precedence where they regulate a matter in more detail.
+Hours are described as flexible, including evenings and weekends when needed.
+Pay and employment conditions are set by the board and employment agreement.
+The employment agreement and applicable law take precedence where they regulate a matter in more detail.
 
 ## Review
 
-The source says the board and managing director should review this instruction annually. **Adoption date and minutes:** not recorded.
+The source says the board and managing director should review this instruction annually.
+**Adoption date and minutes:** not recorded.

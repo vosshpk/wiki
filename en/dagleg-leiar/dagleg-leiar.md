@@ -1,10 +1,13 @@
 # Managing Director
 
-The managing director runs daily operations within the bylaws, board decisions, applicable rules and delegated authority. The board is the managing director's supervisor and holds employer responsibility.
+The managing director runs daily operations within the bylaws, board decisions, applicable rules and delegated authority.
+The board is the managing director's supervisor and holds employer responsibility.
 
 ## Contact
 
-The board's published overview lists Malene Hetle Hole as managing director / acting technical lead: [malene@vosshpk.no](mailto:malene@vosshpk.no), +47 905 08 620. Office: Vangsgata 45, weekdays 09:00–16:00. Confirm the details with the [club](https://vosshpk.no/om-klubben/styre-og-utval/) before use.
+The board's published overview lists Malene Hetle Hole as managing director / acting technical lead: [malene@vosshpk.no](mailto:malene@vosshpk.no), +47 905 08 620.
+Office: Vangsgata 45, weekdays 09:00–16:00.
+Confirm the details with the [club](https://vosshpk.no/om-klubben/styre-og-utval/) before use.
 
 ## Responsibilities and documents
 
@@ -18,7 +21,9 @@ Administration and member services · board papers and decision follow-up · mem
 
 > **To confirm:** Responsibility for Ekstremsportveko, social activities, competitions, payment cards/credit, sponsorship and communications must be confirmed against board decisions, the budget and the delegation matrix.
 
-> **Important:** These documents were transcribed from submitted drafts. Adoption status and date are not recorded. The board must confirm the delegated limits before they are relied on.
+> **Important:** These documents were transcribed from submitted drafts.
+> Adoption status and date are not recorded.
+> The board must confirm the delegated limits before they are relied on.
 
 ## Items to resolve
 

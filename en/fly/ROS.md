@@ -1,6 +1,7 @@
 # Risk assessments
 
-Risk and vulnerability assessments (ROS) for club flying sites. These are source documents and should be reviewed and dated by the responsible people before being relied on as current safety guidance.
+Risk and vulnerability assessments (ROS) for club flying sites.
+These are source documents and should be reviewed and dated by the responsible people before being relied on as current safety guidance.
 
 | Site | Assessment |
 |---|---|
@@ -14,4 +15,5 @@ Risk and vulnerability assessments (ROS) for club flying sites. These are source
 | Rokne | [Risk assessment: Rokne](/en/fly/ROS/ros-rokne) |
 | Tverrberg | [Risk assessment: Tverrberg](/en/fly/ROS/ros-tverrberg) |
 
-**Scale in the source documents:** Likelihood and consequence are scored 1 (low), 2 (medium) or 3 (high). The risk score is reproduced as written and has not been recalculated.
+**Scale in the source documents:** Likelihood and consequence are scored 1 (low), 2 (medium) or 3 (high).
+The risk score is reproduced as written and has not been recalculated.

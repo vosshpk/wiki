@@ -29,4 +29,5 @@
 | 11 | Pilot crashes on skis travelling to takeoff or home | Poor skiing skills, excessive speed, fatigue or desire to ski fast. | Injury to self or others. | Reflect on fitness and ability. | 2 | 2 | 2 |
 | 12 | Wind increase while flying/kiting | Optimal wind in Myrkdalen is south/southeast and kiting wind can create wave conditions. Too little flight-plan margin for forecast/possible changes. | Dragging, rotor, collapse and crash causing pilot injury. | Wave conditions increase risk. Check weather/wind and gust trends. Plan for experience, skill, equipment and terrain. Stronger wind calls for more terrain behind to stop/control the wing before rotor; keep away from the strongest lift zone. | 2 | 3 | 3 |
 
-**Source note:** The PDF export is malformed in places; the table has been reconstructed from readable text. Scores are reproduced as shown.
+**Source note:** The PDF export is malformed in places; the table has been reconstructed from readable text.
+Scores are reproduced as shown.

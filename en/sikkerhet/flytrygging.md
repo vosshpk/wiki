@@ -7,7 +7,8 @@ Voss offers excellent flying, but terrain, gondola cables, settlements and share
 Voss Gondola and the ski lifts at Voss Resort and Myrkdalen have cables, towers and wires that pose collision and turbulence hazards.
 
 - Keep at least **50 m vertical and horizontal clearance** from gondola and lift cables and towers.
-- When approaching Vangen from Hanguren, cross the gondola cable with ample height. Be alert for turbulence in the lee of Hangurstoppen in northerly or easterly winds.
+- When approaching Vangen from Hanguren, cross the gondola cable with ample height.
+  Be alert for turbulence in the lee of Hangurstoppen in northerly or easterly winds.
 
 ## Secure loose equipment and ski flying
 
@@ -34,12 +35,16 @@ To protect neighbours and landowners, do not land at:
 
 ## Airspace and Bømoen airfield
 
-- The stated normal ceiling below controlled airspace over Voss is **2,286 m ASL (7,500 ft)**. Always check current status at [luftrom.info](https://luftrom.info).
-- Bømoen (ENBM) is an active air-sports airfield used by parachutists, gliders and powered aircraft. Keep clear of its traffic circuit and air-sports/drop zone.
+- The stated normal ceiling below controlled airspace over Voss is **2,286 m ASL (7,500 ft)**.
+  Always check current status at [luftrom.info](https://luftrom.info).
+- Bømoen (ENBM) is an active air-sports airfield used by parachutists, gliders and powered aircraft.
+  Keep clear of its traffic circuit and air-sports/drop zone.
 - Check NOTAMs and current restrictions through IPPC or HemsWX before flying.
 
 ## Wind and Lake Vangsvatnet
 
-- Easterly winds can cause rotor and severe turbulence at Vangen and Minigolfen. Watch ripples on the lake to assess local wind direction and strength.
-- From May to August, a westerly/south-westerly sea breeze often develops in the afternoon and may strengthen or turn quickly. Strong southerly winds may not show clearly on the lake, so do not rely on ripples as your only wind indicator.
+- Easterly winds can cause rotor and severe turbulence at Vangen and Minigolfen.
+  Watch ripples on the lake to assess local wind direction and strength.
+- From May to August, a westerly/south-westerly sea breeze often develops in the afternoon and may strengthen or turn quickly.
+  Strong southerly winds may not show clearly on the lake, so do not rely on ripples as your only wind indicator.
 - Enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all) before launch so other pilots and retrieval drivers can see your location.

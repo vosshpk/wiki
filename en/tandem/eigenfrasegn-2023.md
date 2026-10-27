@@ -1,6 +1,11 @@
 # Tandem Passenger Declaration 2023 — Archive
 
-> **Historical form — do not use for new flights.** This is a textual transcription of the 2023 English form. It refers to COVID-19 guidance and insurance terms/amounts from 2023. The legal validity of its declaration wording and the continued availability of the insurance coverage have not been confirmed. Use only forms approved and published by NLF/HPS and Voss HPK. Do not complete or store personal information on this wiki page.
+> **Historical form — do not use for new flights.**
+> This is a textual transcription of the 2023 English form.
+> It refers to COVID-19 guidance and insurance terms/amounts from 2023.
+> The legal validity of its declaration wording and the continued availability of the insurance coverage have not been confirmed.
+> Use only forms approved and published by NLF/HPS and Voss HPK.
+> Do not complete or store personal information on this wiki page.
 
 ## Fields in the source form
 
@@ -10,11 +15,13 @@
 - Pilot's date, signature and name in capital letters.
 - Passenger declaration covering the risks, their own risk assessment, disclosure of relevant illnesses, the release wording in the source form, and assessment against the public health authority's then-current COVID-19 guidance.
 - The source says passengers acknowledge that tandem flying carries significant risk that cannot be eliminated by precautions, voluntarily assume the risk of injury or death, and have told the pilot about relevant illnesses.
-- The release wording says the pilot, NLF/HPS, affiliated clubs, staff and representatives cannot be held liable for injury or loss arising from the flight, and that the passenger's heirs/relatives cannot bring such claims either. This describes the historical wording only and does not assess its legal effect.
+- The release wording says the pilot, NLF/HPS, affiliated clubs, staff and representatives cannot be held liable for injury or loss arising from the flight, and that the passenger's heirs/relatives cannot bring such claims either.
+  This describes the historical wording only and does not assess its legal effect.
 - The 2023 English form additionally says the passenger has read and understood the form and signs voluntarily.
 - Passenger's date, signature and name in capital letters.
 - For passengers under 18: signature and name fields for both parents/guardians.
-- Confirmation that the pilot explained the insurance coverage, with passenger date and signature. For passengers under 18, the source also has signature fields for both parents/guardians.
+- Confirmation that the pilot explained the insurance coverage, with passenger date and signature.
+  For passengers under 18, the source also has signature fields for both parents/guardians.
 
 ## Insurance amounts stated in the 2023 form
 
@@ -32,8 +39,10 @@
 | Deductible for accident injury | None |
 | Liability deductible | NOK 1,000 per incident |
 
-The source links to [NLF's insurance page](https://www.nlf.no/hps/forsikring/). Confirm current terms and amounts directly with NLF/the insurer; this table is historical documentation only.
+The source links to [NLF's insurance page](https://www.nlf.no/hps/forsikring/).
+Confirm current terms and amounts directly with NLF/the insurer; this table is historical documentation only.
 
 ## Form to use
 
-Use the [current NLF form for printing and signing](/en/tandem/eigenfrasegn), not this 2023 archive page. Store signed forms and health information securely outside the wiki and Git repository.
+Use the [current NLF form for printing and signing](/en/tandem/eigenfrasegn), not this 2023 archive page.
+Store signed forms and health information securely outside the wiki and Git repository.

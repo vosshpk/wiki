@@ -29,4 +29,5 @@
 | 11 | Pilot krasjar på ski på veg til takeoff eller heim | Dårlege skiferdigheiter, fart over evne, trøyttleik eller ønskje om å køyre fort. | Skade på piloten eller andre. | Reflekter over dagsform og ferdigheiter. | 2 | 2 | 2 |
 | 12 | Vindauke ved flyging/kiting | Bølgjeforhold: optimal vindretning i Myrkdalen er sør/søraust. Kitevind kan gje bølgjeforhold. For liten margin mot varsel og mogleg endring. | Dragging, rotor, kollaps og krasj med pilotskade. | Bølgjeforhold aukar risikoen. Sjekk vind og vêr undervegs og kartlegg maksvindkast/tendens. Planlegg etter erfaring, ferdigheiter, utstyr og terreng. Ved sterkare vind er det betre å ha meir terreng bak seg for å kunne stoppe og få kontroll før eventuell rotor; hald òg avstand frå sterkaste løftesone. | 2 | 3 | 3 |
 
-**Kjeldemerknad:** PDF-eksporten er feilformaterte på fleire stader; tabellen er sett opp att frå den lesbare teksten. Skårane er førte slik dei står i eksporten.
+**Kjeldemerknad:** PDF-eksporten er feilformaterte på fleire stader; tabellen er sett opp att frå den lesbare teksten.
+Skårane er førte slik dei står i eksporten.

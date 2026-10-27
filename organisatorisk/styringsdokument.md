@@ -1,12 +1,19 @@
 # Styringsdokument 2024–2028
 
-> **Kjelde og status:** Tekstleg attgjeving av presentasjonen «Styringsdokument 2024–2028» frå strategisamlinga i 2024. Presentasjonen omtalar dokumentet som eit utkast som skulle få innspel frå medlemene. Det er ikkje dokumentert her om endeleg versjon er vedteken. Stadfest status med styret før teksten blir brukt som føring.
+> **Kjelde og status:** Tekstleg attgjeving av presentasjonen «Styringsdokument 2024–2028» frå strategisamlinga i 2024.
+> Presentasjonen omtalar dokumentet som eit utkast som skulle få innspel frå medlemene.
+> Det er ikkje dokumentert her om endeleg versjon er vedteken.
+> Stadfest status med styret før teksten blir brukt som føring.
 
 ## Innleiing og hensikt
 
-Styret ønskjer ei heilskapleg, berekraftig og langsiktig satsing som legg til rette for stabile og gode rammevilkår for hanggliding, paragliding og speedgliding på Voss. Dokumentet er eit bidrag til utviklinga av klubben.
+Styret ønskjer ei heilskapleg, berekraftig og langsiktig satsing som legg til rette for stabile og gode rammevilkår for hanggliding, paragliding og speedgliding på Voss.
+Dokumentet er eit bidrag til utviklinga av klubben.
 
-Utkastet for 2024–2028 byggjer på strategisamlinga for styret og tilsette i 2024 og skulle få innspel frå medlemene. Eit vedteke styringsdokument skal leggje føringar for styret si planlegging og administrasjonen si drift. Styret og administrasjonen skal på dette grunnlaget utarbeide eit årleg arbeidsprogram som blir lagt fram for årsmøtet. Medlemer blir inviterte til å bidra gjennom medlemsmøte, undersøkingar og direkte innspel til leiinga.
+Utkastet for 2024–2028 byggjer på strategisamlinga for styret og tilsette i 2024 og skulle få innspel frå medlemene.
+Eit vedteke styringsdokument skal leggje føringar for styret si planlegging og administrasjonen si drift.
+Styret og administrasjonen skal på dette grunnlaget utarbeide eit årleg arbeidsprogram som blir lagt fram for årsmøtet.
+Medlemer blir inviterte til å bidra gjennom medlemsmøte, undersøkingar og direkte innspel til leiinga.
 
 ## Organisering slik ho er vist i kjelda
 
@@ -18,7 +25,8 @@ Presentasjonen viser denne overordna strukturen:
 - **Dagleg leiar/administrasjon** → medlemsservice, driftsansvar og kurskoordinering, nettside/butikk, fasilitetar, økonomi og arrangement.
 - Kursinstruktørar og tandeminstruktørar støttar aktivitet og opplæring.
 
-Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag. Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/styret/styret).
+Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag.
+Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/styret/styret).
 
 ## Årshjul i presentasjonen
 
@@ -48,7 +56,8 @@ Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting 
 
 ## Strategisamandrag
 
-Kjelda har ei eiga overskrift for «Strategisamandrag», men ikkje lesbar tekst under overskrifta. Innhaldet som elles er uttrykt i presentasjonen, er samla i mål og fokusområde nedanfor.
+Kjelda har ei eiga overskrift for «Strategisamandrag», men ikkje lesbar tekst under overskrifta.
+Innhaldet som elles er uttrykt i presentasjonen, er samla i mål og fokusområde nedanfor.
 
 ## Posisjon, målgruppe, visjon og oppgåve
 
@@ -67,14 +76,20 @@ Kjelda har ei eiga overskrift for «Strategisamandrag», men ikkje lesbar tekst 
 
 ## Verdiar og eigenskapar
 
-Klubben sine verdiar i presentasjonen er **inkluderande miljø, utvikling og tryggleik**. Dei skal prege drifta og skape moglegheiter for alle.
+Klubben sine verdiar i presentasjonen er **inkluderande miljø, utvikling og tryggleik**.
+Dei skal prege drifta og skape moglegheiter for alle.
 
-Klubben ønskjer å vere omsynsfull, samlande og nysgjerrig. Tryggleik inneber å ta omsyn til menneske, risiko, vêr og lokalmiljø. Inkludering inneber god oppfølging og variert aktivitet. Utvikling inneber sjølvevaluering og openheit for innspel og kritikk.
+Klubben ønskjer å vere omsynsfull, samlande og nysgjerrig.
+Tryggleik inneber å ta omsyn til menneske, risiko, vêr og lokalmiljø.
+Inkludering inneber god oppfølging og variert aktivitet.
+Utvikling inneber sjølvevaluering og openheit for innspel og kritikk.
 
 ## Bevis på at klubben held løftet
 
-Presentasjonen nemner velfungerande administrasjon og fasilitetar, sunn kultur, god kvalitet på kurs og oppfølging, og årlege programplanar som blir følgde opp og evaluerte. Dette skal styrkje eigarskap og tilhøyrsle til klubben.
+Presentasjonen nemner velfungerande administrasjon og fasilitetar, sunn kultur, god kvalitet på kurs og oppfølging, og årlege programplanar som blir følgde opp og evaluerte.
+Dette skal styrkje eigarskap og tilhøyrsle til klubben.
 
 ## Oppfølging
 
-Det årlege arbeidsprogrammet skal konkretisere mål og tiltak. Sjå [programplanen for 2025](/organisatorisk/programplan-2025), som no er historisk, og stadfest kvar nyaste vedtekne plan blir publisert.
+Det årlege arbeidsprogrammet skal konkretisere mål og tiltak.
+Sjå [programplanen for 2025](/organisatorisk/programplan-2025), som no er historisk, og stadfest kvar nyaste vedtekne plan blir publisert.

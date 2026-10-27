@@ -1,10 +1,13 @@
 # Clubhouse
 
-> **Placeholder:** Confirm who is responsible for cleaning, supplies, issues and access follow-up. See [clubhouse information](/en/klubbutstyr/clubhouse) and the [annual cycle](/en/rutiner/arshjul).
+> **Placeholder:** Confirm who is responsible for cleaning, supplies, issues and access follow-up.
+> See [clubhouse information](/en/klubbutstyr/clubhouse) and the [annual cycle](/en/rutiner/arshjul).
 
 ## Tidiness and cleaning
 
-Use a simple cleaning and tidiness checklist after courses, meetings and club activities. It should cover the kitchen, toilets, floors, rubbish, shared areas and returning equipment to its place. Clarify who orders cleaning supplies and reports damage or faults.
+Use a simple cleaning and tidiness checklist after courses, meetings and club activities.
+It should cover the kitchen, toilets, floors, rubbish, shared areas and returning equipment to its place.
+Clarify who orders cleaning supplies and reports damage or faults.
 
 ## Follow-up
 

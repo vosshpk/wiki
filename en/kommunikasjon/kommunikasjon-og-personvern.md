@@ -1,6 +1,8 @@
 # Communications and privacy
 
-The club uses its website, wiki, email and social media to communicate with members and others. See the [internal communications plan](/en/kommunikasjon/intern-kommunikasjonsplan) and [external communications plan](/en/kommunikasjon/ekstern-kommunikasjonsplan) for plans and responsibilities. Official contact points are listed on the [about the club page](/en/klubben/om-klubben).
+The club uses its website, wiki, email and social media to communicate with members and others.
+See the [internal communications plan](/en/kommunikasjon/intern-kommunikasjonsplan) and [external communications plan](/en/kommunikasjon/ekstern-kommunikasjonsplan) for plans and responsibilities.
+Official contact points are listed on the [about the club page](/en/klubben/om-klubben).
 
 ## Where information is stored
 
@@ -19,22 +21,39 @@ Store only information that is necessary, in the appropriate system, with access
 
 Clarify why the information is being recorded, whether it is a brief observation or needs further follow-up, whether a name is needed, who needs access, and whether the information is stored in the right place.
 
-Keep safety log entries short and factual: date, place, activity, what was actually observed, risk category and any action, owner and status. Avoid rumours, vague characterisations and unnecessary details. If a case needs a detailed account about a person, create a restricted Orgbrain case and keep only a short, necessary entry in the overview. Record who is following up, what has been done and when the case should be reviewed.
+Keep safety log entries short and factual: date, place, activity, what was actually observed, risk category and any action, owner and status.
+Avoid rumours, vague characterisations and unnecessary details.
+If a case needs a detailed account about a person, create a restricted Orgbrain case and keep only a short, necessary entry in the overview.
+Record who is following up, what has been done and when the case should be reviewed.
 
 ## Access, sharing and retention
 
-Access should follow the task, not the role alone. Board members, the safety group and instructors do not automatically need access to every personal case. Use club accounts, individual accounts, access groups and two-factor authentication where available. Avoid shared passwords. Use email only for necessary transfer, not as a permanent archive.
+Access should follow the task, not the role alone.
+Board members, the safety group and instructors do not automatically need access to every personal case.
+Use club accounts, individual accounts, access groups and two-factor authentication where available.
+Avoid shared passwords.
+Use email only for necessary transfer, not as a permanent archive.
 
-After the season, close follow-ups and delete or anonymise names in safety overviews when they are no longer needed. Complete an overall archive review by 31 January. Review Orgbrain cases when closed and at least annually; delete information when there is no documented follow-up or legal need to retain it. Review access to the tandem archive and its retention period annually against its purpose and current NLF/HPS, insurance and liability needs. Remove access when the work need ends, and regularly clear email copies and attachments that have been archived.
+After the season, close follow-ups and delete or anonymise names in safety overviews when they are no longer needed.
+Complete an overall archive review by 31 January.
+Review Orgbrain cases when closed and at least annually; delete information when there is no documented follow-up or legal need to retain it.
+Review access to the tandem archive and its retention period annually against its purpose and current NLF/HPS, insurance and liability needs.
+Remove access when the work need ends, and regularly clear email copies and attachments that have been archived.
 
-The passenger may receive a copy of their own tandem declaration. Once the club copy is archived, move any attachments out of email and delete unnecessary email copies.
+The passenger may receive a copy of their own tandem declaration.
+Once the club copy is archived, move any attachments out of email and delete unnecessary email copies.
 
 ## Responsibilities and incidents
 
-The managing director oversees practical archiving, access, clean-up and incident follow-up. The technical director follows up documentation and access in technical and safety work. The board has overall responsibility; this does not mean that every board member automatically gets access to personal cases.
+The managing director oversees practical archiving, access, clean-up and incident follow-up.
+The technical director follows up documentation and access in technical and safety work.
+The board has overall responsibility; this does not mean that every board member automatically gets access to personal cases.
 
-Report a misdirected email, lost document, unauthorised access or other possible personal-data breach immediately to the managing director and board chair. Restrict access, document what happened and who may be affected, and assess whether the Norwegian Data Protection Authority or the affected people must be notified.
+Report a misdirected email, lost document, unauthorised access or other possible personal-data breach immediately to the managing director and board chair.
+Restrict access, document what happened and who may be affected, and assess whether the Norwegian Data Protection Authority or the affected people must be notified.
 
-> **TO RESOLVE:** Confirm that Google Drive, Orgbrain, the tandem archive and the formal reporting system are the current storage locations. The board should also define channel owners, the authoritative channel for formal notices, consent procedures for publishing photos, a contact for privacy questions and where any visual identity or logo guide is kept.
+> **TO RESOLVE:** Confirm that Google Drive, Orgbrain, the tandem archive and the formal reporting system are the current storage locations.
+> The board should also define channel owners, the authoritative channel for formal notices, consent procedures for publishing photos, a contact for privacy questions and where any visual identity or logo guide is kept.
 
-Keep what the club needs—no more, in no more places, and for no longer than necessary. Do not put sensitive personal information in the wiki.
+Keep what the club needs—no more, in no more places, and for no longer than necessary.
+Do not put sensitive personal information in the wiki.

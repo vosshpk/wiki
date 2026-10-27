@@ -1,6 +1,7 @@
 # Aktivitetar, arrangement og reiser
 
-Voss HPK har flyaktivitet, kurs, sosiale samlingar og arrangement. Sjå [klubben si nettside](https://vosshpk.no/) for kunngjorde aktivitetar.
+Voss HPK har flyaktivitet, kurs, sosiale samlingar og arrangement.
+Sjå [klubben si nettside](https://vosshpk.no/) for kunngjorde aktivitetar.
 
 ## Planlegging
 
@@ -15,6 +16,8 @@ For kvart arrangement eller klubbtur bør informasjonen avklare:
 - rutinar for mindreårige deltakarar, dersom aktuelt
 - om ein namngjeven reiseleiar har overordna ansvar frå avreise til heimkomst, og korleis deltakarar og føresette får instruksen
 
-For større, tilbakevendande arrangement bør klubben ha ei eiga arrangørhandbok eller sjekkliste. Stadfest kven som eig og vedlikeheld henne. Dersom klubben tilbyr paraidrett eller tilrettelagd aktivitet, legg inn informasjon om tilrettelegging, kompetanse og kvar ein kan søkje råd eller støtte.
+For større, tilbakevendande arrangement bør klubben ha ei eiga arrangørhandbok eller sjekkliste.
+Stadfest kven som eig og vedlikeheld henne.
+Dersom klubben tilbyr paraidrett eller tilrettelagd aktivitet, legg inn informasjon om tilrettelegging, kompetanse og kvar ein kan søkje råd eller støtte.
 
 Sjå òg [tryggleik på arrangement og reiser](/sikkerhet/nodprosedyrer) og [rammer for kurs](/opplaering/rammer-for-kursing).

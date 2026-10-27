@@ -33,7 +33,8 @@ It is based in Voss Municipality and is a member of Voss Sports Council.
 
 (1) The rules on admission of members, resignation, expulsion and similar matters are set out in NIF's bylaws §§ [10-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-4) and [10-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-6).
 
-(2) The club's duty to register information in the sports membership and organization register is governed by the [Regulations on the Sports Membership and Organization Register](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/), cf. NIF's bylaws [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5).
+(2) The club's duty to register information in the sports membership and organization register is governed by the [Regulations on the Sports Membership and Organization Register](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/), cf.
+NIF's bylaws [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5).
 
 ## § 4 Gender composition
 

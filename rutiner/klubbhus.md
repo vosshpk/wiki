@@ -1,10 +1,13 @@
 # Klubbhus
 
-> **Plasshaldar:** Avklar kven som har ansvar for reinhald, forbruksvarer, avvik og oppfølging av tilgang. Sjå [informasjon om klubbhuset](/klubbutstyr/klubbhus) og [årshjulet](/rutiner/arshjul).
+> **Plasshaldar:** Avklar kven som har ansvar for reinhald, forbruksvarer, avvik og oppfølging av tilgang.
+> Sjå [informasjon om klubbhuset](/klubbutstyr/klubbhus) og [årshjulet](/rutiner/arshjul).
 
 ## Orden og rydding
 
-Bruk ei enkel sjekkliste for orden og reinhald etter kurs, møte og klubbaktivitetar. Ho bør ta for seg kjøkken, toalett, golv, avfall, fellesareal og at utstyr blir lagt tilbake. Avklar kven som bestiller reinhaldsmiddel og melder frå om skadar eller feil.
+Bruk ei enkel sjekkliste for orden og reinhald etter kurs, møte og klubbaktivitetar.
+Ho bør ta for seg kjøkken, toalett, golv, avfall, fellesareal og at utstyr blir lagt tilbake.
+Avklar kven som bestiller reinhaldsmiddel og melder frå om skadar eller feil.
 
 ## Oppfølging
 

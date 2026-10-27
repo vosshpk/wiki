@@ -1,6 +1,7 @@
 # Årshjul for rutinar
 
-> **Plasshaldar:** Dette årshjulet skal seie når kvar vedlikehaldsrutine skal utførast. Ansvarlege, fristar og dokumentasjonsstad må stadfestast.
+> **Plasshaldar:** Dette årshjulet skal seie når kvar vedlikehaldsrutine skal utførast.
+> Ansvarlege, fristar og dokumentasjonsstad må stadfestast.
 
 | Tidspunkt | Rutine | Oppgåver | Ansvarleg | Dokumentasjon |
 |---|---|---|---|---|
@@ -12,4 +13,5 @@
 | Jamleg / tidspunkt må fastsetjast | [Klubbhus](/rutiner/klubbhus) | Fastset ansvar og plan for orden, rydding og reinhald. | Må avklarast | Må avklarast |
 | Jamleg / tidspunkt må fastsetjast | [Klubbvogn](/rutiner/klubbvogn) | Fastset kontroll, rydding og vedlikehald av klubbvogna. | Må avklarast | Må avklarast |
 
-Oppdater kalenderen når rutineeigarane er peika ut. Registrer utført dato, avvik, tiltak og kven som følgde opp.
+Oppdater kalenderen når rutineeigarane er peika ut.
+Registrer utført dato, avvik, tiltak og kven som følgde opp.

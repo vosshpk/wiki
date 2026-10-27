@@ -1,6 +1,8 @@
 # Tryggleiksgruppa
 
-Fagleg leiar peikar ut tryggleiksgruppa. Gruppa tek hand om klubben sine luftsportsfaglege oppgåver etter retningslinjene frå NLF/HPAC. Ta kontakt om du vil bli instruktør eller tandem-pilot, ta vidare opplæring eller melde ei lokal hending til oppfølging i OBSREG.
+Fagleg leiar peikar ut tryggleiksgruppa.
+Gruppa tek hand om klubben sine luftsportsfaglege oppgåver etter retningslinjene frå NLF/HPAC.
+Ta kontakt om du vil bli instruktør eller tandem-pilot, ta vidare opplæring eller melde ei lokal hending til oppfølging i OBSREG.
 
 **Kontakt:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
 
@@ -12,4 +14,5 @@ Fagleg leiar peikar ut tryggleiksgruppa. Gruppa tek hand om klubben sine luftspo
 | Tandemansvarleg | Morten Knapstad | Tryggleiksgruppa |
 | Medlem | Lars Haukom | Tryggleiksgruppa |
 
-Faglege funksjonar omfattar utdanning, tryggleik, regelverk, miljø og politiattest. Namn og verv kan endre seg; stadfest gjeldande oversikt med klubben.
+Faglege funksjonar omfattar utdanning, tryggleik, regelverk, miljø og politiattest.
+Namn og verv kan endre seg; stadfest gjeldande oversikt med klubben.

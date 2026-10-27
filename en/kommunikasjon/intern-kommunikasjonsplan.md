@@ -20,7 +20,8 @@ Its aims are to:
 
 ## Channels
 
-Channels should be easy to use and accessible to their intended audience. The board should confirm which channels the club actually uses and what information belongs in each.
+Channels should be easy to use and accessible to their intended audience.
+The board should confirm which channels the club actually uses and what information belongs in each.
 
 ### Digital channels
 
@@ -40,23 +41,29 @@ Channels should be easy to use and accessible to their intended audience. The bo
 
 ### Clear roles
 
-Clarify responsibilities for board members, committee chairs and volunteers. Make the organisation plan easy for members to find. This can reduce uncertainty and duplicated work.
+Clarify responsibilities for board members, committee chairs and volunteers.
+Make the organisation plan easy for members to find.
+This can reduce uncertainty and duplicated work.
 
 ### Regular updates
 
-The source document proposes weekly project updates and monthly board emails about progress and upcoming activities. The board should set a realistic schedule and channel.
+The source document proposes weekly project updates and monthly board emails about progress and upcoming activities.
+The board should set a realistic schedule and channel.
 
 ### Feedback
 
-Enable two-way communication, for example through a digital or physical feedback box and open question sessions with the board. Clarify how feedback is received and followed up.
+Enable two-way communication, for example through a digital or physical feedback box and open question sessions with the board.
+Clarify how feedback is received and followed up.
 
 ### Training and resources
 
-Provide guidance for the digital tools the club actually uses. Keep guidance on safety, flying sites and equipment maintenance up to date.
+Provide guidance for the digital tools the club actually uses.
+Keep guidance on safety, flying sites and equipment maintenance up to date.
 
 ### Transparent decisions
 
-Share relevant board minutes with members and present strategic goals and plans at the annual general meeting. Respect privacy and matters that must be handled confidentially.
+Share relevant board minutes with members and present strategic goals and plans at the annual general meeting.
+Respect privacy and matters that must be handled confidentially.
 
 ### Social and inclusive community
 
@@ -72,4 +79,6 @@ The board should appoint the people responsible and confirm these roles.
 
 ## Review
 
-Possible measures include email responses, activity in collaboration tools, attendance at member meetings and social events, and member feedback. The source document proposes a review every six months. The board should assign responsibility and set a date.
+Possible measures include email responses, activity in collaboration tools, attendance at member meetings and social events, and member feedback.
+The source document proposes a review every six months.
+The board should assign responsibility and set a date.

@@ -1,9 +1,11 @@
 # Stillingsinstruks for dagleg leiar
 
-> **Status:** Transkribert frå «Stillingsinstruks DL 2024». Godkjenningsdato er ikkje oppgitt. Dette er eit arbeidsdokument til styret si stadfesting, ikkje dokumentasjon på gjeldande arbeidsvilkår.
+> **Status:** Transkribert frå «Stillingsinstruks DL 2024».
+> Godkjenningsdato er ikkje oppgitt.
+> Dette er eit arbeidsdokument til styret si stadfesting, ikkje dokumentasjon på gjeldande arbeidsvilkår.
 
-**Tittel:** Dagleg leiar  
-**Rapporterer til:** Styret i Voss Hang- og Paragliderklubb  
+**Tittel:** Dagleg leiar <br>
+**Rapporterer til:** Styret i Voss Hang- og Paragliderklubb
 **Føremål:** Sikre forsvarleg drift og utvikling i tråd med vedtekter, NIF-regelverk og strategiske mål, og ta vare på medlemene gjennom god administrativ og økonomisk styring.
 
 ## Hovudoppgåver
@@ -39,7 +41,8 @@
 
 ## Mynde
 
-Dagleg leiar kan ta avgjerder i den daglege drifta og gjennomføre innkjøp og avtalar innanfor vedteke budsjett, styret sine retningsliner og godkjend fullmaktsmatrise. Dagleg leiar følgjer opp arbeidsoppgåver og opplæring for tilsette og frivillige innanfor delegert ansvar.
+Dagleg leiar kan ta avgjerder i den daglege drifta og gjennomføre innkjøp og avtalar innanfor vedteke budsjett, styret sine retningsliner og godkjend fullmaktsmatrise.
+Dagleg leiar følgjer opp arbeidsoppgåver og opplæring for tilsette og frivillige innanfor delegert ansvar.
 
 ## Rapportering og samarbeid
 
@@ -51,8 +54,11 @@ Dokumentet nemner erfaring med administrasjon og økonomistyring, kjennskap til 
 
 ## Arbeidstid og vilkår
 
-Arbeidstida er skildra som fleksibel, med kvelds- og helgearbeid ved behov. Løn og arbeidsvilkår blir fastsette av styret og arbeidsavtalen. Arbeidsavtalen og gjeldande lovverk går føre denne generelle instruksen dersom dei regulerer eit forhold meir konkret.
+Arbeidstida er skildra som fleksibel, med kvelds- og helgearbeid ved behov.
+Løn og arbeidsvilkår blir fastsette av styret og arbeidsavtalen.
+Arbeidsavtalen og gjeldande lovverk går føre denne generelle instruksen dersom dei regulerer eit forhold meir konkret.
 
 ## Revisjon
 
-Kjeldedokumentet seier at styret og dagleg leiar skal revidere instruksen årleg. **Vedteke dato og protokoll:** ikkje registrert.
+Kjeldedokumentet seier at styret og dagleg leiar skal revidere instruksen årleg.
+**Vedteke dato og protokoll:** ikkje registrert.

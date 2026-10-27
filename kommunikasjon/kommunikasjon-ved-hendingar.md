@@ -1,6 +1,8 @@
 # Kommunikasjon ved hendingar
 
-> **Viktig:** Denne sida gjeld informasjonsflyt. Ho erstattar ikkje naudprosedyrar, tryggleikssystemet eller rapporteringskrav frå NLF og styresmaktene. Følg alltid gjeldande rutinar og prioriter liv og helse.
+> **Viktig:** Denne sida gjeld informasjonsflyt.
+> Ho erstattar ikkje naudprosedyrar, tryggleikssystemet eller rapporteringskrav frå NLF og styresmaktene.
+> Følg alltid gjeldande rutinar og prioriter liv og helse.
 
 ## Første tiltak og intern varsling
 
@@ -16,14 +18,19 @@ Rekkjefølgje og ansvar må følgje klubben sitt gjeldande tryggleikssystem og n
 ## Ekstern varsling
 
 - Fagleg leiar vurderer, saman med tryggleiksansvarleg, innsending til NLF når tryggleikssystemet eller rapporteringskrav krev det.
-- Ved alvorlege hendingar må ansvarlege følgje gjeldande plikt til varsling av naudetatar, NLF og relevante styresmakter. Kjeldedokumentet nemner Luftfartstilsynet; stadfest gjeldande prosess og ansvar før bruk.
-- Avtal éin talsperson for førespurnader frå media og publikum. Ikkje spekuler eller del ubekrefta detaljar.
+- Ved alvorlege hendingar må ansvarlege følgje gjeldande plikt til varsling av naudetatar, NLF og relevante styresmakter.
+  Kjeldedokumentet nemner Luftfartstilsynet; stadfest gjeldande prosess og ansvar før bruk.
+- Avtal éin talsperson for førespurnader frå media og publikum.
+  Ikkje spekuler eller del ubekrefta detaljar.
 
 ## Informasjon til medlemmer
 
-Når det er forsvarleg og avklart kven som skal informere, kan styret eller fagleg leiar dele nødvendig informasjon med medlemmene. Vurder eit informasjonsmøte eller ei skriftleg oppdatering. Tryggleiksgruppa eller fagleg leiar kan kalle inn til ekstra tryggleiksmøte dersom hendinga viser behov for det.
+Når det er forsvarleg og avklart kven som skal informere, kan styret eller fagleg leiar dele nødvendig informasjon med medlemmene.
+Vurder eit informasjonsmøte eller ei skriftleg oppdatering.
+Tryggleiksgruppa eller fagleg leiar kan kalle inn til ekstra tryggleiksmøte dersom hendinga viser behov for det.
 
-Ikkje del namn, helseopplysningar eller andre personopplysningar utan rett grunnlag og godkjenning. Ikkje del informasjon ope før fakta og omsyn til dei involverte er avklarte.
+Ikkje del namn, helseopplysningar eller andre personopplysningar utan rett grunnlag og godkjenning.
+Ikkje del informasjon ope før fakta og omsyn til dei involverte er avklarte.
 
 ## Oppfølging og læring
 
@@ -34,6 +41,12 @@ Ikkje del namn, helseopplysningar eller andre personopplysningar utan rett grunn
 
 ## Mal for første melding til styret
 
-Bruk berre godkjend kanal. Del minst mogleg personinformasjon.
+Bruk berre godkjend kanal.
+Del minst mogleg personinformasjon.
 
-> Det har vore ei alvorleg hending ved [stad/tid]. Naudetatane er [varsla / ikkje relevante / status]. Skadeomfanget er [ukjent / kort avklart status]. Vi tek vare på dei involverte og følgjer gjeldande varslingsrutinar. Unngå vidare deling og spekulasjonar. Neste oppdatering kjem når vi har stadfesta informasjon.
+> Det har vore ei alvorleg hending ved [stad/tid].
+> Naudetatane er [varsla / ikkje relevante / status].
+> Skadeomfanget er [ukjent / kort avklart status].
+> Vi tek vare på dei involverte og følgjer gjeldande varslingsrutinar.
+> Unngå vidare deling og spekulasjonar.
+> Neste oppdatering kjem når vi har stadfesta informasjon.

@@ -1,6 +1,8 @@
 # Facilities
 
-Voss HPK has shared facilities for members, students and visiting pilots. Respect landowners, neighbours and other users. See the [official club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for current terms, prices and practical details.
+Voss HPK has shared facilities for members, students and visiting pilots.
+Respect landowners, neighbours and other users.
+See the [official club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for current terms, prices and practical details.
 
 ## Other facilities
 

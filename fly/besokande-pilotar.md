@@ -1,21 +1,29 @@
 # Besøkande pilotar på Voss
 
-Denne sida samanfattar informasjon for pilotar som vitjar Voss. Ho erstattar ikkje norske lover, reglar frå Noregs Luftsportforbund (NLF/HPAC), lokale tryggingskrav eller råd frå instruktørar. Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vosshpk.no/visiting-pilots-voss/) og [NLF si rettleiing](https://nlf.no).
+Denne sida samanfattar informasjon for pilotar som vitjar Voss.
+Ho erstattar ikkje norske lover, reglar frå Noregs Luftsportforbund (NLF/HPAC), lokale tryggingskrav eller råd frå instruktørar.
+Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vosshpk.no/visiting-pilots-voss/) og [NLF si rettleiing](https://nlf.no).
 
 ## Lisens og forsikring
 
 * Pilotar med norsk adresse må ha norsk kompetansebevis, uavhengig av statsborgarskap.
-* Utlendingar som vitjar Noreg som turistar, kan etter informasjonen frå NLF fly som gjestepilot i inntil seks månader dersom dei er medlem av ein utanlandsk hang-, para- eller speedglidingorganisasjon og har gyldig lisens. For utvekslingsstudentar er grensa oppgjeven til tolv månader.
-* Du må følgje norske lover og reglar og fly innanfor rettane i den nasjonale lisensen din. Ta med lisens og dokumentasjon på ansvarsforsikring, og vis dei fram ved førespurnad.
-* Noreg godtek IPPI-systemet. Kontroller gjeldande krav med NLF før du reiser.
-* Ta kontakt med klubben dersom du ønskjer å få utanlandsk kompetanse vurdert for norsk kompetansebevis. Du må kunne dokumentere kompetansenivået ditt.
+* Utlendingar som vitjar Noreg som turistar, kan etter informasjonen frå NLF fly som gjestepilot i inntil seks månader dersom dei er medlem av ein utanlandsk hang-, para- eller speedglidingorganisasjon og har gyldig lisens.
+  For utvekslingsstudentar er grensa oppgjeven til tolv månader.
+* Du må følgje norske lover og reglar og fly innanfor rettane i den nasjonale lisensen din.
+  Ta med lisens og dokumentasjon på ansvarsforsikring, og vis dei fram ved førespurnad.
+* Noreg godtek IPPI-systemet.
+  Kontroller gjeldande krav med NLF før du reiser.
+* Ta kontakt med klubben dersom du ønskjer å få utanlandsk kompetanse vurdert for norsk kompetansebevis.
+  Du må kunne dokumentere kompetansenivået ditt.
 
 ## Før du flyg
 
 1. Les [oversikta over flystadene](/fly/flysteder), [lokale tryggingsreglar](/sikkerhet/flytrygging) og [naudprosedyrane](/sikkerhet/nodprosedyrer).
-2. Sjekk gjeldande vêr, vindmålingar, luftrom, NOTAM og lokale avgrensingar. Tilhøva kan endre seg raskt.
+2. Sjekk gjeldande vêr, vindmålingar, luftrom, NOTAM og lokale avgrensingar.
+   Tilhøva kan endre seg raskt.
 3. Skaff lokal gjennomgang eller utsjekk når det er påkravd, og spør ein lokal pilot eller instruktør dersom du er usikker på start, landing eller luftrom.
-4. Ha med dokumentasjon på lisens og ansvarsforsikring. Bruk radio og live-sporing der det er tilrådd for flyginga.
+4. Ha med dokumentasjon på lisens og ansvarsforsikring.
+   Bruk radio og live-sporing der det er tilrådd for flyginga.
 
 Sjå [overnattingsalternativ på Voss](/klubben/overnatting) dersom du treng stad å bu.
 
@@ -27,5 +35,6 @@ Sjå [overnattingsalternativ på Voss](/klubben/overnatting) dersom du treng sta
 * **Live-sporing av bilen til klubben:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
 * **Flyloggar:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
 
-> Informasjonen kan bli endra. Kontroller alltid gjeldande reglar og lokale tilhøve før flyging. Fly berre når kompetansen, utstyret og tilhøva er forsvarlege.
-{.is-warning}
+> Informasjonen kan bli endra.
+Kontroller alltid gjeldande reglar og lokale tilhøve før flyging.
+Fly berre når kompetansen, utstyret og tilhøva er forsvarlege. {.is-warning}

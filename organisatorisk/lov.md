@@ -29,8 +29,7 @@ For reglar om plikta idrettslaget har til å vere medlem av eit særforbund gjel
 
 (1) For reglar om opptak av medlemmer, utmelding, fråtaking av medlemskap m.m. gjeld NIFs lov §§ [10-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-4) og [10-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-6).
 
-(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/), jf.
-NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5).
+(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/), jf. NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5).
 
 ## § 4 Kjønnsfordeling
 
@@ -104,9 +103,11 @@ Der det blir valt fleire varamedlemmer, skal det veljast 1. varamedlem, 2. varam
 
 For reglar om stemmegivinga på årsmøtet gjeld NIFs lov [§ 2-21](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-21).
 
-(4) Dersom idrettslaget har kontrollutval, gjeld NIFs lov [§ 2-12](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-12). Årsmøtet kan vedta instruks for kontrollutvalget.
+(4) Dersom idrettslaget har kontrollutval, gjeld NIFs lov [§ 2-12](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-12).
+Årsmøtet kan vedta instruks for kontrollutvalget.
 
-(5) Dersom idrettslaget har valkomite, gjeld NIFs lov [§ 2-18](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-18). Årsmøtet kan vedta instruks for valgkomiteen.
+(5) Dersom idrettslaget har valkomite, gjeld NIFs lov [§ 2-18](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-18).
+Årsmøtet kan vedta instruks for valgkomiteen.
 
 ## § 11 Styret i idrettslaget
 

@@ -1,8 +1,10 @@
 # Opplæring og pilotprogresjon
 
-Voss Hang- og Paragliderklubb tilbyr grunnkurs, vidaregåande opplæring, tandemutsjekk og instruktøropplæring i samarbeid med Norges Luftsportforbund (NLF/HPAC). Opplæring og lisensiering skal følgje dei gjeldande programma og tryggleikskrava frå NLF.
+Voss Hang- og Paragliderklubb tilbyr grunnkurs, vidaregåande opplæring, tandemutsjekk og instruktøropplæring i samarbeid med Norges Luftsportforbund (NLF/HPAC).
+Opplæring og lisensiering skal følgje dei gjeldande programma og tryggleikskrava frå NLF.
 
-Kursdatoar, prisar, påmelding og opptakskrav kan endre seg. Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/) og [elevguiden etter fullført kurs](https://vosshpk.no/etter-fullfort-kurs/) før du melder deg på eller planlegg vidare progresjon.
+Kursdatoar, prisar, påmelding og opptakskrav kan endre seg.
+Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/) og [elevguiden etter fullført kurs](https://vosshpk.no/etter-fullfort-kurs/) før du melder deg på eller planlegg vidare progresjon.
 
 > **MÅ AVKLARAST:** Publiser gjeldande kursavgifter, kva dei dekkjer, avmeldingsfristar og refusjonsreglar saman med kursinformasjonen.
 
@@ -20,7 +22,8 @@ Sjå òg klubben sine [rammer for kursing](/opplaering/rammer-for-kursing) og [r
    * Kombinasjon av paraglidervinge og ski i Myrkdalen og Bavallen.
    * Teori og samlingsstad på klubbhuset på Bømoen.
 3. **Tandemutdanning:** Opplæring for røynde pilotar som ønskjer godkjenning til å fly med passasjer.
-4. **Instruktøropplæring:** For pilotar med PP4 eller PP5 som ønskjer å bidra til rekruttering og opplæring. Ta kontakt med tryggleiksgruppa på [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
+4. **Instruktøropplæring:** For pilotar med PP4 eller PP5 som ønskjer å bidra til rekruttering og opplæring.
+   Ta kontakt med tryggleiksgruppa på [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
 
 ---
 
@@ -49,7 +52,8 @@ Informasjonen i tabellen er ei kort lokal oversikt, ikkje ei erstatning for dei 
 
 ## 👥 Faglege kontaktpersonar
 
-* **Fungerande fagleg leiar:** Malene Hetle Hole ([malene@vosshpk.no](mailto:malene@vosshpk.no) / tlf. 905 08 620)
+* **Fungerande fagleg leiar:** Malene Hetle Hole ([malene@vosshpk.no](mailto:malene@vosshpk.no) / tlf.
+  905 08 620)
 * **Utdanningsansvarleg:** Jens Petter Bergtun ([jpb@sfjbb.net](mailto:jpb@sfjbb.net))
 * **Tandemansvarleg:** Morten Knapstad
 * **Tryggleiksgruppa:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)

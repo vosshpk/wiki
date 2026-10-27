@@ -1,6 +1,7 @@
 # Tryggleik og naudprosedyrar
 
-Tryggleik kjem først i Voss Hang- og Paragliderklubb. Pilotar skal kjenne naudnummer, lokale varslingsrutinar og handlingsplanar før dei flyg.
+Tryggleik kjem først i Voss Hang- og Paragliderklubb.
+Pilotar skal kjenne naudnummer, lokale varslingsrutinar og handlingsplanar før dei flyg.
 
 Les òg den [separate handlingsplanen ved hang-, para- eller speedgliderulukke](/sikkerhet/handlingsplan-ved-ulykke), [opptrekksprosedyrane for landvinsj](/klubbutstyr/opptrekk-landvinsj) og informasjonen om [klubbåten](/klubbutstyr/bat).
 
@@ -62,7 +63,8 @@ Dersom du eller ein annan pilot landar i eit tre:
 2. **Sikre deg til stammen:** Bruk slynge og karabin frå seletøyet til å feste deg til ei solid grein eller sjølve trestamma.
 3. **Ikkje løyse vingen eller naudskjermen** før du er sikra mot å falle.
 4. **Varsle:**
-   * Dersom piloten er uskadd, ring politiet på **02800** og meld frå om at piloten er i god behald. Det kan hindre at andre utløyser ein unødvendig stor redningsaksjon.
+   * Dersom piloten er uskadd, ring politiet på **02800** og meld frå om at piloten er i god behald.
+     Det kan hindre at andre utløyser ein unødvendig stor redningsaksjon.
    * Kontakt deretter fagleg leiar eller styret for å samordne hjelp med å kome ned.
 
 ---
@@ -71,19 +73,23 @@ Dersom du eller ein annan pilot landar i eit tre:
 
 Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
 
-1. **Før landing:** Løysne eventuelle beinstroppar eller bryststropp rett før nedslaget dersom situasjonen tillèt det. Ikkje løys dei så tidleg at du kan gli ut av selen i lufta.
-2. **I vatnet:** Kom deg straks fri frå liner og vinge. Sym bort frå duken så du ikkje viklar deg inn.
+1. **Før landing:** Løysne eventuelle beinstroppar eller bryststropp rett før nedslaget dersom situasjonen tillèt det.
+   Ikkje løys dei så tidleg at du kan gli ut av selen i lufta.
+2. **I vatnet:** Kom deg straks fri frå liner og vinge.
+   Sym bort frå duken så du ikkje viklar deg inn.
 3. **Bruk av redningsbåten til klubben:**
    * Den oransje båten ligg på Vangsvatnet.
    * Båten har ikkje kodelås og kan brukast i ein naudssituasjon.
    * **Trygg bruk:** Start motoren i fri (nøytral), og fest dødmannssnora til føraren før du gir gass.
-4. **Varsle politiet:** Ring **02800** så snart som råd dersom piloten er komen trygt på land. Då kan AMK og naudetatane unngå å rykke ut på grunnlag av meldingar frå publikum.
+4. **Varsle politiet:** Ring **02800** så snart som råd dersom piloten er komen trygt på land.
+   Då kan AMK og naudetatane unngå å rykke ut på grunnlag av meldingar frå publikum.
 
 ---
 
 ## ⚡ Ulukker med høgspentleidningar
 
-* Dersom ein glidar kjem i kontakt med eller heng nær høgspentleidningar: **Hald god avstand.** Gå aldri bort til vingen eller seletøyet i leidningane; det kan vere fare for overslag og skrittspenning.
+* Dersom ein glidar kjem i kontakt med eller heng nær høgspentleidningar: **Hald god avstand.**
+  Gå aldri bort til vingen eller seletøyet i leidningane; det kan vere fare for overslag og skrittspenning.
 * **Ring 110 (brann og redning)** straks, slik at dei kan få straumen kopla ut.
 * Varsle òg **Voss Energi på 56 52 83 50**.
 
@@ -91,4 +97,5 @@ Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
 
 ## 📝 Rapportering av avvik og hendingar (OBSREG)
 
-Når situasjonen er under kontroll, skal uønskte hendingar, nestenulukker og utstyrsfeil meldast i NLF/HPAC sitt rapporteringssystem **OBSREG**. Systemet skal støtte førebyggjande tryggleiksarbeid i klubben og forbundet.
+Når situasjonen er under kontroll, skal uønskte hendingar, nestenulukker og utstyrsfeil meldast i NLF/HPAC sitt rapporteringssystem **OBSREG**.
+Systemet skal støtte førebyggjande tryggleiksarbeid i klubben og forbundet.

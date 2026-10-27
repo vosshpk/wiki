@@ -1,12 +1,19 @@
 # Strategy Document 2024–2028
 
-> **Source and status:** Textual version of the “Styringsdokument 2024–2028” presentation from the 2024 strategy session. The presentation calls it a draft that would receive member input. This repository does not establish whether a final version was adopted. Confirm its status with the board before treating it as policy.
+> **Source and status:** Textual version of the “Styringsdokument 2024–2028” presentation from the 2024 strategy session.
+> The presentation calls it a draft that would receive member input.
+> This repository does not establish whether a final version was adopted.
+> Confirm its status with the board before treating it as policy.
 
 ## Purpose
 
-The board wants a coherent, sustainable and long-term effort that creates stable conditions for hang gliding, paragliding and speed gliding in Voss. The document is intended to support the club's development.
+The board wants a coherent, sustainable and long-term effort that creates stable conditions for hang gliding, paragliding and speed gliding in Voss.
+The document is intended to support the club's development.
 
-The 2024–2028 draft came from a strategy session with the board and employees in 2024 and was expected to receive member input. An adopted strategy document should guide board planning and administration. The board and administration should use it to prepare an annual programme for the AGM. Members are encouraged to contribute through member meetings, surveys and direct feedback to club leadership.
+The 2024–2028 draft came from a strategy session with the board and employees in 2024 and was expected to receive member input.
+An adopted strategy document should guide board planning and administration.
+The board and administration should use it to prepare an annual programme for the AGM.
+Members are encouraged to contribute through member meetings, surveys and direct feedback to club leadership.
 
 ## Organisation shown in the source
 
@@ -18,7 +25,8 @@ The presentation shows this high-level structure:
 - **Managing director/administration** → member services, operations and course coordination, website/shop, facilities, finance and events.
 - Course and tandem instructors support activities and training.
 
-This describes a 2024 chart and does not confirm current role holders. See the [organisation plan](/en/organisatorisk/organisasjonsplan) and [board and committees](/en/styret/styret).
+This describes a 2024 chart and does not confirm current role holders.
+See the [organisation plan](/en/organisatorisk/organisasjonsplan) and [board and committees](/en/styret/styret).
 
 ## Annual cycle shown in the presentation
 
@@ -40,7 +48,8 @@ Club evening and next-year planning; accounting and budgeting; strategy session;
 
 ## Strategy summary
 
-The source has a “Strategy summary” heading but no readable text below it. The ideas stated elsewhere in the presentation are captured in the goals and focus areas below.
+The source has a “Strategy summary” heading but no readable text below it.
+The ideas stated elsewhere in the presentation are captured in the goals and focus areas below.
 
 ## Position, audience, vision and purpose
 
@@ -59,12 +68,18 @@ The source has a “Strategy summary” heading but no readable text below it. T
 
 ## Values and characteristics
 
-The values listed are **an inclusive environment, development and safety**. The club aims to be considerate, unifying and curious. Safety means considering people, risk, weather and the local environment. Inclusion means good follow-up and varied activities. Development means self-evaluation and openness to feedback and criticism.
+The values listed are **an inclusive environment, development and safety**.
+The club aims to be considerate, unifying and curious.
+Safety means considering people, risk, weather and the local environment.
+Inclusion means good follow-up and varied activities.
+Development means self-evaluation and openness to feedback and criticism.
 
 ## Evidence of the club's promise
 
-The presentation points to effective administration and facilities, a healthy culture, quality training and follow-up, and annual programme plans that are followed up and evaluated. These are intended to strengthen members' sense of belonging and ownership.
+The presentation points to effective administration and facilities, a healthy culture, quality training and follow-up, and annual programme plans that are followed up and evaluated.
+These are intended to strengthen members' sense of belonging and ownership.
 
 ## Follow-up
 
-The annual programme should turn goals into actions. See the [2025 programme plan](/en/organisatorisk/programplan-2025), which is now historical, and confirm where the latest adopted plan is published.
+The annual programme should turn goals into actions.
+See the [2025 programme plan](/en/organisatorisk/programplan-2025), which is now historical, and confirm where the latest adopted plan is published.

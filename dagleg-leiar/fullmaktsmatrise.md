@@ -1,6 +1,9 @@
 # Fullmaktsmatrise for dagleg leiar
 
-> **Status: utkast – må godkjennast av styret.** Transkribert frå innsendt dokument utan vedtaksdato. Beløpsgrenser og uklare punkt er ikkje stadfesta som gjeldande fullmakter. Fram til styret har vedteke matrisa, må ein følgje gjeldande vedtak, budsjett, vedtekter og signaturreglar.
+> **Status: utkast – må godkjennast av styret.**
+> Transkribert frå innsendt dokument utan vedtaksdato.
+> Beløpsgrenser og uklare punkt er ikkje stadfesta som gjeldande fullmakter.
+> Fram til styret har vedteke matrisa, må ein følgje gjeldande vedtak, budsjett, vedtekter og signaturreglar.
 
 | Område | Føreslått fullmakt for dagleg leiar | Styregodkjenning / avgrensing |
 |---|---|---|
@@ -20,10 +23,13 @@
 ## Føresetnader og kontroll
 
 - Fullmaktene skal følgje budsjettet som er vedteke av rett organ.
-- Matrisa er meint å vere tilpassa klubben sin storleik, økonomi og kompleksitet. Styret må godkjenne henne og føre vedtaket i protokollen, og gjere grensene kjende for dagleg leiar og andre relevante personar.
+- Matrisa er meint å vere tilpassa klubben sin storleik, økonomi og kompleksitet.
+  Styret må godkjenne henne og føre vedtaket i protokollen, og gjere grensene kjende for dagleg leiar og andre relevante personar.
 - Styret skal få jamlege rapportar om økonomi og aktivitet.
 - Tryggleiksrelaterte avgjerder om flyging, utstyr og kurs må følgje gjeldande NLF/NIF-reglar; tryggleiksgruppa si faglege vurdering skal innhentast når relevant.
 - Styret bør gå gjennom matrisa minst årleg og når organisering, budsjett eller ansvar endrar seg.
 - Avklar korleis beløpsgrenser skal reknast for avtalar som går over fleire år, og om summane inkluderer meirverdiavgift.
 
-**Vedteke dato:** ikkje registrert. **Styremøte/protokoll:** ikkje registrert. **Signatur styreleiar:** ikkje registrert.
+**Vedteke dato:** ikkje registrert.
+**Styremøte/protokoll:** ikkje registrert.
+**Signatur styreleiar:** ikkje registrert.

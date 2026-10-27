@@ -1,6 +1,7 @@
 # Flytryggleik og lokale reglar
 
-Voss byr på gode flytilhøve. Terreng, gondolbaner, busetnad og delt luftrom krev likevel at pilotar følgjer dei lokale reglane og viser godt skjøn.
+Voss byr på gode flytilhøve.
+Terreng, gondolbaner, busetnad og delt luftrom krev likevel at pilotar følgjer dei lokale reglane og viser godt skjøn.
 
 ---
 
@@ -9,7 +10,8 @@ Voss byr på gode flytilhøve. Terreng, gondolbaner, busetnad og delt luftrom kr
 Voss Gondol og skiheisane i Voss Resort og Myrkdalen har høgspentkablar, drivkablar og master som kan gi fare for kollisjon og turbulens.
 
 * **Minsteavstand:** Hald minst **50 meter vertikal og horisontal avstand** til gondolbaner, heiskablar og master.
-* **Kryssing av gondolkabelen:** Ved innflyging frå Hanguren mot Vangen skal kabelen kryssast med god høgd over han. Ver merksam på turbulens i le av Hangurstoppen ved nordleg eller austleg vind.
+* **Kryssing av gondolkabelen:** Ved innflyging frå Hanguren mot Vangen skal kabelen kryssast med god høgd over han.
+  Ver merksam på turbulens i le av Hangurstoppen ved nordleg eller austleg vind.
 
 ---
 
@@ -27,7 +29,8 @@ Flyging over bygder, vegar og folk krev at utstyr er sikra mot å falle ned:
 
 Vestsida av hovudlandinga ved Kulturhuset/Prestegardslandet blir jamleg brukt som landingsplass for Luftambulansen og andre helikopter.
 
-* **Vikeplikt:** Helikopter har alltid prioritet. Hald avstand dersom eit helikopter er i lufta eller landar eller tek av på Vangen.
+* **Vikeplikt:** Helikopter har alltid prioritet.
+  Hald avstand dersom eit helikopter er i lufta eller landar eller tek av på Vangen.
 * **Alternativ landing:** Avbryt innflyginga mot helikopterområdet og vel ei anna landing:
   * Lenger aust på Prestegardslandet.
   * På sandstranda sør i Vangsvatnet.
@@ -47,7 +50,8 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
 
 ## 🗺️ Luftrom og Bømoen flyplass
 
-* **Høgdegrense:** Den vanlege høgdegrensa over Voss under kontrollert luftrom er **2 286 moh (7 500 fot)**. Sjekk alltid status på [luftrom.info](https://luftrom.info).
+* **Høgdegrense:** Den vanlege høgdegrensa over Voss under kontrollert luftrom er **2 286 moh (7 500 fot)**.
+  Sjekk alltid status på [luftrom.info](https://luftrom.info).
 * **Bømoen flyplass (ENBM):** Bømoen er ein aktiv luftsportsflyplass med fallskjermhopping, seglflyging og motorflytrafikk.
   * Det er oppretta flyforbodssone/vernesone over flyplassen og droppsona.
   * Paraglider- og hanggliderpilotarar skal halde god avstand til trafikkrunden og luftsportssona på Bømoen.
@@ -57,6 +61,9 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
 
 ## 🌬️ Vind og Vangsvatnet
 
-* **Vindskjer og rotor:** Ved austavind kan det bli rotor og kraftig turbulens ved Vangen og Minigolfen. Følg med på krusingane på Vangsvatnet for å vurdere lokal vindstyrke og retning.
-* **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen. Vinden over vatnet kan snu og auke raskt. Sterk vind frå sør viser seg ikkje alltid tydeleg på vatnet, så ikkje bruk krusingane som einaste vindindikator.
+* **Vindskjer og rotor:** Ved austavind kan det bli rotor og kraftig turbulens ved Vangen og Minigolfen.
+  Følg med på krusingane på Vangsvatnet for å vurdere lokal vindstyrke og retning.
+* **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen.
+  Vinden over vatnet kan snu og auke raskt.
+  Sterk vind frå sør viser seg ikkje alltid tydeleg på vatnet, så ikkje bruk krusingane som einaste vindindikator.
 * **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.

@@ -1,6 +1,7 @@
 # Annual meeting
 
-The annual meeting is the club’s highest authority. It is held each year by the end of March, in accordance with the Norwegian Olympic and Paralympic Committee and Confederation of Sports (NIF) model rules and the club’s bylaws.
+The annual meeting is the club’s highest authority.
+It is held each year by the end of March, in accordance with the Norwegian Olympic and Paralympic Committee and Confederation of Sports (NIF) model rules and the club’s bylaws.
 
 ## Notice and proceedings
 
@@ -25,7 +26,8 @@ Previous annual meeting papers, reports and minutes are available in the [offici
 | **2024** | Notice, annual report, accounts and minutes | Approved at the annual meeting |
 | **2023** | Annual report, accounts and minutes | Approved at the annual meeting |
 
-Read the club’s [bylaws](/en/organisatorisk/lov). The official source text is in Norwegian Nynorsk.
+Read the club’s [bylaws](/en/organisatorisk/lov).
+The official source text is in Norwegian Nynorsk.
 
 The club's governance information includes:
 

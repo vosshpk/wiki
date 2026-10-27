@@ -1,6 +1,9 @@
 # Managing Director Delegation Matrix
 
-> **Status: draft — requires board approval.** Transcribed from a submitted document with no adoption date. Amounts and unclear items are not confirmed as current authority. Until adopted, follow current decisions, budget, bylaws and signing rules.
+> **Status: draft — requires board approval.**
+> Transcribed from a submitted document with no adoption date.
+> Amounts and unclear items are not confirmed as current authority.
+> Until adopted, follow current decisions, budget, bylaws and signing rules.
 
 | Area | Proposed managing director authority | Board approval / limit |
 |---|---|---|
@@ -20,10 +23,13 @@
 ## Conditions and review
 
 - Authority must remain within the budget approved by the proper body.
-- The matrix should fit the club's size, finances and complexity. The board must approve it, record the decision in the minutes, and communicate the limits to the managing director and other relevant people.
+- The matrix should fit the club's size, finances and complexity.
+  The board must approve it, record the decision in the minutes, and communicate the limits to the managing director and other relevant people.
 - The board should receive regular financial and activity reports.
 - Decisions concerning flying, equipment and courses must follow current NLF/NIF rules; consult the safety group's technical assessment where relevant.
 - The board should review this matrix at least annually and when the organisation, budget or responsibilities change.
 - Clarify how limits apply to multi-year contracts and whether amounts include VAT.
 
-**Adoption date:** not recorded. **Board meeting/minutes:** not recorded. **Chair signature:** not recorded.
+**Adoption date:** not recorded.
+**Board meeting/minutes:** not recorded.
+**Chair signature:** not recorded.

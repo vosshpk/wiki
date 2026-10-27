@@ -1,7 +1,9 @@
 # Training and pilot progression
 
-Voss HPK offers beginner and further training, tandem check-outs and instructor training in cooperation with the Norwegian Air Sports Federation (NLF/HPAC). Training and licensing must follow current NLF programmes and safety requirements.
-Course dates, prices, registration and admission requirements may change. Check the [club’s current course pages](https://vosshpk.no/kurs/) and [post-course student guide](https://vosshpk.no/etter-fullfort-kurs/) before registering or planning further progression.
+Voss HPK offers beginner and further training, tandem check-outs and instructor training in cooperation with the Norwegian Air Sports Federation (NLF/HPAC).
+Training and licensing must follow current NLF programmes and safety requirements.
+Course dates, prices, registration and admission requirements may change.
+Check the [club’s current course pages](https://vosshpk.no/kurs/) and [post-course student guide](https://vosshpk.no/etter-fullfort-kurs/) before registering or planning further progression.
 
 > **TO RESOLVE:** Publish current course fees, what they cover, cancellation deadlines and refund terms alongside course information.
 
@@ -12,7 +14,8 @@ See also the club's [course framework](/en/opplaering/rammer-for-kursing) and [p
 1. **Paragliding beginner course (spring, summer and autumn):** Theory at the [clubhouse at Bømoen](/en/klubbutstyr/clubhouse), ground handling and low training hops at the [training hill](/en/fly/flysteder), followed by radio-guided high flights from [Hangurstoppen](/en/fly/flysteder) to Prestegardslandet.
 2. **Speed-riding beginner course (winter):** Paraglider wing and skis in Myrkdalen and Bavallen, with theory at the clubhouse.
 3. **Tandem training:** For experienced pilots seeking approval to fly with a passenger.
-4. **Instructor training:** For pilots with a PP4 or PP5 rating who want to support recruitment and training. Contact the safety group at [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
+4. **Instructor training:** For pilots with a PP4 or PP5 rating who want to support recruitment and training.
+   Contact the safety group at [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
 
 ## NLF/HPAC progression overview
 
