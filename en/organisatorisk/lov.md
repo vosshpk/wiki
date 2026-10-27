@@ -141,7 +141,7 @@ The Technical Director establishes and runs the safety group, which may have its
 
 (1) The annual meeting may decide to establish or dissolve groups and determine how they are organized and managed, or delegate this authority to the board.
 
-(2) If the annual meeting has decided, when considering the organizational plan, to establish groups with group boards, the following applies to sports clubs whose turnover and membership are above the threshold set by the NIF Board:
+(2) If the annual meeting has decided, when considering the organizational plan, to establish groups with group boards, the following applies to sports clubs whose turnover and membership are [above the threshold set by the NIF Board](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/):
 
 1. Each group shall have a group board of at least three members.
    The group board is elected at the annual meeting or appointed by the board under authority delegated by the annual meeting.

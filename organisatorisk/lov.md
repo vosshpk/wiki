@@ -136,7 +136,7 @@ Fagleg leiar opprettar og driftar sikkerhetsgruppa som kan ha eigen sikkerhetsan
 
 (1) Årsmøtet i idrettslaget kan vedta å opprette og leggje ned grupper, og korleis dei skal organiserast og leiast, eventuelt delegere dette til styret.
 
-(2) Dersom årsmøtet i idrettslaget ved behandlinga av organisasjonsplanen har vedteke å opprette grupper med gruppestyre, gjeld følgjande for idrettslag med omsetnad og medlemstal over terskel fastsett av Idrettsstyret:
+(2) Dersom årsmøtet i idrettslaget ved behandlinga av organisasjonsplanen har vedteke å opprette grupper med gruppestyre, gjeld følgjande for idrettslag med omsetnad og medlemstal [over terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/):
 
 1. Kvar gruppe skal ha eit gruppestyre på minst tre medlemmer.
    Gruppestyret blir valt på årsmøtet eller blir utnemnt av styret etter fullmakt frå årsmøtet.
