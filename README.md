@@ -99,6 +99,7 @@ Wiki.js connects to this repository through its built-in **Git Storage** module.
 
 Folder names map directly to the page paths used by the wiki.
 The wiki itself is the club handbook; there is no separate handbook page.
+Sidebar menu entries can be generated from the page paths and first Markdown headings by the navigation utility in `wiki-infrastructure/scripts/sync-wiki-navigation.mjs`; optional translated folder labels are configured in `navigation.json` here.
 The source guide in `docs/veileder-klubbhandbok-pr-august-2023.docx` was considered as a checklist for relevant topics and placeholders.
 Its applicable themes are distributed across the club, board, managing director, governance, training, equipment and safety sections.
 Generic team-sport topics that do not fit hang- and paragliding have not been copied as if they applied.

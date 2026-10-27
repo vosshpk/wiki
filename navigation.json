@@ -1,0 +1,46 @@
+{
+  "mode": "MIXED",
+  "locales": {
+    "nn": {
+      "directory": ".",
+      "pathPrefix": "/nn",
+      "ignoredDirectories": ["assets", "en"]
+    },
+    "en": {
+      "directory": "en",
+      "pathPrefix": "/en",
+      "ignoredDirectories": ["assets"]
+    }
+  },
+  "ignoredFiles": ["README.md"],
+  "folderLabels": {
+    "nn": {
+      "dagleg-leiar": "Dagleg leiar",
+      "fly": "Fly",
+      "klubben": "Klubben",
+      "klubbutstyr": "Klubbutstyr",
+      "kommunikasjon": "Kommunikasjon",
+      "opplaering": "Opplæring",
+      "organisatorisk": "Organisatorisk",
+      "rutiner": "Rutinar",
+      "sikkerhet": "Tryggleik",
+      "styret": "Styret",
+      "tandem": "Tandem",
+      "ROS": "ROS-analysar"
+    },
+    "en": {
+      "dagleg-leiar": "Managing Director",
+      "fly": "Flying",
+      "klubben": "The Club",
+      "klubbutstyr": "Club Equipment",
+      "kommunikasjon": "Communications",
+      "opplaering": "Training",
+      "organisatorisk": "Governance",
+      "rutiner": "Procedures",
+      "sikkerhet": "Safety",
+      "styret": "Board",
+      "tandem": "Tandem",
+      "ROS": "Risk Assessments"
+    }
+  }
+}
