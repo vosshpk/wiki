@@ -36,5 +36,3 @@ Avklar beløpet i gruppa før avreise dersom det er tvil.
 
 Merk betalinga med namn og transport.
 Prisane og rutinane kan endre seg; sjå [den offisielle fasilitetssida](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for oppdateringar.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

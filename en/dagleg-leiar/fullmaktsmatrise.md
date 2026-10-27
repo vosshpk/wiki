@@ -33,5 +33,3 @@
 **Adoption date:** not recorded.
 **Board meeting/minutes:** not recorded.
 **Chair signature:** not recorded.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

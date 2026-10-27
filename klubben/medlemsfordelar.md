@@ -11,5 +11,3 @@ NLF publiserer òg eigne [medlemsfordelar og partnaravtalar](https://nlf.no/om-n
 
 Vegavgifta er dekt for bilen til klubben.
 Privatbilar må betale ordinær bomavgift.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

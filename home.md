@@ -48,5 +48,3 @@ Ikkje publiser passord, sensitive personopplysningar eller interne personaldokum
 
 Les [rettleiinga for besøkande pilotar](/fly/besokande-pilotar) før du flyg på Voss.
 For oppdaterte kurs, prisar og klubbnyheiter, sjå [vosshpk.no](https://vosshpk.no/).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

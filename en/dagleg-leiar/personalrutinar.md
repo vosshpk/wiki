@@ -7,5 +7,3 @@ The managing director handles duties delegated by the board, in line with the [j
 > Confirm any collective agreement, employer association and written agreements for instructors and others in ongoing roles.
 
 Sensitive personnel records must be stored in approved systems with restricted access, not in the public wiki or public content repository.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

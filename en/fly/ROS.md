@@ -17,5 +17,3 @@ These are source documents and should be reviewed and dated by the responsible p
 
 **Scale in the source documents:** Likelihood and consequence are scored 1 (low), 2 (medium) or 3 (high).
 The risk score is reproduced as written and has not been recalculated.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

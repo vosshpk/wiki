@@ -82,5 +82,3 @@ Styret må peike ut ansvarlege personar og stadfeste rollene.
 Moglege mål er svar på e-postar, aktivitet i samarbeidsverktøy, oppmøte på medlemsmøte og sosiale arrangement, og tilbakemeldingar frå medlemmer.
 Kjeldedokumentet føreslår gjennomgang kvart halvår.
 Styret bør fastsetje ansvar og tidspunkt.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

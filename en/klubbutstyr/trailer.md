@@ -7,5 +7,3 @@ It stores tandem equipment, payment terminals and first-aid supplies, and serves
 - Keep the area tidy, take rubbish with you and extinguish the grills safely.
 - Return equipment to its place.
 - Report faults, damage or maintenance needs to the managing director.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

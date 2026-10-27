@@ -105,5 +105,3 @@ Styret kan vedta særskild teieplikt for ei konkret sak.
 
 **Vedteke dato:** ikkje registrert.
 **Styremøte/protokoll:** ikkje registrert.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

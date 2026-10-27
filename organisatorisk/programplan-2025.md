@@ -68,5 +68,3 @@ Prioriteringane var tydeleg ansvarsdeling mellom administrasjon, styre og tryggl
 ## Oppfølging og evaluering
 
 Planen la opp til kvartalsvise statusmøte mellom styret og dagleg leiar, medlemsundersøking og sluttevaluering på årsmøtet i 2026.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

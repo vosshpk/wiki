@@ -77,5 +77,3 @@ The source document suggests the roles below; the board should confirm who holds
 Possible measures include website visits, social media followers and engagement, and attendance at courses and events.
 The source document proposes quarterly reviews.
 Assign someone to collect the figures and use them to adjust activities.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

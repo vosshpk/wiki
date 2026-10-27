@@ -38,5 +38,3 @@ Sjå [overnattingsalternativ på Voss](/klubben/overnatting) dersom du treng sta
 > Informasjonen kan bli endra.
 Kontroller alltid gjeldande reglar og lokale tilhøve før flyging.
 Fly berre når kompetansen, utstyret og tilhøva er forsvarlege. {.is-warning}
-
-<!-- wiki-refresh-probe-2026-10-27 -->

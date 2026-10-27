@@ -17,5 +17,3 @@
 | 6 | Skade ved topplanding | Feilvurdering av forhold, vindstyrke, terreng eller ferdigheiter. | Lett til alvorleg skade på pilot, typisk ankel- eller kompresjonsbrot; mogleg skade på tredjepart/materiell. | Planlegg flyturen, ta omsyn til dagsform og ha margin til å avbryte innflyginga. Tren topplanding på eigna stader. | 1 | 2 | 2 |
 | 7 | Straumleidningar og andre vaierar | Manglande kartlegging i flyplanen kan redusere avstand til hinder. Feilvurdert vêr eller hyperfokus på ei anna hending kan føre til tap av oversikt. | Alvorleg personskade og mogleg materiellskade på tredjepart. | Etabler sikkerheitssone og informasjonskart. | 1 | 3 | 2 |
 | 8 | Skjermkollisjon (heng/termikk og innflyging PG/SPG) | Konflikt mellom pilotar nær takeoff eller i heng/termikk. Mangelfull kommunikasjon og fempunktsjekk, eller tap av oversikt under flyging. | Alvorleg skade på to personar. | Ha flyplan, følg vikepliktsreglar og ta omsyn til dagsform. | 1 | 3 | 2 |
-
-<!-- wiki-refresh-probe-2026-10-27 -->

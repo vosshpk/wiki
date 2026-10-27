@@ -85,5 +85,3 @@ Administration and member services · board papers and decision follow-up · mem
 
 > **To confirm:** Responsibility for Ekstremsportveko, social activities, competitions, the website, payment cards/credit, sponsorship and communications must follow board decisions, the employment agreement, budget and approved delegation matrix.
 > See the [managing director page](/en/dagleg-leiar/dagleg-leiar).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -23,5 +23,3 @@
 | 8 | Bakkehandtering på landingsplassen under aktivitet | Kurs/trening med mange pilotar, til dømes om sommaren eller under Ekstremsportveko. | Kollisjon på landing eller unnamanøver som fører til dårleg landing. | Unngå dette ved organisert aktivitet. Prestegardslandet er best eigna for bakkehandtering ved vestavind. | 2 | 3 | 3 |
 | 9 | Impulsiv landing med høgare fart eller avansert landing for filming | Menneskelege faktorar, særleg vener, tilskodarar og kamera. | Hard landing, kollisjon med folk eller feilberekning. | Undervis og legg vekt på menneskelege faktorar. | 3 | 1 | 2 |
 | 10 | Hard landing | Låg sving, tap av høgdemedvit, manglande planlegging/trening eller impulsiv endring av flyplan. | Pilotskade, potensielt alvorleg ved høg fart. | Landingsmønster og AM-kurs. Avgrens etter kompetansekrav under arrangement. | 1 | 3 | 2 |
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -33,5 +33,3 @@ Tandem instructors must not use prices other than those listed above.
 
 The source describes payment and reconciliation procedures as work in progress.
 Confirm the current process with the club before requesting payment.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

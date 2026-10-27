@@ -36,5 +36,3 @@ The club's governance information includes:
 - [2025 programme plan](/en/organisatorisk/programplan-2025) (historical)
 - [Club information in the wiki](/en/klubben/om-klubben)
 - [Official club archive](https://vosshpk.no/om-klubben/arkiv/)
-
-<!-- wiki-refresh-probe-2026-10-27 -->

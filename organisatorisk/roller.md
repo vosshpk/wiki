@@ -85,5 +85,3 @@ Administrasjon og medlemsservice · styresaker og vedtaksoppfølging · medlemsr
 
 > **Må stadfestast:** Ansvar for Veko, sosial aktivitet, konkurransar, nettstad, betalingskort/kreditt, sponsing og kommunikasjon må følgje styrevedtak, arbeidsavtale, budsjett og godkjend fullmaktsmatrise.
 > Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

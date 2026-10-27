@@ -78,5 +78,3 @@ Harness straps and lines can create an immediate drowning hazard:
 
 Once the situation is under control, report unwanted incidents, near misses and equipment failures through the NLF/HPAC **OBSREG** reporting system.
 Reports support preventive safety work by the club and federation.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

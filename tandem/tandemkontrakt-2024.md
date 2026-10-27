@@ -69,5 +69,3 @@ Reaksjonar og prosess må kontrollerast mot gjeldande NLF/HPS-reglar og klubben 
 
 Kjeldedokumentet har felt for tandeminstruktør med blokkbokstavar, stad og dato.
 Bruk ei oppdatert, godkjend avtale for signering; ikkje signer eller legg inn personopplysningar på denne arkivsida.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

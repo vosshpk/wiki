@@ -11,5 +11,3 @@ Sjå [klubben si offisielle fasilitetsside](https://vosshpk.no/om-klubben/fasili
 - [Klubbåten på Vangsvatnet](/klubbutstyr/bat)
 - [Klubbilen og transport](/klubbutstyr/bil)
 - [Skulebakken på Bakkatun](/fly/flysteder)
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -48,5 +48,3 @@ To protect neighbours and landowners, do not land at:
 - From May to August, a westerly/south-westerly sea breeze often develops in the afternoon and may strengthen or turn quickly.
   Strong southerly winds may not show clearly on the lake, so do not rely on ripples as your only wind indicator.
 - Enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all) before launch so other pilots and retrieval drivers can see your location.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -20,5 +20,3 @@ Define checks for the engine, fuel, battery, safety equipment and moorings, and 
 - **Servicing and haul-out:** Haul out both boats and arrange servicing in winter, before freezing conditions.
 - **Inspection points and interval:** Confirm with the boat owner and service provider.
 - **Log:** Date, boat, inspection/service, issues, actions and owner.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

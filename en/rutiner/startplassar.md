@@ -14,5 +14,3 @@ First clear work that could affect terrain or nature with the landowner and rele
 - **Owner for each site:** To be assigned.
 - **Inspection dates:** To be set in the annual cycle.
 - **Log:** Site, date, observation, agreed action, owner and status.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -116,5 +116,3 @@ Sjå [klubbilen og transport](/klubbutstyr/bil) for gjeldande rutinar og prisar.
 
 Vindmålingar frå Gjelle, Hangur sør- og auststart, hovudlandinga ved Kulturhuset, Rokne og Ondrahaugen i Myrkdalen finst i [den oppdaterte vêr- og vindoversikta](https://vosshpk.no/fly-pa-voss/vaer-og-vind/).
 Målingar erstattar ikkje vurdering av tilhøva på staden.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

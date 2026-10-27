@@ -14,5 +14,3 @@ Kontroller at tilhengaren er forsvarleg lasta og kopla før køyring.
 - **Ansvarleg:** Må avklarast.
 - **Kontrollintervall / neste frist:** Må fyllast inn.
 - **Logg:** Dato, kontroll/service, avvik, tiltak og neste frist.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

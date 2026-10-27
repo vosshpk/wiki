@@ -7,5 +7,3 @@ Stadfest alltid dekning direkte hos [NLF](https://nlf.no/) og forsikringsselskap
 > **MÅ AVKLARAST:** Styret bør publisere ei oppdatert oversikt over forsikring for medlemer/pilotar (inkludert alder, lisens og aktivitet), tilsette og frivillige, klubbens utstyr og anlegg, arrangement og reiser, samt eventuell underslagsforsikring for dei som disponerer kontoane.
 
 Dette er ei lenkje- og avklaringsside, ikkje ei stadfesting av forsikringsdekning.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

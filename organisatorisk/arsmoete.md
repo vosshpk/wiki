@@ -41,5 +41,3 @@ Klubben følgjer desse styringsdokumenta:
 * [Styringsdokument 2024–2028](/organisatorisk/styringsdokument) (vedtaksstatus må stadfestast)
 * [Programplan 2025](/organisatorisk/programplan-2025) (historisk)
 * [Klubben i wikien](/klubben/om-klubben)
-
-<!-- wiki-refresh-probe-2026-10-27 -->

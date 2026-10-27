@@ -48,5 +48,3 @@ Do not publish passwords, sensitive personal information or internal personnel d
 
 Read the [guide for visiting pilots](/en/fly/besokande-pilotar) before flying in Voss.
 For current courses, prices and club news, visit [vosshpk.no](https://vosshpk.no/).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

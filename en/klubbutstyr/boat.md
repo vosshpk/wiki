@@ -6,5 +6,3 @@ The orange rescue boat is kept on Lake Vangsvatnet and is available for emergenc
 - Start the engine in neutral and attach the kill-switch lanyard before use.
 - Follow the [emergency procedures](/en/sikkerhet/nodprosedyrer).
 - Report faults, damage or maintenance needs to the managing director.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

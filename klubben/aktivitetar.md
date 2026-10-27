@@ -21,5 +21,3 @@ Stadfest kven som eig og vedlikeheld henne.
 Dersom klubben tilbyr paraidrett eller tilrettelagd aktivitet, legg inn informasjon om tilrettelegging, kompetanse og kvar ein kan søkje råd eller støtte.
 
 Sjå òg [tryggleik på arrangement og reiser](/sikkerhet/nodprosedyrer) og [rammer for kurs](/opplaering/rammer-for-kursing).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

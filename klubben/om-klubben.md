@@ -65,5 +65,3 @@ Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utva
 * **Live-sporing av bilen til klubben:** [Volandoo Voss HPK](https://volandoo.com/clubs/voss-hpk/live/all).
 * **Sosiale medium:** Følg oss på [Facebook (vosshpk)](https://www.facebook.com/Vosshpk/) og [Instagram (@vosshpk)](https://www.instagram.com/vosshpk/).
 * **Grasrotandelen:** Støtt klubben når du tippar hos Norsk Tipping ved å velje Voss Hang- og Paragliderklubb som grasrotmottakar.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

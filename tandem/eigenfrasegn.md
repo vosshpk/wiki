@@ -22,5 +22,3 @@ Den tidlegare fila frå 2023 er teken vare på som [historisk kjeldedokument](/t
 
 NLF si [side for instruktørar](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/) viser dei gjeldande vala for enkelttur og fleire turar.
 Kontroller sida før utskrift dersom NLF seinare oppdaterer skjemaet.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

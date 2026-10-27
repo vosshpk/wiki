@@ -29,5 +29,3 @@ Update your contact details, address or membership through your personal [MinIdr
 
 > **TO RESOLVE:** Document who in the club handles membership questions, joining and leaving, fee notices and membership-register errors, and how members can get help with MinIdrett.
 > Describe only the current membership system and procedures.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

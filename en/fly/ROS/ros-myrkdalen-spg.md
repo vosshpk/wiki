@@ -31,5 +31,3 @@
 
 **Source note:** The PDF export is malformed in places; the table has been reconstructed from readable text.
 Scores are reproduced as shown.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

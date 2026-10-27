@@ -41,5 +41,3 @@ Oppdater kontaktopplysningar, adresse eller medlemskap i den personlege profilen
 
 > **MÅ AVKLARAST:** Dokumenter kven i klubben som følgjer opp medlemsførespurnader, inn- og utmeldingar, kontingentkrav og feil i medlemsregisteret, og korleis medlemene får hjelp med MinIdrett.
 > Bruk berre gjeldande medlemssystem og rutinar.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

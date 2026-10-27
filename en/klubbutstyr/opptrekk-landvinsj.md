@@ -501,5 +501,3 @@ In an abnormal situation, the pilot must always prioritize wing control and a sa
 Winching is teamwork.
 Follow instructions from the launch assistant and winch operator, monitor the wing and winch throughout the towing phase, and help with the ground operation.
 If you are unsure about equipment, procedures, signals or what to do in a situation, clarify it before connecting to the winch line.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -20,5 +20,3 @@ Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying, o
 - **Service og opptak:** Ta begge båtane opp og få dei på service om vinteren, før frost/is.
 - **Kontrollpunkt og intervall:** Må stadfestast med båtansvarleg og serviceleverandør.
 - **Logg:** Dato, båt, kontroll/service, avvik, tiltak og ansvarleg.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

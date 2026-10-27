@@ -11,5 +11,3 @@ The NLF also publishes [member benefits and partner offers](https://nlf.no/om-nl
 
 The road fee is covered for the club car.
 Private cars must pay the ordinary toll.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

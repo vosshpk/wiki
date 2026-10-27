@@ -20,5 +20,3 @@ For major recurring events, the club should maintain a dedicated event guide or 
 If the club offers para-sport or adapted activities, add information about accessibility, required expertise and where to seek advice or support.
 
 See also [course frameworks](/en/opplaering/rammer-for-kursing) and [emergency procedures](/en/sikkerhet/nodprosedyrer).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

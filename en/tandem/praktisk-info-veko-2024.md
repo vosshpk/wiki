@@ -79,5 +79,3 @@ All tandem flights were to be logged in Flightlog each day, including use of the
 Tandem pilots flying for the club were to sign the tandem agreement; the source says paper copies were kept in the club van.
 
 The source emphasises cooperation, clear communication, safety and a good working relationship between pilots and volunteers.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

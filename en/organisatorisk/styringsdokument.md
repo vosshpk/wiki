@@ -83,5 +83,3 @@ These are intended to strengthen members' sense of belonging and ownership.
 
 The annual programme should turn goals into actions.
 See the [2025 programme plan](/en/organisatorisk/programplan-2025), which is now historical, and confirm where the latest adopted plan is published.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

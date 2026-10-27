@@ -8,5 +8,3 @@ Volunteering must remain voluntary; tasks and expectations should be clear and a
 
 For air-sports training, see [courses and pilot progression](/en/opplaering/progresjon), the [board and committees](/en/styret/styret), and the [safety group](/en/sikkerhet/tryggleiksgruppe).
 Club events and trips are covered under [activities](/en/klubben/aktivitetar).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -67,5 +67,3 @@ Priorities included clear responsibilities between administration, board and saf
 ## Monitoring and evaluation
 
 The plan called for quarterly status meetings between the board and managing director, a member survey, and a final evaluation at the 2026 AGM.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

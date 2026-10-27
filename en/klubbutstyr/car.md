@@ -36,5 +36,3 @@ Confirm the amount in the group before departure if in doubt.
 
 Use the passenger's name and transport route as the payment reference.
 Fares and procedures may change; see the [official facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for updates.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

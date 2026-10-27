@@ -8,5 +8,3 @@ Deltaking i dugnad er frivillig; oppgåver og forventningar skal vere tydelege o
 
 For luftsportsfagleg opplæring, sjå [kurs og pilotprogresjon](/opplaering/progresjon), [styret og utvala](/styret/styret) og [tryggleiksgruppa](/sikkerhet/tryggleiksgruppe).
 Klubben sine oppgåver ved arrangement og reiser er omtala under [aktivitetar](/klubben/aktivitetar).
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -50,5 +50,3 @@ Share as little personal information as possible.
 > We are supporting those involved and following the current notification procedures.
 > Please do not share this further or speculate.
 > We will provide another update when we have confirmed information.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

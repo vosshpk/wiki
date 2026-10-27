@@ -22,5 +22,3 @@ The older 2023 file is retained as an [archived source document](/en/tandem/eige
 
 NLF's [instructor page](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/) lists its current single-flight and multiple-flight forms.
 Check there before printing in case NLF updates the forms.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

@@ -16,5 +16,3 @@
 | 5 | Emergency landing | Poor flight plan, major altitude loss during manoeuvres, or inadequate assessment/change in weather. | Secondary injury from a poor landing. | Map alternative landing sites and clarify decision altitude. | 1 | 2 | 2 |
 | 6 | Airspace conflict with aircraft | Launch and possible flight paths are close to Bømoen airport. | Uncomfortable proximity/turbulence; worst case collision between paraglider and skydiving aircraft, potentially fatal. | Emphasise visibility and routines. Communicate across air-sport clubs, inform members and share recommended flight paths. | 1 | 3 | 2 |
 | 7 | Misjudged top landing | Wind may create mechanical turbulence. Overestimating skills or a spontaneous decision to land. | Injury from a poor landing or tree landing. | Practise top-landing plans and technique at suitable sites with generous margins. Avoid spontaneous decisions. In an emergency, choose the landing area with the greatest margin below launch. | 1 | 2 | 2 |
-
-<!-- wiki-refresh-probe-2026-10-27 -->

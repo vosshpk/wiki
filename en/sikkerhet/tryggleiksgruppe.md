@@ -16,5 +16,3 @@ Contact the group about instructor or tandem-pilot training, further training, o
 
 Technical roles include education, safety, regulations, environment and police certificates.
 Names and positions can change; confirm the current list with the club.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

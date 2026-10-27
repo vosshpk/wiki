@@ -102,5 +102,3 @@ Kjeldedokumentet seier at organisasjonsplanen skal handsamast og berre endrast a
 
 > **MÅ AVKLARAST:** Legg inn ei oppdatert oversikt over kven som har dei valde, oppnemnde og faglege rollene, kven som er politiattest- og barneidrettsansvarleg, og kvar den interne funksjonsoversikta blir halden ved like.
 > Stadfest òg om dagleg leiar framleis er fast tilsett og kva ansvar som ligg hjå administrasjon, styre og tryggleiksgruppe.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

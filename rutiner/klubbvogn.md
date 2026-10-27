@@ -13,5 +13,3 @@ Kontroller at utstyr blir lagra tørt og trygt, og at benkar/grillar og området
 - **Ansvarleg:** Må avklarast.
 - **Kontrollfrekvens:** Må fastsetjast.
 - **Logg:** Dato, kontroll, manglar, tiltak og ansvarleg.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

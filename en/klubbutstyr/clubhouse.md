@@ -9,5 +9,3 @@ It is used for courses throughout the year, and the club stores its equipment th
 - Close and lock doors and windows when leaving.
 
 See the [official club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for current information.
-
-<!-- wiki-refresh-probe-2026-10-27 -->

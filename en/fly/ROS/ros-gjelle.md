@@ -20,5 +20,3 @@
 | 5 | Collapse over land and reserve deployment | Incorrect low-altitude manoeuvre practice, for example during training. | Emergency/crash landing; hazards include power lines, river and water at landing. | Keep a generous flight-plan margin suited to competence. | 1 | 3 | 2 |
 | 6 | Airspace conflict | Skydiving aircraft or tow planes may have flight paths close to Gjelle. | Uncomfortable proximity; worst case collision if pilots are unaware and do not use visibility tools. | Use SafeSky or similar and share local airspace activity. | 1 | 3 | 2 |
 | 7 | Misjudging actual wind strength | Terrain features and the location of the weather station. | Takeoff in rotor. | Check nearby weather stations to understand mean wind and direction. | 1 | 2 | 2 |
-
-<!-- wiki-refresh-probe-2026-10-27 -->
