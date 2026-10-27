@@ -20,6 +20,11 @@ To vote or stand for elected office, a member must:
 
 Previous annual meeting papers, reports and minutes are available in the [official Voss HPK archive](https://vosshpk.no/om-klubben/arkiv/).
 
+| Year | Documents | Note |
+|---|---|---|
+| **2024** | Notice, annual report, accounts and minutes | Approved at the annual meeting |
+| **2023** | Annual report, accounts and minutes | Approved at the annual meeting |
+
 Read the club’s [bylaws](/en/organisatorisk/lov). The official source text is in Norwegian Nynorsk.
 
 The club's governance information includes:
