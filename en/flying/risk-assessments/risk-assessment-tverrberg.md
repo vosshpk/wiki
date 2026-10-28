@@ -7,6 +7,8 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 11.09.2026 |
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Airspace conflict with aircraft | Launch and possible flight paths are close to Bømoen airport. | Uncomfortable proximity/turbulence; worst case collision between paraglider and skydiving aircraft, potentially fatal. | Emphasise visibility and routines. Communicate across air-sport clubs, inform members and share recommended flight paths. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

@@ -7,6 +7,8 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 03.09.2026 |
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Bomstart: skli/snuble på start | Frontkollaps/asymmetrisk innklapp kan følgje av dårleg vingekontroll, manglande «point of no return», feil vurdering av linje/distanse for opptrekk og akselerasjon, vêr eller eigne ferdigheiter. Typisk ved sidevind, lite vind eller rotor. | Fall og skade på musklar/ledd, typisk sår, slagskade eller overtråkk. | Progresjonskurs med fokus på startteknikk og vingekontroll. Tren vingekontroll gjennom heile flygekarrieren. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

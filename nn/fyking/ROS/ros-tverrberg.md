@@ -7,6 +7,8 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 11.09.2026 |
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Luftromskonflikt med fly | Starten og moglege flyplanar ligg nær Bømoen flyplass. | Ubehageleg nærpassering/turbulens; i verste fall kollisjon mellom paraglider og fallskjermfly med fatal ulukke. | Legg vekt på synlegheit og rutinar. Kommuniser mellom luftsportsklubbane, informer medlemene og formidle tilrådde flyplanar. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

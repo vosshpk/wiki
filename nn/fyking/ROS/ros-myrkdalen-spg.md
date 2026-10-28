@@ -13,6 +13,8 @@
 
 ![Kart over start-, landings- og kitingområde i Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Pilot sit fast i skitrekket (T-krok på veg opp) | Manglande utstyrskontroll og oversikt. | Skade på pilot og materiell, og stans i heisen. | Kontroller utstyret. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

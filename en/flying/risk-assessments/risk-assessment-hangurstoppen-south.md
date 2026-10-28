@@ -11,6 +11,8 @@
 
 *The aerial image and its map attribution are retained from the source PDF.*
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Stress at launch | Tourists, spectators and sheep; group dynamics and cameras. | Stress reduces focus and may lead to poor assessment or launch technique. | Help one another, allow for daily condition and give each other time for equipment checks. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

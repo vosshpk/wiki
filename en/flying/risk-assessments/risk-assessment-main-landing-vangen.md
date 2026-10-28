@@ -11,6 +11,8 @@
 
 *The aerial image and its map attribution are retained from the source PDF.*
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Collision on approach | No approach plan, impulsive changes, unclear landing pattern or heavy traffic. | Too little time to deploy reserve; crash landing may injure two pilots and a third party. | Clear landing-pattern rules. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

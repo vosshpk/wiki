@@ -11,6 +11,8 @@
 
 *Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Stress på start | Turistar, tilskodarar og sauer; gruppedynamikk og kamera. | Stress reduserer konsentrasjonen og kan føre til feilvurdering av forhold eller dårleg startteknikk. | Hjelp kvarandre, ta omsyn til dagsform og gje kvarandre tid til grundig utstyrssjekk. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

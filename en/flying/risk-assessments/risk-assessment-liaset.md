@@ -7,6 +7,8 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 03.09.2026 |
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Aborted launch: slip/trip | Front/asymmetric collapse may result from poor wing control, no “point of no return”, poor run-up line/distance, weather or pilot skill. Typical in crosswind, light wind or rotor. | Fall and muscle/joint injury, typically cuts, impact injury or sprain. | Progression course focused on launch technique and wing control. Practise wing control throughout a flying career. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

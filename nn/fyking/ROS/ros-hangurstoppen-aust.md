@@ -11,6 +11,8 @@
 
 *Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Bomstart: skli/snuble på start, frontkollaps eller asymmetrisk innklapp | Mangelfull flyplan, fastsetjing av «point of no return», vurdering av linje/distanse for opptrekk og akselerasjon, vêr eller eigne ferdigheiter. Sidevind eller lite vind. | Fall og skade på musklar/ledd, typisk sår, slagskade eller overtråkk. | Progresjonskurs med fokus på startteknikk og god vingekontroll gjennom bakkehandtering. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

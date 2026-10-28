@@ -11,6 +11,8 @@
 
 *The aerial image and its map attribution are retained from the source PDF.*
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Aborted launch – pilot does not take off | “Point of no return” not set, poorly placed or ignored; poor run-up line for wind/terrain; technique or wing control; the wing's glide performance is poorly suited to the steepness of the launch. | Minor injury such as twisted ankle or wrist abrasions. A late abort may lead to rolling downhill and impact/fall injury. | Follow a routine and actively use the “point of no return” to abort in time. Check wing control and know your equipment. | 3 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

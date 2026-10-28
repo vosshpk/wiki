@@ -11,6 +11,8 @@
 
 *Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Kollisjon under innflyging – særleg om pilotar landar på hovudlandinga og Prestegardslandet samtidig, til dømes under Ekstremsportveko | Manglande innflygingsplan, impulsiv planendring, uoversiktleg mønster eller mykje trafikk. | Lite tid til nødskjermkast; krasjlanding med mogleg skade på to pilotar og tredjepart. | Tydlege reglar for landingsmønster og tidleg avklaring. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

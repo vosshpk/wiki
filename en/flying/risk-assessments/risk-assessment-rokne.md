@@ -7,6 +7,8 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 03.09.2026 |
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Sink after launch | Insufficient takeoff speed, technique or misjudged wind/tailwind; late abort. | Aborted launch/landing in terrain just after takeoff, injuring pilot/wing. | Keep margins, know equipment/skills, assess local terrain and avoid suboptimal wind direction. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

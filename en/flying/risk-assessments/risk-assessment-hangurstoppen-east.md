@@ -11,6 +11,8 @@
 
 *The aerial image and its map attribution are retained from the source PDF.*
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Aborted launch: slip/trip, front collapse or asymmetric collapse | Inadequate flight plan, “point of no return”, line/distance assessment, weather or personal skill; crosswind or light wind. | Fall and muscle/joint injury, typically cuts, impact injury or sprain. | Progression course focused on launch technique and wing control through ground handling. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

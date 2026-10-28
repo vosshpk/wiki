@@ -13,6 +13,8 @@
 
 ![Map of launch, landing and kiting areas in Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
 
+## Risk assessment
+
 | No. | Event/situation | Cause | Risk/consequence | Mitigation | Likelihood | Consequence | Risk |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Pilot gets stuck in ski lift (T-bar on the way up) | Poor equipment check and lack of awareness. | Injury to pilot/equipment and lift stoppage. | Check equipment. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

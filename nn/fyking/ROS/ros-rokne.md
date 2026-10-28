@@ -7,6 +7,8 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 03.09.2026 |
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Synk etter start | For låg takeofffart, teknikk eller feilvurdering av vindstyrke/bakvind; seint avbroten start. | Bomstart/landing i terrenget rett etter start, med skade på pilot/venge. | Ha margin i startforholda, kjenn utstyr og ferdigheiter, vurder lokale terrengformasjonar og unngå suboptimal vindretning. | 2 | 1 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |

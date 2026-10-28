@@ -11,6 +11,8 @@
 
 *Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
+## Risikovurdering
+
 | Nr. | Hending/situasjon | Årsak | Risiko/følgje | Tiltak | Sannsyn | Konsekvens | Risiko |
 |---:|---|---|---|---|---:|---:|---:|
 | 1 | Kollisjon under innflyging | Manglande plan for innflyging, impulsiv planendring, uoversiktleg mønster eller mykje trafikk. | Lite tid til å kaste nødskjerm; krasjlanding med mogleg skade på to pilotar og tredjepart. | Tydlege retningslinjer for landingsmønster. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
