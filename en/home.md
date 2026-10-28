@@ -24,7 +24,7 @@
     <strong>Courses and training</strong>
     <small>From beginner courses to further skills</small>
   </a>
-  <a class="voss-home-card" href="/en/flying/emergency-procedures">
+  <a class="voss-home-card" href="/en/safety/emergency-procedures">
     <span>BE PREPARED</span>
     <strong>Emergency procedures</strong>
     <small>Key numbers and actions after an incident</small>
@@ -43,7 +43,7 @@ This wiki supplements your own assessment and current NLF/HPAC requirements.
 
 - [Flying sites and local conditions](/en/flying/sites)
 - [Local flying safety rules](/en/flying/local-flying-safety-rules)
-- [Emergency procedures](/en/flying/emergency-procedures)
+- [Emergency procedures](/en/safety/emergency-procedures)
 
 ## Wiki governance
 

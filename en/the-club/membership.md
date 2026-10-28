@@ -21,7 +21,7 @@ Course, training and participant fees may vary by activity.
 
 ## Membership and flying safety
 
-Members using club sites and shared facilities must follow current NLF/HPAC safety rules, [local Voss flying rules](/en/flying/local-flying-safety-rules), and [emergency procedures](/en/flying/emergency-procedures).
+Members using club sites and shared facilities must follow current NLF/HPAC safety rules, [local Voss flying rules](/en/flying/local-flying-safety-rules), and [emergency procedures](/en/safety/emergency-procedures).
 
 ## Update or end membership
 

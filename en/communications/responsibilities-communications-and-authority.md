@@ -54,4 +54,4 @@ Confirm this against the safety system.
 - The safety group supports the head of training and advises the board and managing director.
 
 For a safety incident, the source document describes the head of training and safety group as able to stop activities, the managing director as handling practical needs and resources, and the board as considering longer-term measures.
-See [communications during incidents](/en/communications/communications-during-incidents) and the [emergency procedures](/en/flying/emergency-procedures).
+See [communications during incidents](/en/communications/communications-during-incidents) and the [emergency procedures](/en/safety/emergency-procedures).

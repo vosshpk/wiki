@@ -1,6 +1,6 @@
 # Draft page pairings for review. IDs are stable topic names; paths are repository-relative.
 # These suggested pairs are not yet consumed by Wiki.js or the navigation workflow.
-# There is no separate English safety landing page: safety pages were moved under Flying.
+# English safety pages are grouped in the root en/safety section.
 version: 1
 pages:
   home:
@@ -60,12 +60,15 @@ pages:
   risk-assessment-tverrberg:
     nn: nn/fyking/ROS/ros-tverrberg.md
     en: en/flying/risk-assessments/risk-assessment-tverrberg.md
+  safety:
+    nn: nn/tryggleik.md
+    en: en/safety.md
   emergency-procedures:
     nn: nn/tryggleik/nodprosedyrer.md
-    en: en/flying/emergency-procedures.md
+    en: en/safety/emergency-procedures.md
   accident-response-plan:
     nn: nn/tryggleik/handlingsplan-ved-ulykke.md
-    en: en/flying/response-plan.md
+    en: en/safety/response-plan.md
   the-club:
     nn: nn/klubben.md
     en: en/the-club.md
@@ -92,7 +95,7 @@ pages:
     en: en/club-equipment/car.md
   clubhouse:
     nn: nn/klubbutstyr/klubbhus.md
-    en: en/club-equipment/clubhouse-at-bomoen.md
+    en: en/club-equipment/clubhouse.md
   ground-winch:
     nn: nn/klubbutstyr/opptrekk-landvinsj.md
     en: en/club-equipment/ground-winch.md

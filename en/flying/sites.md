@@ -79,7 +79,7 @@ It is used for ground handling, basic training and low training hops.
   Use the designated parking by the skydiving club and walk to the hill.
 - Take away rubbish, tape, plastic and lines.
   Leave the site clean.
-- The club stores training equipment and holds theory sessions in the [clubhouse at Bømoen](/en/club-equipment/clubhouse-at-bomoen).
+- The club stores training equipment and holds theory sessions in the [clubhouse at Bømoen](/en/club-equipment/clubhouse).
 
 ## Landing Areas on Voss
 

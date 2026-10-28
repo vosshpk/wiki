@@ -34,4 +34,4 @@ Once the situation is under control, it says to notify:
 
 Phone lists can change.
 Use the current list on the NLF website under documents.
-Also see [emergency procedures](/en/flying/emergency-procedures).
+Also see [emergency procedures](/en/safety/emergency-procedures).
