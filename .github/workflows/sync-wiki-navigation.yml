@@ -17,10 +17,50 @@ permissions:
 
 jobs:
   sync-navigation:
-    uses: vosshpk/wiki-infrastructure-v3/.github/workflows/sync-wiki-navigation.yml@main
-    with:
-      wiki_url: https://wiki.vosshpk.no
-      wiki_site_id: c952bea9-40ec-4db1-a5c0-39286a665cf4
-    secrets:
-      WIKIJS_API_TOKEN: ${{ secrets.WIKIJS_API_TOKEN }}
-      INFRA_REPO_READ_TOKEN: ${{ secrets.INFRA_REPO_READ_TOKEN }}
+    runs-on: ubuntu-latest
+    concurrency:
+      group: wiki-navigation-c952bea9-40ec-4db1-a5c0-39286a665cf4
+      cancel-in-progress: false
+    steps:
+      - name: Check out the calling wiki content repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}
+          ref: ${{ github.sha }}
+          path: wiki
+          persist-credentials: false
+
+      - name: Check out the v3 infrastructure repository
+        uses: actions/checkout@v4
+        with:
+          repository: vosshpk/wiki-infrastructure-v3
+          ref: main
+          path: wiki-infrastructure-v3
+          token: ${{ secrets.INFRA_REPO_READ_TOKEN || github.token }}
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Preview the generated menus
+        working-directory: wiki-infrastructure-v3
+        run: node scripts/generate-inline-navigation.mjs --wiki-dir ../wiki
+
+      - name: Apply the menus if they changed
+        working-directory: wiki-infrastructure-v3
+        env:
+          WIKIJS_URL: https://wiki.vosshpk.no
+          WIKIJS_SITE_ID: c952bea9-40ec-4db1-a5c0-39286a665cf4
+          WIKIJS_API_TOKEN: ${{ secrets.WIKIJS_API_TOKEN }}
+        run: node scripts/generate-inline-navigation.mjs --wiki-dir ../wiki --wait-for-sync 300 --apply
+
+      - name: Save navigation backup
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: wiki-navigation-backup-${{ github.run_id }}
+          path: wiki-infrastructure-v3/.navigation-backups/*.json
+          if-no-files-found: ignore
+          retention-days: 30
