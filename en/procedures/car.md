@@ -1,7 +1,7 @@
 # Car
 
 > **Placeholder:** The car owner should confirm service intervals, workshop, tyre-change routine and where work is logged.
-> See the [annual cycle](/en/procedures/annual-maintenance-calendar).
+> See the [annual cycle](/en/procedures/annual-calendar).
 
 ## Servicing
 

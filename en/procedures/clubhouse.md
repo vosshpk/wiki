@@ -1,7 +1,7 @@
 # Clubhouse
 
 > **Placeholder:** Confirm who is responsible for cleaning, supplies, issues and access follow-up.
-> See [clubhouse information](/en/club-equipment/clubhouse) and the [annual cycle](/en/procedures/annual-maintenance-calendar).
+> See [clubhouse information](/en/club-equipment/clubhouse) and the [annual cycle](/en/procedures/annual-calendar).
 
 ## Tidiness and cleaning
 

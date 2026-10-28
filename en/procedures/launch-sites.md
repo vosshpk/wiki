@@ -1,7 +1,7 @@
 # Launch sites
 
 > **Placeholder:** Assign an owner for each launch site, set inspection frequency, confirm landowner agreements and define how issues are reported.
-> See [flying sites](/en/flying/sites) and the [annual cycle](/en/procedures/annual-maintenance-calendar).
+> See [flying sites](/en/flying/sites) and the [annual cycle](/en/procedures/annual-calendar).
 
 ## Inspection and maintenance
 

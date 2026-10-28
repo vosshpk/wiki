@@ -1,7 +1,7 @@
 # Boats and moorings
 
 > **Placeholder:** Confirm the routine owner, seasonal dates, service provider, safety and mooring checks, and record keeping.
-> See the [annual cycle](/en/procedures/annual-maintenance-calendar).
+> See the [annual cycle](/en/procedures/annual-calendar).
 
 ## Tow boat
 
