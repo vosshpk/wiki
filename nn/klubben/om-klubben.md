@@ -27,7 +27,7 @@ Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utva
 
 * **Dagleg leiar / fungerande fagleg leiar:** Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar) for kontakt og instruksar.
 * **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga.
-  Sjå [styret og utvala](/roller/roller).
+  Sjå [styret og utvala](/roller/styret).
 * **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar.
   Sjå [tryggleiksgruppa](/roller/tryggleiksgruppe).
 * **Utstyr og anlegg:** Sjå [klubbhuset](/klubbutstyr/klubbhus), [klubbvogna](/klubbutstyr/tilhenger), [redningsbåtane](/klubbutstyr/bat) og [klubbilen](/klubbutstyr/bil).

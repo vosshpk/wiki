@@ -26,7 +26,7 @@ Presentasjonen viser denne overordna strukturen:
 - Kursinstruktørar og tandeminstruktørar støttar aktivitet og opplæring.
 
 Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag.
-Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/roller/roller).
+Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/roller/styret).
 
 ## Årshjul i presentasjonen
 
