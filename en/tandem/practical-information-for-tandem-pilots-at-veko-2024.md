@@ -57,7 +57,7 @@ Confirm current requirements and secure storage before handling such forms.
 | Pilot-to-pilot equipment loan | NOK 400 was suggested as a consistent hire rate |
 | Photos/video | NOK 200 extra directly to the pilot on delivery; the source mentions selfie sticks and a GoPro at the club van |
 
-These are historical Veko prices and must not be confused with [tandem compensation for 2026](/en/tandem/tandem-compensation-2026).
+These are historical Veko prices and must not be confused with [tandem compensation for 2026](/en/tandem/compensation-2026).
 The source mentions Zettle and Vipps.
 Flights and payments were to be recorded so the club and pilots could reconcile settlement.
 

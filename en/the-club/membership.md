@@ -17,7 +17,7 @@ Check the current membership fee on the [club's membership page](https://vosshpk
 Course, training and participant fees may vary by activity.
 
 > **TO RESOLVE:** Publish a consolidated explanation of approved fees, what they cover, payment deadlines and cancellation/refund terms.
-> For courses, see [training and progression](/en/training/training-and-pilot-progression).
+> For courses, see [training and progression](/en/training/pilot-progression).
 
 ## Membership and flying safety
 

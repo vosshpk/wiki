@@ -19,7 +19,7 @@
     <strong>Flystader</strong>
     <small>Lokale tilhøve, startar og landingar</small>
   </a>
-  <a class="voss-home-card" href="/kursing/progresjon">
+  <a class="voss-home-card" href="/kursing/pilotprogresjon">
     <span>LÆR OG UTVIKL DEG</span>
     <strong>Kurs og progresjon</strong>
     <small>Frå grunnkurs til vidare ferdigheiter</small>

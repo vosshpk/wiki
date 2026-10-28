@@ -74,7 +74,7 @@ pages:
     en: en/the-club.md
   about-the-club:
     nn: nn/klubben/om-klubben.md
-    en: en/the-club/about-voss-hpk.md
+    en: en/the-club/about.md
   insurance:
     nn: nn/klubben/forsikring.md
     en: en/the-club/insurance.md
@@ -130,8 +130,8 @@ pages:
     nn: nn/kursing/overnatting.md
     en: en/training/accommodation.md
   pilot-progression:
-    nn: nn/kursing/progresjon.md
-    en: en/training/training-and-pilot-progression.md
+    nn: nn/kursing/pilotprogresjon.md
+    en: en/training/pilot-progression.md
   course-framework:
     nn: nn/kursing/rammer-for-kursing.md
     en: en/training/course-delivery-framework.md
@@ -206,16 +206,16 @@ pages:
     en: en/tandem.md
   tandem-passenger-declaration:
     nn: nn/tandem/eigenfrasegn.md
-    en: en/tandem/tandem-passenger-declaration.md
+    en: en/tandem/passenger-declaration.md
   tandem-passenger-declaration-archive:
     nn: nn/tandem/eigenfrasegn-2023.md
-    en: en/tandem/tandem-passenger-declaration-2023-archive.md
+    en: en/tandem/passenger-declaration-2023-archive.md
   tandem-agreement-archive:
     nn: nn/tandem/tandemkontrakt-2024.md
-    en: en/tandem/tandem-agreement-2024-archived-source-document.md
+    en: en/tandem/agreement-2024-archived-source-document.md
   tandem-compensation-2026:
     nn: nn/tandem/kompensasjon-2026.md
-    en: en/tandem/tandem-compensation-2026.md
+    en: en/tandem/compensation-2026.md
   tandem-information-veko-2024:
     nn: nn/tandem/praktisk-info-veko-2024.md
     en: en/tandem/practical-information-for-tandem-pilots-at-veko-2024.md

@@ -44,5 +44,5 @@ Confirm current terms and amounts directly with NLF/the insurer; this table is h
 
 ## Form to use
 
-Use the [current NLF form for printing and signing](/en/tandem/tandem-passenger-declaration), not this 2023 archive page.
+Use the [current NLF form for printing and signing](/en/tandem/passenger-declaration), not this 2023 archive page.
 Store signed forms and health information securely outside the wiki and Git repository.

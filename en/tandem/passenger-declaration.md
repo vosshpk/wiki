@@ -18,7 +18,7 @@ The PDF is laid out for printing and signing and includes insurance information.
   Do not upload signed forms, names, signatures or health information to the wiki or Git repository.
 - Follow the club's approved procedures for securely storing and deleting completed forms.
 
-The older 2023 file is retained as an [archived source document](/en/tandem/tandem-passenger-declaration-2023-archive), not as a form for use.
+The older 2023 file is retained as an [archived source document](/en/tandem/passenger-declaration-2023-archive), not as a form for use.
 
 NLF's [instructor page](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/){target=_blank} lists its current single-flight and multiple-flight forms.
 Check there before printing in case NLF updates the forms.

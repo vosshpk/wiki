@@ -19,7 +19,7 @@
     <strong>Flying sites</strong>
     <small>Local conditions, launches and landings</small>
   </a>
-  <a class="voss-home-card" href="/en/training/training-and-pilot-progression">
+  <a class="voss-home-card" href="/en/training/pilot-progression">
     <span>LEARN AND PROGRESS</span>
     <strong>Courses and training</strong>
     <small>From beginner courses to further skills</small>
@@ -29,7 +29,7 @@
     <strong>Emergency procedures</strong>
     <small>Key numbers and actions after an incident</small>
   </a>
-  <a class="voss-home-card" href="/en/the-club/about-voss-hpk">
+  <a class="voss-home-card" href="/en/the-club/about">
     <span>ABOUT THE CLUB</span>
     <strong>Voss HPK</strong>
     <small>Membership, activities and equipment</small>
