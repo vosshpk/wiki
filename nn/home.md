@@ -1,26 +1,38 @@
-# Voss Hang- og Paragliderklubb
+<div class="voss-home-hero">
+  <img class="voss-home-hero__photo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-fly2.jpg" alt="Paragliderar over Voss frå Hangurstoppen" />
+  <div class="voss-home-hero__shade"></div>
+  <div class="voss-home-hero__content">
+    <img class="voss-home-hero__logo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-logo.png" alt="" />
+    <div class="voss-home-hero__copy">
+      <p class="voss-home-hero__eyebrow">VOSS HPK · 1976</p>
+      <p class="voss-home-hero__title">Finn det du treng for å fly trygt og godt på Voss.</p>
+      <p class="voss-home-hero__description">Praktisk kunnskap for medlemer, besøkande pilotar og instruktørar.</p>
+    </div>
+  </div>
+</div>
 
-Velkomen til Voss HPK sin kunnskapsbase.
-Denne wikien er klubben si handbok for medlemer, pilotar, instruktørar, tillitsvalde og tilsette.
-Bruk temaseksjonane for å finne praktisk informasjon om flystader, tryggleik, opplæring, organisering og klubben.
-
-## Kva vil du gjere?
-
-### 🪂 Fly på Voss
-
-Finn [flystader og lokale tilhøve](/fly/flysteder), eller les [besøksinformasjonen for pilotar](/fly/besokande-pilotar).
-
-### 🎓 Lære å fly
-
-Sjå [kurs og progresjon](/kursing/progresjon) og informasjon om [Skulebakken på Bakkatun](/fly/flysteder).
-
-### 🛟 Fly trygt
-
-Les [lokale flygereglar](/tryggleik/flytrygging), og ha [naudprosedyrane](/tryggleik/nodprosedyrer) lett tilgjengelege.
-
-### 🏠 Klubben og medlemskap
-
-Finn [informasjon om klubben](/klubben/om-klubben), [medlemskap](/klubben/medlemskap) og [medlemsfordelar](/klubben/medlemsfordelar), [intern kommunikasjonsplan](/kommunikasjon/intern-kommunikasjonsplan), [klubbutstyr og fasilitetar](/klubbutstyr/fasiliteter), [årshjulet for rutinar](/rutiner/arshjul), [styret](/styret/styret), [dagleg leiar](/dagleg-leiar/dagleg-leiar) og [organisatoriske dokument](/organisatorisk/organisasjonsplan).
+<div class="voss-home-cards">
+  <a class="voss-home-card" href="/fly/flysteder">
+    <span>PLANLEGG FLYTUREN</span>
+    <strong>Flystader</strong>
+    <small>Lokale tilhøve, startar og landingar</small>
+  </a>
+  <a class="voss-home-card" href="/kursing/progresjon">
+    <span>LÆR OG UTVIKL DEG</span>
+    <strong>Kurs og progresjon</strong>
+    <small>Frå grunnkurs til vidare ferdigheiter</small>
+  </a>
+  <a class="voss-home-card" href="/tryggleik/nodprosedyrer">
+    <span>VER FØREBUDD</span>
+    <strong>Naudprosedyrar</strong>
+    <small>Viktige nummer og tiltak ved ulukke</small>
+  </a>
+  <a class="voss-home-card" href="/klubben/om-klubben">
+    <span>OM KLUBBEN</span>
+    <strong>Voss HPK</strong>
+    <small>Medlemskap, aktivitetar og utstyr</small>
+  </a>
+</div>
 
 ## Før du flyg
 

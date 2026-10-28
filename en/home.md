@@ -1,26 +1,38 @@
-# Voss Hang- og Paragliderklubb
+<div class="voss-home-hero">
+  <img class="voss-home-hero__photo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-fly2.jpg" alt="Paragliders above Voss from Hangurstoppen" />
+  <div class="voss-home-hero__shade"></div>
+  <div class="voss-home-hero__content">
+    <img class="voss-home-hero__logo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-logo.png" alt="" />
+    <div class="voss-home-hero__copy">
+      <p class="voss-home-hero__eyebrow">VOSS HPK · 1976</p>
+      <p class="voss-home-hero__title">Find what you need to fly safely and well in Voss.</p>
+      <p class="voss-home-hero__description">Practical knowledge for members, visiting pilots and instructors.</p>
+    </div>
+  </div>
+</div>
 
-Welcome to the Voss HPK knowledge base.
-This wiki is the club handbook for members, pilots, instructors, elected officers and staff.
-Use the topic sections to find practical information about flying sites, safety, training, governance and the club.
-
-## What would you like to do?
-
-### 🪂 Fly in Voss
-
-Find [flying sites and local conditions](/en/flying/flying-sites-around-voss), or read the [guide for visiting pilots](/en/flying/visiting-pilots-in-voss).
-
-### 🎓 Learn to fly
-
-See [courses and pilot progression](/en/training/training-and-pilot-progression) and information about the [training hill at Bakkatun](/en/flying/flying-sites-around-voss).
-
-### 🛟 Fly safely
-
-Read the [local flying rules](/en/safety/local-flying-safety-rules), and keep the [emergency procedures](/en/safety/safety-and-emergency-procedures) handy.
-
-### 🏠 The club and membership
-
-Find [club information](/en/the-club/about-voss-hpk), [membership](/en/the-club/membership) and [member benefits](/en/the-club/member-benefits), the [internal communications plan](/en/communications/internal-communications-plan), [club equipment and facilities](/en/club-equipment/facilities), the [annual maintenance calendar](/en/procedures/annual-maintenance-calendar), the [board](/en/board/board), the [managing director](/en/managing-director/managing-director), and [governance documents](/en/governance/organisation-plan-for-voss-hpk).
+<div class="voss-home-cards">
+  <a class="voss-home-card" href="/en/flying/flying-sites-around-voss">
+    <span>PLAN YOUR FLIGHT</span>
+    <strong>Flying sites</strong>
+    <small>Local conditions, launches and landings</small>
+  </a>
+  <a class="voss-home-card" href="/en/training/training-and-pilot-progression">
+    <span>LEARN AND PROGRESS</span>
+    <strong>Courses and training</strong>
+    <small>From beginner courses to further skills</small>
+  </a>
+  <a class="voss-home-card" href="/en/safety/safety-and-emergency-procedures">
+    <span>BE PREPARED</span>
+    <strong>Emergency procedures</strong>
+    <small>Key numbers and actions after an incident</small>
+  </a>
+  <a class="voss-home-card" href="/en/the-club/about-voss-hpk">
+    <span>ABOUT THE CLUB</span>
+    <strong>Voss HPK</strong>
+    <small>Membership, activities and equipment</small>
+  </a>
+</div>
 
 ## Before you fly
 
