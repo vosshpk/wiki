@@ -201,6 +201,9 @@ pages:
   tandem:
     nn: nn/tandem.md
     en: en/tandem.md
+  tandem-training:
+    nn: nn/tandem/utdanning.md
+    en: en/tandem/training.md
   tandem-passenger-declaration:
     nn: nn/tandem/eigenfrasegn.md
     en: en/tandem/passenger-declaration.md
