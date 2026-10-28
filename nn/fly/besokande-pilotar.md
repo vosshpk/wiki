@@ -25,7 +25,7 @@ Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vossh
 4. Ha med dokumentasjon på lisens og ansvarsforsikring.
    Bruk radio og live-sporing der det er tilrådd for flyginga.
 
-Sjå [overnattingsalternativ på Voss](/klubben/overnatting) dersom du treng stad å bu.
+Sjå [overnattingsalternativ på Voss](/kursing/overnatting) dersom du treng stad å bu.
 
 ## Kontakt og ressursar
 
