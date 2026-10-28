@@ -1,4 +1,4 @@
-# Club Boat
+# Boat
 
 The orange rescue boat is kept on Lake Vangsvatnet and is available for emergencies or assistance.
 

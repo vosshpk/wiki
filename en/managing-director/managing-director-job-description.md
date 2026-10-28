@@ -1,4 +1,4 @@
-# Managing Director Job Description
+# Job Description
 
 > **Status:** Transcribed from “Stillingsinstruks DL 2024”.
 > No approval date is provided.

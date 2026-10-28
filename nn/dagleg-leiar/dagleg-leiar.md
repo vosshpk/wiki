@@ -1,4 +1,4 @@
-# Dagleg leiar
+# Om rolla
 
 Dagleg leiar tek hand om den daglege drifta innanfor vedtekter, styrevedtak, gjeldande regelverk og fullmakter.
 Styret er dagleg leiar sin overordna og har arbeidsgjevaransvar.
@@ -11,8 +11,8 @@ Stadfest kontaktinformasjonen med [klubben](https://vosshpk.no/om-klubben/styre-
 
 ## Dokument og ansvar
 
-- [Stillingsinstruks for dagleg leiar](/dagleg-leiar/stillingsinstruks) skildrar oppgåver, ansvar og rapportering.
-- [Fullmaktsmatrise for dagleg leiar](/dagleg-leiar/fullmaktsmatrise) skildrar føreslåtte fullmakter og saker som krev styregodkjenning.
+- [Stillingsinstruks](/dagleg-leiar/stillingsinstruks) skildrar oppgåver, ansvar og rapportering.
+- [Fullmaktsmatrise](/dagleg-leiar/fullmaktsmatrise) skildrar føreslåtte fullmakter og saker som krev styregodkjenning.
 - [Personalrutinar](/dagleg-leiar/personalrutinar) samlar rutinar for arbeidsgjevaransvar og personaloppfølging.
 
 ## Ansvarsområde – stikkord

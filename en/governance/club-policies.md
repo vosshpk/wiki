@@ -8,7 +8,7 @@ Key documents in this wiki:
 - [Local flying rules](/en/safety/local-flying-safety-rules)
 - [Emergency procedures](/en/safety/safety-and-emergency-procedures)
 - [Course framework](/en/training/course-delivery-framework)
-- [Progression course framework](/en/training/progression-course-framework)
+- [Progression course](/en/training/progression-course-framework)
 
 > **TO RESOLVE:** The board should consider whether separate policies are needed for conduct and inclusion, bullying and harassment, alcohol or drugs at club activities, trip leadership, email etiquette, and expectations for pilots, instructors and guardians.
 > Adopted policies should have an owner and an approval date.

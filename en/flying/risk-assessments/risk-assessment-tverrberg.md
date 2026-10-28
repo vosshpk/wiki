@@ -1,4 +1,4 @@
-# Risk assessment: Tverrberg
+# Tverrberg
 
 | Field | Information |
 |---|---|

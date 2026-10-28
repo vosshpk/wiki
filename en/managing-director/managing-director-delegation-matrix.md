@@ -1,4 +1,4 @@
-# Managing Director Delegation Matrix
+# Delegation Matrix
 
 > **Status: draft — requires board approval.**
 > Transcribed from a submitted document with no adoption date.

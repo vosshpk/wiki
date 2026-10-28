@@ -1,4 +1,4 @@
-# Managing Director
+# Role Overview
 
 The managing director runs daily operations within the bylaws, board decisions, applicable rules and delegated authority.
 The board is the managing director's supervisor and holds employer responsibility.
@@ -11,7 +11,7 @@ Confirm the details with the [club](https://vosshpk.no/om-klubben/styre-og-utval
 
 ## Responsibilities and documents
 
-- [Managing director job description](/en/managing-director/managing-director-job-description) describes duties, responsibilities and reporting.
+- [Job description](/en/managing-director/managing-director-job-description) describes duties, responsibilities and reporting.
 - [Delegation matrix](/en/managing-director/managing-director-delegation-matrix) describes proposed authority and matters requiring board approval.
 - [Staff procedures](/en/managing-director/staff-procedures) covers employer responsibilities and staff support.
 

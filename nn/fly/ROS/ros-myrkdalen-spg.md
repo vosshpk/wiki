@@ -1,4 +1,4 @@
-# ROS-analyse: Myrkdalen SPG hovudstart
+# Myrkdalen SPG hovudstart
 
 | Felt | Opplysning |
 |---|---|

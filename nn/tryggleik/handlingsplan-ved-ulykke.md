@@ -1,8 +1,8 @@
-# Handlingsplan ved hang-, para- eller speedgliderulukke
+# Handlingsplan ved ulukke
 
 Dette er ei Markdown-utgåve av handlingsplanen.
 Dokumentet har ikkje revisjonsdato.
-Sjå òg [Tryggleik og naudprosedyrar](/tryggleik/nodprosedyrer), og kontroller gjeldande varslingsplan hos NLF før bruk.
+Sjå òg [naudprosedyrane](/tryggleik/nodprosedyrer), og kontroller gjeldande varslingsplan hos NLF før bruk.
 
 ## Førstehjelp og varsling
 

@@ -1,4 +1,4 @@
-# ROS-analyse: Hovudlanding Vangen
+# Hovudlanding Vangen
 
 | Felt | Opplysning |
 |---|---|

@@ -1,4 +1,4 @@
-# Opplæring og pilotprogresjon
+# Pilotprogresjon
 
 Voss Hang- og Paragliderklubb tilbyr grunnkurs, vidaregåande opplæring, tandemutsjekk og instruktøropplæring i samarbeid med Norges Luftsportforbund (NLF/HPAC).
 Opplæring og lisensiering skal følgje dei gjeldande programma og tryggleikskrava frå NLF.
@@ -8,7 +8,7 @@ Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/) og [elevguiden ett
 
 > **MÅ AVKLARAST:** Publiser gjeldande kursavgifter, kva dei dekkjer, avmeldingsfristar og refusjonsreglar saman med kursinformasjonen.
 
-Sjå òg klubben sine [rammer for kursing](/kursing/rammer-for-kursing) og [rammer for progresjonskurs](/kursing/rammer-progresjonskurs).
+Sjå òg klubben sine [kursrammer](/kursing/rammer-for-kursing) og [progresjonskurs](/kursing/rammer-progresjonskurs).
 
 ---
 

@@ -1,4 +1,4 @@
-# Risk assessment: Liaset
+# Liaset
 
 | Field | Information |
 |---|---|

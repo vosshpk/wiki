@@ -1,4 +1,4 @@
-# Risk assessment: Myrkdalen SPG main launch
+# Myrkdalen SPG main launch
 
 | Field | Information |
 |---|---|

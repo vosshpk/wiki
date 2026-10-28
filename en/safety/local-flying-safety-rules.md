@@ -1,4 +1,4 @@
-# Local flying safety rules
+# Local Flying Rules
 
 Voss offers excellent flying, but terrain, gondola cables, settlements and shared airspace require careful decisions and respect for local rules.
 

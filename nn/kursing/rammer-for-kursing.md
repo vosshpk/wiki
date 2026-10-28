@@ -1,4 +1,4 @@
-# Rammer for kursing
+# Kursrammer
 
 *Kjelde: «Rammer for kursing i regi av Voss Hang- og Paragliderklubb», datert 20.11.2023.*
 

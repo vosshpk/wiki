@@ -1,4 +1,4 @@
-# Risk assessment: Hangurstoppen South
+# Hangurstoppen South
 
 | Field | Information |
 |---|---|

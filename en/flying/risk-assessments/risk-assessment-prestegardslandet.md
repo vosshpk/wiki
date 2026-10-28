@@ -1,4 +1,4 @@
-# Risk assessment: Prestegardslandet
+# Prestegardslandet
 
 | Field | Information |
 |---|---|

@@ -1,4 +1,4 @@
-# Hang-, para- or speedglider accident response plan
+# Accident Response Plan
 
 This is an English translation of the accident response plan.
 The source has no revision date.
@@ -34,4 +34,4 @@ Once the situation is under control, it says to notify:
 
 Phone lists can change.
 Use the current list on the NLF website under documents.
-Also see [Safety and emergency procedures](/en/safety/safety-and-emergency-procedures).
+Also see [emergency procedures](/en/safety/safety-and-emergency-procedures).

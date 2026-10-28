@@ -1,4 +1,4 @@
-# Clubhouse at Bømoen
+# Clubhouse
 
 The clubhouse is beside Voss Skydiving Club at Flyplassvegen 135.
 It is used for courses throughout the year, and the club stores its equipment there.

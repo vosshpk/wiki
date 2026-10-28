@@ -1,4 +1,4 @@
-# Progression course framework
+# Progression Course
 
 *Source: “Retningslinjer for progresjonskurs Voss HPK”, dated 10 June 2024.*
 

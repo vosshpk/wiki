@@ -1,4 +1,4 @@
-# ROS-analyse: Tverrberg
+# Tverrberg
 
 | Felt | Opplysning |
 |---|---|

@@ -1,4 +1,4 @@
-# Risk assessment: Main landing, Vangen
+# Main landing, Vangen
 
 | Field | Information |
 |---|---|

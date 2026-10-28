@@ -1,4 +1,4 @@
-# Safety and emergency procedures
+# Emergency Procedures
 
 Safety comes first at Voss HPK.
 Pilots should know emergency numbers, local notification procedures and response plans before flying.

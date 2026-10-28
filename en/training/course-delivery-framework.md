@@ -1,4 +1,4 @@
-# Course delivery framework
+# Course Framework
 
 *Source: “Rammer for kursing i regi av Voss Hang- og Paragliderklubb”, dated 20 November 2023.*
 

@@ -1,4 +1,4 @@
-# Fullmaktsmatrise for dagleg leiar
+# Fullmaktsmatrise
 
 > **Status: utkast – må godkjennast av styret.**
 > Transkribert frå innsendt dokument utan vedtaksdato.

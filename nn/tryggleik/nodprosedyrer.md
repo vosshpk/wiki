@@ -1,4 +1,4 @@
-# Tryggleik og naudprosedyrar
+# Naudprosedyrar
 
 Tryggleik kjem først i Voss Hang- og Paragliderklubb.
 Pilotar skal kjenne naudnummer, lokale varslingsrutinar og handlingsplanar før dei flyg.

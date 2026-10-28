@@ -1,4 +1,4 @@
-# Training and pilot progression
+# Pilot Progression
 
 Voss HPK offers beginner and further training, tandem check-outs and instructor training in cooperation with the Norwegian Air Sports Federation (NLF/HPAC).
 Training and licensing must follow current NLF programmes and safety requirements.

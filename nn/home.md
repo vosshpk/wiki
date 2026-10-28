@@ -29,7 +29,7 @@ Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav fr
 
 - [Flystader og lokale tilhøve](/fly/flysteder)
 - [Flytryggleik og lokale reglar](/tryggleik/flytrygging)
-- [Tryggleik og naudprosedyrar](/tryggleik/nodprosedyrer)
+- [Naudprosedyrar](/tryggleik/nodprosedyrer)
 
 ## Forvaltning av wikien
 

@@ -1,4 +1,4 @@
-# Rammer for progresjonskurs
+# Progresjonskurs
 
 *Kjelde: «Retningslinjer for progresjonskurs Voss HPK», datert 10.06.2024.*
 

@@ -1,4 +1,4 @@
-# Club Car and Transport
+# Car and Transport
 
 The club car takes pilots from landing areas to launch sites around Voss and nearby areas.
 Arrange rides in the “Paragliding i Voss og omegn” Facebook group or the “PG/SPG Flyging i Voss og omegn” Messenger community.

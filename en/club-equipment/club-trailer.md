@@ -1,4 +1,4 @@
-# Club Trailer
+# Trailer
 
 The trailer is by the main landing at Vangen/Prestegardslandet, beside Lake Vangsvatnet.
 It stores tandem equipment, payment terminals and first-aid supplies, and serves as a base for tandem bookings during Ekstremsportveko.

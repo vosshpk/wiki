@@ -1,4 +1,4 @@
-# Risk assessment: Gjelle
+# Gjelle
 
 | Field | Information |
 |---|---|
