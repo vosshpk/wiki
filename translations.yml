@@ -120,9 +120,6 @@ pages:
   internal-communications-plan:
     nn: nn/kommunikasjon/intern-kommunikasjonsplan.md
     en: en/communications/internal-communications-plan.md
-  communications-responsibilities:
-    nn: nn/kommunikasjon/ansvar-kommunikasjon-og-myndigheit.md
-    en: en/communications/responsibilities-communications-and-authority.md
   training:
     nn: nn/kursing.md
     en: en/training.md
