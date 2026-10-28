@@ -11,8 +11,8 @@ Confirm the details with the [club](https://vosshpk.no/om-klubben/styre-og-utval
 
 ## Responsibilities and documents
 
-- [Job description](/en/managing-director/managing-director-job-description) describes duties, responsibilities and reporting.
-- [Delegation matrix](/en/managing-director/managing-director-delegation-matrix) describes proposed authority and matters requiring board approval.
+- [Job description](/en/managing-director/job-description) describes duties, responsibilities and reporting.
+- [Delegation matrix](/en/managing-director/delegation-matrix) describes proposed authority and matters requiring board approval.
 
 ## Responsibilities — keywords
 
@@ -27,7 +27,7 @@ Administration and member services · board papers and decision follow-up · mem
 ## Staff responsibilities
 
 The board holds employer responsibility.
-The managing director handles duties delegated by the board, in line with the [job description](/en/managing-director/managing-director-job-description) and [delegation matrix](/en/managing-director/managing-director-delegation-matrix).
+The managing director handles duties delegated by the board, in line with the [job description](/en/managing-director/job-description) and [delegation matrix](/en/managing-director/delegation-matrix).
 
 > **TO RESOLVE:** Document responsibilities and procedures for recruitment, employment agreements, pay, leave/absence, staff reviews, workplace safety, confidentiality and ending employment.
 > Confirm any collective agreement, employer association and written agreements for instructors and others in ongoing roles.

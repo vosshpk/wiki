@@ -1,7 +1,7 @@
 # Towed trailer
 
 > **Placeholder:** Confirm which towed trailer this routine covers, its owner, inspection interval, servicing and record location.
-> It is separate from the club trailer used as an equipment hut at Prestegardslandet; see its [maintenance page](/en/procedures/club-trailer-at-the-landing-site).
+> It is separate from the club trailer used as an equipment hut at Prestegardslandet; see its [maintenance page](/en/procedures/club-trailer).
 
 ## Inspection and service
 

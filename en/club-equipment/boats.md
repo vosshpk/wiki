@@ -8,7 +8,7 @@ The club has three rescue boats:
 
 The grey dinghy is usually kept on its trailer, ready for callouts in Aurland or during Veko. The orange dinghy and Pioner Multi are on Lake Vangsvatnet and on standby.
 
-The orange dinghy and Pioner Multi are never locked, so they are available for emergencies. Always start the engine in neutral and attach the kill-switch lanyard before use. Follow the [emergency procedures](/en/safety/safety-and-emergency-procedures), and report faults, damage or maintenance needs to the managing director.
+The orange dinghy and Pioner Multi are never locked, so they are available for emergencies. Always start the engine in neutral and attach the kill-switch lanyard before use. Follow the [emergency procedures](/en/flying/emergency-procedures), and report faults, damage or maintenance needs to the managing director.
 
 ## Mooring
 

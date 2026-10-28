@@ -5,7 +5,7 @@ Voss HPK has shared training and club equipment for courses, events, tandem flyi
 ## Storage
 
 Club wings, training harnesses, reserve parachutes, helmets, radios and course materials are stored at the [clubhouse at Bømoen](/en/club-equipment/clubhouse-at-bomoen).
-Operational tandem and emergency gear, first-aid kits and payment terminals are kept in the [club trailer](/en/club-equipment/club-trailer).
+Operational tandem and emergency gear, first-aid kits and payment terminals are kept in the [club trailer](/en/club-equipment/trailer).
 
 ## Borrowing and use
 

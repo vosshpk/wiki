@@ -10,8 +10,8 @@ Add the confirmed procedure and log here.
 
 ## Rescue boats
 
-The club has three rescue boats. See the [rescue boat overview](/en/club-equipment/club-boat) for their locations, equipment and checklist.
-Follow the [emergency procedures](/en/safety/safety-and-emergency-procedures) when using one.
+The club has three rescue boats. See the [rescue boat overview](/en/club-equipment/boats) for their locations, equipment and checklist.
+Follow the [emergency procedures](/en/flying/emergency-procedures) when using one.
 Define checks for the engine, fuel, battery, safety equipment and moorings for each boat, and a plan to haul them out and arrange servicing before winter.
 
 ## Annual inspection and log

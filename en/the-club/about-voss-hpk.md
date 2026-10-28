@@ -26,8 +26,8 @@ Day-to-day and sporting operations are handled by the club’s management and co
   See the [board and committees](/en/roles/board).
 - **Safety group:** Works with training, safety, rules, environmental matters and police certificates.
   See the [safety group page](/en/roles/safety-group).
-- **Equipment and sites:** See the [clubhouse](/en/club-equipment/clubhouse-at-bomoen), [trailer](/en/club-equipment/club-trailer), [rescue boats](/en/club-equipment/club-boat) and [club car](/en/club-equipment/club-car-and-transport).
-  The training hill is included in the [flying-sites page](/en/flying/flying-sites-around-voss).
+- **Equipment and sites:** See the [clubhouse](/en/club-equipment/clubhouse-at-bomoen), [trailer](/en/club-equipment/trailer), [rescue boats](/en/club-equipment/boats) and [club car](/en/club-equipment/car).
+  The training hill is included in the [flying-sites page](/en/flying/sites).
 
 ## Contact details and addresses
 

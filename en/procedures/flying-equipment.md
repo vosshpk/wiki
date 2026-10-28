@@ -1,7 +1,7 @@
 # Flying equipment
 
 > **Placeholder:** The equipment manager and technical director should confirm the club inventory, who may inspect each item, inspection intervals and record requirements.
-> See [club equipment and loans](/en/club-equipment/shared-flying-equipment) and the [annual cycle](/en/procedures/annual-maintenance-calendar).
+> See [club equipment and loans](/en/club-equipment/equipment) and the [annual cycle](/en/procedures/annual-maintenance-calendar).
 
 ## Inspection and maintenance
 

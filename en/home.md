@@ -14,7 +14,7 @@
 </div>
 
 <div class="voss-home-cards">
-  <a class="voss-home-card" href="/en/flying/flying-sites-around-voss">
+  <a class="voss-home-card" href="/en/flying/sites">
     <span>PLAN YOUR FLIGHT</span>
     <strong>Flying sites</strong>
     <small>Local conditions, launches and landings</small>
@@ -24,7 +24,7 @@
     <strong>Courses and training</strong>
     <small>From beginner courses to further skills</small>
   </a>
-  <a class="voss-home-card" href="/en/safety/safety-and-emergency-procedures">
+  <a class="voss-home-card" href="/en/flying/emergency-procedures">
     <span>BE PREPARED</span>
     <strong>Emergency procedures</strong>
     <small>Key numbers and actions after an incident</small>
@@ -41,9 +41,9 @@
 Check weather, wind, airspace and local rules before every flight.
 This wiki supplements your own assessment and current NLF/HPAC requirements.
 
-- [Flying sites and local conditions](/en/flying/flying-sites-around-voss)
+- [Flying sites and local conditions](/en/flying/sites)
 - [Local flying safety rules](/en/flying/local-flying-safety-rules)
-- [Emergency procedures](/en/safety/safety-and-emergency-procedures)
+- [Emergency procedures](/en/flying/emergency-procedures)
 
 ## Wiki governance
 
@@ -60,5 +60,5 @@ Do not publish passwords, sensitive personal information or internal personnel d
 
 ## Visiting pilots
 
-Read the [guide for visiting pilots](/en/flying/visiting-pilots-in-voss) before flying in Voss.
+Read the [guide for visiting pilots](/en/flying/visiting-pilots) before flying in Voss.
 For current courses, prices and club news, visit [vosshpk.no](https://vosshpk.no/){target=_blank}.

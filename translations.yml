@@ -1,0 +1,218 @@
+# Draft page pairings for review. IDs are stable topic names; paths are repository-relative.
+# These suggested pairs are not yet consumed by Wiki.js or the navigation workflow.
+# There is no separate English safety landing page: safety pages were moved under Flying.
+version: 1
+pages:
+  home:
+    nn: nn/home.md
+    en: en/home.md
+  managing-director:
+    nn: nn/dagleg-leiar.md
+    en: en/managing-director.md
+  managing-director-overview:
+    nn: nn/dagleg-leiar/dagleg-leiar.md
+    en: en/managing-director/managing-director.md
+  managing-director-job-description:
+    nn: nn/dagleg-leiar/stillingsinstruks.md
+    en: en/managing-director/job-description.md
+  managing-director-delegation-matrix:
+    nn: nn/dagleg-leiar/fullmaktsmatrise.md
+    en: en/managing-director/delegation-matrix.md
+  flying:
+    nn: nn/fyking.md
+    en: en/flying.md
+  flying-sites:
+    nn: nn/fyking/flysteder.md
+    en: en/flying/sites.md
+  local-flying-safety:
+    nn: nn/fyking/flytrygging.md
+    en: en/flying/local-flying-safety-rules.md
+  visiting-pilots:
+    nn: nn/fyking/besokande-pilotar.md
+    en: en/flying/visiting-pilots.md
+  risk-assessments:
+    nn: nn/fyking/ROS.md
+    en: en/flying/risk-assessments.md
+  risk-assessment-gjelle:
+    nn: nn/fyking/ROS/ros-gjelle.md
+    en: en/flying/risk-assessments/risk-assessment-gjelle.md
+  risk-assessment-hangurstoppen-east:
+    nn: nn/fyking/ROS/ros-hangurstoppen-aust.md
+    en: en/flying/risk-assessments/risk-assessment-hangurstoppen-east.md
+  risk-assessment-hangurstoppen-south:
+    nn: nn/fyking/ROS/ros-hangurstoppen-sor.md
+    en: en/flying/risk-assessments/risk-assessment-hangurstoppen-south.md
+  risk-assessment-main-landing-vangen:
+    nn: nn/fyking/ROS/ros-hovudlanding-vangen.md
+    en: en/flying/risk-assessments/risk-assessment-main-landing-vangen.md
+  risk-assessment-liaset:
+    nn: nn/fyking/ROS/ros-liaset.md
+    en: en/flying/risk-assessments/risk-assessment-liaset.md
+  risk-assessment-myrkdalen-spg:
+    nn: nn/fyking/ROS/ros-myrkdalen-spg.md
+    en: en/flying/risk-assessments/risk-assessment-myrkdalen-spg-main-launch.md
+  risk-assessment-prestegardslandet:
+    nn: nn/fyking/ROS/ros-prestegardslandet.md
+    en: en/flying/risk-assessments/risk-assessment-prestegardslandet.md
+  risk-assessment-rokne:
+    nn: nn/fyking/ROS/ros-rokne.md
+    en: en/flying/risk-assessments/risk-assessment-rokne.md
+  risk-assessment-tverrberg:
+    nn: nn/fyking/ROS/ros-tverrberg.md
+    en: en/flying/risk-assessments/risk-assessment-tverrberg.md
+  emergency-procedures:
+    nn: nn/tryggleik/nodprosedyrer.md
+    en: en/flying/emergency-procedures.md
+  accident-response-plan:
+    nn: nn/tryggleik/handlingsplan-ved-ulykke.md
+    en: en/flying/response-plan.md
+  the-club:
+    nn: nn/klubben.md
+    en: en/the-club.md
+  about-the-club:
+    nn: nn/klubben/om-klubben.md
+    en: en/the-club/about-voss-hpk.md
+  insurance:
+    nn: nn/klubben/forsikring.md
+    en: en/the-club/insurance.md
+  member-benefits:
+    nn: nn/klubben/medlemsfordelar.md
+    en: en/the-club/member-benefits.md
+  membership:
+    nn: nn/klubben/medlemskap.md
+    en: en/the-club/membership.md
+  club-equipment:
+    nn: nn/klubbutstyr.md
+    en: en/club-equipment.md
+  rescue-boats:
+    nn: nn/klubbutstyr/bat.md
+    en: en/club-equipment/boats.md
+  club-car:
+    nn: nn/klubbutstyr/bil.md
+    en: en/club-equipment/car.md
+  clubhouse:
+    nn: nn/klubbutstyr/klubbhus.md
+    en: en/club-equipment/clubhouse-at-bomoen.md
+  ground-winch:
+    nn: nn/klubbutstyr/opptrekk-landvinsj.md
+    en: en/club-equipment/ground-winch.md
+  club-trailer:
+    nn: nn/klubbutstyr/tilhenger.md
+    en: en/club-equipment/trailer.md
+  shared-equipment:
+    nn: nn/klubbutstyr/utstyr.md
+    en: en/club-equipment/equipment.md
+  communications:
+    nn: nn/kommunikasjon.md
+    en: en/communications.md
+  communications-and-privacy:
+    nn: nn/kommunikasjon/kommunikasjon-og-personvern.md
+    en: en/communications/communications-and-privacy.md
+  communications-during-incidents:
+    nn: nn/kommunikasjon/kommunikasjon-ved-hendingar.md
+    en: en/communications/communications-during-incidents.md
+  external-communications-plan:
+    nn: nn/kommunikasjon/ekstern-kommunikasjonsplan.md
+    en: en/communications/external-communications-plan.md
+  internal-communications-plan:
+    nn: nn/kommunikasjon/intern-kommunikasjonsplan.md
+    en: en/communications/internal-communications-plan.md
+  communications-responsibilities:
+    nn: nn/kommunikasjon/ansvar-kommunikasjon-og-myndigheit.md
+    en: en/communications/responsibilities-communications-and-authority.md
+  training:
+    nn: nn/kursing.md
+    en: en/training.md
+  accommodation:
+    nn: nn/kursing/overnatting.md
+    en: en/training/accommodation.md
+  pilot-progression:
+    nn: nn/kursing/progresjon.md
+    en: en/training/training-and-pilot-progression.md
+  course-framework:
+    nn: nn/kursing/rammer-for-kursing.md
+    en: en/training/course-delivery-framework.md
+  progression-course-framework:
+    nn: nn/kursing/rammer-progresjonskurs.md
+    en: en/training/progression-course-framework.md
+  governance:
+    nn: nn/organisatorisk.md
+    en: en/governance.md
+  annual-meeting:
+    nn: nn/organisatorisk/arsmoete.md
+    en: en/governance/annual-meeting.md
+  bylaws:
+    nn: nn/organisatorisk/lov.md
+    en: en/governance/bylaws-of-voss-hang-og-paragliderklubb.md
+  organisation-plan:
+    nn: nn/organisatorisk/organisasjonsplan.md
+    en: en/governance/organisation-plan-for-voss-hpk.md
+  programme-plan-2025:
+    nn: nn/organisatorisk/programplan-2025.md
+    en: en/governance/2025-programme-plan.md
+  strategy-document:
+    nn: nn/organisatorisk/styringsdokument.md
+    en: en/governance/strategy-document-2024-2028.md
+  board-and-roles:
+    nn: nn/roller.md
+    en: en/roles.md
+  board:
+    nn: nn/roller/styret.md
+    en: en/roles/board.md
+  board-instructions:
+    nn: nn/roller/styreinstruks.md
+    en: en/roles/board-instructions.md
+  roles-and-responsibilities:
+    nn: nn/roller/roller-og-ansvarsomrade.md
+    en: en/roles/roles-and-responsibilities.md
+  safety-group:
+    nn: nn/roller/tryggleiksgruppe.md
+    en: en/roles/safety-group.md
+  committees:
+    nn: nn/roller/utval.md
+    en: en/roles/election-and-audit-committees.md
+  procedures:
+    nn: nn/rutiner.md
+    en: en/procedures.md
+  annual-maintenance-calendar:
+    nn: nn/rutiner/arshjul.md
+    en: en/procedures/annual-maintenance-calendar.md
+  boats-and-moorings:
+    nn: nn/rutiner/bat-og-fortoying.md
+    en: en/procedures/boats-and-moorings.md
+  car-maintenance:
+    nn: nn/rutiner/bil.md
+    en: en/procedures/car.md
+  flying-equipment-maintenance:
+    nn: nn/rutiner/flyutstyr.md
+    en: en/procedures/flying-equipment.md
+  clubhouse-maintenance:
+    nn: nn/rutiner/klubbhus.md
+    en: en/procedures/clubhouse.md
+  club-trailer-maintenance:
+    nn: nn/rutiner/klubbvogn.md
+    en: en/procedures/club-trailer.md
+  launch-sites-maintenance:
+    nn: nn/rutiner/startplassar.md
+    en: en/procedures/launch-sites.md
+  towed-trailer-maintenance:
+    nn: nn/rutiner/tilhenger.md
+    en: en/procedures/towed-trailer.md
+  tandem:
+    nn: nn/tandem.md
+    en: en/tandem.md
+  tandem-passenger-declaration:
+    nn: nn/tandem/eigenfrasegn.md
+    en: en/tandem/tandem-passenger-declaration.md
+  tandem-passenger-declaration-archive:
+    nn: nn/tandem/eigenfrasegn-2023.md
+    en: en/tandem/tandem-passenger-declaration-2023-archive.md
+  tandem-agreement-archive:
+    nn: nn/tandem/tandemkontrakt-2024.md
+    en: en/tandem/tandem-agreement-2024-archived-source-document.md
+  tandem-compensation-2026:
+    nn: nn/tandem/kompensasjon-2026.md
+    en: en/tandem/tandem-compensation-2026.md
+  tandem-information-veko-2024:
+    nn: nn/tandem/praktisk-info-veko-2024.md
+    en: en/tandem/practical-information-for-tandem-pilots-at-veko-2024.md

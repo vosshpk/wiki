@@ -18,7 +18,7 @@ Names and roles may change; confirm the current list on the [club website](https
 
 ## Board instructions
 
-See the [consolidated board instructions](/en/roles/board-instructions-for-voss-hpk).
+See the [consolidated board instructions](/en/roles/board-instructions).
 They are a draft and must be adopted by the board before being treated as current policy.
 
 ## Committees and roles

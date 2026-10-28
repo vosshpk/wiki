@@ -24,7 +24,7 @@ Ensure safety and training work has the necessary resources, and coordinate betw
 Work with the head of training to integrate safety into daily operations and inform the safety group about resources and operating limits.
 
 **Authority described in the source:** Make operational and resource decisions within approved financial limits, and initiate safety measures in consultation with the head of training.
-See also the [delegation of authority matrix](/en/managing-director/managing-director-delegation-matrix).
+See also the [delegation of authority matrix](/en/managing-director/delegation-matrix).
 
 ## Head of training
 
@@ -54,4 +54,4 @@ Confirm this against the safety system.
 - The safety group supports the head of training and advises the board and managing director.
 
 For a safety incident, the source document describes the head of training and safety group as able to stop activities, the managing director as handling practical needs and resources, and the board as considering longer-term measures.
-See [communications during incidents](/en/communications/communications-during-incidents) and the [emergency procedures](/en/safety/safety-and-emergency-procedures).
+See [communications during incidents](/en/communications/communications-during-incidents) and the [emergency procedures](/en/flying/emergency-procedures).
