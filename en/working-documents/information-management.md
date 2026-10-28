@@ -1,7 +1,7 @@
-# Communications and privacy
+# Information Management
 
 The club uses its website, wiki, email and social media to communicate with members and others.
-See the [internal communications plan](/en/communications/internal-communications-plan) and [external communications plan](/en/communications/external-communications-plan) for plans and responsibilities.
+See the [internal communications plan](/en/working-documents/internal-communications-plan) and [external communications plan](/en/working-documents/external-communications-plan) for plans and responsibilities.
 Official contact points are listed on the [about the club page](/en/the-club/about).
 
 ## Where information is stored

@@ -132,4 +132,4 @@ Follows the NLF/HPS safety system and does not replace responsibilities held by 
 - The safety group supports the technical director and advises the board and managing director.
 
 For a safety incident, the source describes the technical director and safety group as able to stop activities, the managing director as handling practical needs and resources, and the board as considering longer-term measures.
-See [communications during incidents](/en/communications/communications-during-incidents) and the [emergency procedures](/en/safety/emergency-procedures).
+See [communications during incidents](/en/working-documents/communications-during-incidents) and the [emergency procedures](/en/safety/emergency-procedures).

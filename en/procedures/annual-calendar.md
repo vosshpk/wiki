@@ -28,7 +28,7 @@ Review a procedure sooner if regulations, equipment, organisation or local condi
 | Document/procedure | Annual follow-up |
 |---|---|
 | [Risk assessments](/en/flying/risk-assessments) | Review the assessments, risk ratings and actions for each flying site. Update them after changes or serious incidents. |
-| Incident overview | Check that follow-up items have an owner and status, and that closed cases are handled under the retention rules. Keep the overview in an access-restricted system, not in the public wiki. See [Communications and privacy](/en/communications/communications-and-privacy). |
+| Incident overview | Check that follow-up items have an owner and status, and that closed cases are handled under the retention rules. Keep the overview in an access-restricted system, not in the public wiki. See [Information Management](/en/working-documents/information-management). |
 | Application for operating and development funds | Review needs, priorities, available schemes and deadlines. Confirm the owner, budget basis, attachments and any reporting requirements. |
 
 ### Other suggested annual reviews
@@ -39,4 +39,4 @@ These are suggestions for the board to confirm before making them fixed annual r
 - **Annual calendar and equipment:** Confirm owners, inspection dates and records for boats, engines, vehicles, trailers, winch equipment and flying gear in the maintenance section above.
 - **Insurance and equipment register:** Check renewal dates, cover and that the club's boats, vehicles and other equipment are listed correctly. See [insurance](/en/the-club/insurance).
 - **Launch and landing sites:** Review landowner agreements, contacts, access and any conditions. See [launch sites](/en/procedures/launch-sites).
-- **Access and records:** Review access, retention periods and archiving for membership, course and safety information. See [Communications and privacy](/en/communications/communications-and-privacy).
+- **Access and records:** Review access, retention periods and archiving for membership, course and safety information. See [Information Management](/en/working-documents/information-management).

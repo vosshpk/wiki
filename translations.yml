@@ -105,21 +105,21 @@ pages:
   shared-equipment:
     nn: nn/klubbutstyr/utstyr.md
     en: en/club-equipment/equipment.md
-  communications:
-    nn: nn/kommunikasjon.md
-    en: en/communications.md
-  communications-and-privacy:
-    nn: nn/kommunikasjon/kommunikasjon-og-personvern.md
-    en: en/communications/communications-and-privacy.md
+  working-documents:
+    nn: nn/arbeidsdokumenter.md
+    en: en/working-documents.md
+  information-management:
+    nn: nn/arbeidsdokumenter/informasjonsforvaltning.md
+    en: en/working-documents/information-management.md
   communications-during-incidents:
-    nn: nn/kommunikasjon/kommunikasjon-ved-hendingar.md
-    en: en/communications/communications-during-incidents.md
+    nn: nn/arbeidsdokumenter/kommunikasjon-ved-hendingar.md
+    en: en/working-documents/communications-during-incidents.md
   external-communications-plan:
-    nn: nn/kommunikasjon/ekstern-kommunikasjonsplan.md
-    en: en/communications/external-communications-plan.md
+    nn: nn/arbeidsdokumenter/ekstern-kommunikasjonsplan.md
+    en: en/working-documents/external-communications-plan.md
   internal-communications-plan:
-    nn: nn/kommunikasjon/intern-kommunikasjonsplan.md
-    en: en/communications/internal-communications-plan.md
+    nn: nn/arbeidsdokumenter/intern-kommunikasjonsplan.md
+    en: en/working-documents/internal-communications-plan.md
   training:
     nn: nn/kursing.md
     en: en/training.md

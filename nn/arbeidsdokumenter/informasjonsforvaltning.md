@@ -1,7 +1,7 @@
-# Kommunikasjon og personvern
+# Informasjonsforvaltning
 
 Klubben brukar nettsida, wikien, e-post og sosiale medium for å informere medlemer og andre.
-Sjå [intern kommunikasjonsplan](/kommunikasjon/intern-kommunikasjonsplan) og [ekstern kommunikasjonsplan](/kommunikasjon/ekstern-kommunikasjonsplan) for planane og ansvarsdelinga.
+Sjå [intern kommunikasjonsplan](/arbeidsdokumenter/intern-kommunikasjonsplan) og [ekstern kommunikasjonsplan](/arbeidsdokumenter/ekstern-kommunikasjonsplan) for planane og ansvarsdelinga.
 Offisielle kontaktpunkt står på [om klubben-sida](/klubben/om-klubben).
 
 ## Kvar informasjon skal lagrast

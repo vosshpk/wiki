@@ -28,7 +28,7 @@ Gå òg gjennom ei prosedyre når regelverk, utstyr, organisering eller lokale f
 | Dokument/prosedyre | Årleg oppfølging |
 |---|---|
 | [ROS-analysar](/fyking/ROS) | Gå gjennom analysane, risikovurderingane og tiltaka for kvar flystad. Oppdater ved endringar og etter alvorlege hendingar. |
-| Hendingsoversikt | Kontroller at oppfølgingar har ansvarleg og status, og at avslutta saker blir handterte etter reglane for lagring. Oversikta skal liggje i eit tilgangsavgrensa system, ikkje i den offentlege wikien. Sjå [Kommunikasjon og personvern](/kommunikasjon/kommunikasjon-og-personvern). |
+| Hendingsoversikt | Kontroller at oppfølgingar har ansvarleg og status, og at avslutta saker blir handterte etter reglane for lagring. Oversikta skal liggje i eit tilgangsavgrensa system, ikkje i den offentlege wikien. Sjå [Informasjonsforvaltning](/arbeidsdokumenter/informasjonsforvaltning). |
 | Søknad om midlar til drift og utvikling | Gå gjennom behov, prioriteringar, aktuelle ordningar og fristar. Avklar ansvarleg, budsjettgrunnlag, vedlegg og eventuell rapportering. |
 
 ### Andre forslag til årleg gjennomgang
@@ -39,4 +39,4 @@ Desse punkta er forslag og må stadfestast av styret før dei blir faste årlege
 - **Årshjul og utstyr:** Stadfest ansvarlege, kontrolltidspunkt og dokumentasjon for båtar, motorar, køyretøy, tilhengarar, vinsj og flyutstyr i vedlikehaldsdelen ovanfor.
 - **Forsikringar og utstyrsoversikt:** Kontroller fornyingsdatoar, dekning og at klubben sine båtar, køyretøy og anna utstyr er oppførte korrekt. Sjå [forsikring](/klubben/forsikring).
 - **Start- og landingsstader:** Gå gjennom grunneigaravtalar, kontaktpersonar, tilkomst og eventuelle vilkår. Sjå [startplassar](/rutiner/startplassar).
-- **Tilgang og arkivering:** Gå gjennom tilgangar, lagringstid og arkiv for medlems-, kurs- og tryggleiksinformasjon. Sjå [Kommunikasjon og personvern](/kommunikasjon/kommunikasjon-og-personvern).
+- **Tilgang og arkivering:** Gå gjennom tilgangar, lagringstid og arkiv for medlems-, kurs- og tryggleiksinformasjon. Sjå [Informasjonsforvaltning](/arbeidsdokumenter/informasjonsforvaltning).
