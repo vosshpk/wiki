@@ -129,6 +129,15 @@ pages:
   pilot-progression:
     nn: nn/utdanningsinformasjon/pilotprogresjon.md
     en: en/training-information/pilot-progression.md
+  course-materials:
+    nn: nn/utdanningsinformasjon/kursmateriale.md
+    en: en/training-information/course-materials.md
+  progression:
+    nn: nn/utdanningsinformasjon/progresjon.md
+    en: en/training-information/progression.md
+  student-guide:
+    nn: nn/utdanningsinformasjon/elevguide.md
+    en: en/training-information/student-guide.md
   course-framework:
     nn: nn/instruktorinformasjon/rammer-kurs.md
     en: en/instructor-information/course-framework.md
