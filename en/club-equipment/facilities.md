@@ -8,6 +8,6 @@ See the [official club facilities page](https://vosshpk.no/om-klubben/fasiliteta
 
 - [Clubhouse at Bømoen](/en/club-equipment/clubhouse-at-bomoen)
 - [Club trailer by Prestegardslandet](/en/club-equipment/club-trailer)
-- [Club boat on Lake Vangsvatnet](/en/club-equipment/club-boat)
+- [Rescue boats](/en/club-equipment/club-boat)
 - [Club car and transport](/en/club-equipment/club-car-and-transport)
 - [Training hill at Bakkatun](/en/flying/flying-sites-around-voss)

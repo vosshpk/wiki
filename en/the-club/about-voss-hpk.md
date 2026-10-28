@@ -26,7 +26,7 @@ Day-to-day and sporting operations are handled by the club’s management and co
   See the [board and committees](/en/board/board).
 - **Safety group:** Works with training, safety, rules, environmental matters and police certificates.
   See the [safety group page](/en/safety/safety-group).
-- **Equipment and facilities:** See [club equipment and facilities](/en/club-equipment/facilities) for the clubhouse, trailer, rescue boat and club car.
+- **Equipment and facilities:** See [club equipment and facilities](/en/club-equipment/facilities) for the clubhouse, trailer, rescue boats and club car.
   The training hill is included in the [flying-sites page](/en/flying/flying-sites-around-voss).
 
 ## Contact details and addresses

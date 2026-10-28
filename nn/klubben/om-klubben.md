@@ -30,7 +30,7 @@ Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utva
   Sjå [styret og utvala](/styret/styret).
 * **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar.
   Sjå [tryggleiksgruppa](/tryggleik/tryggleiksgruppe).
-* **Utstyr og fasilitetar:** Sjå [klubbutstyr og fasilitetar](/klubbutstyr/fasiliteter) for klubbhuset, klubbvogna, redningsbåten og klubbilen.
+* **Utstyr og fasilitetar:** Sjå [klubbutstyr og fasilitetar](/klubbutstyr/fasiliteter) for klubbhuset, klubbvogna, redningsbåtane og klubbilen.
   Skulebakken er omtala under [flystader](/fly/flysteder).
 
 ---

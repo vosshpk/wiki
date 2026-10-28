@@ -68,7 +68,7 @@ Sjå [rutinen for bil](/rutiner/bil).
 
 ## Båtansvarleg
 
-Følgjer opp opptrekksbåt og redningsbåt: tilstand, fortøying, tryggleiksutstyr, opptak, service og dokumentasjon.
+Følgjer opp opptrekksbåten og redningsbåtane: tilstand, fortøying, tryggleiksutstyr, opptak, service og dokumentasjon.
 Samarbeider med fagleg leiar om tryggleik.
 Sjå [rutinen for båt og fortøying](/rutiner/bat-og-fortoying).
 **Må avklarast:** kompetansekrav, serviceansvar og beredskapsrutinar.

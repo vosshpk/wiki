@@ -8,6 +8,6 @@ Sjå [klubben si offisielle fasilitetsside](https://vosshpk.no/om-klubben/fasili
 
 - [Klubbhuset på Bømoen](/klubbutstyr/klubbhus)
 - [Klubbvogna ved Prestegardslandet](/klubbutstyr/tilhenger)
-- [Klubbåten på Vangsvatnet](/klubbutstyr/bat)
+- [Redningsbåtane](/klubbutstyr/bat)
 - [Klubbilen og transport](/klubbutstyr/bil)
 - [Skulebakken på Bakkatun](/fly/flysteder)

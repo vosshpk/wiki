@@ -68,7 +68,7 @@ See the [car routine](/en/procedures/car).
 
 ## Boat manager
 
-Follows up the tow boat and rescue boat: condition, moorings, safety equipment, haul-out, servicing and records.
+Follows up the tow boat and rescue boats: condition, moorings, safety equipment, haul-out, servicing and records.
 Works with the technical director on safety.
 See the [boats and moorings routine](/en/procedures/boats-and-moorings).
 **To clarify:** qualifications, service responsibility and emergency procedures.

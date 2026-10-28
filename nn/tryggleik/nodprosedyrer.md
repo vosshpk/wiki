@@ -3,7 +3,7 @@
 Tryggleik kjem først i Voss Hang- og Paragliderklubb.
 Pilotar skal kjenne naudnummer, lokale varslingsrutinar og handlingsplanar før dei flyg.
 
-Les òg den [separate handlingsplanen ved hang-, para- eller speedgliderulukke](/tryggleik/handlingsplan-ved-ulykke), [opptrekksprosedyrane for landvinsj](/klubbutstyr/opptrekk-landvinsj) og informasjonen om [klubbåten](/klubbutstyr/bat).
+Les òg den [separate handlingsplanen ved hang-, para- eller speedgliderulukke](/tryggleik/handlingsplan-ved-ulykke), [opptrekksprosedyrane for landvinsj](/klubbutstyr/opptrekk-landvinsj) og informasjonen om [redningsbåtane](/klubbutstyr/bat).
 
 ---
 
@@ -77,9 +77,9 @@ Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
    Ikkje løys dei så tidleg at du kan gli ut av selen i lufta.
 2. **I vatnet:** Kom deg straks fri frå liner og vinge.
    Sym bort frå duken så du ikkje viklar deg inn.
-3. **Bruk av redningsbåten til klubben:**
-   * Den oransje båten ligg på Vangsvatnet.
-   * Båten har ikkje kodelås og kan brukast i ein naudssituasjon.
+3. **Bruk av redningsbåtane:**
+   * Den oransje jolla og Pioner Multi ligg på Vangsvatnet. Den grå jolla står vanlegvis på tilhengar og er klar for oppdrag i Aurland eller under Veko.
+   * Den oransje jolla og Pioner Multi står alltid ulåste og er tilgjengelege ved naud.
    * **Trygg bruk:** Start motoren i fri (nøytral), og fest dødmannssnora til føraren før du gir gass.
 4. **Varsle politiet:** Ring **02800** så snart som råd dersom piloten er komen trygt på land.
    Då kan AMK og naudetatane unngå å rykke ut på grunnlag av meldingar frå publikum.

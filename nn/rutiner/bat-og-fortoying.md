@@ -8,15 +8,15 @@
 Fastset kven som har ansvar for opptrekksbåten, når han skal klargjerast og takast opp, kva service som skal utførast, og korleis motor, skrog, tryggleiksutstyr og fortøying skal kontrollerast.
 Legg inn rutine og logg når dette er stadfesta.
 
-## Redningsbåt
+## Redningsbåtar
 
-Den oransje redningsbåten ligg på Vangsvatnet.
+Klubben har tre redningsbåtar. Sjå [oversikta over redningsbåtane](/klubbutstyr/bat) for plassering, utstyr og sjekkliste.
 Følg [naudprosedyrane](/tryggleik/nodprosedyrer) ved bruk.
-Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying, og plan for opptak og service før vinteren.
+Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying for kvar båt, og plan for opptak og service før vinteren.
 
 ## Årleg kontroll og logg
 
 - **Ansvarleg:** Må avklarast.
-- **Service og opptak:** Ta begge båtane opp og få dei på service om vinteren, før frost/is.
+- **Service og opptak:** Ta opptrekksbåten og alle redningsbåtane opp og få dei på service om vinteren, før frost/is.
 - **Kontrollpunkt og intervall:** Må stadfestast med båtansvarleg og serviceleverandør.
 - **Logg:** Dato, båt, kontroll/service, avvik, tiltak og ansvarleg.

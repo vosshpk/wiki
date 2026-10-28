@@ -8,15 +8,15 @@
 Set who is responsible for the tow boat, when it should be prepared and hauled out, what servicing is required, and how the engine, hull, safety equipment and moorings are checked.
 Add the confirmed procedure and log here.
 
-## Rescue boat
+## Rescue boats
 
-The orange rescue boat is on Lake Vangsvatnet.
-Follow the [emergency procedures](/en/safety/safety-and-emergency-procedures) when using it.
-Define checks for the engine, fuel, battery, safety equipment and moorings, and a plan to haul it out and service it before winter.
+The club has three rescue boats. See the [rescue boat overview](/en/club-equipment/club-boat) for their locations, equipment and checklist.
+Follow the [emergency procedures](/en/safety/safety-and-emergency-procedures) when using one.
+Define checks for the engine, fuel, battery, safety equipment and moorings for each boat, and a plan to haul them out and arrange servicing before winter.
 
 ## Annual inspection and log
 
 - **Owner:** To be assigned.
-- **Servicing and haul-out:** Haul out both boats and arrange servicing in winter, before freezing conditions.
+- **Servicing and haul-out:** Haul out the tow boat and all rescue boats for servicing in winter, before freezing conditions.
 - **Inspection points and interval:** Confirm with the boat owner and service provider.
 - **Log:** Date, boat, inspection/service, issues, actions and owner.

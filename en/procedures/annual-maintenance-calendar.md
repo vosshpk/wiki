@@ -6,7 +6,7 @@
 | Timing | Routine | Tasks | Owner | Record |
 |---|---|---|---|---|
 | Winter | [Car](/en/procedures/car) | Fit studded tyres when winter conditions require them; follow current rules for dates and use. | To be assigned | To be decided |
-| Winter, before freezing conditions | [Boats and moorings](/en/procedures/boats-and-moorings) | Haul out the tow boat and rescue boat and arrange servicing. | To be assigned | To be decided |
+| Winter, before freezing conditions | [Boats and moorings](/en/procedures/boats-and-moorings) | Haul out the tow boat and all rescue boats for servicing. | To be assigned | To be decided |
 | Annual / timing to be set | [Flying equipment](/en/procedures/flying-equipment) | Set an annual inspection and maintenance schedule for club flying equipment. | To be assigned | To be decided |
 | Annual / timing to be set | [Launch sites](/en/procedures/launch-sites) | Set inspection and maintenance dates for launch sites. | To be assigned | To be decided |
 | Annual / timing to be set | [Trailer](/en/procedures/towed-trailer) | Set inspection, servicing and maintenance dates for the trailer. | To be assigned | To be decided |
