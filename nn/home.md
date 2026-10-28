@@ -1,3 +1,5 @@
+# Voss Hang- og Paragliderklubb
+
 <div class="voss-home-hero">
   <img class="voss-home-hero__photo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-fly2.jpg" alt="Paragliderar over Voss frå Hangurstoppen" />
   <div class="voss-home-hero__shade"></div>
