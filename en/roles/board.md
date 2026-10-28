@@ -23,7 +23,7 @@ They are a draft and must be adopted by the board before being treated as curren
 
 ## Committees and roles
 
-- The [organisation plan](/en/governance/organisation-plan-for-voss-hpk) describes responsibilities and structure.
+- The [organisation plan](/en/governance/organisation-plan) describes responsibilities and structure.
 - [Election and audit committees](/en/roles/election-and-audit-committees)
 - [Safety group](/en/roles/safety-group)
 - [Roles and responsibilities](/en/roles/roles-and-responsibilities)

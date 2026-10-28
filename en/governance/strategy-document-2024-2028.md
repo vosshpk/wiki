@@ -26,7 +26,7 @@ The presentation shows this high-level structure:
 - Course and tandem instructors support activities and training.
 
 This describes a 2024 chart and does not confirm current role holders.
-See the [organisation plan](/en/governance/organisation-plan-for-voss-hpk) and [board and committees](/en/roles/board).
+See the [organisation plan](/en/governance/organisation-plan) and [board and committees](/en/roles/board).
 
 ## Annual cycle shown in the presentation
 
