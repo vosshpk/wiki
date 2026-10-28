@@ -2,7 +2,7 @@
 title: Styret
 description: ''
 published: true
-date: '2026-10-28T07:27:04.139Z'
+date: '2026-10-28T07:27:41.951Z'
 tags: []
 editor: markdown
 dateCreated: '2026-10-27T17:20:28.560Z'
@@ -23,7 +23,7 @@ Namn og verv kan endre seg; stadfest oppdatert oversikt på [klubben si nettside
 | Styremedlem | Jon Ingemar Gjerde | 902 09 813 | — |
 | Styremedlem | Kristian Backer | — | — |
 | Styremedlem | Siv Mona Sve Edvardsen | — | — |
-| Varamedlem | Henrik Nyhus | 90780670 | [henrik@vosshpk.no](mailto:henrik@vosshpk.no) |
+| Varamedlem | Henrik Nyhus | 907 80 670 | [henrik@vosshpk.no](mailto:henrik@vosshpk.no) |
 | Varamedlem | Janne Berit Stokke | — | — |
 
 ## Styreinstruks
