@@ -78,7 +78,8 @@ Ved landing i vatn kan seletøy og liner utgjere akutt drukningsfare:
 2. **I vatnet:** Kom deg straks fri frå liner og vinge.
    Sym bort frå duken så du ikkje viklar deg inn.
 3. **Bruk av redningsbåtane:**
-   * Den oransje jolla og Pioner Multi ligg på Vangsvatnet. Den grå jolla står vanlegvis på tilhengar og er klar for oppdrag i Aurland eller under Veko.
+   * Den oransje jolla og Pioner Multi ligg på Vangsvatnet.
+     Den grå jolla står vanlegvis på tilhengar og er klar for oppdrag i Aurland eller under Veko.
    * Den oransje jolla og Pioner Multi står alltid ulåste og er tilgjengelege ved naud.
    * **Trygg bruk:** Start motoren i fri (nøytral), og fest dødmannssnora til føraren før du gir gass.
 4. **Varsle politiet:** Ring **02800** så snart som råd dersom piloten er komen trygt på land.

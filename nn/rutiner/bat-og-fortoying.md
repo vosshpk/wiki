@@ -10,7 +10,8 @@ Legg inn rutine og logg når dette er stadfesta.
 
 ## Redningsbåtar
 
-Klubben har tre redningsbåtar. Sjå [oversikta over redningsbåtane](/klubbutstyr/bat) for plassering, utstyr og sjekkliste.
+Klubben har tre redningsbåtar.
+Sjå [oversikta over redningsbåtane](/klubbutstyr/bat) for plassering, utstyr og sjekkliste.
 Følg [naudprosedyrane](/tryggleik/nodprosedyrer) ved bruk.
 Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying for kvar båt, og plan for opptak og service før vinteren.
 

@@ -21,11 +21,15 @@ Wiki.js instances connect to this repository through the built-in **Git Storage*
 
 ## 📁 Repository structure
 
-Markdown content is grouped by locale in `nn/` and `en/`. Within each locale, folder and file names determine the wiki page paths. Add, rename or move pages in those trees and update any links that point to them; this README intentionally does not maintain a page-by-page inventory.
+Markdown content is grouped by locale in `nn/` and `en/`.
+Within each locale, folder and file names determine the wiki page paths.
+Add, rename or move pages in those trees and update any links that point to them; this README intentionally does not maintain a page-by-page inventory.
 
-The top-level `assets/` directory contains images used by pages. The wiki is the club handbook; there is no separate handbook page.
+The top-level `assets/` directory contains images used by pages.
+The wiki is the club handbook; there is no separate handbook page.
 
-For Wiki.js 3, the infrastructure repository has a navigation generator that reads these locale trees and uses Markdown headings for labels. The sidebar can be regenerated after pages are added, renamed or removed.
+For Wiki.js 3, the infrastructure repository has a navigation generator that reads these locale trees and uses Markdown headings for labels.
+The sidebar can be regenerated after pages are added, renamed or removed.
 
 ---
 
@@ -45,12 +49,14 @@ Daily PostgreSQL dumps are stored in a private Google Cloud Storage backup bucke
 
 ### Public access
 
-All wiki pages are publicly accessible. Do not put personal or confidential records in the wiki or this repository; store them in approved systems with appropriate access controls.
+All wiki pages are publicly accessible.
+Do not put personal or confidential records in the wiki or this repository; store them in approved systems with appropriate access controls.
 If this repository is public, its Markdown is public on GitHub too.
 
 ## Language and initial import into Wiki.js
 
-The repository uses `nn/` and `en/` locale directories. Configure Wiki.js Multilingual Namespaces and Git Storage to preserve both locale namespaces and keep the file paths aligned with the page paths.
+The repository uses `nn/` and `en/` locale directories.
+Configure Wiki.js Multilingual Namespaces and Git Storage to preserve both locale namespaces and keep the file paths aligned with the page paths.
 
 Connecting Git Storage does not by itself import all existing files.
 After the Git Storage status is healthy, use **Administration → Storage → Git → Import Everything** once to import the existing repository pages into a fresh Wiki.js database.

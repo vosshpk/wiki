@@ -2,17 +2,25 @@
 
 The club has three rescue boats:
 
-- **Orange dinghy:** Yamaha 9.9 hp. The engine is new in 2026, and the dinghy has its own trailer.
-- **Grey dinghy:** Yamaha 25 hp. The dinghy has its own trailer.
-- **Pioner Multi:** Yamaha 60 hp. The engine is new in 2026, and the boat has its own trailer.
+- **Orange dinghy:** Yamaha 9.9 hp.
+  The engine is new in 2026, and the dinghy has its own trailer.
+- **Grey dinghy:** Yamaha 25 hp.
+  The dinghy has its own trailer.
+- **Pioner Multi:** Yamaha 60 hp.
+  The engine is new in 2026, and the boat has its own trailer.
 
-The grey dinghy is usually kept on its trailer, ready for callouts in Aurland or during Veko. The orange dinghy and Pioner Multi are on Lake Vangsvatnet and on standby.
+The grey dinghy is usually kept on its trailer, ready for callouts in Aurland or during Veko.
+The orange dinghy and Pioner Multi are on Lake Vangsvatnet and on standby.
 
-The orange dinghy and Pioner Multi are never locked, so they are available for emergencies. Always start the engine in neutral and attach the kill-switch lanyard before use. Follow the [emergency procedures](/en/safety/emergency-procedures), and report faults, damage or maintenance needs to the managing director.
+The orange dinghy and Pioner Multi are never locked, so they are available for emergencies.
+Always start the engine in neutral and attach the kill-switch lanyard before use.
+Follow the [emergency procedures](/en/safety/emergency-procedures), and report faults, damage or maintenance needs to the managing director.
 
 ## Mooring
 
-The mooring arrangement on Lake Vangsvatnet is knot-free. Unclip the carabiner and pull the boat ashore. To moor it again, pull it back to its berth and clip the carabiner on.
+The mooring arrangement on Lake Vangsvatnet is knot-free.
+Unclip the carabiner and pull the boat ashore.
+To moor it again, pull it back to its berth and clip the carabiner on.
 
 ## Rescue Boat Checklist
 

@@ -29,7 +29,8 @@ For reglar om plikta idrettslaget har til å vere medlem av eit særforbund gjel
 
 (1) For reglar om opptak av medlemmer, utmelding, fråtaking av medlemskap m.m. gjeld NIFs lov §§ [10-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-4){target=_blank} og [10-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-6){target=_blank}.
 
-(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/){target=_blank}, jf. NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5){target=_blank}.
+(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/){target=_blank}, jf.
+NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5){target=_blank}.
 
 ## § 4 Kjønnsfordeling
 

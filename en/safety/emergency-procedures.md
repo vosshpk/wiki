@@ -63,7 +63,9 @@ Harness straps and lines can create an immediate drowning hazard:
    Do not release them so early that you could fall out of the harness in the air.
 2. In the water, immediately free yourself from lines and wing.
    Swim away from the canopy to avoid entanglement.
-3. The orange dinghy and Pioner Multi are on Lake Vangsvatnet. The grey dinghy is usually on its trailer, ready for callouts in Aurland or during Veko. The orange dinghy and Pioner Multi are never locked, so they are available for emergencies.
+3. The orange dinghy and Pioner Multi are on Lake Vangsvatnet.
+   The grey dinghy is usually on its trailer, ready for callouts in Aurland or during Veko.
+   The orange dinghy and Pioner Multi are never locked, so they are available for emergencies.
    Start the engine in neutral and attach the kill-switch lanyard before applying power.
 4. Once the pilot is safely ashore, call **02800** promptly so emergency services can avoid responding to unconfirmed public reports.
 

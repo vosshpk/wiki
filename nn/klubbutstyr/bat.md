@@ -2,17 +2,25 @@
 
 Klubben har tre redningsbåtar:
 
-- **Oransje jolle:** Yamaha 9,9 hk. Motoren er ny i 2026, og jolla står på eigen tilhengar.
-- **Grå jolle:** Yamaha 25 hk. Jolla står på eigen tilhengar.
-- **Raud Pioner Multi:** Yamaha 60 hk. Båten og motoren er nye i 2026, og båten står på eigen tilhengar.
+- **Oransje jolle:** Yamaha 9,9 hk.
+  Motoren er ny i 2026, og jolla står på eigen tilhengar.
+- **Grå jolle:** Yamaha 25 hk.
+  Jolla står på eigen tilhengar.
+- **Raud Pioner Multi:** Yamaha 60 hk.
+  Båten og motoren er nye i 2026, og båten står på eigen tilhengar.
 
-Den grå jolla står vanlegvis på tilhengaren og er klar for oppdrag i Aurland eller under Veko. Den oransje jolla og Pioner Multi ligg på Vangsvatnet og er i beredskap.
+Den grå jolla står vanlegvis på tilhengaren og er klar for oppdrag i Aurland eller under Veko.
+Den oransje jolla og Pioner Multi ligg på Vangsvatnet og er i beredskap.
 
-Den oransje jolla og Pioner Multi står alltid ulåste, slik at dei er tilgjengelege ved naud. Start alltid motoren i fri og fest dødmannssnora før bruk. Følg [naudprosedyrane](/tryggleik/nodprosedyrer), og meld frå til dagleg leiar om feil, skade eller behov for vedlikehald.
+Den oransje jolla og Pioner Multi står alltid ulåste, slik at dei er tilgjengelege ved naud.
+Start alltid motoren i fri og fest dødmannssnora før bruk.
+Følg [naudprosedyrane](/tryggleik/nodprosedyrer), og meld frå til dagleg leiar om feil, skade eller behov for vedlikehald.
 
 ## Fortøying
 
-Fortøyingsløysinga på Vangsvatnet er knutefri. Hekt karabinkroken av og dreg båten inn til land. Når du fortøyjer på nytt, dreg du båten ut til fortøyingsplassen og festar karabinkroken att.
+Fortøyingsløysinga på Vangsvatnet er knutefri.
+Hekt karabinkroken av og dreg båten inn til land.
+Når du fortøyjer på nytt, dreg du båten ut til fortøyingsplassen og festar karabinkroken att.
 
 ## Sjekkliste for redningsbåt
 
@@ -44,7 +52,8 @@ Fortøyingsløysinga på Vangsvatnet er knutefri. Hekt karabinkroken av og dreg 
 - [ ] Hald propellen unna personar i vatnet.
 - [ ] Sørg for at eitt av mannskapet held augekontakt med personen heile tida.
 - [ ] Få personen om bord og sikre vedkomande.
-- [ ] Hev baugrampa etter opptaket. Låsehengslene treng ikkje festast då (Pioner Multi).
+- [ ] Hev baugrampa etter opptaket.
+      Låsehengslene treng ikkje festast då (Pioner Multi).
 
 ### 3. Etter bruk
 
