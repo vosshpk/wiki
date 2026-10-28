@@ -11,7 +11,7 @@ Legg inn rutine og logg når dette er stadfesta.
 ## Redningsbåt
 
 Den oransje redningsbåten ligg på Vangsvatnet.
-Følg [naudprosedyrane](/sikkerhet/nodprosedyrer) ved bruk.
+Følg [naudprosedyrane](/tryggleik/nodprosedyrer) ved bruk.
 Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying, og plan for opptak og service før vinteren.
 
 ## Årleg kontroll og logg

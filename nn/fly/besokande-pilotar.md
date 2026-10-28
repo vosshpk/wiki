@@ -18,7 +18,7 @@ Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vossh
 
 ## Før du flyg
 
-1. Les [oversikta over flystadene](/fly/flysteder), [lokale tryggingsreglar](/sikkerhet/flytrygging) og [naudprosedyrane](/sikkerhet/nodprosedyrer).
+1. Les [oversikta over flystadene](/fly/flysteder), [lokale tryggingsreglar](/tryggleik/flytrygging) og [naudprosedyrane](/tryggleik/nodprosedyrer).
 2. Sjekk gjeldande vêr, vindmålingar, luftrom, NOTAM og lokale avgrensingar.
    Tilhøva kan endre seg raskt.
 3. Skaff lokal gjennomgang eller utsjekk når det er påkravd, og spør ein lokal pilot eller instruktør dersom du er usikker på start, landing eller luftrom.

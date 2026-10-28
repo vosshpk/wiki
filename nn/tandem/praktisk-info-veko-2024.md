@@ -3,7 +3,6 @@
 > **Arkivert kjeldedokument:** Attgjeving av praktisk info for Ekstremsportveko 2024.
 > Bookingløysing, prisar, opningstider, kontaktpersonar og rutinar kan vere utdaterte.
 > Bruk gjeldande Veko- og klubbinfo.
-> Dette er medlemsretta driftsinformasjon: tilgangsstyr `/tandem/*` i Wiki.js og bruk privat Git-repo dersom innhaldet ikkje skal vere offentleg.
 
 ## Organisering og booking
 

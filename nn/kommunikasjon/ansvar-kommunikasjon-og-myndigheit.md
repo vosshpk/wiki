@@ -54,4 +54,4 @@ Stadfest dette mot tryggleikssystemet.
 - Tryggleiksgruppa støttar fagleg leiar og gir råd til styret og dagleg leiar.
 
 Ved ei tryggleikshending skisserer kjeldedokumentet at fagleg leiar og tryggleiksgruppa kan stanse aktivitet, dagleg leiar følgjer opp praktiske behov og ressursar, og styret vurderer langsiktige tiltak.
-Sjå [kommunikasjon ved hendingar](/kommunikasjon/kommunikasjon-ved-hendingar) og [naudprosedyrane](/sikkerhet/nodprosedyrer).
+Sjå [kommunikasjon ved hendingar](/kommunikasjon/kommunikasjon-ved-hendingar) og [naudprosedyrane](/tryggleik/nodprosedyrer).

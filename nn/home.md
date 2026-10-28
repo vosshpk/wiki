@@ -12,11 +12,11 @@ Finn [flystader og lokale tilhøve](/fly/flysteder), eller les [besøksinformasj
 
 ### 🎓 Lære å fly
 
-Sjå [kurs og progresjon](/opplaering/progresjon) og informasjon om [Skulebakken på Bakkatun](/fly/flysteder).
+Sjå [kurs og progresjon](/kursing/progresjon) og informasjon om [Skulebakken på Bakkatun](/fly/flysteder).
 
 ### 🛟 Fly trygt
 
-Les [lokale flygereglar](/sikkerhet/flytrygging), og ha [naudprosedyrane](/sikkerhet/nodprosedyrer) lett tilgjengelege.
+Les [lokale flygereglar](/tryggleik/flytrygging), og ha [naudprosedyrane](/tryggleik/nodprosedyrer) lett tilgjengelege.
 
 ### 🏠 Klubben og medlemskap
 
@@ -28,8 +28,8 @@ Sjekk vêr, vind, luftrom og lokale reglar før kvar flytur.
 Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav frå NLF/HPAC.
 
 - [Flystader og lokale tilhøve](/fly/flysteder)
-- [Flytryggleik og lokale reglar](/sikkerhet/flytrygging)
-- [Tryggleik og naudprosedyrar](/sikkerhet/nodprosedyrer)
+- [Flytryggleik og lokale reglar](/tryggleik/flytrygging)
+- [Tryggleik og naudprosedyrar](/tryggleik/nodprosedyrer)
 
 ## Forvaltning av wikien
 

@@ -1,8 +1,5 @@
 # Tandemkompensasjon 2026
 
-> **Medlemsinnhald:** Denne sida skal berre vere tilgjengeleg for medlemer.
-> Set sidetilgang for `/tandem/*` i Wiki.js før sida blir publisert.
-
 ## Pris og fordeling
 
 | Stad/teneste | Pris totalt | Klubben | Piloten | Merknad |

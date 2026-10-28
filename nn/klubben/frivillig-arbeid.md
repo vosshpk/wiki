@@ -6,5 +6,5 @@ Deltaking i dugnad er frivillig; oppgåver og forventningar skal vere tydelege o
 > **MÅ AVKLARAST:** Opprett ei oppdatert oversikt over dugnader, oppgåveeigarar, kontaktpunkt og eventuell godtgjersle eller kostnadsdekning.
 > Stadfest òg kva roller som krev val, utnemning eller særskild opplæring, og kva avtale eller medlemskap som krevst for personar som tek på seg tillitsverv eller faste oppgåver.
 
-For luftsportsfagleg opplæring, sjå [kurs og pilotprogresjon](/opplaering/progresjon), [styret og utvala](/styret/styret) og [tryggleiksgruppa](/sikkerhet/tryggleiksgruppe).
+For luftsportsfagleg opplæring, sjå [kurs og pilotprogresjon](/kursing/progresjon), [styret og utvala](/styret/styret) og [tryggleiksgruppa](/tryggleik/tryggleiksgruppe).
 Klubben sine oppgåver ved arrangement og reiser er omtala under [aktivitetar](/klubben/aktivitetar).

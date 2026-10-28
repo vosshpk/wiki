@@ -19,7 +19,7 @@ Kontroller gjeldande medlemskontingent på [klubben si medlemsside](https://voss
 Kurs-, trenings- og deltakaravgifter kan variere mellom aktivitetar.
 
 > **MÅ AVKLARAST:** Publiser ei samla forklaring av vedtekne avgifter, kva dei dekkjer, betalingsfristar og reglar for avmelding/refusjon.
-> For kurs, sjå òg [opplæring og progresjon](/opplaering/progresjon).
+> For kurs, sjå òg [opplæring og progresjon](/kursing/progresjon).
 
 ---
 
@@ -30,8 +30,8 @@ Kurs-, trenings- og deltakaravgifter kan variere mellom aktivitetar.
 Medlemer som brukar klubben sine flystader og fellesanlegg, skal følgje:
 
 1. Gjeldande tryggleiksreglar frå NLF/HPAC.
-2. Lokale reglar for flyging og start på Voss (sjå [Flytryggleik](/sikkerhet/flytrygging)).
-3. Varslings- og [naudprosedyrar](/sikkerhet/nodprosedyrer).
+2. Lokale reglar for flyging og start på Voss (sjå [Flytryggleik](/tryggleik/flytrygging)).
+3. Varslings- og [naudprosedyrar](/tryggleik/nodprosedyrer).
 
 ---
 

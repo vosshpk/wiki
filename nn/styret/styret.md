@@ -25,4 +25,4 @@ Han er eit konsolidert utkast og må vedtakast av styret før han kan reknast so
 
 - [Organisasjonsplan](/organisatorisk/organisasjonsplan) skildrar ansvar og organisering.
 - [Valkomité og kontrollutval](/styret/utval)
-- [Tryggleiksgruppa](/sikkerhet/tryggleiksgruppe)
+- [Tryggleiksgruppa](/tryggleik/tryggleiksgruppe)

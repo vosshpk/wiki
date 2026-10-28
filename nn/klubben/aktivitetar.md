@@ -20,4 +20,4 @@ For større, tilbakevendande arrangement bør klubben ha ei eiga arrangørhandbo
 Stadfest kven som eig og vedlikeheld henne.
 Dersom klubben tilbyr paraidrett eller tilrettelagd aktivitet, legg inn informasjon om tilrettelegging, kompetanse og kvar ein kan søkje råd eller støtte.
 
-Sjå òg [tryggleik på arrangement og reiser](/sikkerhet/nodprosedyrer) og [rammer for kurs](/opplaering/rammer-for-kursing).
+Sjå òg [tryggleik på arrangement og reiser](/tryggleik/nodprosedyrer) og [rammer for kurs](/kursing/rammer-for-kursing).
