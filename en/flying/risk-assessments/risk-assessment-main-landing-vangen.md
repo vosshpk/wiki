@@ -7,9 +7,6 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 03.09.2026 |
 
-![Aerial image of the main landing area at Vangen from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
-
-*The aerial image and its map attribution are retained from the source PDF.*
 
 ## Risk assessment
 
@@ -27,3 +24,9 @@
 | 10 | Hard landing | Low turn, loss of height awareness, inadequate planning/training or impulsive flight-plan changes. | Pilot injury, potentially serious at high speed. | Landing pattern and AM course. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 11 | Winter water landing | Manoeuvres over water or misjudged approach. | Landing injury, severe hypothermia and drowning when the rescue boat is not on the water. | Explain the winter risk when the boat is not on the water. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 12 | Impulsive fast or advanced landing for filming | Human factors, especially friends, spectators and cameras. | Hard landing, collision with people or miscalculation. | Teach and emphasise human factors. | 3 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--3">3</span> |
+
+## Map
+
+![Aerial image of the main landing area at Vangen from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*

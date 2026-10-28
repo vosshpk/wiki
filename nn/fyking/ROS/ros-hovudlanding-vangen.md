@@ -7,9 +7,6 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 03.09.2026 |
 
-![Ortofoto av hovudlandinga på Vangen, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
-
-*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
 ## Risikovurdering
 
@@ -27,3 +24,9 @@
 | 10 | Hard landing | Låg sving, tap av høgdemedvit, manglande planlegging/trening eller impulsiv endring av flyplan. | Pilotskade, potensielt alvorleg ved høg fart. | Landingsmønster og AM-kurs. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 11 | Vasslanding om vinteren | Manøver over vatn eller feilberekna innflyging. | Landingsskade, kraftig nedkjøling og drukning når redningsbåt ikkje er på vatnet. | Informer om risikoen om vinteren når båten ikkje er på vatnet. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 12 | Impulsiv, rask eller avansert landing for filming | Menneskelege faktorar, særleg vener, tilskodarar og kamera. | Hard landing, kollisjon med folk eller feilberekning. | Undervis og legg vekt på menneskelege faktorar. | 3 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--3">3</span> |
+
+## Kart
+
+![Ortofoto av hovudlandinga på Vangen, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hovudlanding-vangen-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*

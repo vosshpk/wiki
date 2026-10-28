@@ -7,9 +7,6 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 12.09.2026 |
 
-![Ortofoto av startområdet på Hangurstoppen Sør, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
-
-*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*
 
 ## Risikovurdering
 
@@ -26,3 +23,9 @@
 | 9 | Miste lause gjenstandar | Manglande sikring og merksemd på omgjevnadene medan ein fokuserer på flyplanen. | Skade på hus eller tredjepart. | Minn jamleg om sikring, særleg ved skiflyging om vinteren, men òg for kamera og anna utstyr resten av året. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 10 | Skjermkollisjon | Manglande avklaring av felles flyplan; ulik fart mellom SPG, PG og fallskjerm. Aktuelt ved stor aktivitet og arrangement. | Nødkast eller krasjlanding med skade på éin eller to pilotar; skade på tredjepart ved flyging over busetnad. | Gje ekstra informasjon ved stor aktivitet og planlagde arrangement. Informer tydeleg om retningslinjene. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 11 | Nødskjermkast over vatn | Trening på manøvrar, akro eller SIV. | Skade ved naudlanding; drukningsfare dersom redningsbåt ikkje er bemanna eller det er vinter. | Ha to redningsbåtar i sesongen; bemann båt under kurs. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
+
+## Kart
+
+![Ortofoto av startområdet på Hangurstoppen Sør, frå ROS-kjelda](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
+
+*Ortofoto og kartkreditering er med frå kjelde-PDF-en.*

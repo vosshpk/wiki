@@ -7,11 +7,6 @@
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 11.09.2026 |
 
-### Kartutsnitt frå kjelde-PDF-en
-
-![Oversiktskart for Myrkdalen SPG](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-overview.png)
-
-![Kart over start-, landings- og kitingområde i Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
 
 ## Risikovurdering
 
@@ -33,3 +28,9 @@
 
 **Kjeldemerknad:** PDF-eksporten er feilformaterte på fleire stader; tabellen er sett opp att frå den lesbare teksten.
 Skårane er førte slik dei står i eksporten.
+
+## Kartutsnitt frå kjelde-PDF-en
+
+![Oversiktskart for Myrkdalen SPG](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-overview.png)
+
+![Kart over start-, landings- og kitingområde i Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)

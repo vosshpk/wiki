@@ -7,9 +7,6 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 9/12/2026 |
 
-![Aerial image of the Gjelle launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-gjelle-map.png)
-
-*The aerial image and its map attribution are retained from the source PDF.*
 
 ## Risk assessment
 
@@ -22,3 +19,9 @@
 | 5 | Collapse over land and reserve deployment | Incorrect low-altitude manoeuvre practice, for example during training. | Emergency/crash landing; hazards include power lines, river and water at landing. | Keep a generous flight-plan margin suited to competence. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 6 | Airspace conflict | Skydiving aircraft or tow planes may have flight paths close to Gjelle. | Uncomfortable proximity; worst case collision if pilots are unaware and do not use visibility tools. | Use SafeSky or similar and share local airspace activity. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 7 | Misjudging actual wind strength | Terrain features and the location of the weather station. | Takeoff in rotor. | Check nearby weather stations to understand mean wind and direction. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
+
+## Map
+
+![Aerial image of the Gjelle launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-gjelle-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*

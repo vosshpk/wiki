@@ -7,9 +7,6 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 12.09.2026 |
 
-![Aerial image of the Hangurstoppen East launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-aust-map.png)
-
-*The aerial image and its map attribution are retained from the source PDF.*
 
 ## Risk assessment
 
@@ -30,3 +27,9 @@
 | 13 | Injury during top landing | Misjudged conditions, wind or skills. | Minor to serious pilot injury, commonly ankle or compression fracture; possible third-party/property damage. | Plan the flight, account for fitness and keep room to abort the approach. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 14 | Equipment fault: cravat/line-over/tension knot, asymmetric trim, out-of-trim wing or locked/tangled brake line | Fitness, poor inspection routine, lack of focus or flight plan without a clear “point of no return”. | Aborted launch or emergency landing. | Routine equipment checks and knowledge of own equipment. | 2 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 15 | Takeoff in unsuitable conditions | Spectators, high activity, queues and limited space; gondola makes the launch easily accessible, and cameras distract. | Aborted launch/emergency landing; stress may lead to poor flight planning or spontaneous advanced manoeuvres. | Account for group dynamics and human factors. | 2 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--3">3</span> |
+
+## Map
+
+![Aerial image of the Hangurstoppen East launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-aust-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*

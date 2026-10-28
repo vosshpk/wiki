@@ -7,9 +7,6 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 12.09.2026 |
 
-![Aerial image of the Hangurstoppen South launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
-
-*The aerial image and its map attribution are retained from the source PDF.*
 
 ## Risk assessment
 
@@ -26,3 +23,9 @@
 | 9 | Losing loose objects | Inadequate securing and awareness while focusing on the flight plan. | Damage to houses or third parties. | Regularly remind pilots to secure items, especially skis in winter and cameras/other equipment year-round. | 1 | 2 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 10 | Canopy collision | No prior shared flight plan; different speeds for SPG, PG and skydiving. Relevant during busy periods/events. | Reserve deployment or crash landing injuring one or two pilots; third-party injury over buildings. | Give extra information during busy activity/events and clearly communicate rules. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
 | 11 | Reserve deployment over water | Manoeuvre practice, acro or SIV. | Injury during emergency landing; drowning risk if rescue boat is not staffed or it is winter. | Have two rescue boats in season and staff a boat during courses. | 1 | 3 | <span class="voss-ros-risk-level voss-ros-risk-level--2">2</span> |
+
+## Map
+
+![Aerial image of the Hangurstoppen South launch area from the risk assessment source](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-hangurstoppen-sor-map.png)
+
+*The aerial image and its map attribution are retained from the source PDF.*

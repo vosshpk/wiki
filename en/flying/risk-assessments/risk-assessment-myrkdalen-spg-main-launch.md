@@ -7,11 +7,6 @@
 | Prepared by | Malene Hetle Hole |
 | Date in source | 11.09.2026 |
 
-### Maps from the source PDF
-
-![Overview map for Myrkdalen SPG](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-overview.png)
-
-![Map of launch, landing and kiting areas in Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
 
 ## Risk assessment
 
@@ -33,3 +28,9 @@
 
 **Source note:** The PDF export is malformed in places; the table has been reconstructed from readable text.
 Scores are reproduced as shown.
+
+## Maps from the source PDF
+
+![Overview map for Myrkdalen SPG](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-overview.png)
+
+![Map of launch, landing and kiting areas in Myrkdalen](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/ros/ros-myrkdalen-spg-landing-areas.png)
