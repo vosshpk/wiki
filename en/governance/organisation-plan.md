@@ -1,4 +1,4 @@
-# Organisation Plan for Voss HPK
+# Organisation Plan
 
 > **Source:** Organisation plan adopted by the annual general meeting on 27 February 2025.
 > This Markdown page is a textual transcription.

@@ -1,4 +1,4 @@
-# Club trailer at the landing site
+# Club trailer
 
 > **Placeholder:** This page covers the club trailer used as an equipment hut at Prestegardslandet, storing tandem equipment, payment terminals and first-aid supplies.
 > See [club trailer information](/en/club-equipment/trailer) and the [annual cycle](/en/procedures/annual-maintenance-calendar).

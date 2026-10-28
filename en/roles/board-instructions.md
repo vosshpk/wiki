@@ -1,4 +1,4 @@
-# Board Instructions for Voss HPK
+# Board Instructions
 
 > **Status: consolidated draft — not confirmed as adopted.**
 > This page combines the two submitted versions.
