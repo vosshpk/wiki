@@ -1,4 +1,4 @@
-# Overnatting for pilotar og kursdeltakarar
+# Overnatting
 
 Klubben har ikkje eiga overnatting, men Voss HPK si nettside viser til desse alternativa.
 Tilgjenge, vilkår og prisar kan endre seg; stadfest informasjon direkte med tilbydaren før du bestiller.
