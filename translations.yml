@@ -180,6 +180,9 @@ pages:
   annual-maintenance-calendar:
     nn: nn/rutiner/arshjul.md
     en: en/procedures/annual-maintenance-calendar.md
+  annual-procedures-review:
+    nn: nn/rutiner/prosedyrer.md
+    en: en/procedures/annual-procedures-review.md
   boats-and-moorings:
     nn: nn/rutiner/bat-og-fortoying.md
     en: en/procedures/boats-and-moorings.md
