@@ -62,7 +62,7 @@ Samordnar tryggleik, logistikk og klubben sine ressursar.
 
 Koordinerer kurskalender, instruktørar, deltakaroppfølging, lokale og utstyr.
 Samarbeider med fagleg leiar om faglege krav og med dagleg leiar om administrasjon, betaling og informasjon.
-Bruk dei gjeldande [rammene for kursing](/kursing/rammer-for-kursing) og [progresjonskurs](/kursing/rammer-progresjonskurs).
+Bruk dei gjeldande [rammene for kursing](/instruktorinformasjon/rammer-kurs) og [progresjonskurs](/instruktorinformasjon/rammer-progresjonskurs).
 **Må avklarast:** kven som godkjenner kurs og instruktørar.
 
 ## Fagleg leiar

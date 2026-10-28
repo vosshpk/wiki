@@ -19,7 +19,7 @@ Kontroller gjeldande medlemskontingent på [klubben si medlemsside](https://voss
 Kurs-, trenings- og deltakaravgifter kan variere mellom aktivitetar.
 
 > **MÅ AVKLARAST:** Publiser ei samla forklaring av vedtekne avgifter, kva dei dekkjer, betalingsfristar og reglar for avmelding/refusjon.
-> For kurs, sjå òg [opplæring og progresjon](/kursing/pilotprogresjon).
+> For kurs, sjå òg [opplæring og progresjon](/utdanningsinformasjon/pilotprogresjon).
 
 ---
 

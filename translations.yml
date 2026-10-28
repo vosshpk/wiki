@@ -121,20 +121,20 @@ pages:
     nn: nn/arbeidsdokumenter/intern-kommunikasjonsplan.md
     en: en/working-documents/internal-communications-plan.md
   training:
-    nn: nn/kursing.md
-    en: en/training.md
+    nn: nn/utdanningsinformasjon.md
+    en: en/training-information.md
   accommodation:
-    nn: nn/kursing/overnatting.md
-    en: en/training/accommodation.md
+    nn: nn/utdanningsinformasjon/overnatting.md
+    en: en/training-information/accommodation.md
   pilot-progression:
-    nn: nn/kursing/pilotprogresjon.md
-    en: en/training/pilot-progression.md
+    nn: nn/utdanningsinformasjon/pilotprogresjon.md
+    en: en/training-information/pilot-progression.md
   course-framework:
-    nn: nn/kursing/rammer-for-kursing.md
-    en: en/training/course-delivery-framework.md
+    nn: nn/instruktorinformasjon/rammer-kurs.md
+    en: en/instructor-information/course-framework.md
   progression-course-framework:
-    nn: nn/kursing/rammer-progresjonskurs.md
-    en: en/training/progression-course-framework.md
+    nn: nn/instruktorinformasjon/rammer-progresjonskurs.md
+    en: en/instructor-information/progression-course-framework.md
   governance:
     nn: nn/organisatorisk.md
     en: en/governance.md

@@ -8,7 +8,7 @@ Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/){target=_blank} og 
 
 > **MÅ AVKLARAST:** Publiser gjeldande kursavgifter, kva dei dekkjer, avmeldingsfristar og refusjonsreglar saman med kursinformasjonen.
 
-Sjå òg klubben sine [kursrammer](/kursing/rammer-for-kursing) og [progresjonskurs](/kursing/rammer-progresjonskurs).
+Sjå òg klubben sine [kursrammer](/instruktorinformasjon/rammer-kurs) og [progresjonskurs](/instruktorinformasjon/rammer-progresjonskurs).
 
 ---
 
