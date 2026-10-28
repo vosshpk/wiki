@@ -17,13 +17,13 @@ permissions:
 
 jobs:
   sync-navigation:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     concurrency:
       group: wiki-navigation-c952bea9-40ec-4db1-a5c0-39286a665cf4
       cancel-in-progress: false
     steps:
       - name: Check out the calling wiki content repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: ${{ github.repository }}
           ref: ${{ github.sha }}
@@ -31,7 +31,7 @@ jobs:
           persist-credentials: false
 
       - name: Check out the v3 infrastructure repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: vosshpk/wiki-infrastructure-v3
           ref: main
@@ -40,7 +40,7 @@ jobs:
           persist-credentials: false
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22
 
@@ -58,7 +58,7 @@ jobs:
 
       - name: Save navigation backup
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: wiki-navigation-backup-${{ github.run_id }}
           path: wiki-infrastructure-v3/.navigation-backups/*.json
