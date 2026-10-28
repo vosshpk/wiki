@@ -4,7 +4,7 @@ Klubben har tre redningsbåtar:
 
 - **Oransje jolle:** Yamaha 9,9 hk. Motoren er ny i 2026, og jolla står på eigen tilhengar.
 - **Grå jolle:** Yamaha 25 hk. Jolla står på eigen tilhengar.
-- **Pioner Multi:** Yamaha 60 hk. Motoren er ny i 2026, og båten står på eigen tilhengar.
+- **Raud Pioner Multi:** Yamaha 60 hk. Båten og motoren er nye i 2026, og båten står på eigen tilhengar.
 
 Den grå jolla står vanlegvis på tilhengaren og er klar for oppdrag i Aurland eller under Veko. Den oransje jolla og Pioner Multi ligg på Vangsvatnet og er i beredskap.
 
