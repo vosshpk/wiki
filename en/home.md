@@ -1,10 +1,10 @@
 # Voss Hang- og Paragliderklubb
 
 <div class="voss-home-hero">
-  <img class="voss-home-hero__photo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-fly2.jpg" alt="Paragliders above Voss from Hangurstoppen" />
+  <img class="voss-home-hero__photo" src="https://raw.githubusercontent.com/vosshpk/wiki/main/assets/voss-hpk-fly2.jpg" alt="Paragliders above Voss from Hangurstoppen" />
   <div class="voss-home-hero__shade"></div>
   <div class="voss-home-hero__content">
-    <img class="voss-home-hero__logo" src="https://raw.githubusercontent.com/vosshpk/wiki/beta/assets/voss-hpk-logo.png" alt="" />
+    <img class="voss-home-hero__logo" src="https://raw.githubusercontent.com/vosshpk/wiki/main/assets/voss-hpk-logo.png" alt="" />
     <div class="voss-home-hero__copy">
       <p class="voss-home-hero__eyebrow">VOSS HPK · 1976</p>
       <p class="voss-home-hero__title">Find what you need to fly safely and well in Voss.</p>
