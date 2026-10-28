@@ -1,6 +1,7 @@
 name: Sync Wiki.js navigation
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
