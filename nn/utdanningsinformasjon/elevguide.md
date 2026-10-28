@@ -1,43 +1,86 @@
 # Elevguide
 
-Elevguiden samlar praktisk informasjon etter grunnkurs. [Voss HPK si oppdaterte elevguide](https://vosshpk.no/etter-fullfort-kurs/) har lenkjer til skjema, kurskalender og kontaktinformasjon.
+Takk for ei fin kursveke. No held progresjonen fram, og Voss HPK ønskjer å hjelpe elevane med å få elevbevis før sesongen er over. Klubben vil òg gjerne ha tilbakemelding på kurset: fyll ut [evalueringsskjemaet](https://forms.gle/Ftv5SeyV2RgvVMMG8).
 
-**Bruk gjeldande NLF/HPS-utdanningsprogram og tryggleikssystem.** Rettar, utstyrskrav og vindgrenser kan endre seg. Instruktøren di vurdering og dei nyaste reglane går føre denne samandragssida.
+## Har du spørsmål?
 
-## Etter kurset og elevbevis
+Start med dei oppdaterte sidene til [NLF/HPS](https://nlf.no/grener/hps/). For progresjon, krav og rettar på dei ulike kompetansenivåa bør du lese gjeldande [utdanningsprogram og tryggleikssystem](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/). Du finn òg dei lokale lenkjene på sida om [kursmateriale](/utdanningsinformasjon/kursmateriale).
 
-Når du har fullført grunnkurset og bestått teoriprøva, følg NLF si rettleiing for å søkje om rett kompetansebevis i e-kurset. Elevguiden peikar på SPG2 for speedgliding og PP2 for paragliding. Vel rett nivå, fullfør søknaden og gi beskjed til instruktøren din.
+Ta andre spørsmål til instruktøren som har ansvar for kurset ditt, eller til dagleg leiar [Malene Hetle Hole](mailto:malene@vosshpk.no). Spørsmål om faktura i Min Idrett eller forsikring skal til [NLF medlemsservice](mailto:post@nlf.no). For vidare progresjon viser Voss HPK til [medlemssidene sine](https://vosshpk.no/medlem/).
 
-Elevguiden opplyser at fornying av elevbevis normalt opnar 1. november, og at fornying krev godkjenning frå instruktør. Stadfest dato og prosess i NLF sitt e-kurs før fornying.
+## Viktige nummer og kontaktpersonar
 
-Fyll ut evalueringsskjemaet etter kurset, seinast sju dagar etter kursslutt. Skjema for norsk og engelsk er lenkja frå [kursmaterialesida](/utdanningsinformasjon/kursmateriale).
+### Nødnummer og skipatrulje
 
-## Spørsmål og vidare oppfølging
+- Medisinsk naudhjelp: [113](tel:113)
+- Politi: [112](tel:112)
+- Legevakt: [116 117](tel:116117)
+- Politi, lokalt kontor: [02800](tel:02800)
+- Skipatruljen i Myrkdalen: [+47 415 18 002](tel:+4741518002)
+- Skipatruljen i Voss Resort: [+47 455 11 283](tel:+4745511283)
 
-For krav, rettar og progresjon, sjekk først NLF/HPS sitt gjeldande utdanningsprogram og tryggleikssystem. Ta kursfaglege spørsmål til hovudinstruktøren din eller fagleg leiar. Spørsmål om faktura i Min Idrett og forsikring kan rettast til NLF medlemsservice på [post@nlf.no](mailto:post@nlf.no). Bruk [klubben sine oppdaterte kontaktpunkt](/klubben/om-klubben) for kontakt med dagleg leiar.
+### Faglege kontaktar
 
-Dersom du ikkje fekk fullført progresjonen under grunnkurset, lag ein oppfølgingsplan med instruktøren. Ekstra rettleiing eller plass på eit seinare kurs er avhengig av instruktør- og utstyrskapasitet. Følg kurskalenderen og klubben sine kanalar for oppsamlingshelger og andre aktivitetar. Voss HPK si elevguide omtalar ei årleg gratis oppsamlingshelg for PG og SPG; stadfest dato og vilkår i den aktuelle kunngjeringa.
+- Trond Nilsen, fagsjef HPS/NLF: [+47 908 67 560](tel:+4790867560)
+- Malene Hetle Hole, dagleg leiar og mellombels fagleg leiar i Voss HPK: [+47 918 03 591](tel:+4791803591). E-post: [malene@vosshpk.no](mailto:malene@vosshpk.no)
 
-## Utstyr og utsjekk
+## Nytt kompetansebevis
 
-Avtal skriftleg med hovudinstruktøren kva venge og seletøy du kan bruke. Instruktøren skal godkjenne utstyret for nivået ditt.
+Når du har fullført grunnkurset og bestått teoriprøva, har du oppfylt krava i utdanningsprogrammet og kan søkje om elevbevis gjennom e-kurset. Bruk [NLF/HPS-rettleiinga for nytt nivå](https://nlf.no/grener/hps/sikkerhet--utdanning/kompetanser/nytt-niva/), vel rett kursnivå – SPG2 eller PP2 – fullfør søknaden og gi beskjed til instruktøren du har valt.
 
-Voss HPK si elevguide oppgir desse lokale SPG2-rammene: minste vengeareal 11,8 m² og maksimal vengebelastning 7 kg/m². Ho seier òg at 14,5 m² kan brukast for alle vektklassar sjølv om belastninga då overstig 7 kg/m², og at parakite ikkje er godkjent på elev- eller SPG2-nivå. For PP2 skal utstyret passe til elevnivå; instruktøren kan nekte bruk av uegna utstyr. **Kontroller alltid desse tala og utstyrskrava mot gjeldande NLF-reglar og instruktøren før flyging.**
+## Fornye kompetansebevis
 
-Utsjekk på ein stad skal omfatte briefing på start og landing, flyplan, farar, lokale reglar og eventuelle reservelandingar. Utsjekken gjeld berre forholda han vart gitt for. Dersom ein annan pilot enn instruktøren skal gi utsjekk, må instruktøren godkjenne dette på førehand.
+Moglegheita til å fornye eller ta opp att eit kompetansebevis for det neste året opnar 1. november kvart år. Fornying av elevbevis SPG2/PP2 krev godkjenning frå instruktør. Følg [NLF/HPS-rettleiinga om fornying og gjenopptaking](https://nlf.no/grener/hps/sikkerhet--utdanning/kompetanser/fornyelse--gjenopptagelse/) og bruk e-kurset derfrå for vidare informasjon.
 
-Elevguiden oppgir desse lokale vindgrensene, målt som sterkaste kast i ein ti-minuttsperiode:
+## Oppfølging
 
-- SPG2-elev: ikkje over 7 m/s.
-- PP2-elev: ikkje over 5 m/s, og berre i skulebakke/elevstart under rolege, stabile forhold.
+Dersom du ikkje rakk å fullføre progresjonen mot kompetansebevis under grunnkurset, kan klubben i nokre tilfelle ta med ekstra elevar på eit seinare grunnkurs. Elevar på det aktuelle kurset vert prioriterte når utstyr og instruktørkapasitet vert fordelt. Lag ein oppfølgingsplan med kursinstruktøren, eller send e-post til dagleg leiar. Klubben planlegg ekstra oppfølging ved behov; følg med ved å melde deg inn i [elevgruppa på Facebook](https://www.facebook.com/groups/elevar.i.voss.hpk/).
 
-For ny stad skal SPG2-elev få utsjekk frå instruktør eller ein pilot instruktøren meiner er kvalifisert. PP2-elev skal få utsjekk frå instruktør eller ein pilot som instruktøren har godkjent. Elevguiden rår elevar frå å fly i utlandet utan Para Pro-instruktør eller pilot med mandat frå den personlege instruktøren. Stadfest alltid gjeldande reglar før du flyg.
+### Oppsamlingshelg
 
-## Viktige nummer
+Voss HPK arrangerer ei gratis oppsamlingslanghelg mot slutten av sesongen for deltakarar frå årets og tidlegare grunnkurs i SPG og PG. Klubben rår alle til å halde av helga, også dei som alt har fått kompetansebevis: ho gir ei trygg ramme for vidare læring og for å møte andre elevar på same steg. Det vert òg prøvd å få til eit sosialt program.
 
-Elevguiden listar desse nødnumra: medisinsk naudhjelp 113, politi 112, legevakt 116 117 og lokalt politi 02800. Ho listar òg skipatruljenumra for Myrkdalen (+47 415 18 002) og Voss Resort (+47 455 11 283). Kontroller lokale patruljenummer før turen.
+SPG-samlinga vert lagd til Myrkdalen eller Hangurstoppen, etter vêret. PG-pilotar kan bruke dei startstadene på Voss som er tilgjengelege, og samlinga tek utgangspunkt i nivået dei flaug på sist. Påmelding og anna aktivitet gjennom året ligg i [årshjulet til klubben](https://vosshpk.no/om-klubben/aarshjul/).
 
-Sjå òg klubben sine [naudprosedyrar](/tryggleik/nodprosedyrer), [progresjonsrettleiing](/utdanningsinformasjon/progresjon) og [kursoversikt](https://vosshpk.no/kurs/).
+## Utstyr
+
+Hovudinstruktøren frå grunnkurset må godkjenne venge og seletøy. Avklar skriftleg kva utstyr du skal bruke.
+
+### SPG2
+
+Klubben oppgir minste tillatne vengeareal som 11,8 m² og største tillatne vengebelastning som 7 kg/m². Alle vektklassar kan bruke venge på 14,5 m², også når vengebelastninga då vert høgare enn 7 kg/m².
+
+Parakite er ikkje godkjent på elev- eller SPG2-nivå. Dette omfattar moustache- og linevinger og liknande, også når vengearealet elles passar til vekta. Grunngjevinga på klubbsida er at desse vengene krev erfaring og god vingekontroll.
+
+### PP2
+
+Utstyret må høve til flyging på elevnivå. Instruktøren kan nekte bruk av utstyr som ikkje passar til nivået ditt.
+
+## Utsjekk på flystad
+
+Utsjekk skal givast av instruktør og omfatte fysisk briefing ved landing og start. Gå gjennom flyplan, farar og hindringar, lokale forhold og reglar og eventuelle reservelandingar. Dersom ein annan enn instruktøren skal gi utsjekken, må ein instruktør vurdere han og godkjenne dette på førehand. Utsjekken gjeld berre under forholda som var då han vart gitt.
+
+### SPG2
+
+Utsjekk på ein ny stad skal givast av instruktør eller av ein pilot som instruktøren din meiner er kvalifisert. Voss HPK si elevguide set øvre vindgrense til 7 m/s, målt som sterkaste kast i ein periode på ti minutt.
+
+### PP2
+
+PP2-elevar skal berre fly i skulebakke eller på elevstart, og berre under rolege, stabile forhold. Utsjekk på ny stad skal givast av instruktør eller av ein pilot som instruktøren din vurderer som kvalifisert. Vindgrensa er 5 m/s, målt som sterkaste kast i ein periode på ti minutt.
+
+Klubben rår elevar frå å fly i utlandet utan Para Pro-instruktør eller ein pilot som har fått mandat frå den personlege instruktøren deira. Stadfest alltid gjeldande grenser og krav før flyging.
+
+## Vidare progresjon
+
+Søk råd hos instruktørar og erfarne pilotar, still spørsmål og be gjerne om forklaring på vurderingane som vert gjorde. Sjå [kursoversikta](https://vosshpk.no/kurs/) for progresjonskurs og [progresjonssida](/utdanningsinformasjon/progresjon) for råd og øvingsforslag.
+
+## Ekstremsportveko og aktivitet
+
+Følg med på [årshjulet](https://vosshpk.no/om-klubben/aarshjul/) for aktuelle aktivitetar. Ekstremsportveko på Voss er ein viktig arena for sporten og ein møteplass for miljøet. Du kan lære som deltakar eller stille som frivillig innan SPG eller PG:
+
+- [Bli frivillig på Ekstremsportveko](https://ekstremsportveko.com/volunteer/)
+- [Program for speedflying (SPG)](https://ekstremsportveko.com/sports/speedflying/)
+- [Program for paragliding (PG)](https://ekstremsportveko.com/sports/paragliding/)
 
 ## Kjelde
 
