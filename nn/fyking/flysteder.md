@@ -88,7 +88,7 @@ Her kan ein øve på bakkekontroll, grunnopplæring og låge treningshopp.
 1. **Prestegardslandet/Kulturhuset (50 moh):** Hovudlanding ved Vangsvatnet.
    Sterk austavind, særleg med nordleg komponent, kan gi rotor.
    Vestsida blir brukt av helikopter, mellom anna Luftambulansen.
-   Sjå [lokale reglar for flytryggleik](/fly/flytrygging).
+   Sjå [lokale reglar for flytryggleik](/fyking/flytrygging).
 2. **Minigolfen:** Graslanding ved strandpromenaden, best ved rolege tilhøve og svak sønnavind.
 3. **Ringheim:** Stort jorde under auststarten.
    Stengt i vekstsesongen om sommaren; kan brukast når graset ikkje gror.
@@ -100,7 +100,7 @@ Her kan ein øve på bakkekontroll, grunnopplæring og låge treningshopp.
 
 Klubben sine andre startstader står i tabellen ovanfor.
 Vurder vindretning, ferdigheitsnivå, tilkomst og lokale restriksjonar før du flyg.
-Sjå òg [lokale reglar for flytryggleik](/fly/flytrygging).
+Sjå òg [lokale reglar for flytryggleik](/fyking/flytrygging).
 
 ### Høgåsen, Aurland
 

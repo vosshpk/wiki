@@ -14,7 +14,7 @@
 </div>
 
 <div class="voss-home-cards">
-  <a class="voss-home-card" href="/fly/flysteder">
+  <a class="voss-home-card" href="/fyking/flysteder">
     <span>PLANLEGG FLYTUREN</span>
     <strong>Flystader</strong>
     <small>Lokale tilhøve, startar og landingar</small>
@@ -41,8 +41,8 @@
 Sjekk vêr, vind, luftrom og lokale reglar før kvar flytur.
 Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav frå NLF/HPAC.
 
-- [Flystader og lokale tilhøve](/fly/flysteder)
-- [Flytryggleik og lokale reglar](/fly/flytrygging)
+- [Flystader og lokale tilhøve](/fyking/flysteder)
+- [Flytryggleik og lokale reglar](/fyking/flytrygging)
 - [Naudprosedyrar](/tryggleik/nodprosedyrer)
 
 ## Forvaltning av wikien
@@ -60,5 +60,5 @@ Ikkje publiser passord, sensitive personopplysningar eller interne personaldokum
 
 ## Besøkande pilotar
 
-Les [rettleiinga for besøkande pilotar](/fly/besokande-pilotar) før du flyg på Voss.
+Les [rettleiinga for besøkande pilotar](/fyking/besokande-pilotar) før du flyg på Voss.
 For oppdaterte kurs, prisar og klubbnyheiter, sjå [vosshpk.no](https://vosshpk.no/){target=_blank}.

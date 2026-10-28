@@ -1,3 +1,3 @@
 # The Club
 
-Information about the club, membership, activities, and volunteer work.
+Information about the club, membership, insurance, and member benefits.

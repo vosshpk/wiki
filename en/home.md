@@ -42,7 +42,7 @@ Check weather, wind, airspace and local rules before every flight.
 This wiki supplements your own assessment and current NLF/HPAC requirements.
 
 - [Flying sites and local conditions](/en/flying/flying-sites-around-voss)
-- [Local flying safety rules](/en/safety/local-flying-safety-rules)
+- [Local flying safety rules](/en/flying/local-flying-safety-rules)
 - [Emergency procedures](/en/safety/safety-and-emergency-procedures)
 
 ## Wiki governance

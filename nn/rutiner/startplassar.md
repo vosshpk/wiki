@@ -1,7 +1,7 @@
 # Startplassar
 
 > **Plasshaldar:** Fastset kven som følgjer opp kvar startplass, kontrollfrekvens, avtalar med grunneigarar og korleis avvik blir rapporterte.
-> Sjå [flystader](/fly/flysteder) og [årshjulet](/rutiner/arshjul).
+> Sjå [flystader](/fyking/flysteder) og [årshjulet](/rutiner/arshjul).
 
 ## Kontroll og vedlikehald
 

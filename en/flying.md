@@ -1,3 +1,3 @@
 # Flying
 
-Information about flying sites, local conditions, and visiting pilots.
+Information about flying sites, local flying safety, local conditions, and visiting pilots.

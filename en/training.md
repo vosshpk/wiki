@@ -1,3 +1,3 @@
 # Training
 
-Course frameworks and progression for the club's training activities.
+Course frameworks, progression, and accommodation for pilots and course participants.

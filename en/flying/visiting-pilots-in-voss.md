@@ -17,7 +17,7 @@ Also see the club’s [current visiting-pilot information](https://vosshpk.no/vi
 
 ## Before flying
 
-1. Read the [flying-sites overview](/en/flying/flying-sites-around-voss), [local safety rules](/en/safety/local-flying-safety-rules) and [emergency procedures](/en/safety/safety-and-emergency-procedures).
+1. Read the [flying-sites overview](/en/flying/flying-sites-around-voss), [local safety rules](/en/flying/local-flying-safety-rules) and [emergency procedures](/en/safety/safety-and-emergency-procedures).
 2. Check current weather, wind measurements, airspace, NOTAMs and local restrictions.
    Conditions can change quickly.
 3. Get a local briefing or site check-out when required.
@@ -25,7 +25,7 @@ Also see the club’s [current visiting-pilot information](https://vosshpk.no/vi
 4. Carry proof of your licence and third-party insurance.
    Use radio and live tracking where recommended for the flight.
 
-See [accommodation options in Voss](/en/the-club/accommodation-for-pilots-and-course-participants) if you need a place to stay.
+See [accommodation options in Voss](/en/training/accommodation) if you need a place to stay.
 
 ## Contacts and resources
 

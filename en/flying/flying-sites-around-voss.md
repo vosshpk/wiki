@@ -86,7 +86,7 @@ It is used for ground handling, basic training and low training hops.
 1. **Prestegardslandet/Kulturhuset (50 m ASL):** Main landing by Lake Vangsvatnet.
    Strong easterlies, especially with a northerly component, can cause rotor.
    Helicopters, including the air ambulance, use the western side.
-   See [local flying safety rules](/en/safety/local-flying-safety-rules).
+   See [local flying safety rules](/en/flying/local-flying-safety-rules).
 2. **Minigolfen:** Grass landing by the promenade, best in calm conditions and light southerly winds.
 3. **Ringheim:** Large field below the eastern launch.
    Closed during the summer growing season; may be used when crops are not growing.
@@ -98,7 +98,7 @@ It is used for ground handling, basic training and low training hops.
 
 Other club launch sites are listed in the table above.
 Assess wind direction, experience requirements, access and local restrictions before flying.
-Also see [local flying safety rules](/en/safety/local-flying-safety-rules).
+Also see [local flying safety rules](/en/flying/local-flying-safety-rules).
 
 ### Høgåsen, Aurland
 

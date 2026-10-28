@@ -1,4 +1,4 @@
-# Accommodation for pilots and course participants
+# Accommodation
 
 Voss HPK does not operate its own accommodation, but the club website lists the following options.
 Availability, terms and prices can change; confirm details directly with the provider before booking.
