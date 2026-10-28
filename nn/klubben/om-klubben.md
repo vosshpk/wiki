@@ -1,4 +1,4 @@
-# Om Voss HPK
+# Om Voss Hang- og Paragliderklubb
 
 ## Kort om klubben
 

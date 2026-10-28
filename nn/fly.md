@@ -1,3 +1,3 @@
 # Fly
 
-Informasjon om flystader, lokale tilhøve og besøkjande pilotar.
+Informasjon om flystader, lokale flyreglar, tilhøve og besøkjande pilotar.

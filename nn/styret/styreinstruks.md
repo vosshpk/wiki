@@ -1,4 +1,4 @@
-# Styreinstruks for Voss HPK
+# Styreinstruks
 
 > **Status: konsolidert utkast – ikkje stadfesta som vedteke.**
 > Teksten samlar dei to innsendte versjonane.

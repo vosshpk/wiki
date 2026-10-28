@@ -1,4 +1,4 @@
-# Organisasjonsplan for Voss HPK
+# Organisasjonsplan
 
 > **Kjelde:** Organisasjonsplan vedteken av årsmøtet 27. februar 2025.
 > Denne Markdown-teksten er ei tekstleg attgjeving.

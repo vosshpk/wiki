@@ -42,7 +42,7 @@ Sjekk vêr, vind, luftrom og lokale reglar før kvar flytur.
 Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav frå NLF/HPAC.
 
 - [Flystader og lokale tilhøve](/fly/flysteder)
-- [Flytryggleik og lokale reglar](/tryggleik/flytrygging)
+- [Flytryggleik og lokale reglar](/fly/flytrygging)
 - [Naudprosedyrar](/tryggleik/nodprosedyrer)
 
 ## Forvaltning av wikien
