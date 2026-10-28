@@ -39,7 +39,7 @@
 | Deductible for accident injury | None |
 | Liability deductible | NOK 1,000 per incident |
 
-The source links to [NLF's insurance page](https://www.nlf.no/hps/forsikring/).
+The source links to [NLF's insurance page](https://www.nlf.no/hps/forsikring/){target=_blank}.
 Confirm current terms and amounts directly with NLF/the insurer; this table is historical documentation only.
 
 ## Form to use

@@ -3,7 +3,7 @@
 Voss HPK offers beginner and further training, tandem check-outs and instructor training in cooperation with the Norwegian Air Sports Federation (NLF/HPAC).
 Training and licensing must follow current NLF programmes and safety requirements.
 Course dates, prices, registration and admission requirements may change.
-Check the [club’s current course pages](https://vosshpk.no/kurs/) and [post-course student guide](https://vosshpk.no/etter-fullfort-kurs/) before registering or planning further progression.
+Check the [club’s current course pages](https://vosshpk.no/kurs/){target=_blank} and [post-course student guide](https://vosshpk.no/etter-fullfort-kurs/){target=_blank} before registering or planning further progression.
 
 > **TO RESOLVE:** Publish current course fees, what they cover, cancellation deadlines and refund terms alongside course information.
 

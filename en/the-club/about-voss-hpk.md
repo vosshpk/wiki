@@ -23,10 +23,10 @@ Day-to-day and sporting operations are handled by the club’s management and co
 
 - **Managing director / acting technical lead:** See [managing director](/en/managing-director/managing-director) for contact details and instructions.
 - **Board:** Responsible for strategic and financial development.
-  See the [board and committees](/en/board/board).
+  See the [board and committees](/en/roles/board).
 - **Safety group:** Works with training, safety, rules, environmental matters and police certificates.
-  See the [safety group page](/en/safety/safety-group).
-- **Equipment and facilities:** See [club equipment and facilities](/en/club-equipment/facilities) for the clubhouse, trailer, rescue boats and club car.
+  See the [safety group page](/en/roles/safety-group).
+- **Equipment and sites:** See the [clubhouse](/en/club-equipment/clubhouse-at-bomoen), [trailer](/en/club-equipment/club-trailer), [rescue boats](/en/club-equipment/club-boat) and [club car](/en/club-equipment/club-car-and-transport).
   The training hill is included in the [flying-sites page](/en/flying/flying-sites-around-voss).
 
 ## Contact details and addresses
@@ -48,7 +48,7 @@ Confirm details with the club before use.
 
 ## Online resources
 
-- **Flight logs:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
-- **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
-- **Social media:** [Facebook](https://www.facebook.com/Vosshpk/) · [Instagram](https://www.instagram.com/vosshpk/)
+- **Flight logs:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43){target=_blank}
+- **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank}
+- **Social media:** [Facebook](https://www.facebook.com/Vosshpk/){target=_blank} · [Instagram](https://www.instagram.com/vosshpk/){target=_blank}
 - **Grassroots share:** Support the club through Norway’s Norsk Tipping by selecting Voss Hang- og Paragliderklubb.

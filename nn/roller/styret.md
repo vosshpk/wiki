@@ -2,7 +2,7 @@
 
 Styret leier klubben mellom årsmøta og har overordna ansvar for drift, økonomi og strategisk retning.
 Send saker og spørsmål til [styret@vosshpk.no](mailto:styret@vosshpk.no).
-Namn og verv kan endre seg; stadfest oppdatert oversikt på [klubben si nettside](https://vosshpk.no/om-klubben/styre-og-utval/).
+Namn og verv kan endre seg; stadfest oppdatert oversikt på [klubben si nettside](https://vosshpk.no/om-klubben/styre-og-utval/){target=_blank}.
 
 ## Styremedlemer
 
@@ -18,11 +18,12 @@ Namn og verv kan endre seg; stadfest oppdatert oversikt på [klubben si nettside
 
 ## Styreinstruks
 
-Sjå [samla styreinstruks](/styret/styreinstruks).
+Sjå [samla styreinstruks](/roller/styreinstruks).
 Han er eit konsolidert utkast og må vedtakast av styret før han kan reknast som gjeldande.
 
-## Utval
+## Utval og roller
 
 - [Organisasjonsplan](/organisatorisk/organisasjonsplan) skildrar ansvar og organisering.
-- [Valkomité og kontrollutval](/styret/utval)
-- [Tryggleiksgruppa](/tryggleik/tryggleiksgruppe)
+- [Valkomité og kontrollutval](/roller/utval)
+- [Tryggleiksgruppa](/roller/tryggleiksgruppe)
+- [Roller og ansvarsområde](/roller/roller-og-ansvarsomrade)

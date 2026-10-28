@@ -19,7 +19,7 @@ To vote or stand for elected office, a member must:
 
 ## Documents and minutes
 
-Previous annual meeting papers, reports and minutes are available in the [official Voss HPK archive](https://vosshpk.no/om-klubben/arkiv/).
+Previous annual meeting papers, reports and minutes are available in the [official Voss HPK archive](https://vosshpk.no/om-klubben/arkiv/){target=_blank}.
 
 | Year | Documents | Note |
 |---|---|---|
@@ -35,4 +35,4 @@ The club's governance information includes:
 - [Strategy document 2024–2028](/en/governance/strategy-document-2024-2028) (adoption status needs confirmation)
 - [2025 programme plan](/en/governance/2025-programme-plan) (historical)
 - [Club information in the wiki](/en/the-club/about-voss-hpk)
-- [Official club archive](https://vosshpk.no/om-klubben/arkiv/)
+- [Official club archive](https://vosshpk.no/om-klubben/arkiv/){target=_blank}

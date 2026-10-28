@@ -27,10 +27,10 @@ Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utva
 
 * **Dagleg leiar / fungerande fagleg leiar:** Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar) for kontakt og instruksar.
 * **Klubbstyret:** Styret blir valt av årsmøtet og har ansvar for den strategiske og økonomiske utviklinga.
-  Sjå [styret og utvala](/styret/styret).
+  Sjå [styret og utvala](/roller/roller).
 * **Tryggleiksgruppa:** Gruppa er oppnemnd av fagleg leiar og arbeider med opplæring, tryggleik, regelverk, miljø og politiattestar.
-  Sjå [tryggleiksgruppa](/tryggleik/tryggleiksgruppe).
-* **Utstyr og fasilitetar:** Sjå [klubbutstyr og fasilitetar](/klubbutstyr/fasiliteter) for klubbhuset, klubbvogna, redningsbåtane og klubbilen.
+  Sjå [tryggleiksgruppa](/roller/tryggleiksgruppe).
+* **Utstyr og anlegg:** Sjå [klubbhuset](/klubbutstyr/klubbhus), [klubbvogna](/klubbutstyr/tilhenger), [redningsbåtane](/klubbutstyr/bat) og [klubbilen](/klubbutstyr/bil).
   Skulebakken er omtala under [flystader](/fly/flysteder).
 
 ---
@@ -61,7 +61,7 @@ Den daglege og faglege drifta blir teken hand om av leiinga i samarbeid med utva
 
 ## Sentrale digitale ressursar
 
-* **Flightlog:** Klubben sine flyturar blir loggførte på [Flightlog (Klubb 51 – Voss HPK)](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43).
-* **Live-sporing av bilen til klubben:** [Volandoo Voss HPK](https://volandoo.com/clubs/voss-hpk/live/all).
-* **Sosiale medium:** Følg oss på [Facebook (vosshpk)](https://www.facebook.com/Vosshpk/) og [Instagram (@vosshpk)](https://www.instagram.com/vosshpk/).
+* **Flightlog:** Klubben sine flyturar blir loggførte på [Flightlog (Klubb 51 – Voss HPK)](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43){target=_blank}.
+* **Live-sporing av bilen til klubben:** [Volandoo Voss HPK](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank}.
+* **Sosiale medium:** Følg oss på [Facebook (vosshpk)](https://www.facebook.com/Vosshpk/){target=_blank} og [Instagram (@vosshpk)](https://www.instagram.com/vosshpk/){target=_blank}.
 * **Grasrotandelen:** Støtt klubben når du tippar hos Norsk Tipping ved å velje Voss Hang- og Paragliderklubb som grasrotmottakar.

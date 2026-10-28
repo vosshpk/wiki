@@ -3,7 +3,7 @@
 Voss HPK maintains launch and landing sites for different wind directions, experience levels and seasons.
 
 > This local guide supplements, and does not replace, your own assessment.
-Check current forecasts, local wind stations, NOTAMs, airspace at [luftrom.info](https://luftrom.info) and conditions on site.
+Check current forecasts, local wind stations, NOTAMs, airspace at [luftrom.info](https://luftrom.info){target=_blank} and conditions on site.
 Fly only with the required licence, insurance and competence. {.is-warning}
 
 ## Overview
@@ -19,7 +19,7 @@ Fly only with the required licence, insurance and competence. {.is-warning}
 | Bjørnestigen (Tverrberg) | NW–N | about 850 m | PP3–PP5 | Car / walk | Northern and north-westerly weather. |
 | Horgaletten | SE–S | about 950 m | PP3–PP5 / SPG | Ski lift in winter | Mountain launch in Voss Resort. |
 | Myrkdalen | Mountain / lift | about 850–1,050 m | PP2–PP5 / SPG | Myrkdalsekspressen | Winter area for speed riding and ski paragliding. |
-| Høgåsen, Aurland | N–NW | about 1,000 m | PP3–PP5 | Car via Aurlandsfjellet | Fjord flying; check any [landing fee and terms](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/). |
+| Høgåsen, Aurland | N–NW | about 1,000 m | PP3–PP5 | Car via Aurlandsfjellet | Fjord flying; check any [landing fee and terms](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/){target=_blank}. |
 
 ## Hanguren and Hangurstoppen
 
@@ -30,7 +30,7 @@ The club uses two main launches at Hangurstoppen.
 
 The eastern launch is the main launch for paragliding and speedgliding in summer and winter.
 
-- [Map of the eastern launch](https://maps.app.goo.gl/isYngtzSM43WBmYv6).
+- [Map of the eastern launch](https://maps.app.goo.gl/isYngtzSM43WBmYv6){target=_blank}.
   Take the gondola from Voss town centre to the upper station.
   In winter, the four-seat express lift from Bavallen is another option.
   Walk 200–300 m east from the gondola station.
@@ -43,13 +43,13 @@ The eastern launch is the main launch for paragliding and speedgliding in summer
   Gentle morning lift may develop near the launch; thermals often begin around 11:00–12:00.
   Wind often turns southerly later in the day, leaving the eastern launch sheltered or crosswind.
 - The stated ceiling is 2,286 m ASL (FL75).
-  Check [luftrom.info](https://luftrom.info) and keep clear of Bømoen airfield.
+  Check [luftrom.info](https://luftrom.info){target=_blank} and keep clear of Bømoen airfield.
 
 ### Hangurstoppen South (about 660 m ASL)
 
 The south launch can be useful for thermal and cross-country flying in southerly winds in spring and summer.
 
-- [Map of the south launch](https://maps.app.goo.gl/Fj6ytebL6V3v2AWW9).
+- [Map of the south launch](https://maps.app.goo.gl/Fj6ytebL6V3v2AWW9){target=_blank}.
   Take the gondola to the top, then walk about 200 vertical metres down the south side towards Vangen.
 - South to south-west facing grassy slope leading to a defined edge with small trees below.
 - The source lists this site for paraglider pilots from PP2.
@@ -105,12 +105,12 @@ Also see [local flying safety rules](/en/safety/local-flying-safety-rules).
 For flying in Aurland, the club lists a landing fee of **NOK 10 per flight**, up to **NOK 50 per day**.
 Alternatively, the fee is **NOK 100 for a long weekend** or **NOK 300 for a year**.
 Pay by Vipps to “Voss HPK Flyavgift Aurland” or to account **9581.05.18384**, using “landingsavgift Aurland” as the reference.
-See the [club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for current rates and terms.
+See the [club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/){target=_blank} for current rates and terms.
 
 ## Transport and Weather
 
 The club car provides rides to several launches.
 See [club car and transport](/klubbutstyr/bil) for current procedures and prices.
 
-Wind readings from Gjelle, Hangur South and East, the main Kulturhuset landing, Rokne and Ondrahaugen in Myrkdalen are available in the [current weather and wind overview](https://vosshpk.no/fly-pa-voss/vaer-og-vind/).
+Wind readings from Gjelle, Hangur South and East, the main Kulturhuset landing, Rokne and Ondrahaugen in Myrkdalen are available in the [current weather and wind overview](https://vosshpk.no/fly-pa-voss/vaer-og-vind/){target=_blank}.
 Readings do not replace an on-site assessment.

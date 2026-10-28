@@ -18,7 +18,7 @@ Tandem instructors must not use prices other than those listed above.
 
 - Use the club car when available; otherwise, a private car may be used.
 - Submit mileage reimbursement to the club.
-  The source links to [instructor payment information](https://vosshpk.no/kurs/for-instruktorar/).
+  The source links to [instructor payment information](https://vosshpk.no/kurs/for-instruktorar/){target=_blank}.
 - Use Vipps or Zettle.
   The source says each pilot should have a separate account linked to the club so payments can be reconciled.
 

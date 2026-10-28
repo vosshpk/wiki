@@ -1,7 +1,7 @@
 # Election and Audit Committees
 
 Names and roles can change.
-Confirm the current composition with the club or in its [official overview](https://vosshpk.no/om-klubben/styre-og-utval/).
+Confirm the current composition with the club or in its [official overview](https://vosshpk.no/om-klubben/styre-og-utval/){target=_blank}.
 
 ## Election committee
 

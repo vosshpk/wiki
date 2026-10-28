@@ -61,4 +61,4 @@ Do not publish passwords, sensitive personal information or internal personnel d
 ## Visiting pilots
 
 Read the [guide for visiting pilots](/en/flying/visiting-pilots-in-voss) before flying in Voss.
-For current courses, prices and club news, visit [vosshpk.no](https://vosshpk.no/).
+For current courses, prices and club news, visit [vosshpk.no](https://vosshpk.no/){target=_blank}.

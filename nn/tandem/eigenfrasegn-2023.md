@@ -40,7 +40,7 @@
 | Egenandel ved ulykkesskade | Ingen |
 | Egenandel ved ansvarsskade | 1 000 kr per hending |
 
-Kjelda viser til [NLF si forsikringsside](https://www.nlf.no/hps/forsikring/).
+Kjelda viser til [NLF si forsikringsside](https://www.nlf.no/hps/forsikring/){target=_blank}.
 Kontroller gjeldande vilkår og beløp direkte med NLF/forsikringsselskapet; denne tabellen er berre historisk dokumentasjon.
 
 ## Skjema som skal brukast

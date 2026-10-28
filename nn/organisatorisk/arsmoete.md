@@ -24,7 +24,7 @@ For å ha røysterett og vere valbar til tillitsverv på årsmøtet må eit medl
 
 ## Sakspapir og referatarkiv
 
-Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv: 📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/)
+Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offisielle arkiv: 📁 [Voss HPK Dokumentarkiv](https://vosshpk.no/om-klubben/arkiv/){target=_blank}
 
 | År | Dokument | Merknad |
 |---|---|---|

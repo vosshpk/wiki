@@ -36,7 +36,7 @@ To protect neighbours and landowners, do not land at:
 ## Airspace and Bømoen airfield
 
 - The stated normal ceiling below controlled airspace over Voss is **2,286 m ASL (7,500 ft)**.
-  Always check current status at [luftrom.info](https://luftrom.info).
+  Always check current status at [luftrom.info](https://luftrom.info){target=_blank}.
 - Bømoen (ENBM) is an active air-sports airfield used by parachutists, gliders and powered aircraft.
   Keep clear of its traffic circuit and air-sports/drop zone.
 - Check NOTAMs and current restrictions through IPPC or HemsWX before flying.
@@ -47,4 +47,4 @@ To protect neighbours and landowners, do not land at:
   Watch ripples on the lake to assess local wind direction and strength.
 - From May to August, a westerly/south-westerly sea breeze often develops in the afternoon and may strengthen or turn quickly.
   Strong southerly winds may not show clearly on the lake, so do not rely on ripples as your only wind indicator.
-- Enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all) before launch so other pilots and retrieval drivers can see your location.
+- Enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank} before launch so other pilots and retrieval drivers can see your location.

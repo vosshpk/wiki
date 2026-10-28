@@ -2,7 +2,7 @@
 
 Denne sida samanfattar informasjon for pilotar som vitjar Voss.
 Ho erstattar ikkje norske lover, reglar frå Noregs Luftsportforbund (NLF/HPAC), lokale tryggingskrav eller råd frå instruktørar.
-Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vosshpk.no/visiting-pilots-voss/) og [NLF si rettleiing](https://nlf.no).
+Sjå òg [klubben si oppdaterte rettleiing for besøkande pilotar](https://vosshpk.no/visiting-pilots-voss/){target=_blank} og [NLF si rettleiing](https://nlf.no){target=_blank}.
 
 ## Lisens og forsikring
 
@@ -29,11 +29,11 @@ Sjå [overnattingsalternativ på Voss](/kursing/overnatting) dersom du treng sta
 
 ## Kontakt og ressursar
 
-* **Klubben:** [vosshpk.no](https://vosshpk.no/)
+* **Klubben:** [vosshpk.no](https://vosshpk.no/){target=_blank}
 * **Dagleg leiar:** [malene@vosshpk.no](mailto:malene@vosshpk.no) · +47 905 08 620
-* **Vêr og vind:** [Klubben sine vindmålarar](https://vosshpk.no/fly-pa-voss/vaer-og-vind/)
-* **Live-sporing av bilen til klubben:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
-* **Flyloggar:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
+* **Vêr og vind:** [Klubben sine vindmålarar](https://vosshpk.no/fly-pa-voss/vaer-og-vind/){target=_blank}
+* **Live-sporing av bilen til klubben:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank}
+* **Flyloggar:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43){target=_blank}
 
 > Informasjonen kan bli endra.
 Kontroller alltid gjeldande reglar og lokale tilhøve før flyging.

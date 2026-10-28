@@ -4,7 +4,7 @@ Voss Hang- og Paragliderklubb tilbyr grunnkurs, vidaregåande opplæring, tandem
 Opplæring og lisensiering skal følgje dei gjeldande programma og tryggleikskrava frå NLF.
 
 Kursdatoar, prisar, påmelding og opptakskrav kan endre seg.
-Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/) og [elevguiden etter fullført kurs](https://vosshpk.no/etter-fullfort-kurs/) før du melder deg på eller planlegg vidare progresjon.
+Sjå den [oppdaterte kursoversikta](https://vosshpk.no/kurs/){target=_blank} og [elevguiden etter fullført kurs](https://vosshpk.no/etter-fullfort-kurs/){target=_blank} før du melder deg på eller planlegg vidare progresjon.
 
 > **MÅ AVKLARAST:** Publiser gjeldande kursavgifter, kva dei dekkjer, avmeldingsfristar og refusjonsreglar saman med kursinformasjonen.
 

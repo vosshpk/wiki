@@ -1,7 +1,7 @@
 # Valkomité og kontrollutval
 
 Namn og verv kan endre seg.
-Stadfest oppdatert samansetjing med klubben eller i [det offisielle oversynet](https://vosshpk.no/om-klubben/styre-og-utval/).
+Stadfest oppdatert samansetjing med klubben eller i [det offisielle oversynet](https://vosshpk.no/om-klubben/styre-og-utval/){target=_blank}.
 
 ## Valkomité
 

@@ -3,7 +3,7 @@
 Voss Hang- og Paragliderklubb disponerer og held ved like start- og landingsstader for ulike vindretningar, ferdigheitsnivå og årstider.
 
 > Informasjonen her kjem i tillegg til eigne vurderingar.
-Sjekk vêrmeldingar, lokale vêrstasjonar, NOTAM, luftrom via [luftrom.info](https://luftrom.info) og lokale tilhøve før avgang.
+Sjekk vêrmeldingar, lokale vêrstasjonar, NOTAM, luftrom via [luftrom.info](https://luftrom.info){target=_blank} og lokale tilhøve før avgang.
 Fly berre med nødvendig lisens, forsikring og kompetanse. {.is-warning}
 
 ## Oversikt
@@ -19,7 +19,7 @@ Fly berre med nødvendig lisens, forsikring og kompetanse. {.is-warning}
 | Bjørnestigen (Tverrberg) | NW–N | ca. 850 moh | PP3–PP5 | Bil / gange | Nordlege og nordvestlege vindsystem. |
 | Horgaletten | SE–S | ca. 950 moh | PP3–PP5 / SPG | Skiheis om vinteren | Fjellstart i Voss Resort. |
 | Myrkdalen | Fjell/heis | ca. 850–1050 moh | PP2–PP5 / SPG | Myrkdalsekspressen | Vintersenter for speedriding og ski-PG. |
-| Høgåsen, Aurland | N–NW | ca. 1000 moh | PP3–PP5 | Bil via Aurlandsfjellet | Fjordflyging; sjekk eventuell [landingsavgift og vilkår](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/). |
+| Høgåsen, Aurland | N–NW | ca. 1000 moh | PP3–PP5 | Bil via Aurlandsfjellet | Fjordflyging; sjekk eventuell [landingsavgift og vilkår](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/){target=_blank}. |
 
 ## Hanguren og Hangurstoppen
 
@@ -30,7 +30,7 @@ Klubben nyttar to hovudstartar på Hangurstoppen.
 
 Auststarten er den mest brukte hovudstarten for paraglider og speedglider, sommar og vinter.
 
-- [Kart over auststarten](https://maps.app.goo.gl/isYngtzSM43WBmYv6).
+- [Kart over auststarten](https://maps.app.goo.gl/isYngtzSM43WBmYv6){target=_blank}.
   Ta gondolen frå Voss sentrum til toppstasjonen.
   Om vinteren kan ein òg bruke fireseters ekspressheis frå Bavallen.
   Gå 200–300 meter austover frå gondoltoppen.
@@ -43,13 +43,13 @@ Auststarten er den mest brukte hovudstarten for paraglider og speedglider, somma
   Jamt termisk løft kan kome om morgonen, og termikken tek ofte til kring kl. 11–12.
   Vinden dreier ofte mot sør om ettermiddagen; auststarten kan då få le eller sidevind.
 - Oppgitt høgdegrense er 2 286 moh (FL75).
-  Sjekk [luftrom.info](https://luftrom.info) og hald god avstand til Bømoen flyplass.
+  Sjekk [luftrom.info](https://luftrom.info){target=_blank} og hald god avstand til Bømoen flyplass.
 
 ### Hangurstoppen sør (om lag 660 moh)
 
 Sørstarten kan vere eit godt utgangspunkt for termikk- og distanseturar ved sørlege vindar om våren og sommaren.
 
-- [Kart over sørstarten](https://maps.app.goo.gl/Fj6ytebL6V3v2AWW9).
+- [Kart over sørstarten](https://maps.app.goo.gl/Fj6ytebL6V3v2AWW9){target=_blank}.
   Ta gondolen til toppen og gå om lag 200 høgdemeter ned sørsida mot Vangen.
 - Startretning sør til sørvest.
   Grasbakke med jamn helling og ein markert kant med småskog nedanfor.
@@ -107,12 +107,12 @@ Sjå òg [lokale reglar for flytryggleik](/fly/flytrygging).
 For flyging i Aurland oppgir klubben ei landingsavgift på **10 kr per tur**, maksimalt **50 kr per dag**.
 Alternativt kostar avgifta **100 kr for ei langhelg** eller **300 kr for eit år**.
 Betal med Vipps til «Voss HPK Flyavgift Aurland» eller til konto **9581.05.18384**, merkt «landingsavgift Aurland».
-Sjå [fasilitetssida til klubben](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for oppdaterte satsar og vilkår.
+Sjå [fasilitetssida til klubben](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/){target=_blank} for oppdaterte satsar og vilkår.
 
 ## Transport og vêr
 
 Klubben har bil for skyss til fleire startstader.
 Sjå [klubbilen og transport](/klubbutstyr/bil) for gjeldande rutinar og prisar.
 
-Vindmålingar frå Gjelle, Hangur sør- og auststart, hovudlandinga ved Kulturhuset, Rokne og Ondrahaugen i Myrkdalen finst i [den oppdaterte vêr- og vindoversikta](https://vosshpk.no/fly-pa-voss/vaer-og-vind/).
+Vindmålingar frå Gjelle, Hangur sør- og auststart, hovudlandinga ved Kulturhuset, Rokne og Ondrahaugen i Myrkdalen finst i [den oppdaterte vêr- og vindoversikta](https://vosshpk.no/fly-pa-voss/vaer-og-vind/){target=_blank}.
 Målingar erstattar ikkje vurdering av tilhøva på staden.

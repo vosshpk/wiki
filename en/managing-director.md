@@ -1,3 +1,3 @@
 # Managing Director
 
-Find the role, delegated authority, and staff procedures for the managing director here.
+See the [role overview](/en/managing-director/managing-director), [job description](/en/managing-director/managing-director-job-description) and [delegation matrix](/en/managing-director/managing-director-delegation-matrix).

@@ -7,15 +7,15 @@ Sjå den eigne sida om [medlemsfordelar](/klubben/medlemsfordelar).
 
 ## Bli medlem
 
-* **Årskontingent:** Kontroller gjeldande kontingent på [klubben si medlemsside](https://vosshpk.no/om-klubben/bli-medlem/) før innmelding.
-* **Innmelding:** Gjerast elektronisk via MinIdrett: 👉 [Meld deg inn i Voss HPK via MinIdrett](https://medlemskap.nif.no/Start/Index/25357)
+* **Årskontingent:** Kontroller gjeldande kontingent på [klubben si medlemsside](https://vosshpk.no/om-klubben/bli-medlem/){target=_blank} før innmelding.
+* **Innmelding:** Gjerast elektronisk via MinIdrett: 👉 [Meld deg inn i Voss HPK via MinIdrett](https://medlemskap.nif.no/Start/Index/25357){target=_blank}
 * **Medlemskort:** Det digitale medlemskortet finn du på profilen din i MinIdrett-appen eller på nett.
   Vis kortet for å få medlemsrabattar.
-* **Lisens og forsikring:** For å fly sjølvstendig må du òg ha gyldig lisens og forsikring gjennom [Noregs Luftsportforbund (NLF)](https://nlf.no).
+* **Lisens og forsikring:** For å fly sjølvstendig må du òg ha gyldig lisens og forsikring gjennom [Noregs Luftsportforbund (NLF)](https://nlf.no){target=_blank}.
 
 ## Kontingent og aktivitetsavgifter
 
-Kontroller gjeldande medlemskontingent på [klubben si medlemsside](https://vosshpk.no/om-klubben/bli-medlem/) før innmelding.
+Kontroller gjeldande medlemskontingent på [klubben si medlemsside](https://vosshpk.no/om-klubben/bli-medlem/){target=_blank} før innmelding.
 Kurs-, trenings- og deltakaravgifter kan variere mellom aktivitetar.
 
 > **MÅ AVKLARAST:** Publiser ei samla forklaring av vedtekne avgifter, kva dei dekkjer, betalingsfristar og reglar for avmelding/refusjon.
@@ -37,7 +37,7 @@ Medlemer som brukar klubben sine flystader og fellesanlegg, skal følgje:
 
 ## Endringar og utmelding
 
-Oppdater kontaktopplysningar, adresse eller medlemskap i den personlege profilen din på [MinIdrett](https://minidrett.nif.no).
+Oppdater kontaktopplysningar, adresse eller medlemskap i den personlege profilen din på [MinIdrett](https://minidrett.nif.no){target=_blank}.
 
 > **MÅ AVKLARAST:** Dokumenter kven i klubben som følgjer opp medlemsførespurnader, inn- og utmeldingar, kontingentkrav og feil i medlemsregisteret, og korleis medlemene får hjelp med MinIdrett.
 > Bruk berre gjeldande medlemssystem og rutinar.

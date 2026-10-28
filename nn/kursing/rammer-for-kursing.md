@@ -39,4 +39,4 @@
 Send e-post til [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no).
 Skriv litt om erfaringa di, kva som motiverer deg til å bli instruktør, og eventuelt kvifor du ønskjer å halde kurs i regi av klubben dersom du alt er instruktør.
 
-For praktisk informasjon om utbetaling, utlegg og utstyr, sjå [rettleiinga for instruktørar på vosshpk.no](https://vosshpk.no/kurs/for-instruktorar/#elementor-toc__heading-anchor-0).
+For praktisk informasjon om utbetaling, utlegg og utstyr, sjå [rettleiinga for instruktørar på vosshpk.no](https://vosshpk.no/kurs/for-instruktorar/#elementor-toc__heading-anchor-0){target=_blank}.

@@ -23,4 +23,3 @@ Godkjende pakkarar og instruktørar kan rettleie.
 Før dato for kontroll og ompakking i loggboka og utstyrsjournalen.
 
 > **MÅ AVKLARAST:** Peik ut utstyrsansvarleg og publiser rutinar for årleg inventar, vedlikehald, utlån/retur og rapportering av feil.
-> Sjå òg [klubbutstyr og fasilitetar](/klubbutstyr/fasiliteter).

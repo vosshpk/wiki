@@ -2,7 +2,7 @@
 
 This page summarizes information for pilots visiting Voss.
 It does not replace Norwegian law, Norwegian Air Sports Federation (NLF/HPAC) rules, local safety requirements or instructor guidance.
-Also see the club’s [current visiting-pilot information](https://vosshpk.no/visiting-pilots-voss/) and [NLF](https://nlf.no).
+Also see the club’s [current visiting-pilot information](https://vosshpk.no/visiting-pilots-voss/){target=_blank} and [NLF](https://nlf.no){target=_blank}.
 
 ## Licence and insurance
 
@@ -29,11 +29,11 @@ See [accommodation options in Voss](/en/the-club/accommodation-for-pilots-and-co
 
 ## Contacts and resources
 
-- **Club:** [vosshpk.no](https://vosshpk.no/)
+- **Club:** [vosshpk.no](https://vosshpk.no/){target=_blank}
 - **Club manager:** [malene@vosshpk.no](mailto:malene@vosshpk.no) · +47 905 08 620
-- **Weather and wind:** [Club wind stations](https://vosshpk.no/fly-pa-voss/vaer-og-vind/)
-- **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all)
-- **Flight logs:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43)
+- **Weather and wind:** [Club wind stations](https://vosshpk.no/fly-pa-voss/vaer-og-vind/){target=_blank}
+- **Club car live tracking:** [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank}
+- **Flight logs:** [Flightlog – Voss HPK](https://flightlog.org/fl.html?l=2&country_id=160&club_id=51&a=43){target=_blank}
 
 > Information may change.
 Always check current rules and local conditions before flying.

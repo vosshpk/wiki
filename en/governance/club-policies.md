@@ -4,7 +4,7 @@ The club must follow its current bylaws, NIF/NLF rules and safety procedures.
 Key documents in this wiki:
 
 - [Club bylaws](/en/governance/bylaws-of-voss-hang-og-paragliderklubb)
-- [Board instructions](/en/board/board-instructions-for-voss-hpk) (draft; adoption has not been confirmed)
+- [Board instructions](/en/roles/board-instructions-for-voss-hpk) (draft; adoption has not been confirmed)
 - [Local flying rules](/en/safety/local-flying-safety-rules)
 - [Emergency procedures](/en/safety/safety-and-emergency-procedures)
 - [Course framework](/en/training/course-delivery-framework)

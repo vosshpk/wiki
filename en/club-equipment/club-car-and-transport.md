@@ -5,7 +5,7 @@ Arrange rides in the “Paragliding i Voss og omegn” Facebook group or the “
 
 ## Rules for use
 
-- The driver should enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all) so members can see the car's location.
+- The driver should enable [Volandoo live tracking](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank} so members can see the car's location.
 - The driver is responsible for ensuring everyone pays.
   Rides must not be left unpaid; pay for one another if needed.
 - The driver does not pay for the ride they drive if there are more than two people in the car.
@@ -35,4 +35,4 @@ Confirm the amount in the group before departure if in doubt.
 - **SWIFT:** VVELNO21XXX
 
 Use the passenger's name and transport route as the payment reference.
-Fares and procedures may change; see the [official facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/) for updates.
+Fares and procedures may change; see the [official facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skulebakke/){target=_blank} for updates.

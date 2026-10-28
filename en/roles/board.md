@@ -2,7 +2,7 @@
 
 The board leads the club between annual general meetings and has overall responsibility for operations, finances and strategic direction.
 Send matters and questions to [styret@vosshpk.no](mailto:styret@vosshpk.no).
-Names and roles may change; confirm the current list on the [club website](https://vosshpk.no/om-klubben/styre-og-utval/).
+Names and roles may change; confirm the current list on the [club website](https://vosshpk.no/om-klubben/styre-og-utval/){target=_blank}.
 
 ## Board members
 
@@ -18,11 +18,12 @@ Names and roles may change; confirm the current list on the [club website](https
 
 ## Board instructions
 
-See the [consolidated board instructions](/en/board/board-instructions-for-voss-hpk).
+See the [consolidated board instructions](/en/roles/board-instructions-for-voss-hpk).
 They are a draft and must be adopted by the board before being treated as current policy.
 
-## Committees
+## Committees and roles
 
 - The [organisation plan](/en/governance/organisation-plan-for-voss-hpk) describes responsibilities and structure.
-- [Election and audit committees](/en/board/election-and-audit-committees)
-- [Safety group](/en/safety/safety-group)
+- [Election and audit committees](/en/roles/election-and-audit-committees)
+- [Safety group](/en/roles/safety-group)
+- [Roles and responsibilities](/en/roles/roles-and-responsibilities)

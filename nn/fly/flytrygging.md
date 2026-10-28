@@ -51,7 +51,7 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
 ## 🗺️ Luftrom og Bømoen flyplass
 
 * **Høgdegrense:** Den vanlege høgdegrensa over Voss under kontrollert luftrom er **2 286 moh (7 500 fot)**.
-  Sjekk alltid status på [luftrom.info](https://luftrom.info).
+  Sjekk alltid status på [luftrom.info](https://luftrom.info){target=_blank}.
 * **Bømoen flyplass (ENBM):** Bømoen er ein aktiv luftsportsflyplass med fallskjermhopping, seglflyging og motorflytrafikk.
   * Det er oppretta flyforbodssone/vernesone over flyplassen og droppsona.
   * Paraglider- og hanggliderpilotarar skal halde god avstand til trafikkrunden og luftsportssona på Bømoen.
@@ -66,4 +66,4 @@ For å ta vare på gode forhold til nærmiljøet og grunneigarane er desse stade
 * **Solgangsbris:** Frå mai til august kjem det ofte ein tydeleg solgangsbris frå vest/sørvest om ettermiddagen.
   Vinden over vatnet kan snu og auke raskt.
   Sterk vind frå sør viser seg ikkje alltid tydeleg på vatnet, så ikkje bruk krusingane som einaste vindindikator.
-* **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all) før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.
+* **Live-sporing:** Slå på sporing i [Volandoo](https://volandoo.com/clubs/voss-hpk/live/all){target=_blank} før avgang, slik at andre pilotar og hentebilar kan sjå kvar du er.

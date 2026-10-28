@@ -17,50 +17,50 @@ All idrettsleg aktivitet skal byggje på dei verdiar som er vedteke av Idrettsti
 (1) Idrettslaget er sjølveigande og frittståande med berre personlege medlemmer.
 
 (2) Idrettslaget er medlem av Norges Luftsportsforbund, seksjon for Hang-, para- og speedglider.
-For reglar om plikta idrettslaget har til å vere medlem av eit særforbund gjeld NIFs lov [§ 10-1 (4)](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-1).
+For reglar om plikta idrettslaget har til å vere medlem av eit særforbund gjeld NIFs lov [§ 10-1 (4)](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-1){target=_blank}.
 
 (3) Idrettslaget er medlem av NIF og dermed tilslutta Vestland idrettskrins, høyrer heime i Voss herad, og er medlem av Voss Idrottsråd.
 
-(4) For reglar om representasjonsrett gjeld NIFs lov [§ 10-3 (1)](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-3).
+(4) For reglar om representasjonsrett gjeld NIFs lov [§ 10-3 (1)](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-3){target=_blank}.
 
-(5) For reglar om plikta idrettslaget har til å halde regelverket og vedtaka til overordna organisasjonsledd gjeld NIFs lov [§§ 2-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-2) og [2-3](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-3).
+(5) For reglar om plikta idrettslaget har til å halde regelverket og vedtaka til overordna organisasjonsledd gjeld NIFs lov [§§ 2-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-2){target=_blank} og [2-3](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-3){target=_blank}.
 
 ## § 3 Medlemmer
 
-(1) For reglar om opptak av medlemmer, utmelding, fråtaking av medlemskap m.m. gjeld NIFs lov §§ [10-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-4) og [10-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-6).
+(1) For reglar om opptak av medlemmer, utmelding, fråtaking av medlemskap m.m. gjeld NIFs lov §§ [10-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-4){target=_blank} og [10-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-6){target=_blank}.
 
-(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/), jf. NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5).
+(2) For plikta idrettslaget har til å registrere opplysningar i medlems- og organisasjonsregisteret til idretten gjeld [forskrift om medlems- og organisasjonsregisteret til idretten](https://www.idrettsforbundet.no/tema/juss/regelverk/forskrift-om-idrettens-medlems--og-organisasjonsregister/){target=_blank}, jf. NIFs lov [§ 10-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-5){target=_blank}.
 
 ## § 4 Kjønnsfordeling
 
-For reglar om kjønnsfordeling i styre, utval m.m. og ved representasjon til årsmøte/ting i overordna organisasjonsledd gjeld NIFs lov [§ 2-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-4).
-For idrettslag med omsetnad og medlemstal [under terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/) er det tilstrekkeleg at begge kjønn er representerte i styrer, utval m.m. og ved representasjon til årsmøte/ting i overordna organisasjonsledd.
+For reglar om kjønnsfordeling i styre, utval m.m. og ved representasjon til årsmøte/ting i overordna organisasjonsledd gjeld NIFs lov [§ 2-4](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-4){target=_blank}.
+For idrettslag med omsetnad og medlemstal [under terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/){target=_blank} er det tilstrekkeleg at begge kjønn er representerte i styrer, utval m.m. og ved representasjon til årsmøte/ting i overordna organisasjonsledd.
 
 ## § 5 Generelle reglar om stemmerett, kvalifisering til val, forslagsrett m.m.
 
-For reglar om stemmerett, kvalifisering til val og forslagsrett gjeld NIFs lov [§§ 2-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A7%202-5), [2-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-6) og [2-7](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-7).
+For reglar om stemmerett, kvalifisering til val og forslagsrett gjeld NIFs lov [§§ 2-5](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A7%202-5){target=_blank}, [2-6](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-6){target=_blank} og [2-7](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-7){target=_blank}.
 
 ## § 6 Inhabilitet
 
-For reglar om inhabilitet gjeld NIFs lov [§ 2-8](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-8).
+For reglar om inhabilitet gjeld NIFs lov [§ 2-8](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-8){target=_blank}.
 
 ## § 7 Vedtaksførleik, fleirtalskrav og protokoll
 
-For reglar om vedtaksførleik, fleirtalskrav og protokoll gjeld NIFs lov [§ 2-9](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-9).
+For reglar om vedtaksførleik, fleirtalskrav og protokoll gjeld NIFs lov [§ 2-9](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-9){target=_blank}.
 
 ## § 8 Refusjon av utgifter og godtgjering
 
-For reglar om refusjon av utgifter og godtgjering gjeld NIFs lov [§ 2-10](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-10).
+For reglar om refusjon av utgifter og godtgjering gjeld NIFs lov [§ 2-10](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-10){target=_blank}.
 
 ## § 9 Regnskap og revisjon m.m.
 
-For reglar om rekneskap og revisjon m.m. gjeld NIFs lov [§§ 1-7,](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-1-innledende-bestemmelser/#%C2%A71-7) [2-11](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-11), [2-13](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-13) og [2-14](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-14).
+For reglar om rekneskap og revisjon m.m. gjeld NIFs lov [§§ 1-7,](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-1-innledende-bestemmelser/#%C2%A71-7){target=_blank} [2-11](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-11){target=_blank}, [2-13](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-13){target=_blank} og [2-14](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-14){target=_blank}.
 
 ## § 10 Årsmøtet og årsmøtevalde organ
 
 (1) Årsmøtet er det høgaste styringsorganet i idrettslaget, og det blir halde kvart år innan utgangen av mars månad.
 
-(2) Ordinært og ekstraordinært årsmøte blir gjennomført i samsvar med denne lova og NIFs lov [§§ 2-15](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-15), [2-16](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-16), [2-17](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-17), [2-19](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-19), [2-20](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-20).
+(2) Ordinært og ekstraordinært årsmøte blir gjennomført i samsvar med denne lova og NIFs lov [§§ 2-15](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-15){target=_blank}, [2-16](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-16){target=_blank}, [2-17](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-17){target=_blank}, [2-19](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-19){target=_blank}, [2-20](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-20){target=_blank}.
 
 (3) Oppgåvene til årsmøtet:
 
@@ -83,14 +83,14 @@ For reglar om rekneskap og revisjon m.m. gjeld NIFs lov [§§ 1-7,](https://www.
     2. eventuell treningsavgift, eller gi styret fullmakt til å fastsetje treningsavgifter
 12. Vedta budsjettet til idrettslaget
 13. Behandle organisasjonsplanen til idrettslaget
-14. Dersom idrettslaget har omsetnad og medlemstal over [terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/), velje:
+14. Dersom idrettslaget har omsetnad og medlemstal over [terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/){target=_blank}, velje:
     1. Styre med leiar, nestleiar og tre styremedlemmer og to varamedlemmer
     2. Kontrollutval med leiar og minst eitt medlem
     3. Representantar til ting og møte i dei organisasjonsledda der idrettslaget har representasjonsrett, eller gi styret fullmakt til å utnemne representantane
     4. Valkomité med leiar, eitt medlem og eitt varamedlem
     5. Eventuelt andre val i samsvar med organisasjonsplanen til idrettslaget
 
-    Dersom idrettslaget har omsetnad og medlemstal under [terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/), velje:
+    Dersom idrettslaget har omsetnad og medlemstal under [terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/){target=_blank}, velje:
     1. Styre med leiar, nestleiar og tre styremedlemmer og to varamedlemmer
     2. Representantar til ting og møte i dei organisasjonsledda der idrettslaget har representasjonsrett, eller gi styret fullmakt til å utnemne representantane
     3. Eventuelt andre val i samsvar med organisasjonsplanen til idrettslaget
@@ -101,19 +101,19 @@ Dei andre medlemmene skal veljast samla.
 Deretter skal varamedlemmene veljast samla.
 Der det blir valt fleire varamedlemmer, skal det veljast 1. varamedlem, 2. varamedlem osv.
 
-For reglar om stemmegivinga på årsmøtet gjeld NIFs lov [§ 2-21](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-21).
+For reglar om stemmegivinga på årsmøtet gjeld NIFs lov [§ 2-21](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-21){target=_blank}.
 
-(4) Dersom idrettslaget har kontrollutval, gjeld NIFs lov [§ 2-12](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-12).
+(4) Dersom idrettslaget har kontrollutval, gjeld NIFs lov [§ 2-12](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-12){target=_blank}.
 Årsmøtet kan vedta instruks for kontrollutvalget.
 
-(5) Dersom idrettslaget har valkomite, gjeld NIFs lov [§ 2-18](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-18).
+(5) Dersom idrettslaget har valkomite, gjeld NIFs lov [§ 2-18](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-18){target=_blank}.
 Årsmøtet kan vedta instruks for valgkomiteen.
 
 ## § 11 Styret i idrettslaget
 
 (1) Idrettslaget blir leidd og forplikta av styret, som representerer idrettslaget eksternt.
 
-(2) Styret er den høgaste styresmakta til idrettslaget mellom årsmøta, men visse avgjerder kan berre vedtakast av årsmøtet i samsvar med § 10 (3) og NIFs lov [§ 2-22](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-22).
+(2) Styret er den høgaste styresmakta til idrettslaget mellom årsmøta, men visse avgjerder kan berre vedtakast av årsmøtet i samsvar med § 10 (3) og NIFs lov [§ 2-22](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-22){target=_blank}.
 
 (3) Forvaltninga av, og tilsynet med, alle delar av idrettslagsverksemda høyrer under styret.
 Styret skal sørgje for
@@ -130,14 +130,14 @@ Styret skal sørgje for
 
 (6) Styret skal halde møte når leiaren bestemmer det, eller når minst to av styremedlemmene krev det.
 
-(7) Fagleg leiar oppnevnas av seksjonen og styres av [HPSs sikkerhetssystem](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/).
+(7) Fagleg leiar oppnevnas av seksjonen og styres av [HPSs sikkerhetssystem](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/){target=_blank}.
 Fagleg leiar opprettar og driftar sikkerhetsgruppa som kan ha eigen sikkerhetsansvarleg.
 
 ## § 12 Grupper
 
 (1) Årsmøtet i idrettslaget kan vedta å opprette og leggje ned grupper, og korleis dei skal organiserast og leiast, eventuelt delegere dette til styret.
 
-(2) Dersom årsmøtet i idrettslaget ved behandlinga av organisasjonsplanen har vedteke å opprette grupper med gruppestyre, gjeld følgjande for idrettslag med omsetnad og medlemstal [over terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/):
+(2) Dersom årsmøtet i idrettslaget ved behandlinga av organisasjonsplanen har vedteke å opprette grupper med gruppestyre, gjeld følgjande for idrettslag med omsetnad og medlemstal [over terskel fastsett av Idrettsstyret](https://www.idrettsforbundet.no/tema/juss/lovnormer/for-idrettslag/terskel/){target=_blank}:
 
 1. Kvar gruppe skal ha eit gruppestyre på minst tre medlemmer.
    Gruppestyret blir valt på årsmøtet eller blir utnemnt av styret etter fullmakt frå årsmøtet.
@@ -149,7 +149,7 @@ Fagleg leiar opprettar og driftar sikkerhetsgruppa som kan ha eigen sikkerhetsan
 
 ## § 13 Lovendring
 
-For reglar om lovendring gjeld NIFs lov [§ 2-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-2).
+For reglar om lovendring gjeld NIFs lov [§ 2-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-2-felles-bestemmelser-for-hele-organisasjonen/#%C2%A72-2){target=_blank}.
 
 ## § 14 Oppløysing, utmelding m.m.
 
@@ -162,4 +162,4 @@ Ein føresetnad for eit gyldig vedtak om oppløysing er at idrettslaget skriftle
 (2) Samanslutning med andre idrettslag blir ikkje rekna som oppløysing av idrettslaget.
 Vedtak om samanslutning eller utmelding frå særforbund, og nødvendige lovendringar i tilknyting til dette, må gjerast med 2/3 fleirtal av årsmøtet.
 
-(3) For reglar om utmelding og tap av medlemskap i NIF gjeld NIFs lov [§ 10-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-2).
+(3) For reglar om utmelding og tap av medlemskap i NIF gjeld NIFs lov [§ 10-2](https://www.idrettsforbundet.no/tema/juss/nifs-lov/kapittel-10-idrettslag/#%C2%A710-2){target=_blank}.

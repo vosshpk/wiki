@@ -18,7 +18,7 @@ Ingen tandeminstruktør skal operere med andre prisar enn dei som er oppgjevne o
 
 - Bruk klubbilen dersom han er tilgjengeleg; elles kan privatbil nyttast.
 - Send krav om køyregodtgjersle til klubben.
-  Kjeldedokumentet viser til [informasjon om utbetaling for instruktørar](https://vosshpk.no/kurs/for-instruktorar/).
+  Kjeldedokumentet viser til [informasjon om utbetaling for instruktørar](https://vosshpk.no/kurs/for-instruktorar/){target=_blank}.
 - Bruk Vipps eller Zettle som betalingsmåte.
   Kjeldedokumentet seier at kvar pilot skal ha eigen konto knytt til klubben, slik at innbetalingane kan kryssjekkast.
 

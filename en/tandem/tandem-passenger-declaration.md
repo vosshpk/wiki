@@ -7,8 +7,8 @@ The PDF is laid out for printing and signing and includes insurance information.
 
 | Language | Form | Use |
 |---|---|---|
-| Norwegian | [One flight (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-norsk-2025.pdf) · [One or more flights with the same pilot (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-norsk-2025---en--og-flergangsbruk.pdf) | Choose the form based on whether it covers one flight or multiple flights with the same named pilot. |
-| English | [One flight (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-engelsk-2025.pdf) · [One or more flights with the same pilot (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-engelsk-2025---en-eller-flere.pdf) | Choose the form based on whether it covers one flight or multiple flights with the same named pilot. |
+| Norwegian | [One flight (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-norsk-2025.pdf){target=_blank} · [One or more flights with the same pilot (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-norsk-2025---en--og-flergangsbruk.pdf){target=_blank} | Choose the form based on whether it covers one flight or multiple flights with the same named pilot. |
+| English | [One flight (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-engelsk-2025.pdf){target=_blank} · [One or more flights with the same pilot (PDF)](https://nlf.no/siteassets/hps/dokumenter/instruktor/egenerklaringsskjema-tandem-engelsk-2025---en-eller-flere.pdf){target=_blank} | Choose the form based on whether it covers one flight or multiple flights with the same named pilot. |
 
 ## Before the flight
 
@@ -20,5 +20,5 @@ The PDF is laid out for printing and signing and includes insurance information.
 
 The older 2023 file is retained as an [archived source document](/en/tandem/tandem-passenger-declaration-2023-archive), not as a form for use.
 
-NLF's [instructor page](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/) lists its current single-flight and multiple-flight forms.
+NLF's [instructor page](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/){target=_blank} lists its current single-flight and multiple-flight forms.
 Check there before printing in case NLF updates the forms.

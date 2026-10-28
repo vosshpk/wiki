@@ -56,7 +56,7 @@ Følg NIF sine gjeldande rutinar.
 ## Materiellforvaltar
 
 Held oversikt over klubben sitt materiell, merking, utlån, tilstand og vedlikehaldsbehov.
-Koordinerer kontroll med kvalifiserte personar og melder behov for innkjøp eller utskifting til dagleg leiar/styret.
+Koordinerer kontroll med kvalifiserte personar og melder behov for innkjøp eller utskifting til dagleg leiar/roller.
 Sjå [rutinen for flyutstyr](/rutiner/flyutstyr).
 **Må avklarast:** utstyrsomfang, kontrollkompetanse og fullmakt til innkjøp.
 

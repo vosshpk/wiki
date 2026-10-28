@@ -1,7 +1,7 @@
 # Activities, events and trips
 
 Voss HPK runs flying activities, courses, social gatherings and events.
-See the [club website](https://vosshpk.no/) for announced activities.
+See the [club website](https://vosshpk.no/){target=_blank} for announced activities.
 
 ## Planning
 
