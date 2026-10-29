@@ -13,9 +13,9 @@ Synkroniseringa går etter ein fast plan, som for tida er kvart femte minutt.
 GitHub Actions køyrer navigasjonsskriptet når sider blir endra, og skriptet ventar på at sidene er synkroniserte før det oppdaterer sidemenyen.
 Wiki.js-grensesnittet styrer gruppenamna, rekkjefølgja og plasseringa til lenkjer som alt finst i sidemenyen.
 Skriptet brukar gruppelista i `wiki-infrastructure-v3/scripts/generate-inline-navigation.mjs` som standardplassering for nye lenkjer.
-Nye lenkjer i toppmapper som ikkje er førte opp i ei navigasjonsgruppe, kjem under **Ugruppert**.
+Nye lenkjer i toppmapper og sider på rotplanet som ikkje er førte opp i ei navigasjonsgruppe, kjem under det utvidbare menyvalet **Ugruppert**.
 Viss ei slik mappe manglar ei eiga landingsside, blir sidene viste som direkte lenkjer med mappestigen i lenkjeteksten.
-Sidene blir verande på den opphavlege stigen; **Ugruppert** er ei gruppe i sidemenyen, ikkje ei fysisk mappe.
+Menyvalet brukar `nn/ugruppert.md` som landingsside, medan innhaldssidene blir verande på dei opphavlege stigane sine.
 
 Vil du leggje nye toppmapper automatisk i ei gruppe, opprett eller endre gruppa i Wiki.js og be wikiforvaltaren leggje inn gruppenamnet og mappebanen for nynorsk og engelsk i gruppelista.
 Gruppa må finnast i sidemenyen før skriptet legg nye lenkjer der; viss ho manglar, brukar skriptet **Ugruppert**.
