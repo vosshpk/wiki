@@ -1,0 +1,39 @@
+@startuml
+title Strategisamandrag
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
+
+class "Konsept\nOpplevtande erfaringar med luftsport" as Konsept <<strategi>>
+class "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis <<strategi>>
+class "Velfungerande fasilitetar" as Fasilitetar <<bevis>>
+class "Sunn kultur" as Kultur <<bevis>>
+class "Gode kurs og oppfølging" as KursOppfoelging <<bevis>>
+class "Løfte\nAktive og nøgde pilotar" as Loefte <<strategi>>
+class "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon <<strategi>>
+class "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe <<strategi>>
+package "Kommunikasjon" {
+  class "Omsynsfull" as Omsynsfull <<eigenskap>>
+  class "Samlande" as Samlande <<eigenskap>>
+  class "Nysgjerrig" as Nysgjerrig <<eigenskap>>
+  class "Leiken gledesspreiar" as Profil <<klubbmedlem>>
+}
+package "Organisasjon" {
+  class "Inkludering" as Inkludering <<verdi>>
+  class "Utvikling" as Utvikling <<verdi>>
+  class "Tryggleik" as Tryggleik <<verdi>>
+  class "Spennande moglegheiter" as Moglegheiter <<resultat>>
+}
+class "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon <<strategi>>
+class "Visjon\nSkapa trygg og ekte flyglede!" as Visjon <<strategi>>
+
+Bevis -- Fasilitetar
+Bevis -- Kultur
+Bevis -- KursOppfoelging
+Profil -- Omsynsfull
+Profil -- Samlande
+Profil -- Nysgjerrig
+Moglegheiter -- Inkludering
+Moglegheiter -- Utvikling
+Moglegheiter -- Tryggleik
+@enduml

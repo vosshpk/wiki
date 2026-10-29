@@ -32,7 +32,7 @@ The official source text is in Norwegian Nynorsk.
 The club's governance information includes:
 
 - [Organisation plan](/en/governance/organisation-plan)
-- [Strategy Document](/en/governance/strategy-document-2024-2028) (adoption status needs confirmation)
+- [Strategy Document](/en/governance/strategy-document) (adoption status needs confirmation)
 - [2025 Programme Plan](/en/archive/2025-programme-plan)
 - [Club information in the wiki](/en/the-club/about)
 - [Official club archive](https://vosshpk.no/om-klubben/arkiv/){target=_blank}

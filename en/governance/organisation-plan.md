@@ -1,92 +1,159 @@
 # Organisation Plan
 
-> **Source:** Organisation plan adopted by the annual general meeting on 27 February 2025.
-> This Markdown page is a textual transcription.
-> Confirm that the plan is still current before using it as the club's present organisation chart.
+Source: Organisation Plan for Voss Hang- and Paraglider Club, adopted by the AGM on 27 February 2025.
 
-## Structure
+## Organisation chart
 
-The AGM is the club's highest authority.
-Between AGMs, the board leads the club.
-Voss HPK is affiliated with NLF/HPS through the relevant section.
-The technical lead is responsible for flying-related roles and the safety group; the managing director handles daily operations and administration.
+The organisation chart in the source is reproduced below as PlantUML.
 
-### Gender representation
+![Organisation chart from the organisation plan, as a UML diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.svg)
 
-The 2025 organisation plan refers to section 5 of the club's bylaws and says both genders must be represented on the board, councils and committees, with at least two representatives of each gender in bodies with more than three members.
-**Check this wording against current NIF rules and bylaws before relying on it**, since the source may refer to older rules.
+[PlantUML source](https://github.com/vosshpk/wiki/blob/main/assets/organisation-chart-en.puml)
 
-### Roles shown in the 2025 organisation chart
+The same organisation chart also appears in the [strategy document](/en/governance/strategy-document).
 
-- **AGM** elects the board and considers matters reserved for the AGM.
-- **Board** provides oversight, financial governance, employer responsibility and follow-up of decisions.
-- **Managing director** leads administration, member services, operations, course coordination and practical follow-up.
-- **Technical lead** leads the safety group, including education and rules, tandem, equipment, safety, environment and police-certificate roles.
-- **Administration and member services** cover the website/shop, facilities, finance and events.
-- **Operations and training** include an operations/course coordinator, course instructors and tandem instructors.
-- **Facilities** include cleaning and maintenance.
+## Gender representation
 
-The chart says the safety officer and secretary may be employees.
-Roles may be combined or delegated when the relevant competence and capacity are available.
+In accordance with section 5 of the sports club's bylaws, both sexes must be represented on the board, councils and committees.
+There must be at least two representatives of each sex on the board and any committees with more than three members.
 
-## Annual general meeting
+## The AGM
 
-The plan says the AGM is held annually, in February.
-Its duties and rules follow the club's bylaws, with the source referring particularly to sections 13–17.
-AGM minutes are published through the club's official archive.
+The AGM is the club's highest authority and is held every year in February.
+The AGM's duties and rules follow the sports club's bylaws, especially sections 13–17.
 
-The plan states that voting and eligibility require the member to be at least 15, have been a member for at least one month and have paid membership fees.
-Check current requirements against the bylaws and applicable rules.
+### Voting rights and eligibility for election
 
-## Board and board work
+To be able to vote and stand for election, a member must:
 
-The plan describes the board as the club's highest authority between AGMs.
-Duties include implementing AGM and higher-level decisions, ensuring sound financial management, appointing committees and responsible officers, representing the club, and appointing the police-certificate and children's-sport officers.
-The board is also responsible for keeping the club handbook current; this wiki now serves as that handbook.
+- Be at least 15 years old
+- Have been a member of the club for at least one month
+- Have paid the membership fee
 
-The board also plans operations, develops strategy and budgets, ensures activities follow sports rules, acts as employer for any staff, and keeps the organisation plan current.
-Treasurer and secretary tasks may be assigned at election or after the board is constituted.
+Minutes from the AGM are published on the club's website.
 
-The 2025 plan says board meetings are normally monthly, at the clubhouse in Bømoen or online.
-Minutes are kept, conflicts of interest are handled, and a majority of board members must be present for a quorum.
-Verify these statements against the current bylaws.
+## The board
 
-## Committees and technical roles
+The board is the club's highest authority between AGMs.
+
+### Statutory duties of the board
+
+- Implement decisions made by the AGM and higher-level organisational bodies
+- Ensure sound financial management and management of funds
+- Appoint committees, groups or people for special tasks
+- Represent the sports club externally
+- Appoint the person responsible for the police-certificate scheme
+- Appoint the person responsible for children's sport
+
+### Other important duties
+
+- Plan and manage the club's overall operations
+- Prepare a strategy and budget plan
+- Ensure that the club's activities follow the sport's guidelines
+- Act as employer for any employees
+- Ensure that financial decisions follow resolutions and guidelines
+- Keep the club handbook up to date
+
+### Allocation of board duties
+
+Board members may be elected to specific duties (e.g. treasurer, secretary) at the AGM, or the board may allocate the duties internally after it has been constituted.
+
+## The board's work
+
+Board meetings are normally held once a month at the clubhouse in Bømoen or online.
+The board has a quorum when a majority of board members are present.
+
+- Minutes are kept for all board meetings
+- Questions of impartiality must be considered at the start of each meeting
+- In the event of a tied vote, the chair's vote is decisive
+
+## Groups and committees
 
 ### Election committee
 
-Identifies suitable board candidates and supports continuity.
+The election committee is responsible for finding suitable candidates for the board and ensuring continuity in club operations.
 
 ### Audit and control committee
 
-Reviews the club's finances and whether accounts are kept according to applicable rules.
+The audit and control committee must review the club's finances and ensure that accounts are kept in accordance with the rules.
 
 ### Technical lead and safety group
 
-The plan assigns the technical lead responsibility for the club's safety and training system, compliance with the safety system, information flow to and from NLF/HPS, an annual safety meeting, instructor follow-up and recruiting instructor candidates.
-The technical lead should attend the NLF/HPS leadership seminar at least every other year.
-The plan also says the technical lead should approve the club's instructors and tandem pilots annually.
-The bylaws say the technical lead is appointed by the section and governed by the HPS safety system; confirm current accountability and reporting lines with NLF/HPS.
+Taken from the Safety System, section 2.4.2.
 
-Roles under the technical lead may include education, safety, rules, environment, police certificates, tandem and equipment.
-Qualified people may combine or delegate these roles.
-The technical lead appoints the safety group.
-An up-to-date internal register of role holders should be maintained.
+#### Technical lead of Voss Hang- and Paraglider Club
 
-The plan also mentions instructors, technical maintenance of rescue boats, launch sites, clubhouse and club van, and a social/events committee for events such as Ekstremsportveko, Easter flying gatherings, club gatherings and trips.
+The club's technical lead is responsible for:
 
-The environment role covers wildlife and nature at flying sites, noise from any powered flying, and landowner dialogue about site use.
-The environment officer should know NLF's environmental instructions and contact its environment committee when needed.
+- The club's system for safety and training work.
+- Ensuring that the club operates in accordance with the safety system.
+- Ensuring that technical and safety-related matters from the NLF/HPS technical director are communicated to the club's members.
+- Ensuring that technical and safety-related matters are communicated from the club to the NLF/HPS technical director.
+- Informing the club's board and technical personnel about matters concerning their areas of responsibility.
+- Ensuring that an annual safety meeting is held for the club's members.
+- Following up the club's instructors.
+- Ensuring that the club recruits new instructor candidates by ensuring that assistant instructors are trained in the club.
+- Annual approval of the club's instructors and tandem pilots.
+
+The technical lead must attend the NLF/HPS leadership seminar at least every other year.
+
+#### Technical roles in the club
+
+The club must have the following technical roles under the technical lead, with corresponding job descriptions:
+
+- Training officer, if the club provides training.
+- Safety officer
+- Rules officer
+- Environment officer
+- Police-certificate officer
+
+The technical lead may hold all these roles, provided they have the necessary competence, or delegate them to others.
+In practice, this is done through the safety group appointed by the technical lead.
+
+The environment officer must familiarise themselves with NLF's environmental instructions and communicate with NLF's environment committee when needed.
+Environmental matters concerning hang gliding, paragliding or speed gliding may include:
+
+- Consideration for wildlife and fauna at our flying sites.
+- Noise problems if the club has active pilots who fly with motors.
+- Issues concerning landowners and the use of flying sites.
+
+An archive listing the people who hold the club's various technical roles at any given time must be available.
 
 ## Managing director
 
-The plan describes a permanent managing director role responsible for daily operations, finances and budget follow-up, marketing and membership, courses and instructors, and volunteer coordination.
-See the [managing director page](/en/managing-director/managing-director) for related instructions.
+Position: Permanent employee as managing director
 
-## Review
+### Areas of responsibility
 
-The source says the organisation plan is considered by and may only be changed by the AGM.
-**The latest decision and current version need confirmation.**
+- Daily operations of the club
+- Financial management and budget follow-up
+- Marketing and member administration
+- Follow-up of courses and instructor activities
+- Coordination of volunteer work
 
-> **TO RESOLVE:** Add a current list of elected, appointed and technical role holders, including the police-certificate and children's-sport officers, and state where the internal role register is maintained.
-> Confirm whether the managing director is still a permanent employee and which responsibilities belong to the administration, board and safety group.
+## Courses and instructors
+
+Responsible for conducting courses, instructor approval and follow-up of safety procedures.
+
+## Technical responsibility
+
+Responsible for maintenance and investments related to:
+
+- Rescue boats
+- Launch sites
+- Clubhouse and club van
+
+## Social and events committee
+
+Responsible for social events, including Ekstremsportveko, Easter Flying Gathering, gatherings and club trips.
+
+Working instructions for the managing director: Prepared by the board and managing director.
+
+## Revision of the organisation plan
+
+The organisation plan must be considered by the AGM and may only be changed by the AGM.
+
+## Related pages
+
+- [Strategy document](/en/governance/strategy-document)
+- [Managing director](/en/managing-director/managing-director)

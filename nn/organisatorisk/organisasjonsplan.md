@@ -1,104 +1,159 @@
 # Organisasjonsplan
 
-> **Kjelde:** Organisasjonsplan vedteken av årsmøtet 27. februar 2025.
-> Denne Markdown-teksten er ei tekstleg attgjeving.
-> Stadfest med klubben at planen framleis er gjeldande før han blir brukt som oppdatert organisasjonskart.
+Kjelde: Organisasjonsplan for Voss Hang- og Paragliderklubb, vedteke av årsmøtet 27.02.2025.
 
-## Organisering
+## Organisasjonskart
 
-Årsmøtet er klubben sitt øvste organ.
-Mellom årsmøta har styret ansvar for klubben si leiing.
-Klubben er tilknytt NLF/HPS gjennom relevant seksjon.
-Fagleg leiar har ansvar for luftsportsfaglege funksjonar og tryggleiksgruppa.
-Dagleg leiar tek hand om dagleg drift og administrasjon.
+Organisasjonskartet i kjelda er attgjeve nedanfor som PlantUML.
 
-### Kjønnsrepresentasjon
+![Organisasjonskartet frå organisasjonsplanen, attgjeve som UML-diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.svg)
 
-Organisasjonsplanen frå 2025 viser til klubben si lov § 5 og seier at begge kjønn skal vere representerte i styre, råd og utval, og at organ med meir enn tre medlemer skal ha minst to representantar frå kvart kjønn.
-**Kontroller formuleringa mot gjeldande NIF-reglar og vedtekter før ho blir brukt**, sidan kjelda kan vise til eldre regelverk.
+[PlantUML-kjelde](https://github.com/vosshpk/wiki/blob/main/assets/organisasjonskart-nn.puml)
 
-### Funksjonar i organisasjonskartet frå 2025
+Det same organisasjonskartet står òg i [styringsdokumentet](/organisatorisk/styringsdokument).
 
-- **Årsmøte** → vel styret og handsamar saker som høyrer til årsmøtet.
-- **Styret** → overordna styring, økonomi, arbeidsgjevaransvar og oppfølging av vedtak.
-- **Dagleg leiar** → administrasjon og medlemsservice, drift, kurskoordinering og praktisk oppfølging.
-- **Fagleg leiar** → tryggleiksgruppa med mellom anna utdanning/reglar, tandem, materialforvaltning, tryggleik, miljø og politiattest.
-- **Administrasjon og medlemsservice** → nettside/butikk, fasilitetar, økonomi og arrangement.
-- **Drift og kurs** → driftsansvarleg/kurskoordinator, kursinstruktørar og tandeminstruktørar.
-- **Fasilitetar** → reinhald og vedlikehald.
+## Kjønnsfordeling
 
-Organisasjonskartet opplyser at tryggleiksansvarleg og sekretær kan vere tilsette.
-Funksjonar kan kombinerast eller delegerast når kompetanse og kapasitet er på plass.
+I samsvar med idrettslaget si lov § 5 skal begge kjønn vere representert i styret, råd og utval.
+Det skal vere minst to representantar frå kvart kjønn i styret og eventuelle komitear med meir enn tre medlemmar.
 
-## Årsmøte
+## Årsmøtet
 
-Årsmøtet blir halde årleg, i planen oppgitt til februar.
-Oppgåver og reglar følgjer klubben si lov, særleg paragrafane 13–17 slik kjeldedokumentet viser til.
-Protokollar blir publiserte gjennom klubben sitt offisielle arkiv.
+Årsmøtet er klubbens øvste myndigheit og blir halde kvart år i februar.
+Oppgåver og reglar for årsmøtet følgjer idrettslaget si lov, spesielt § 13–17.
 
-For røysterett og valbarheit oppgir planen at medlemmen må ha fylt 15 år, vore medlem i minst éin månad og ha betalt kontingent.
-Kontroller alltid vilkåra mot gjeldande lov og vedtekter.
+### Stemmerett og valbarheit
 
-## Styret og styrearbeid
+For å kunne stemme og vere valbar må medlemmet:
 
-Planen skildrar styret som øvste mynde mellom årsmøta.
-Oppgåvene omfattar å gjennomføre vedtak frå årsmøte og overordna organisasjonsledd, sikre forsvarleg økonomistyring, oppnemne komitear og ansvarlege, representere klubben, og oppnemne ansvarlege for politiattest og barneidrett.
-Styret skal òg halde klubben si handbok oppdatert; i dag er det denne wikien som utgjer handboka.
+- Ha fylt 15 år
+- Ha vore medlem i klubben i minst éin månad
+- Ha betalt kontingent
 
-Styret skal òg planleggje drifta, utarbeide strategi og budsjett, følgje opp idrettslege retningsliner, vere arbeidsgjevar for eventuelle tilsette og halde organisasjonsplanen oppdatert.
-Oppgåver som kasserar og sekretær kan fordelast etter val eller konstituering.
+Protokoll frå årsmøtet blir publisert på klubben si heimeside.
 
-Planen frå 2025 seier at styremøte normalt blir haldne månadleg, på klubbhuset på Bømoen eller digitalt.
-Protokoll skal førast frå alle møte, habilitet skal handsamast, og styret er vedtaksført når fleirtalet er til stades.
-Kontroller formuleringane mot gjeldande vedtekter.
+## Styret
 
-## Utval og faglege funksjonar
+Styret er klubbens øvste myndigheit mellom årsmøta.
 
-### Valkomité
+### Lovpålagte oppgåver for styret
 
-Finn eigna kandidatar til styret og arbeider for kontinuitet i klubben.
+- Iverksetje vedtak frå årsmøtet og overordna organisasjonsledd
+- Sikre forsvarleg økonomistyring og disponering av midlar
+- Oppnemne komitear, utval eller personar for spesielle oppgåver
+- Representere idrettslaget eksternt
+- Oppnemne ansvarleg for politiattestordninga
+- Oppnemne ansvarleg for barneidrett
+
+### Andre viktige oppgåver
+
+- Planleggje og styre klubbens totale drift
+- Utarbeide strategi- og budsjettplan
+- Sikre at klubbens aktivitetar følgjer idrettens retningslinjer
+- Vere arbeidsgivar for eventuelle tilsette
+- Sikre at økonomiske disposisjonar følgjer vedtak og retningslinjer
+- Oppdatere klubbhandboka
+
+### Fordeling av oppgåver i styret
+
+Styremedlemmar kan veljast til spesifikke oppgåver (t.d. kasserar, sekretær) på årsmøtet, eller styret kan sjølv fordele oppgåvene internt etter konstituering.
+
+## Styret sitt arbeid
+
+Styremøter blir normalt halde éin gong per månad i klubbhuset på Bømoen eller digitalt.
+Styret er vedtaksført når fleirtalet av styremedlemmane er til stades.
+
+- Protokoll blir ført frå alle styremøte
+- Spørsmål om habilitet skal behandlast i starten av kvart møte
+- Ved stemmelikskap har leiar si stemme avgjerande betyding
+
+## Utval og komitear
+
+### Valkomite
+
+Valkomiteen har ansvar for å finne eigna kandidatar til styret og sikre kontinuitet i klubbdrifta.
 
 ### Kontrollutval
 
-Kontrollerer økonomi og at rekneskapen blir ført i samsvar med gjeldande reglar.
+Kontrollutvalet skal vurdere klubbens økonomi og sikre at rekneskap blir ført i samsvar med reglane.
 
-### Fagleg leiar og tryggleiksgruppe
+### Fagleg leiar og sikkerheitsgruppa
 
-Planen viser fagleg leiar som ansvarleg for klubben sitt tryggleiks- og utdanningsarbeid, etterleving av tryggleikssystemet, informasjonsflyt til og frå NLF/HPS, årleg tryggleiksmøte, oppfølging av instruktørar og rekruttering av instruktørkandidatar.
-Fagleg leiar skal delta på NLF/HPS sitt leiarseminar minst annakvart år.
+Henta frå Sikkerheitssystemet kap. 2.4.2.
 
-Planen seier òg at fagleg leiar årleg skal godkjenne klubben sine instruktørar og tandemflygarar.
-Vedtektene seier at fagleg leiar blir oppnemnd av seksjonen og følgjer tryggleikssystemet til HPS; kontroller gjeldande ansvars- og rapporteringslinjer med NLF/HPS.
+#### Fagleg leiar i Voss Hang- og Paragliderklubb
 
-Moglege faglege funksjonar under fagleg leiar:
+Den faglege leiaren i klubben har ansvar for følgjande:
 
-- utdanningsansvarleg, dersom klubben driv utdanning;
-- tryggleiksansvarleg;
-- regelverksansvarleg;
-- miljøansvarleg;
-- politiattestansvarleg;
-- tandemansvarleg og materialforvaltar, slik organisasjonskartet viser.
+- Klubbens system for sikkerheits- og utdanningsarbeid.
+- At klubben opererer i tråd med sikkerheitssystemet.
+- At faglege og sikkerheitsrelaterte saker frå NLF/HPS sin fagsjef blir kommuniserte til klubbens medlemmer.
+- At faglege og sikkerheitsrelaterte saker blir kommuniserte frå klubben til NLF/HPS sin fagsjef.
+- Å informere klubbens styre og fagpersonell om forhold som vedkjem deira ansvarsområde.
+- At det blir arrangert eit årleg sikkerheitsmøte for klubbens medlemmer.
+- Å følgje opp klubbens instruktørar.
+- At klubben rekrutterer nye instruktørkandidatar ved å sikre at det blir utdanna hjelpeinstruktørar i klubben.
+- Årleg godkjenning av klubbens instruktørar og tandemflygarar.
 
-Funksjonane kan kombinerast eller delegerast til personar med nødvendig kompetanse.
-Tryggleiksgruppa blir sett ned av fagleg leiar.
-Det skal finnast eit oppdatert internt register over kven som har dei ulike funksjonane.
+Den faglege leiaren skal delta på NLF/HPS sitt leiarseminar minst annakvart år.
 
-Miljøansvaret omfattar etter planen omsyn til dyreliv og natur på flystadene, støy frå eventuell motorflyging og dialog med grunneigarar om bruk av flystadene.
-Miljøansvarleg skal kjenne NLF sin miljøinstruks og kontakte miljøutvalet ved behov.
+#### Faglege funksjonar i klubben
 
-### Andre oppgåver
+Klubben skal ha følgjande faglege funksjonar under den faglege leiaren, med tilhøyrande stillingsskildringar:
 
-Planen nemner kurs og instruktørar, teknisk vedlikehald av redningsbåtar, startplassar, klubbhus og klubbvogn, og ei sosial- og arrangementskomité for mellom anna Ekstremsportveko, Påskeflytreff, samlingar og klubbturar.
+- Utdanningsansvarleg, dersom klubben driv utdanning.
+- Sikkerheitsansvarleg
+- Regelverksansvarleg
+- Miljøansvarleg
+- Politiattestansvarleg
+
+Den faglege leiaren kan inneha alle desse funksjonane, føresett at han/ho har nødvendig kompetanse, eller delegere dei til andre.
+I praksis fungerar dette ved sikkerheitsgruppa som vert nedsett av fagleg leiar.
+
+Miljøansvarleg skal sette seg inn i NLF sin miljøinstruks og kommunisere med NLF sitt miljøutval ved behov.
+Miljøspørsmål innan hang-, para- eller speedgliding kan omfatte:
+
+- Omsyn til dyreliv og fauna på flystadene våre.
+- Støyproblem dersom klubben har aktive utøvarar som flyr med motor.
+- Problemstillingar knytt til grunneigarar og bruken av flystadene.
+
+Eit arkiv med oversikt over personar som til ei kvar tid har dei ulike fagfunksjonane i klubben skal vere tilgjengeleg.
 
 ## Dagleg leiar
 
-Planen oppgir fast tilsett dagleg leiar med ansvar for dagleg drift, økonomi og budsjettoppfølging, marknadsføring og medlemsarbeid, kurs og instruktørverksemd og koordinering av dugnad.
-Sjå [dagleg leiar](/dagleg-leiar/dagleg-leiar) for tilhøyrande instruksar.
+Stilling: Fast tilsett dagleg leiar
 
-## Revisjon
+### Ansvarsområde
 
-Kjeldedokumentet seier at organisasjonsplanen skal handsamast og berre endrast av årsmøtet.
-**Nyaste vedtak og gjeldande versjon må stadfestast.**
+- Dagleg drift av klubben
+- Økonomistyring og budsjettoppfølging
+- Marknadsføring og medlemshandsaming
+- Oppfølging av kurs og instruktørverksemd
+- Koordinering av dugnadsarbeid
 
-> **MÅ AVKLARAST:** Legg inn ei oppdatert oversikt over kven som har dei valde, oppnemnde og faglege rollene, kven som er politiattest- og barneidrettsansvarleg, og kvar den interne funksjonsoversikta blir halden ved like.
-> Stadfest òg om dagleg leiar framleis er fast tilsett og kva ansvar som ligg hjå administrasjon, styre og tryggleiksgruppe.
+## Kurs- og instruktørar
+
+Ansvar for gjennomføring av kurs, instruktørgodkjenning og oppfølging av sikkerheitsprosedyrar.
+
+## Teknisk ansvar
+
+Ansvarleg for vedlikehald og investeringar knytt til:
+
+- Redningsbåtar
+- Startplassar
+- Klubbhus og klubbvogn
+
+## Sosial- og arrangementskomité
+
+Ansvar for sosiale arrangement, inkludert Ekstremsportveko, Påskeflytreff, samlingar og klubbturar.
+
+Arbeidsinstruks DL: Utarbeidd av styret og dagleg leiar.
+
+## Revisjon av organisasjonsplanen
+
+Organisasjonsplanen skal handsamast av årsmøtet og kan berre endrast av årsmøtet.
+
+## Relaterte sider
+
+- [Styringsdokument](/organisatorisk/styringsdokument)
+- [Dagleg leiar](/dagleg-leiar/dagleg-leiar)

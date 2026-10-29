@@ -1,0 +1,39 @@
+@startuml
+title Strategy summary
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
+
+class "Concept\nEngaging experiences with air sports" as Concept <<strategy>>
+class "Evidence\nA sense of ownership and belonging" as Evidence <<strategy>>
+class "Well-functioning facilities" as Facilities <<evidence>>
+class "A healthy culture" as Culture <<evidence>>
+class "Good courses and follow-up" as CoursesFollowUp <<evidence>>
+class "Promise\nActive and satisfied pilots" as Promise <<strategy>>
+class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position <<strategy>>
+class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup <<strategy>>
+package "Communication" {
+  class "Considerate" as Considerate <<characteristic>>
+  class "Unifying" as Unifying <<characteristic>>
+  class "Curious" as Curious <<characteristic>>
+  class "A playful bringer of joy" as Profile <<club member>>
+}
+package "Organisation" {
+  class "Inclusion" as Inclusion <<value>>
+  class "Development" as Development <<value>>
+  class "Safety" as Safety <<value>>
+  class "Exciting opportunities" as Opportunities <<outcome>>
+}
+class "Mission\nFacilitate good experiences in the air\nand among people." as Mission <<strategy>>
+class "Vision\nCreate safe and genuine joy in flying!" as Vision <<strategy>>
+
+Evidence -- Facilities
+Evidence -- Culture
+Evidence -- CoursesFollowUp
+Profile -- Considerate
+Profile -- Unifying
+Profile -- Curious
+Opportunities -- Inclusion
+Opportunities -- Development
+Opportunities -- Safety
+@enduml

@@ -1,95 +1,212 @@
 # Styringsdokument
 
-> **Kjelde og status:** Tekstleg attgjeving av presentasjonen frå strategisamlinga.
-> Presentasjonen omtalar dokumentet som eit utkast som skulle få innspel frå medlemene.
-> Det er ikkje dokumentert her om endeleg versjon er vedteken.
-> Stadfest status med styret før teksten blir brukt som føring.
+**For Voss Hang- og Paragliderklubb 2024-2028**
+
+Teksten nedanfor attgjev teksten og figurane i presentasjonen så fullstendig som mogleg.
+
+## Innhald
+
+1. Innleiing og hensikt
+2. Organisasjonskart
+3. Årshjul
+4. Strategisamandrag
+5. Posisjon og målgruppe
+6. Visjon
+7. Misjon
+8. Verktøy
+9. Verdiar
+10. Løfte og bevis
 
 ## Innleiing og hensikt
 
-Styret ønskjer ei heilskapleg, berekraftig og langsiktig satsing som legg til rette for stabile og gode rammevilkår for hanggliding, paragliding og speedgliding på Voss.
-Dokumentet er eit bidrag til utviklinga av klubben.
+Styret i Voss Hang- og Paragliderklubb ynskjer ei heilskapleg, berekraftig og langsiktig satsing for å leggje til rette for stabile og gode rammevilkår for hanggliding, paragliding og speedgliding på Voss.
+Dette dokumentet er eit bidrag for å sikre utvikling.
+Utkast til styringsdokumentet 2024-2028 er eit resultat av strategisamlinga til styret og tilsette i 2024.
+Det ferdige produktet vil vere prega av innspel frå medlemmer i klubben.
+Det vedtekne styringsdokumentet legg føringar for korleis styret planlegg og administrasjonen driftar klubben.
+På bakgrunn av dette utarbeidar styret og administrasjonen eit årleg arbeidsprogram som vert lagt fram for årsmøtet.
+Klubben treng engasjerte medlemmar med innsikt i klubbens kortsiktige og langsiktige prioriteringar.
+Me håpar dette dokumentet aukar engasjementet kring drift og utvikling av klubben.
+Styret oppmodar til innspel på medlemsmøte, medlemsundersøking og direkte til leiinga i klubben.
+Hjelp styret og klubben til å bli enda betre.
 
-Utkastet byggjer på strategisamlinga for styret og tilsette og skulle få innspel frå medlemene.
-Eit vedteke styringsdokument skal leggje føringar for styret si planlegging og administrasjonen si drift.
-Styret og administrasjonen skal på dette grunnlaget utarbeide eit årleg arbeidsprogram som blir lagt fram for årsmøtet.
-Medlemer blir inviterte til å bidra gjennom medlemsmøte, undersøkingar og direkte innspel til leiinga.
+Styret og tilsette
+Voss Hang- og Paragliderklubb 2024
 
-## Organisering slik ho er vist i kjelda
+## Organisasjonskart
 
-Presentasjonen viser denne overordna strukturen:
+Organisasjonskartet frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-- **Seksjon** med samband til fagleg leiar og årsmøtet.
-- **Årsmøte** → **styret** → **dagleg leiar**.
-- **Fagleg leiar** → **tryggleiksgruppa**, med utdannings- og regelverksansvar, tandem, materialforvaltning, tryggleik, miljø og politiattest.
-- **Dagleg leiar/administrasjon** → medlemsservice, driftsansvar og kurskoordinering, nettside/butikk, fasilitetar, økonomi og arrangement.
-- Kursinstruktørar og tandeminstruktørar støttar aktivitet og opplæring.
+![Organisasjonskartet frå presentasjonen, attgjeve som UML-diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.svg)
 
-Dette er ei attgjeving av eit organisasjonskart, ikkje ei stadfesting av kven som har rollene i dag.
-Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/roller/styret).
+[PlantUML-kjelde](https://github.com/vosshpk/wiki/blob/main/assets/organisasjonskart-nn.puml)
 
-## Årshjul i presentasjonen
+Sjå òg [organisasjonsplanen](/organisatorisk/organisasjonsplan).
 
-### 1. Planleggje fulldrift
+## Årshjul
 
-- Instruktørsamling og møte for speedgliding.
-- Representasjon på Luftsportstinget og saker til årsmøte i seksjonen.
-- Årsmøte, vårdugnad og klubbkveld.
+### 01 Fokus: Planlegge fulldrift
 
-### 2. Gjennomføre fulldrift
+- Instruktørsamling og møte SPG
+- Representantar Luftsportsting
+- Saker til årsmøte seksjon
+- Årsmøte
+- Vårdugnad
+- Klubbkveld
 
-- Instruktørsamling og møte for paraglider og tandem.
-- Evaluering av speedgliding grunnkurs og planleggingsmøte for kjernestaben.
-- Tryggleiksdag, dugnad, klubbkveld og Ekstremsportveko.
+### 02 Fokus: Gjennomføre fulldrift
 
-### 3. Evaluere fulldrift
+- Instruktørsamling og møte for PG og tandem.
+- Evaluering SPG grunnkurs
+- Kjernestab planleggingsmøte
+- Tryggleiksdag
+- Dugnad
+- Klubbkveld
+- Ekstremsportveko
 
-- Evaluere sommarsesongen og debriefe kjernestaben.
-- Følgje opp elevar og gjere opp tandem- og kursdrift.
-- Medarbeidarsamtalar og klubbkveld.
+### 03 Fokus: Evaluering fulldrift
 
-### 4. Forbetre organisasjonen
+- Evaluering av sommarsesong
+- Debrief kjernestab
+- Oppfølging elevar
+- Oppgjer tandem og kurs
+- Medarbeidarsamtalar
+- Klubbkveld
 
-- Klubbkveld og planlegging av neste år.
-- Rekneskap og budsjettering, strategisamling.
-- Dugnad på vêrstasjonar og vedlikehald av køyretøy.
+### 04 Fokus: Forbetre organisasjon
+
+- Klubbkveld
+- Planlegge neste år
+- Rekneskap og budsjettering
+- Strategisamling
+- Dugnad: vêrstasjonar
+- Vedlikehald køyretøy
 
 ## Strategisamandrag
 
-Kjelda har ei eiga overskrift for «Strategisamandrag», men ikkje lesbar tekst under overskrifta.
-Innhaldet som elles er uttrykt i presentasjonen, er samla i mål og fokusområde nedanfor.
+Strategisamandraget frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-## Posisjon, målgruppe, visjon og oppgåve
+![Strategisamandraget frå presentasjonen, attgjeve som UML-diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategisamandrag-nn.svg)
 
-- **Målgruppe/posisjon:** Klubben skal vere for medlemer som vil ha det kjekt i eit flygande fellesskap på Voss, og vere ein ressurssterk klubb som driv utviklinga av ekstremsport.
-- **Visjon:** «Skape trygg og ekte flyglede!»
-- **Oppgåve:** Leggje til rette for gode opplevingar i lufta og mellom menneske.
-- **Løfte:** Aktive og nøgde pilotar.
+[PlantUML-kjelde](https://github.com/vosshpk/wiki/blob/main/assets/strategisamandrag-nn.puml)
 
-## Fokusområde
+### Konsept
 
-1. **Utdanning og tryggleik:** lokalt i klubben og sentralt mot seksjon og forbund.
-2. **Fellesskap og aktivitet:** sosialt og aktivt miljø både ved og utanfor flyging.
-3. **Organisasjon:** velfungerande heilskap, gode fasilitetar og berekraftig økonomi.
-4. **Samarbeid:** utvikle gode rammevilkår saman med Ekstremsportveko, Voss folkehøgskule, Voss fallskjermklubb, klubbar i seksjonen, lokale klubbar og andre aktørar.
-5. **Lokalmiljø:** vere positivt forankra på Voss, særleg i saker som er viktige for idrett og miljø.
+Opplevtande erfaringar med luftsport
 
-## Verdiar og eigenskapar
+### Bevis
 
-Klubben sine verdiar i presentasjonen er **inkluderande miljø, utvikling og tryggleik**.
-Dei skal prege drifta og skape moglegheiter for alle.
+Ei kjensle av eigarskap og tilhøyrsle
 
-Klubben ønskjer å vere omsynsfull, samlande og nysgjerrig.
-Tryggleik inneber å ta omsyn til menneske, risiko, vêr og lokalmiljø.
-Inkludering inneber god oppfølging og variert aktivitet.
-Utvikling inneber sjølvevaluering og openheit for innspel og kritikk.
+- Velfungerande fasilitetar
+- Sunn kultur
+- Gode kurs og oppfølging
 
-## Bevis på at klubben held løftet
+### Løfte
 
-Presentasjonen nemner velfungerande administrasjon og fasilitetar, sunn kultur, god kvalitet på kurs og oppfølging, og årlege programplanar som blir følgde opp og evaluerte.
-Dette skal styrkje eigarskap og tilhøyrsle til klubben.
+Aktive og nøgde pilotar
 
-## Oppfølging
+### Posisjon
 
-Det årlege arbeidsprogrammet skal konkretisere mål og tiltak.
-Sjå [programplanen for 2025](/arkiv/programplan-2025), og stadfest kvar nyaste vedtekne plan blir publisert.
+Ein ressurssterk klubb som er drivande for utviklinga av ekstremsport.
+
+### Målgruppe
+
+Medlemmar som vil ha det kjekt i eit fykande fellesskap på Voss!
+
+### Kommunikasjon
+
+- Omsynsfull
+- Samlande
+- Nysgjerrig
+- Leiken gledesspreiar
+
+### Organisasjon
+
+- Inkludering
+- Utvikling
+- Tryggleik
+- Spennande moglegheiter
+
+### Misjon
+
+Leggje til rette for gode opplevingar i lufta, og mellom menneske.
+
+### Visjon
+
+Skapa trygg og ekte flyglede!
+
+## Posisjon og målgruppe
+
+Klubben skal vere til for medlemmar som vil ha det kjekt i eit fykande fellesskap på Voss!
+
+Ein ressurssterk klubb som er drivande for utviklinga av ekstremsport.
+
+## Visjon
+
+Skape trygg og ekte flyglede!
+
+## Misjon
+
+### Kva er vår oppgåve?
+
+Å leggje til rette for gode opplevingar i lufta, og mellom menneske.
+
+## Verktøy
+
+### Fokus
+
+1. Utdanning og tryggleik: lokalt i klubb, sentralt mot seksjon og forbund.
+2. Fellesskap og aktivitet: sosialt og aktivt miljø ved og utanfor flyging.
+3. Organisasjon: velfungerande i sin heilheit, med gode fasilitetar og berekraftig økonomi.
+4. Samarbeid: For å sikre gode rammevilkår og utvikling.
+   Samarbeidspartnarar er Ekstremsportveko, Voss folkehøgskule, Voss fallskjermklubb, klubbar i seksjonen, klubbar lokalt på Voss, samt lokale aktørar.
+5. Lokalmiljø: engasjert og positivt forankra rolle i nærmiljøet på Voss.
+   Særleg innan saker som er viktig for idrett og miljø.
+
+## Verdiar
+
+### Klubbens verdiar
+
+- Inkluderande miljø
+- Utvikling
+- Tryggleik
+
+Godt forankra verdiar som pregar drifta og miljøet gir klubben ei evne til å skapa spennande moglegheiter for alle.
+
+### Klubbens eigenskapar
+
+- Omsynsfull
+- Samlande
+- Nysgjerrig
+
+Eit typisk klubbmedlem vert skildra som ein leiken gledesspreiar.
+
+### Våre verdiar
+
+#### Fokus på tryggleik i alle ledd
+
+Ta omsyn til folk, risiko, vêrforhold og lokalmiljø.
+
+#### Inkluderande miljø
+
+Klubben skal ha ei samlande effekt på medlemmar ved god oppfølging og variert aktivitetstilbod.
+
+#### Utvikling
+
+Vere nysgjerrig, ha evne til sjølvevaluering og vere mottakeleg for innspel og kritikk.
+
+## Løfte og bevis
+
+### Vårt løfte
+
+Aktive og nøgde pilotar
+
+### Bevis
+
+- Velfungerande administrasjon og fasilitetar.
+- Sunn kultur.
+- Kvalitet på kurs og oppfølging.
+- Årlege programplanar som vert følgd opp, samt evaluering av måloppnåing.
+
+Gir ei kjensle av eigarskap og tilhøyrsle til klubben.
