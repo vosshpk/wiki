@@ -1,91 +1,65 @@
-title **ORGANISASJONSKART**
+
+title ORGANISASJONSKART
 caption Voss Hang- og Paragliderklubb
 
 top to bottom direction
 
 ' --- Overall style ---
-skinparam backgroundColor #F8FAFC
-skinparam defaultFontName "Arial"
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Arial
 skinparam defaultFontSize 13
 skinparam shadowing false
-skinparam roundcorner 18
+skinparam roundcorner 2
 skinparam linetype ortho
-skinparam nodesep 32
-skinparam ranksep 42
-skinparam ArrowColor #94A3B8
-skinparam ArrowThickness 1.5
-skinparam classAttributeIconSize 0
+skinparam nodesep 28
+skinparam ranksep 32
+skinparam ArrowColor #4285F4
+skinparam ArrowThickness 1.2
 
-skinparam class {
-    BackgroundColor #FFFFFF
-    BorderColor #CBD5E1
-    FontColor #1E293B
-    BorderThickness 1.2
-    RoundCorner 18
+skinparam rectangle {
+    BorderColor #8296B2
+    FontColor #172033
+    BorderThickness 1
+    RoundCorner 2
 }
 
-skinparam class<<governance>> {
-    BackgroundColor #172554
-    BorderColor #172554
-    FontColor #FFFFFF
-}
+' --- Colour palette ---
+!define BLUE #9DB5E0
+!define GREEN #A5D096
+!define GREY #D9D9D9
 
-skinparam class<<leadership>> {
-    BackgroundColor #DBEAFE
-    BorderColor #60A5FA
-    FontColor #1E3A8A
-}
+' --- Root ---
+rectangle "Seksjon" as Seksjon GREY
 
-skinparam class<<specialist>> {
-    BackgroundColor #E0F2FE
-    BorderColor #7DD3FC
-    FontColor #0C4A6E
-}
-
-skinparam class<<operations>> {
-    BackgroundColor #D1FAE5
-    BorderColor #6EE7B7
-    FontColor #065F46
-}
-
-skinparam class<<support>> {
-    BackgroundColor #F1F5F9
-    BorderColor #CBD5E1
-    FontColor #334155
-}
-
-' --- Governance ---
-class "Årsmøte" as Aarsmoete <<governance>>
-class "Styret" as Styret <<governance>>
-
-' --- Leadership ---
-class "Seksjon" as Seksjon <<leadership>>
-class "Fagleg leiar" as FaglegLeiar <<leadership>>
-class "Dagleg leiar" as DaglegLeiar <<leadership>>
+' --- Leadership and governance ---
+rectangle "Fagleg leiar" as FaglegLeiar BLUE
+rectangle "Årsmøte" as Aarsmoete BLUE
+rectangle "Styret" as Styret GREEN
+rectangle "Dagleg leiar" as DaglegLeiar BLUE
 
 ' --- Safety and specialist responsibilities ---
-class "Sikkerheitsgruppa" as Sikkerheitsgruppa <<specialist>>
-class "Utdanningsansvarleg\nog regelverk" as UtdanningRegelverk <<specialist>>
-class "Tandemansvarleg" as Tandemansvarleg <<specialist>>
-class "Materialforvaltar" as Materialforvaltar <<specialist>>
-class "Sikkerheitsansvarleg\nKan vere ein tilsett" as Sikkerheitsansvarleg <<specialist>>
-class "Sekretær\nKan vere ein tilsett" as Sekretaer <<specialist>>
+rectangle "Sikkerheitsgruppa" as Sikkerheitsgruppa GREEN
+rectangle "Utdanningsansvarleg\nog regelverk" as UtdanningRegelverk BLUE
+rectangle "Tandemansvarleg" as Tandemansvarleg BLUE
+rectangle "Materialforvaltar" as Materialforvaltar BLUE
+rectangle "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg BLUE
+rectangle "Sekretær\nKan vere ein tilsett." as Sekretaer BLUE
 
 ' --- Operations ---
-class "Driftsansvarleg\nog kurskoordinator" as DriftKurs <<operations>>
-class "Miljø" as Miljoe <<operations>>
-class "Politiattest" as Politiattest <<operations>>
-class "Materiell" as Materiell <<operations>>
-class "Kursinstruktørar" as Kursinstruktoerar <<operations>>
-class "Tandeminstruktørar" as Tandeminstruktoerar <<operations>>
+rectangle "Driftsansvarleg\nog kurskoordinator" as DriftKurs BLUE
+rectangle "Miljø" as Miljoe BLUE
+rectangle "Politiattest" as Politiattest BLUE
+rectangle "Materiell" as Materiell BLUE
+rectangle "Kursinstruktørar" as Kursinstruktoerar BLUE
+rectangle "Tandeminstruktørar" as Tandeminstruktoerar BLUE
 
 ' --- Administration and support ---
-class "Administrasjon\nog medlemsservice" as Administrasjon <<support>>
-class "Nettside og butikk" as NettsideButikk <<support>>
-class "Fasilitetar" as Fasilitetar <<support>>
-class "Reinhald og vedlikehald" as ReinhaldVedlikehald <<support>>
-class "Økonomi" as Oekonomi <<support>>
-class "Arrangement" as Arrangement <<support>>
+rectangle "Administrasjon\nog medlemsservice" as Administrasjon BLUE
+rectangle "Nettside/butikk" as NettsideButikk BLUE
+rectangle "Fasilitetar" as Fasilitetar BLUE
+rectangle "Reinhald og\nvedlikehald" as ReinhaldVedlikehald BLUE
+rectangle "Økonomi" as Oekonomi BLUE
+rectangle "Arrangement" as Arrangement BLUE
 
 ' --- Organisational relationships ---
 Seksjon -down-> FaglegLeiar
@@ -117,3 +91,4 @@ Administrasjon -down-> Oekonomi
 Administrasjon -down-> Arrangement
 
 Fasilitetar -down-> ReinhaldVedlikehald
+
