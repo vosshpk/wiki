@@ -47,7 +47,7 @@ Voss HPK ber alle om å fylle ut det aktuelle skjemaet før start:
 
 Elevar skal fylle ut evalueringsskjema seinast sju dagar etter kursslutt. Kursmaterialesida listar eit norsk og eit engelsk SurveyMonkey-skjema, men begge lenkjene gav 404 då dei vart kontrollerte. Sida viser eit [nytt evalueringsskjema](https://forms.gle/ZFB5aLPd8DZ7uEk28) som erstatning.
 
-Sjå òg [progresjon](/utdanningsinfo/progresjon), [pilotprogresjon](/utdanningsinfo/pilotprogresjon) og [instruktørinfo om kursrammer](/instruktorinfo/rammer-kurs).
+Sjå òg [progresjon](/utdanningsinfo/progresjon), avsnittet om [pilotprogresjon](/utdanningsinfo/progresjon#pilotprogresjon) og [instruktørinfo om kursrammer](/instruktorinfo/rammer-kurs).
 
 ## Kjelde
 

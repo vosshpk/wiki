@@ -6,6 +6,12 @@ pages:
   home:
     nn: nn/home.md
     en: en/home.md
+  help-practical-use:
+    nn: nn/hjelp/bruk.md
+    en: en/help/use.md
+  wiki-infrastructure:
+    nn: nn/hjelp/infrastruktur.md
+    en: en/help/infrastructure.md
   managing-director:
     nn: nn/dagleg-leiar.md
     en: en/managing-director.md
@@ -97,7 +103,7 @@ pages:
     nn: nn/klubbutstyr/klubbhus.md
     en: en/club-equipment/clubhouse.md
   ground-winch:
-    nn: nn/klubbutstyr/opptrekk-landvinsj.md
+    nn: nn/klubbutstyr/landvinsj.md
     en: en/club-equipment/ground-winch.md
   club-trailer:
     nn: nn/klubbutstyr/klubbvogn.md
@@ -129,9 +135,6 @@ pages:
   accommodation:
     nn: nn/utdanningsinfo/overnatting.md
     en: en/training-info/accommodation.md
-  pilot-progression:
-    nn: nn/utdanningsinfo/pilotprogresjon.md
-    en: en/training-info/pilot-progression.md
   course-materials:
     nn: nn/utdanningsinfo/kursmateriale.md
     en: en/training-info/course-materials.md
@@ -228,6 +231,6 @@ pages:
   tandem-compensation:
     nn: nn/tandem/kompensasjon.md
     en: en/tandem/compensation.md
-  practical-info-veko:
-    nn: nn/tandem/praktisk-info-veko.md
-    en: en/tandem/practical-info-veko.md
+  info-veko:
+    nn: nn/tandem/info-veko.md
+    en: en/tandem/info-veko.md

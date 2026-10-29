@@ -1,4 +1,4 @@
-# Klubbhuset på Bømoen
+# Klubbhuset
 
 Klubbhuset ligg ved lokala til Voss fallskjermklubb på Flyplassvegen 135.
 Det blir brukt til kursing gjennom året, og klubben lagrar klubbutstyr her.

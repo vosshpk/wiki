@@ -1,8 +1,10 @@
-# Opptrekksprosedyrar landvinsj
+# Landvinsj
+
+## Opptrekksprosedyre
 
 Voss HPK - Voss 12.09.2026
 
-## Innhald
+### Innhald
 
 - 1 Godkjenning og gyldig prosedyre
   - 1.1 Opptrekksstad og område
@@ -36,9 +38,9 @@ Voss HPK - Voss 12.09.2026
   - 6.9 Etter landing
   - 6.10 Nødprosedyrar
 
-## Innleiing
+### Innleiing
 
-## 1 Godkjenning og gyldig prosedyre
+### 1 Godkjenning og gyldig prosedyre
 
 Denne prosedyren gjeld for opptrekk med DaWinchi landvinsj i regi av Voss HPK.
 Prosedyren skal vere godkjend av NLF/HPS før opptrekksaktivitet blir sett i gang.
@@ -46,7 +48,7 @@ Alle pilotar, operatørar og hjelparar som deltek i aktiviteten skal vere kjende
 Prosedyren skal ha revisjonsnummer og dato.
 Ved endringar i utstyr, vinsj, lokale forhold eller arbeidsmåte skal det vurderast om prosedyren må oppdaterast og godkjennast på nytt.
 
-### 1.1 Opptrekksstad og område
+#### 1.1 Opptrekksstad og område
 
 Startområde som blir brukt regelmessig til opptrekk skal vere godkjend for dette av NLF/HPS.
 På Voss har vi desse stadene:
@@ -63,7 +65,7 @@ Før aktivitet skal ansvarleg for opptrekket kontrollere at:
 - opptrekksretning og lineføring gir tilstrekkeleg margin til veg, bygningar, straumliner, personar og andre hinder
 - det finst alternative landingsmoglegheiter ved linebrot eller avbroten vinsjing
 
-### 1.2 Flyging og ferdsel i opptrekksområdet
+#### 1.2 Flyging og ferdsel i opptrekksområdet
 
 Under aktiv vinsjing skal opptrekksbana og området rundt lina haldast fritt for uvedkomande, køyretøy og annan aktivitet.
 Andre pilotar skal halde god avstand til aktiv opptrekksline og ikkje krysse opptrekksbana under pågåande opptrekk.
@@ -71,13 +73,13 @@ Nytt opptrekk skal ikkje startast før luftrommet, startområdet og lineområdet
 Ved behov skal området sikrast med hjelpepersonell, skilting eller anna eigna merking.
 Ansvarleg for aktiviteten skal sørgje for at gyldig NOTAM ligg føre for opptrekksstaden og perioden aktiviteten går føre seg.
 
-## 1. Kompetanse og rollar ved opptrekk
+### 1. Kompetanse og rollar ved opptrekk
 
 Ved opptrekk skal piloten ha kompetansebevis for opptrekk med paraglider (OTP), eller vere under utdanning for å få dette.
 Vanleg PP2–PP5-kompetanse er ikkje i seg sjølv tilstrekkeleg for å bli trekt opp.
 Nybegynnarar kan likevel lærast opp med opptrekk frå første dag som ein del av organisert opplæring.
 
-### 2.1 Pilot - OTP
+#### 2.1 Pilot - OTP
 
 OTP er tilleggsutdanning for opptrekk med paraglider.
 Flygaren skal kunne ta vare på eigen og andre sin tryggleik under opptrekk og skal meistre:
@@ -93,7 +95,7 @@ For å få OTP skal flygaren ha gjennomført minimum 10 godkjende opptrekk.
 OTP-beviset blir fornya saman med det ordinære kompetansebeviset.
 For å halde opptrekkskompetansen ved lag er minimumskravet 5 opptrekk i løpet av dei siste 60 månadene.
 
-### 2.2 Førar av opptrekksinnretning
+#### 2.2 Førar av opptrekksinnretning
 
 Føraren av vinsjen/opptrekksinnretninga skal ha kompetansebevis på den aktuelle innretninga.
 Kompetansen er altså knytt til sjølve trekkinnretninga og må ikkje forvekslast med OTP-kompetansen til piloten.
@@ -105,7 +107,7 @@ Utdanning av førar skal:
 
 Ein førar som har minst 50 vellukka trekk med ei anna trekkinnretning, kan føre ei ny trekkinnretning.
 
-### 2.3 Instruktør i opptrekk - PIO
+#### 2.3 Instruktør i opptrekk - PIO
 
 Opplæring og utsjekk til OTP skal gjerast av person med nødvendig instruktørkompetanse.
 PIO – instruktør i opptrekk med paraglider er ei eiga tilleggsutdanning for instruktørar.
@@ -116,25 +118,25 @@ For å bli PIO må kandidaten:
 3. ha gjennomført minimum 20 opptrekk
 4. ha instruert ved opptrekksutsjekk under rettleiing av ein PIO og blitt godkjend.
 
-### 2.4 Ansvarleg for opptrekksaktiviteten
+#### 2.4 Ansvarleg for opptrekksaktiviteten
 
 Ved opptrekk skal det vere ein namngitt person med kompetansebevis for opptrekk som er ansvarleg for verksemda.
 Føraren av trekkinnretninga skal samtidig forsikre seg om at hjelparar på bakken har nødvendig kunnskap til å utføre oppgåvene sine på ein trygg måte.
 Det betyr at ein startar eller annan hjelpar ikkje nødvendigvis treng eit eige «startarbevis», men vedkomande må vere instruert og ha nødvendig kunnskap om den oppgåva han eller ho utfører.
 
-### 2.5 Hjelpepersonell og start
+#### 2.5 Hjelpepersonell og start
 
 Det skal vere tilstrekkeleg bakkemannskap til å halde uvedkomande i trygg avstand frå aktiviteten.
 Alle pilotar som skal trekkast opp skal ha gjort seg kjende med den godkjende opptrekksprosedyren før flyging.
 
-## 3 Lokal aktivitet - DaWinchi landvinsj
+### 3 Lokal aktivitet - DaWinchi landvinsj
 
 Alle som nyttar denne typen vinsj skal ha fått tilstrekkeleg opplæring av utnemnte opptrekksansvarlege i klubben.
 Per no er det Lars Haukom, Morten Knapstad og Kjell Svanes som innehar mest erfaring med vinsjen til klubben, lokale opptrekksstader, og som innehar operatør og opptrekksinstruktør.
 Det er difor ein av desse som skal vere ansvarlege for aktivitet.
 Ved fleire med same type kompetanse kan den ansvarlege gruppa utvidast gradvis.
 
-### 3.1 Opplæring av nye operatørar OTP og instruktørar
+#### 3.1 Opplæring av nye operatørar OTP og instruktørar
 
 Utdanning skjer berre dersom ein har lokal opptrekksinstruktør eller lokal vinsjeoperatør til stades.
 Utdanning av OTP skal gjerast av opptrekksinstruktør og med formell kursoppmelding i orden.
@@ -148,7 +150,7 @@ Hjelpe å kontrollere og montere utstyret til piloten som flyg.
 Etterkvart er det naturleg å gjennomføre første opptrekk.
 Dersom ein gjer kortare flyturar for opplæringa av operatør skal det vere ein godt erfaren OTP som flyg med godt mentalt overskot og vingekontroll.
 
-### 3.2 Planlegging av aktivitet
+#### 3.2 Planlegging av aktivitet
 
 - Avklare kven er med og har hovudansvar for aktiviteten?
   Riktige kompetansar og ansvarlege rollar.
@@ -163,7 +165,7 @@ Dersom ein gjer kortare flyturar for opplæringa av operatør skal det vere ein 
   Skal ikkje ladast rett før!
 - Pakke bil med vinsjeutstyr og førstehjelpsutstyr.
 
-### 3.3 Krav til utstyr og dagleg kontroll
+#### 3.3 Krav til utstyr og dagleg kontroll
 
 Før første opptrekk for dagen er operatør og pilot ansvarleg for at utstyr og tryggleikssystem bli kontrollerte.
 Det skal mellom anna kontrollerast at:
@@ -179,7 +181,7 @@ Det skal mellom anna kontrollerast at:
 Sikkjerheitssystemet krev at det finst ein effektiv og lett tilgjengeleg utløysar som piloten kan aktivere gjennom heile opptrekket, og at trekkinnretninga har nødutløysar eller linekuttar.
 Utløysarar skal inspiserast og testast dagleg
 
-### 3.4 Ulykke og beredskap
+#### 3.4 Ulykke og beredskap
 
 Før aktivitet skal førstehjelpsutstyr vere tilgjengeleg ved startområdet.
 
@@ -194,7 +196,7 @@ Ved ulykke:
 7. Følg klubben sin handlings- og varslingsplan.
 8. Hendinga skal rapporterast etter gjeldande rutinar i NLF/HPS.
 
-### 3.5 Førebuing av vinsjeinnretning
+#### 3.5 Førebuing av vinsjeinnretning
 
 Bilete henta frå brukarmanualen.
 Syner vinsjen festa på tilhengarfeste, kontrolleining og batteri, antenne.
@@ -213,7 +215,7 @@ Syner vinsjen festa på tilhengarfeste, kontrolleining og batteri, antenne.
 - Det skal vere førstehjelpsutstyr der ein startar opptrekket på «start».
 - Ikkje bruk lasteplan eller noko som stikk ut då vinsjen går opp ved opptrekk.
 
-### 3.6 Teknisk sjekk
+#### 3.6 Teknisk sjekk
 
 Sørg for at kontrollboksen er sett til INT og INT-skyveknappen står på 0 før og etter bruk, slik at han ikkje startar å snurre av seg sjølv under montering!
 
@@ -233,7 +235,7 @@ Sørg for at kontrollboksen er sett til INT og INT-skyveknappen står på 0 før
 - Strekk alltid opp lina før ho blir kopla til piloten.
 - Vedlikehald av batteriet når det ikkje skal brukast.
 
-### 3.7 Oppkopling
+#### 3.7 Oppkopling
 
 1. Plasser kontrollboksen til høgre og batteriet til venstre.
 2. Kople antenna til fem-pinns kontakten på toppen av kontrollboksen.
@@ -270,7 +272,7 @@ Sørg for at kontrollboksen er sett til INT og INT-skyveknappen står på 0 før
     Bruk hentekøyretøyet til å få ut lina (sakte) for å ta av.
     No er DaWinchi klar for tauing!
 
-## 4 Operatørinstruks - vinsjing med operatør på bakken
+### 4 Operatørinstruks - vinsjing med operatør på bakken
 
 - Kontroller radiosignalet ved start ved å halde i lina (ikkje vikle lina rundt handa!) og gi forsiktig gass.
 - Ikkje rykk i lina, då dette kan føre til floker.
@@ -287,42 +289,42 @@ Hald jamn fart når lina blir spola inn.
 Unngå å stoppe og starte under innspoling, då dette kan føre til floker.
 Lina skal ikkje spolast inn utan motstand/strekk.
 
-### 4.1 Nødprosedyrar - vinsjeførar
+#### 4.1 Nødprosedyrar - vinsjeførar
 
 Ved unormal situasjon skal vinsjeførar prioritere å redusere eller fjerne trekkrafta.
 
-#### Bomstart
+##### Bomstart
 
 - Slepp gassen/trekket straks.
 - Kontroller at lina blir slakk.
 - Ikkje start nytt opptrekk før årsaka er avklart.
 
-#### Pilot kjem skeivt ut
+##### Pilot kjem skeivt ut
 
 - Reduser trekket slik at piloten får betre høve til å korrigere.
 - Dersom avviket aukar eller det oppstår fare for lockout, skal trekket avsluttast.
 
-#### Fare for lockout
+##### Fare for lockout
 
 - Fjern trekkrafta straks.
 - Bruk nødutløysar eller linekuttar dersom lina ikkje blir frigjord.
 
-#### Tap av radio- eller fjernkontrollsignal
+##### Tap av radio- eller fjernkontrollsignal
 
 - Avslutt eller reduser trekket dersom vidare opptrekk ikkje kan gjennomførast kontrollert.
 - Ved sjølvvinsjing skal piloten følgje eigen nødprosedyre for signaltap.
 
-#### Line eller trommel låser seg
+##### Line eller trommel låser seg
 
 - Stopp vinsjen.
 - Dersom piloten framleis er tilkopla og lina ikkje kan slakkast, bruk nødutløysar eller linekuttar.
 
-#### Teknisk feil
+##### Teknisk feil
 
 - Avslutt trekket.
 - Ikkje bruk vinsjen vidare før feilen er identifisert og retta.
 
-## 5 Sjølvvinsjing
+### 5 Sjølvvinsjing
 
 Ved sjølvvinsjing har piloten full kontroll over vinsjinga og er dermed sjølv ansvarleg for at ho blir gjennomført på ein trygg måte.
 Sjølvvinsjing skal berre gjennomførast dersom piloten har nødvendig kompetanse både som pilot under opptrekk og til å føre den aktuelle trekkinnretninga.
@@ -357,7 +359,7 @@ Nokre viktige punkt:
 - Hald auge med bremseskjermen medan lina blir spola inn.
 - Slå av fjernkontrollen og fortset flyginga.
 
-## 6 Pilotinstruks for vinsjing - PG
+### 6 Pilotinstruks for vinsjing - PG
 
 Vinsjing er ein effektiv måte å få mange flygeturar på.
 Trygg og effektiv vinsjing krev godt samarbeid mellom pilot, startar og vinsjeførar.
@@ -367,7 +369,7 @@ Piloten har alltid ansvar for eiga flyging og eige utstyr.
 - Seletøyet skal vere fritt for skadar og ha minst éin nødskjerm som er pakka om i løpet av dei siste 12 månadene.
 - Godkjend utløysar skal brukast, og han skal vere utan skadar.
 
-### 6.1 Før vinsjing
+#### 6.1 Før vinsjing
 
 Meld deg til startar når du kjem til området og skriv deg på kølista.
 
@@ -377,7 +379,7 @@ Meld deg til startar når du kjem til området og skriv deg på kølista.
 
 Vinsjing er lagarbeid – alle må bidra.
 
-### 6.2 Kontroll før start
+#### 6.2 Kontroll før start
 
 Før du koplar deg til vinsjelina, kontroller:
 
@@ -391,7 +393,7 @@ Før du koplar deg til vinsjelina, kontroller:
 For PG skal weaklink vere dimensjonert til 75 % av innkroka vekt (pilot + utstyr).
 Startar kan hjelpe med kontrollen, men piloten har sjølv ansvar for at utstyret er korrekt og klart før start.
 
-### 6.3 Start
+#### 6.3 Start
 
 Nor du, startar og vinsjeførar er klare, blir kommandoen «Køyr vinsj» gitt.
 Nor lina strammar seg:
@@ -403,7 +405,7 @@ Nor lina strammar seg:
 - Flytt blikkjet framover så snart vinga er komen fint opp i balanse over hovudet.
 - Fortsett å akselerere med draget frå vinsjen til du er i lufta.
 
-### 6.4 Første del av opptrekket
+#### 6.4 Første del av opptrekket
 
 Dei første høgdeieterane etter avgang er ein kritisk fase.
 Gje vinga flyfart, fly aktivt, men roleg.
@@ -417,7 +419,7 @@ Prioriter alltid:
 3. trygg høgde
 4. deretter komfort i seletøyet
 
-### 6.5 Kontrollert opptrekksfase
+#### 6.5 Kontrollert opptrekksfase
 
 Målet er å halde stødig retningskurs mot vinsjen.
 Under vinsjing kan vinga trekke ut til ei side av den ideelle vinsjebana.
@@ -433,21 +435,21 @@ Vinga er meir belasta under vinsjing enn ved vanleg friflyging.
 Styreinput kan derfor få større effekt.
 Ver merksam på overkorrigering.
 
-#### Dersom du kjem skeivt ut
+##### Dersom du kjem skeivt ut
 
 Vinsjeføraren kan redusere draget dersom du kjem skeivt ut.
 Dette gjer det lettare å korrigere tilbake mot vinsjebana.
 Bruk redusert dragkraft til å rette opp kursen.
 Dersom avviket blir for stort eller du ikkje klarer å korrigere, kan vinsjeføraren avslutte trekket av tryggleiksomsyn.
 
-#### Rørsler i seletøyet
+##### Rørsler i seletøyet
 
 Hald rørslene rolige, særleg den første delen av vinsjinga.
 Ikkje forsøk å setje deg bak i seletøyet før du er forbi dei første 100 kritiske høgdeietarane.
 Kraftige rørsler når du prøver å kome inn i seletøyet kan påverke vinga og flygeretninga.
 Dersom du ikkje kjem lett inn i seletøyet, vent til du har: god høgde, stabil flygeretning, eller kopla deg frå vinsjelina.
 
-### 6.6 Utløysing
+#### 6.6 Utløysing
 
 Nor vinsjeføraren avsluttar trekket og du skal løyse ut:
 
@@ -458,7 +460,7 @@ Nor vinsjeføraren avsluttar trekket og du skal løyse ut:
 - Kontroller at lina faktisk er frigjord.
 - Fly vidare først når du har kontroll på situasjonen.
 
-### 6.7 Linebrot i stor høgde
+#### 6.7 Linebrot i stor høgde
 
 Ved linebrot i god høgde skal du først prioritere kontroll på vinga og flygeretning
 Dersom line eller bremseskjerm framleis heng etter deg, vurder kvar dette vil hamne før du løyser ut.
@@ -467,7 +469,7 @@ Dersom du flyr mot eit tryggare område før utløysing, skal du vere klar til �
 Unngå så langt det er mogleg å sleppe line over: veg, bygningar, kraftliner, menneske eller annan aktivitet.
 Ta dette med i planlegginga av turen så du er førebudd på kva terreng og hindringar du har rundt deg.
 
-### 6.8 Linebrot i låg høgde
+#### 6.8 Linebrot i låg høgde
 
 Linebrot kort tid etter avgang er ein kritisk situasjon.
 Når drakrafta plutseleg forsvinn, kan vinga skyte fram.
@@ -478,7 +480,7 @@ Ved linebrot:
 - La vinga få fly igjen når framoverskytinga er kontrollert.
 - Korriger retning svakt om nødvendig og fly trygt for landing
 
-### 6.9 Etter landing
+#### 6.9 Etter landing
 
 Dersom du landar tilbake ved vinsjeområdet:
 
@@ -488,7 +490,7 @@ Dersom du landar tilbake ved vinsjeområdet:
 
 Startar kan gi deg tilbakemelding på turen og setje deg på lista for neste vinsjing.
 
-### 6.10 Nødprosedyrar
+#### 6.10 Nødprosedyrar
 
 Ved unormal situasjon skal piloten alltid prioritere kontroll på vinga og trygg flygeretning.
 

@@ -1,4 +1,4 @@
-# Praktisk informasjon for tandempilotar under Veko
+# Tandem under Veko
 
 > Attgjeving av praktisk informasjon for Ekstremsportveko.
 > Stadfest gjeldande Veko- og klubbinfo før bruk.

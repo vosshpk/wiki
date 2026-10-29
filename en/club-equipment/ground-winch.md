@@ -1,8 +1,10 @@
-# Ground Winch Towing Procedures
+# Ground Winch
+
+## Winch Towing Procedure
 
 Voss HPK - Voss 12.09.2026
 
-## Contents
+### Contents
 
 - 1 Approval and valid procedure
   - 1.1 Towing site and area
@@ -36,9 +38,9 @@ Voss HPK - Voss 12.09.2026
   - 6.9 After landing
   - 6.10 Emergency procedures
 
-## Introduction
+### Introduction
 
-## 1 Approval and valid procedure
+### 1 Approval and valid procedure
 
 This procedure applies to towing with the DaWinchi ground winch operated by Voss HPK.
 The procedure must be approved by NLF/HPS before towing activity begins.
@@ -46,7 +48,7 @@ All pilots, operators and assistants taking part in the activity must know the p
 The procedure must have a revision number and date.
 When equipment, the winch, local conditions or working methods change, it must be assessed whether the procedure needs to be updated and approved again.
 
-### 1.1 Towing site and area
+#### 1.1 Towing site and area
 
 Sites used regularly for towing must be approved for this by NLF/HPS.
 At Voss, we have these sites:
@@ -63,7 +65,7 @@ Before the activity, the person responsible for towing must check that:
 - the towing direction and line route provide sufficient clearance from roads, buildings, power lines, people and other obstacles
 - alternative landing options are available in the event of a line break or aborted winching
 
-### 1.2 Flying and movement in the towing area
+#### 1.2 Flying and movement in the towing area
 
 During active winching, the tow path and the area around the line must be kept clear of unauthorized people, vehicles and other activity.
 Other pilots must keep well clear of the active tow line and must not cross the tow path while towing is in progress.
@@ -71,13 +73,13 @@ Another tow must not begin until the airspace, launch area and line area are cle
 If needed, the area must be secured with assistants, signs or other suitable marking.
 The person responsible for the activity must ensure that a valid NOTAM is in place for the towing site and the period during which the activity takes place.
 
-## 1 Competence and roles during towing
+### 1 Competence and roles during towing
 
 For towing, the pilot must hold a qualification for paragliding towing (OTP), or be training to obtain it.
 Ordinary PP2–PP5 qualification is not in itself sufficient to be towed.
 Beginners can nevertheless be trained using towing from the first day as part of organized training.
 
-### 2.1 Pilot - OTP
+#### 2.1 Pilot - OTP
 
 OTP is additional training for paragliding towing.
 The pilot must be able to take care of their own safety and that of others during towing, and must master:
@@ -93,7 +95,7 @@ To obtain OTP, the pilot must have completed at least 10 approved tows.
 The OTP qualification is renewed together with the ordinary qualification.
 To maintain towing competence, the minimum requirement is 5 tows during the previous 60 months.
 
-### 2.2 Operator of the towing device
+#### 2.2 Operator of the towing device
 
 The operator of the winch/towing device must hold a qualification for the specific device.
 The qualification is therefore tied to the towing device itself and must not be confused with the pilot's OTP qualification.
@@ -105,7 +107,7 @@ Operator training must:
 
 An operator with at least 50 successful tows using another towing device may operate a new towing device.
 
-### 2.3 Towing instructor - PIO
+#### 2.3 Towing instructor - PIO
 
 OTP training and proficiency checks must be conducted by a person with the required instructor qualification.
 PIO - paragliding towing instructor - is a separate additional qualification for instructors.
@@ -116,25 +118,25 @@ To become a PIO, a candidate must:
 3. have completed at least 20 tows
 4. have instructed during an OTP proficiency check under the supervision of a PIO and been approved.
 
-### 2.4 Person responsible for the towing activity
+#### 2.4 Person responsible for the towing activity
 
 For towing, a named person with a towing qualification must be responsible for the operation.
 The operator of the towing device must also ensure that ground assistants have the knowledge needed to perform their tasks safely.
 This means that a launch assistant or other helper does not necessarily need a separate “launch-assistant certificate”, but that person must be instructed and have the necessary knowledge of the task they perform.
 
-### 2.5 Ground crew and launch
+#### 2.5 Ground crew and launch
 
 There must be enough ground crew to keep unauthorized people at a safe distance from the activity.
 All pilots who are to be towed must have familiarized themselves with the approved towing procedure before flying.
 
-## 3 Local activity - DaWinchi ground winch
+### 3 Local activity - DaWinchi ground winch
 
 Everyone who uses this type of winch must receive sufficient training from the club's appointed towing leads.
 At present, Lars Haukom, Morten Knapstad and Kjell Svanes have the most experience with the club's winch and local towing sites, and hold operator and towing instructor qualifications.
 One of them must therefore be responsible for the activity.
 If more people gain the same type of qualification, the responsible group may be expanded gradually.
 
-### 3.1 Training new operators, OTP pilots and instructors
+#### 3.1 Training new operators, OTP pilots and instructors
 
 Training takes place only when a local towing instructor or local winch operator is present.
 OTP training must be conducted by a towing instructor and formal course registration must be in order.
@@ -148,7 +150,7 @@ Help check and fit the equipment for the pilot who is flying.
 After a while, it is natural to carry out the first tow.
 If shorter flights are made to train the operator, an experienced OTP pilot with good mental capacity and wing control must fly.
 
-### 3.2 Activity planning
+#### 3.2 Activity planning
 
 - Clarify who is taking part and has overall responsibility for the activity?
   Correct qualifications and responsible roles.
@@ -163,7 +165,7 @@ If shorter flights are made to train the operator, an experienced OTP pilot with
   It must not be charged just before use!
 - Pack the car with the winch equipment and first-aid equipment.
 
-### 3.3 Equipment requirements and daily check
+#### 3.3 Equipment requirements and daily check
 
 Before the first tow of the day, the operator and pilot are responsible for checking the equipment and safety system.
 Among other things, check that:
@@ -179,7 +181,7 @@ Among other things, check that:
 The safety system requires an effective and easily accessible release that the pilot can activate throughout the tow, and that the towing device has an emergency release or line cutter.
 Releases must be inspected and tested daily
 
-### 3.4 Accident and emergency response
+#### 3.4 Accident and emergency response
 
 First-aid equipment must be available at the launch area before activity begins.
 
@@ -194,7 +196,7 @@ In the event of an accident:
 7. Follow the club's action and notification plan.
 8. The incident must be reported under the current NLF/HPS procedures.
 
-### 3.5 Preparing the winch
+#### 3.5 Preparing the winch
 
 Images taken from the user manual.
 They show the winch attached to the tow hitch, control unit and battery, and the antenna.
@@ -213,7 +215,7 @@ They show the winch attached to the tow hitch, control unit and battery, and the
 - First-aid equipment must be where the tow starts at “start”.
 - Do not use a pickup bed or anything that sticks out, as the winch rises during the tow.
 
-### 3.6 Technical check
+#### 3.6 Technical check
 
 Make sure that the control box is set to INT and the INT slider is at 0 before and after use, so that it does not start spinning by itself during setup!
 
@@ -233,7 +235,7 @@ Make sure that the control box is set to INT and the INT slider is at 0 before a
 - Always tension the line before it is connected to the pilot.
 - Maintain the battery when it is not going to be used.
 
-### 3.7 Setup
+#### 3.7 Setup
 
 1. Place the control box on the right and the battery on the left.
 2. Connect the antenna to the five-pin connector on top of the control box.
@@ -270,7 +272,7 @@ Make sure that the control box is set to INT and the INT slider is at 0 before a
     Use the retrieval vehicle to pull the line out (slowly) for takeoff.
     DaWinchi is now ready for towing!
 
-## 4 Operator instructions - winching with an operator on the ground
+### 4 Operator instructions - winching with an operator on the ground
 
 - Check the radio signal at launch by holding the line (do not wrap the line around your hand!) and applying a little throttle.
 - Do not jerk the line, as this may cause tangles.
@@ -287,42 +289,42 @@ Maintain a steady speed as the line is wound in.
 Avoid stopping and starting while winding in, as this can cause tangles.
 The line must not be wound in without resistance/tension.
 
-### 4.1 Emergency procedures - winch operator
+#### 4.1 Emergency procedures - winch operator
 
 In an abnormal situation, the winch operator must prioritize reducing or removing the pulling force.
 
-#### Aborted launch
+##### Aborted launch
 
 - Release the throttle/pull immediately.
 - Check that the line goes slack.
 - Do not begin another tow until the cause has been clarified.
 
-#### Pilot veers off course
+##### Pilot veers off course
 
 - Reduce the pull so that the pilot has a better opportunity to correct.
 - If the deviation increases or there is a risk of lockout, the pull must be terminated.
 
-#### Risk of lockout
+##### Risk of lockout
 
 - Remove the pulling force immediately.
 - Use the emergency release or line cutter if the line is not released.
 
-#### Loss of radio or remote-control signal
+##### Loss of radio or remote-control signal
 
 - Stop or reduce the pull if the next part of the tow cannot be carried out in a controlled manner.
 - During self-winching, the pilot must follow their own emergency procedure for signal loss.
 
-#### Line or drum locks
+##### Line or drum locks
 
 - Stop the winch.
 - If the pilot is still connected and the line cannot be slackened, use the emergency release or line cutter.
 
-#### Technical fault
+##### Technical fault
 
 - Stop the tow.
 - Do not use the winch again until the fault has been identified and corrected.
 
-## 5 Self-winching
+### 5 Self-winching
 
 During self-winching, the pilot has full control of the winching and is therefore responsible for carrying it out safely.
 Self-winching must only be carried out if the pilot has the necessary qualifications both as a pilot being towed and to operate the specific towing device.
@@ -357,7 +359,7 @@ Some important points:
 - Keep an eye on the brake parachute while the line is being wound in.
 - Turn off the remote control and continue flying.
 
-## 6 Pilot instructions for winching - PG
+### 6 Pilot instructions for winching - PG
 
 Winching is an effective way to get many flights.
 Safe and effective winching requires good cooperation between the pilot, launch assistant and winch operator.
@@ -367,7 +369,7 @@ The pilot is always responsible for their own flying and equipment.
 - The harness must be free of damage and have at least one reserve parachute repacked during the last 12 months.
 - An approved release must be used, and it must be free of damage.
 
-### 6.1 Before winching
+#### 6.1 Before winching
 
 Report to the launch assistant when you arrive in the area and put your name on the queue list.
 
@@ -377,7 +379,7 @@ Report to the launch assistant when you arrive in the area and put your name on 
 
 Winching is teamwork - everyone must contribute.
 
-### 6.2 Check before start
+#### 6.2 Check before start
 
 Before you connect to the winch line, check:
 
@@ -391,7 +393,7 @@ Before you connect to the winch line, check:
 For PG, the weak link must be rated at 75% of the hooked-in weight (pilot + equipment).
 The launch assistant can help with the check, but the pilot is responsible for ensuring that the equipment is correct and ready before takeoff.
 
-### 6.3 Start
+#### 6.3 Start
 
 When you, the launch assistant and winch operator are ready, the command “Køyr vinsj” (“Run the winch”) is given.
 When the line tightens:
@@ -403,7 +405,7 @@ When the line tightens:
 - Move your gaze forward as soon as the wing has come nicely into balance above your head.
 - Continue accelerating with the pull from the winch until you are airborne.
 
-### 6.4 First part of the tow
+#### 6.4 First part of the tow
 
 The first metres of altitude after takeoff are a critical phase.
 Give the wing flying speed and fly actively, but calmly.
@@ -417,7 +419,7 @@ Always prioritize:
 3. safe altitude
 4. then comfort in the harness
 
-### 6.5 Controlled towing phase
+#### 6.5 Controlled towing phase
 
 The goal is to maintain a steady course toward the winch.
 During winching, the wing can drift to one side of the ideal tow path.
@@ -433,21 +435,21 @@ The wing is more heavily loaded during winching than during ordinary free flying
 Control input may therefore have a greater effect.
 Be aware of overcorrection.
 
-#### If you veer off course
+##### If you veer off course
 
 The winch operator can reduce the pull if you veer off course.
 This makes it easier to correct back toward the tow path.
 Use the reduced pulling force to correct your course.
 If the deviation becomes too large or you cannot correct it, the winch operator can end the tow for safety reasons.
 
-#### Movement in the harness
+##### Movement in the harness
 
 Keep movements calm, especially during the first part of winching.
 Do not try to sit back in the harness until you are past the first 100 critical altitude metres.
 Forceful movements while trying to get into the harness can affect the wing and direction of flight.
 If you cannot get into the harness easily, wait until you have: good altitude, a stable direction of flight, or disconnected from the winch line.
 
-### 6.6 Release
+#### 6.6 Release
 
 When the winch operator ends the pull and you are to release:
 
@@ -458,7 +460,7 @@ When the winch operator ends the pull and you are to release:
 - Check that the line has actually been released.
 - Continue flying only when you have control of the situation.
 
-### 6.7 Line break at high altitude
+#### 6.7 Line break at high altitude
 
 In the event of a line break at a good altitude, first prioritize control of the wing and direction of flight.
 If the line or brake parachute is still trailing behind you, consider where this will end up before you release.
@@ -467,7 +469,7 @@ If you fly toward a safer area before releasing, be ready to release immediately
 As far as possible, avoid dropping line over roads, buildings, power lines, people or other activity.
 Include this in your flight planning so that you are prepared for the terrain and obstacles around you.
 
-### 6.8 Line break at low altitude
+#### 6.8 Line break at low altitude
 
 A line break shortly after takeoff is a critical situation.
 When the pulling force suddenly disappears, the wing can surge forward.
@@ -478,7 +480,7 @@ If the line breaks:
 - Let the wing fly again when the surge forward is controlled.
 - Correct the direction gently if necessary and fly safely for landing
 
-### 6.9 After landing
+#### 6.9 After landing
 
 If you land back at the winch area:
 
@@ -488,7 +490,7 @@ If you land back at the winch area:
 
 The launch assistant can give you feedback on the flight and put you on the list for the next tow.
 
-### 6.10 Emergency procedures
+#### 6.10 Emergency procedures
 
 In an abnormal situation, the pilot must always prioritize control of the wing and a safe direction of flight.
 

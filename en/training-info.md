@@ -7,7 +7,7 @@ Course guidance, progression and accommodation for pilots and course participant
 - [Course materials](/en/training-info/course-materials)
 - [Progression](/en/training-info/progression)
 - [Student guide](/en/training-info/student-guide)
-- [Pilot progression](/en/training-info/pilot-progression)
+- [Pilot progression](/en/training-info/progression#pilot-progression)
 - [Accommodation in Voss](/en/training-info/accommodation)
 
 ## [Instructor Info](/en/instructor-info)

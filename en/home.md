@@ -19,7 +19,7 @@
     <strong>Flying sites</strong>
     <small>Local conditions, launches and landings</small>
   </a>
-  <a class="voss-home-card" href="/en/training-info/pilot-progression">
+  <a class="voss-home-card" href="/en/training-info/progression#pilot-progression">
     <span>LEARN AND PROGRESS</span>
     <strong>Courses and training</strong>
     <small>From beginner courses to further skills</small>

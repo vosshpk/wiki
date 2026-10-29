@@ -47,7 +47,7 @@ Voss HPK asks everyone to complete the relevant form before starting:
 
 Students must complete the evaluation within seven days of the course ending. The Voss HPK page lists Norwegian and English SurveyMonkey forms, but both older links returned 404 when checked. The page links a [new evaluation form](https://forms.gle/ZFB5aLPd8DZ7uEk28) as their replacement.
 
-See [Progression](/en/training-info/progression), [Pilot Progression](/en/training-info/pilot-progression) and the [course framework for instructors](/en/instructor-info/course-framework).
+See [Progression](/en/training-info/progression), [Pilot Progression](/en/training-info/progression#pilot-progression) and the [course framework for instructors](/en/instructor-info/course-framework).
 
 ## Source
 

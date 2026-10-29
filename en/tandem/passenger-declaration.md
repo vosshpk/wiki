@@ -1,4 +1,4 @@
-# Tandem Passenger Declaration
+# Passenger Declaration
 
 The tandem passenger declaration is the form that the tandem pilot and passenger review before a tandem flight.
 It records that the passenger has been informed about the risks and insurance coverage and includes fields for flight details, declarations and signatures.

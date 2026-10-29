@@ -1,5 +1,11 @@
 # Hjelp og rettleiing
 
-Her finn du rettleiing for å bruke wikien og bidra til innhaldet.
+Start med den praktiske rettleiinga dersom du er ny i wikien.
 
-- [Slik brukar du wikien](/hjelp/slik-brukar-du-wikien)
+## Praktisk bruk
+
+- [Bruk](/hjelp/bruk)
+
+## Teknisk oppsett
+
+- [Infrastruktur](/hjelp/infrastruktur)

@@ -1,5 +1,11 @@
 # Help and Guidance
 
-Find guidance on using the wiki and contributing to its content.
+Start with the practical guide if you are new to the wiki.
 
-- [Using the Wiki](/en/help/using-the-wiki)
+## Practical use
+
+- [Use](/en/help/use)
+
+## Technical setup
+
+- [Infrastructure](/en/help/infrastructure)

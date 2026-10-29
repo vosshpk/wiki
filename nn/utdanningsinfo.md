@@ -7,7 +7,7 @@ Informasjon om kurs, vidare progresjon og opphald for kursdeltakarar.
 - [Kursmateriale](/utdanningsinfo/kursmateriale)
 - [Progresjon](/utdanningsinfo/progresjon)
 - [Elevguide](/utdanningsinfo/elevguide)
-- [Opplæring og progresjon](/utdanningsinfo/pilotprogresjon)
+- [Opplæring og progresjon](/utdanningsinfo/progresjon#pilotprogresjon)
 - [Overnatting på Voss](/utdanningsinfo/overnatting)
 
 ## [Instruktørinfo](/instruktorinfo)

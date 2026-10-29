@@ -1,4 +1,4 @@
-# Eigenfråsegn for tandemflyging
+# Eigenfråsegn
 
 Eigenfråsegna er skjemaet som tandempilot og passasjer går gjennom før tandemflyging.
 Ho dokumenterer at passasjeren er informert om risiko og forsikringsdekning, og inneheld felt for opplysningar om flyginga, erklæringar og signaturar.

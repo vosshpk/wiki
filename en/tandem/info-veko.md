@@ -1,4 +1,4 @@
-# Practical Info Veko
+# Tandem at Veko
 
 > Summary of the practical guide for Ekstremsportveko.
 > Follow current Veko and club information.
