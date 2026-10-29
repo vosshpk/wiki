@@ -1,4 +1,4 @@
-# utdanning
+# Utdanning
 
 Denne sida samlar råd for førebuing, trening, tandemutsjekk og vidare progresjon. Ho byggjer på [rettleiinga til Voss HPK om tandemutdanning](https://vosshpk.no/nyhende/tandemutdanning/), publisert 20. januar 2026.
 

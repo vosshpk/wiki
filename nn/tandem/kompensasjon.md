@@ -1,4 +1,4 @@
-# kompensasjon
+# Kompensasjon
 
 ## Pris og fordeling
 

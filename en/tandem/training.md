@@ -1,4 +1,4 @@
-# training
+# Training
 
 This page gathers guidance on preparation, practice, tandem checkout and continued progression. It is based on [Voss HPK's tandem training guidance](https://vosshpk.no/nyhende/tandemutdanning/), published on 20 January 2026.
 

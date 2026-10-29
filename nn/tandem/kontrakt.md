@@ -1,4 +1,4 @@
-# kontrakt
+# Kontrakt
 
 > **Ikkje bruk som gjeldande avtale.**
 > Dette er ei attgjeving av hovudinnhaldet i «Voss HPK Tandemkontrakt».

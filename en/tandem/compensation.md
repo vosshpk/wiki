@@ -1,4 +1,4 @@
-# compensation
+# Compensation
 
 ## Prices and split
 
