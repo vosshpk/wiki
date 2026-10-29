@@ -37,10 +37,10 @@ Voss Hang- og Paragliderklubb 2024
 
 Organisasjonskartet frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-::block-plantuml{format="png"}
+::block-plantuml{format="svg"}
 ```plantuml
 @startuml
-!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.puml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjon-nn.puml
 @enduml
 ```
 ::
@@ -90,10 +90,10 @@ Sjå òg [organisasjonsplanen](/organisatorisk/organisasjonsplan).
 
 Strategisamandraget frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-::block-plantuml{format="png"}
+::block-plantuml{format="svg"}
 ```plantuml
 @startuml
-!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategisamandrag-nn.puml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategi-nn.puml
 @enduml
 ```
 ::
