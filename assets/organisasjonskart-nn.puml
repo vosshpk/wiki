@@ -1,56 +1,119 @@
-title Organisasjonskart
+title **ORGANISASJONSKART**
+caption Voss Hang- og Paragliderklubb
+
 top to bottom direction
-hide circle
-hide empty members
-skinparam classAttributeIconSize 0
+
+' --- Overall style ---
+skinparam backgroundColor #F8FAFC
+skinparam defaultFontName "Arial"
+skinparam defaultFontSize 13
+skinparam shadowing false
+skinparam roundcorner 18
 skinparam linetype ortho
-skinparam nodesep 20
-skinparam ranksep 25
-scale max 1200 width
+skinparam nodesep 32
+skinparam ranksep 42
+skinparam ArrowColor #94A3B8
+skinparam ArrowThickness 1.5
+skinparam classAttributeIconSize 0
 
-class "Seksjon" as Seksjon
-class "Fagleg leiar" as FaglegLeiar
-class "Sikkerheitsgruppa" as Sikkerheitsgruppa
-class "Utdanningsansvarleg og regelverk" as UtdanningRegelverk
-class "Tandemansvarleg" as Tandemansvarleg
-class "Materialforvaltar" as Materialforvaltar
-class "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg
-class "Sekretær\nKan vere ein tilsett." as Sekretaer
-class "Årsmøte" as Aarsmoete
-class "Styret" as Styret
-class "Dagleg leiar" as DaglegLeiar
-class "Driftsansvarleg og kurskoordinator" as DriftKurs
-class "Miljø" as Miljoe
-class "Politiattest" as Politiattest
-class "Materiell" as Materiell
-class "Kursinstruktørar" as Kursinstruktoerar
-class "Tandeminstruktørar" as Tandeminstruktoerar
-class "Administrasjon og medlemsservice" as Administrasjon
-class "Nettside/butikk" as NettsideButikk
-class "Fasilitetar" as Fasilitetar
-class "Reinhald og vedlikehald" as ReinhaldVedlikehald
-class "Økonomi" as Oekonomi
-class "Arrangement" as Arrangement
+skinparam class {
+    BackgroundColor #FFFFFF
+    BorderColor #CBD5E1
+    FontColor #1E293B
+    BorderThickness 1.2
+    RoundCorner 18
+}
 
-Seksjon -- FaglegLeiar
-Seksjon -- Aarsmoete
-FaglegLeiar -- Sikkerheitsgruppa
-Sikkerheitsgruppa -- UtdanningRegelverk
-Sikkerheitsgruppa -- Tandemansvarleg
-Sikkerheitsgruppa -- Materialforvaltar
-Sikkerheitsgruppa -- Sikkerheitsansvarleg
-Sikkerheitsgruppa -- Sekretaer
-Aarsmoete -- Styret
-Styret -- DaglegLeiar
-DaglegLeiar -- DriftKurs
-DriftKurs -- Miljoe
-DriftKurs -- Politiattest
-DriftKurs -- Materiell
-DriftKurs -- Kursinstruktoerar
-DriftKurs -- Tandeminstruktoerar
-DaglegLeiar -- Administrasjon
-Administrasjon -- NettsideButikk
-Administrasjon -- Fasilitetar
-Fasilitetar -- ReinhaldVedlikehald
-Administrasjon -- Oekonomi
-Administrasjon -- Arrangement
+skinparam class<<governance>> {
+    BackgroundColor #172554
+    BorderColor #172554
+    FontColor #FFFFFF
+}
+
+skinparam class<<leadership>> {
+    BackgroundColor #DBEAFE
+    BorderColor #60A5FA
+    FontColor #1E3A8A
+}
+
+skinparam class<<specialist>> {
+    BackgroundColor #E0F2FE
+    BorderColor #7DD3FC
+    FontColor #0C4A6E
+}
+
+skinparam class<<operations>> {
+    BackgroundColor #D1FAE5
+    BorderColor #6EE7B7
+    FontColor #065F46
+}
+
+skinparam class<<support>> {
+    BackgroundColor #F1F5F9
+    BorderColor #CBD5E1
+    FontColor #334155
+}
+
+' --- Governance ---
+class "Årsmøte" as Aarsmoete <<governance>>
+class "Styret" as Styret <<governance>>
+
+' --- Leadership ---
+class "Seksjon" as Seksjon <<leadership>>
+class "Fagleg leiar" as FaglegLeiar <<leadership>>
+class "Dagleg leiar" as DaglegLeiar <<leadership>>
+
+' --- Safety and specialist responsibilities ---
+class "Sikkerheitsgruppa" as Sikkerheitsgruppa <<specialist>>
+class "Utdanningsansvarleg\nog regelverk" as UtdanningRegelverk <<specialist>>
+class "Tandemansvarleg" as Tandemansvarleg <<specialist>>
+class "Materialforvaltar" as Materialforvaltar <<specialist>>
+class "Sikkerheitsansvarleg\nKan vere ein tilsett" as Sikkerheitsansvarleg <<specialist>>
+class "Sekretær\nKan vere ein tilsett" as Sekretaer <<specialist>>
+
+' --- Operations ---
+class "Driftsansvarleg\nog kurskoordinator" as DriftKurs <<operations>>
+class "Miljø" as Miljoe <<operations>>
+class "Politiattest" as Politiattest <<operations>>
+class "Materiell" as Materiell <<operations>>
+class "Kursinstruktørar" as Kursinstruktoerar <<operations>>
+class "Tandeminstruktørar" as Tandeminstruktoerar <<operations>>
+
+' --- Administration and support ---
+class "Administrasjon\nog medlemsservice" as Administrasjon <<support>>
+class "Nettside og butikk" as NettsideButikk <<support>>
+class "Fasilitetar" as Fasilitetar <<support>>
+class "Reinhald og vedlikehald" as ReinhaldVedlikehald <<support>>
+class "Økonomi" as Oekonomi <<support>>
+class "Arrangement" as Arrangement <<support>>
+
+' --- Organisational relationships ---
+Seksjon -down-> FaglegLeiar
+Seksjon -down-> Aarsmoete
+
+FaglegLeiar -down-> Sikkerheitsgruppa
+
+Sikkerheitsgruppa -down-> UtdanningRegelverk
+Sikkerheitsgruppa -down-> Tandemansvarleg
+Sikkerheitsgruppa -down-> Materialforvaltar
+Sikkerheitsgruppa -down-> Sikkerheitsansvarleg
+Sikkerheitsgruppa -down-> Sekretaer
+
+Aarsmoete -down-> Styret
+Styret -down-> DaglegLeiar
+
+DaglegLeiar -down-> DriftKurs
+DaglegLeiar -down-> Administrasjon
+
+DriftKurs -down-> Miljoe
+DriftKurs -down-> Politiattest
+DriftKurs -down-> Materiell
+DriftKurs -down-> Kursinstruktoerar
+DriftKurs -down-> Tandeminstruktoerar
+
+Administrasjon -down-> NettsideButikk
+Administrasjon -down-> Fasilitetar
+Administrasjon -down-> Oekonomi
+Administrasjon -down-> Arrangement
+
+Fasilitetar -down-> ReinhaldVedlikehald
