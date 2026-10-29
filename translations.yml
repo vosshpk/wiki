@@ -222,15 +222,12 @@ pages:
   tandem-passenger-declaration:
     nn: nn/tandem/eigenfrasegn.md
     en: en/tandem/passenger-declaration.md
-  tandem-passenger-declaration-archive:
-    nn: nn/tandem/eigenfrasegn-2023.md
-    en: en/tandem/passenger-declaration-2023-archive.md
-  tandem-agreement-archive:
-    nn: nn/tandem/tandemkontrakt-2024.md
-    en: en/tandem/agreement-2024-archived-source-document.md
-  tandem-compensation-2026:
-    nn: nn/tandem/kompensasjon-2026.md
-    en: en/tandem/compensation-2026.md
-  tandem-information-veko-2024:
-    nn: nn/tandem/praktisk-info-veko-2024.md
-    en: en/tandem/practical-information-for-tandem-pilots-at-veko-2024.md
+  tandem-contract:
+    nn: nn/tandem/tandemkontrakt.md
+    en: en/tandem/tandem-contract.md
+  tandem-compensation:
+    nn: nn/tandem/kompensasjon.md
+    en: en/tandem/compensation.md
+  practical-info-veko:
+    nn: nn/tandem/praktisk-info-veko.md
+    en: en/tandem/practical-info-veko.md

@@ -56,7 +56,7 @@ Stadfest gjeldande krav og trygg lagringsmåte før slike skjema blir handterte.
 | Utlån av eige tandemutstyr mellom pilotar | 400 kr vart oppmoda som lik leigepris |
 | Foto/film | 200 kr ekstra direkte til pilot ved levering; kjelda nemner selfiestenger og GoPro i klubbvogna |
 
-Prisane frå kjelda må ikkje blandast med [tandemkompensasjonen](/tandem/kompensasjon-2026).
+Prisane frå kjelda må ikkje blandast med [tandemkompensasjonen](/tandem/kompensasjon).
 Kjelda nemner betaling via Zettle og Vipps.
 Turar og betaling skulle registrerast slik at klubb og pilot kunne avstemme oppgjeret.
 

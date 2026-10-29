@@ -1,4 +1,4 @@
-# Practical Information for Tandem Pilots at Veko
+# Practical Info Veko
 
 > Summary of the practical guide for Ekstremsportveko.
 > Follow current Veko and club information.
@@ -56,7 +56,7 @@ Confirm current requirements and secure storage before handling such forms.
 | Pilot-to-pilot equipment loan | NOK 400 was suggested as a consistent hire rate |
 | Photos/video | NOK 200 extra directly to the pilot on delivery; the source mentions selfie sticks and a GoPro at the club van |
 
-The prices from the source must not be confused with [tandem compensation](/en/tandem/compensation-2026).
+The prices from the source must not be confused with [tandem compensation](/en/tandem/compensation).
 The source mentions Zettle and Vipps.
 Flights and payments were to be recorded so the club and pilots could reconcile settlement.
 
