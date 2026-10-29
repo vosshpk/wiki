@@ -88,7 +88,7 @@ Navigasjonsjobben set dette mappeikonet på mappe-lenkjer han kjenner att, også
 Legg sidelenkjene under denne forelderen og bruk **Nest Item** for å plassere dei som undermenyelement.
 Skal lenkjene berre stå under ei overskrift utan ei utvidbar mappe, legg du dei etter overskrifta utan å nøste dei.
 
-![Innstillingane for ei lenkje og eit døme på eit nøsta element](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/link-trigger-and-nesting.png)
+![Lenkjeinnstillingane for Bruk, som ligg nøsta under Hjelp](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/link-trigger-and-nesting.png)
 
 Lagre menyelementa og navigasjonsinnstillingane når du er ferdig.
 Navigasjonsjobben held på overskrifter og plasseringar som finst frå før, men brukar gruppelista for å plassere nye lenkjer.

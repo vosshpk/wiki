@@ -88,7 +88,7 @@ The navigation job sets this folder icon on folder links it recognizes, includin
 Place page links below this parent and use **Nest Item** to make them submenu items.
 If the links should appear directly under a heading without an expandable folder, add them after the heading without nesting them.
 
-![Link settings and the option for nesting an item](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/link-trigger-and-nesting.png)
+![Link settings for Bruk, nested under Help](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/link-trigger-and-nesting.png)
 
 Save the menu items and navigation settings when you are done.
 The navigation job keeps existing headings and link placements, but uses the group list to place new links.
