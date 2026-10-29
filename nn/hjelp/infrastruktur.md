@@ -11,9 +11,19 @@ Markdown er eit enkelt tekstformat for overskrifter, lister, lenkjer og tabellar
 Wiki.js brukar Git Storage til å synkronisere sidene mellom wikien og hovudgreina main i GitHub.
 Synkroniseringa går etter ein fast plan, som for tida er kvart femte minutt.
 GitHub Actions køyrer navigasjonsskriptet når sider blir endra, og skriptet ventar på at sidene er synkroniserte før det oppdaterer sidemenyen.
-Skriptet legg nye toppmapper som ikkje er førte opp i ei fast navigasjonsgruppe, under **Ugruppert**.
+Wiki.js-grensesnittet styrer gruppenamna, rekkjefølgja og plasseringa til lenkjer som alt finst i sidemenyen.
+Skriptet brukar gruppelista i `wiki-infrastructure-v3/scripts/generate-inline-navigation.mjs` som standardplassering for nye lenkjer.
+Nye lenkjer i toppmapper som ikkje er førte opp i ei navigasjonsgruppe, kjem under **Ugruppert**.
 Viss ei slik mappe manglar ei eiga landingsside, blir sidene viste som direkte lenkjer med mappestigen i lenkjeteksten.
 Sidene blir verande på den opphavlege stigen; **Ugruppert** er ei gruppe i sidemenyen, ikkje ei fysisk mappe.
+
+Vil du leggje nye toppmapper automatisk i ei gruppe, opprett eller endre gruppa i Wiki.js og be wikiforvaltaren leggje inn gruppenamnet og mappebanen for nynorsk og engelsk i gruppelista.
+Gruppa må finnast i sidemenyen før skriptet legg nye lenkjer der; viss ho manglar, brukar skriptet **Ugruppert**.
+Bruk toppmappa si bane relativt til språkmappa, utan `nn/`, `en/` eller `.md`.
+Undermapper blir viste under menylenkja til den overordna mappa, medan ei eiga gruppe for ei særskild undermappe krev ei eiga `standaloneFolders`-innstilling.
+Navigasjonsjobben brukar ei slik kopling berre for nye lenkjer; han flyttar ikkje lenkjer som alt er plasserte i sidemenyen.
+Endringar i gruppelista i infrastrukturlageret må sendast til `main` før jobben kan bruke dei.
+Sidan innhaldsrepositoriet ikkje startar jobben når berre infrastrukturlageret blir endra, køyr **Sync Wiki.js navigation** manuelt frå GitHub Actions når den nye toppmappa er synleg i wikien.
 
 ## Kva tenestene gjer
 

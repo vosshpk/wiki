@@ -11,9 +11,19 @@ Markdown is a simple text format for headings, lists, links and tables.
 Wiki.js uses Git Storage to synchronize pages between the wiki and the main branch in GitHub.
 Synchronization runs on a schedule that is currently set to every five minutes.
 GitHub Actions runs the navigation script when pages change, and the script waits for the content to sync before updating the sidebar.
-The script places new top-level folders that are not listed in a configured navigation group under **Ungrouped**.
+The Wiki.js interface controls group labels, order, and placement for links that already exist in the sidebar.
+The script uses the group list in `wiki-infrastructure-v3/scripts/generate-inline-navigation.mjs` as the default placement for new links.
+New links in top-level folders that are not listed in a navigation group go under **Ungrouped**.
 If such a folder has no landing page, its pages appear as direct links with the folder path in each link label.
 Pages stay at their original paths; **Ungrouped** is a sidebar group, not a physical folder.
+
+To place new top-level folders in a group automatically, create or rename the group in Wiki.js and ask the wiki maintainer to add its label and folder path for both Nynorsk and English to the group list.
+The group must exist in the sidebar before the script can place new links there; if it is missing, the script uses **Ungrouped**.
+Use the top-level folder path relative to the language directory, without `nn/`, `en/`, or `.md`.
+Nested folders appear under the menu link for their containing folder, while a separate group for a particular nested folder needs its own `standaloneFolders` configuration.
+The navigation job uses this mapping only for new links; it does not move links that are already in the sidebar.
+Changes to the group mappings in the infrastructure repository must be pushed to `main` before the job can use them.
+Since the content repository does not trigger the job when only the infrastructure repository changes, manually run **Sync Wiki.js navigation** in GitHub Actions after the mapped folder is available in the wiki.
 
 ## What the services do
 

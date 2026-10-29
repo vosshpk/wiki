@@ -32,10 +32,21 @@ Hald nynorsk og engelsk innhald oppdatert når ei side finst på begge språka.
 Skriv heile sidestigen når du opprettar ei side, til dømes `ny-mappe/ny-side`.
 Vel du nynorsk som språk, skal du ikkje ta med `nn/` i sidestigen.
 Wiki.js lagar mappestigen automatisk når sida blir lagra.
-Ei mappe må innehalde minst éi side for å bli synkronisert til GitHub.
-Etter synkronisering blir nye toppmapper som ikkje høyrer til ei fast navigasjonsgruppe, viste under **Ugruppert** i sidemenyen.
-Viss ei slik mappe ikkje har ei eiga landingsside, blir sidelenkjene viste med mappenamnet først.
+Ei mappe blir synleg i GitHub når ho inneheld minst éi side og synkroniseringa har køyrt.
+Nye toppmapper som er kopla til ei navigasjonsgruppe, kjem der som standard.
+Nye toppmapper utan ei slik kopling kjem under **Ugruppert** i sidemenyen.
+Sider i undermapper blir viste under menylenkja til den overordna mappa.
+Viss mappa ikkje har ei eiga landingsside, blir sidene viste som direkte lenkjer med mappenamnet først.
 Grupperinga gjeld berre sidemenyen; sida blir liggjande på stigen du valde.
+
+## Grupper i sidemenyen
+
+Redaktørar kan opprette, endre namn på, flytte og sortere grupper og lenkjer i Wiki.js.
+Navigasjonsjobben tek vare på gruppeoppsettet og plasseringa til lenkjer som alt finst.
+For at ei ny toppmappe automatisk skal kome i ei bestemt gruppe, må mappebanen leggjast inn i den tekniske gruppelista.
+Opprett gruppa i Wiki.js først, og opplys wikiforvaltaren om det nøyaktige gruppenamnet og mappebanen.
+Viss gruppa ikkje finst i sidemenyen, kjem nye lenkjer under **Ugruppert**.
+Ei endring i den tekniske gruppelista flyttar ikkje lenkjer som alt ligg i sidemenyen; flytt dei i Wiki.js dersom plasseringa skal endrast.
 
 ## Kven kan gjere kva?
 

@@ -32,10 +32,21 @@ Keep the Nynorsk and English content in step when a page exists in both language
 Enter the full page path when creating a page, for example `new-folder/new-page`.
 When Nynorsk is selected as the language, leave `nn/` out of the path.
 Wiki.js creates the folder path automatically when the page is saved.
-The folder needs at least one page to be synchronized to GitHub.
-After synchronization, new top-level folders that are not assigned to a navigation group appear under **Ungrouped** in the sidebar.
-If such a folder has no landing page, its page links are shown with the folder name first.
+The folder appears in GitHub when it contains at least one page and synchronization has run.
+New top-level folders mapped to a navigation group appear there by default.
+New top-level folders without a mapping appear under **Ungrouped** in the sidebar.
+Pages in nested folders appear under the menu link for their containing folder.
+If the folder has no landing page, its pages appear as direct links with the folder name first.
 This grouping is only for the sidebar; the page stays at the path you chose.
+
+## Sidebar groups
+
+Editors can create, rename, move and reorder groups and links in Wiki.js.
+The navigation job keeps the group structure and placement of links that already exist.
+To make a new top-level folder appear in a particular group automatically, its path must be added to the technical group list.
+Create the group in Wiki.js first, then tell the wiki maintainer its exact label and the folder path.
+If the group is not in the sidebar, new links go under **Ungrouped**.
+Changing the technical group list does not move links that are already in the sidebar; move those links in Wiki.js if their placement should change.
 
 ## Who can do what?
 
