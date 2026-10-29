@@ -1,35 +1,65 @@
-title Strategy summary
-top to bottom direction
-hide circle
-hide empty members
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-skinparam nodesep 20
-skinparam ranksep 25
-scale max 1200 width
+title STRATEGY SUMMARY
+caption Voss Hang- and Paraglider Club
 
-class "Concept\nEngaging experiences with air sports" as Concept
-class "Evidence\nA sense of ownership and belonging" as Evidence
-class "Well-functioning facilities" as Facilities
-class "A healthy culture" as Culture
-class "Good courses and follow-up" as CoursesFollowUp
-class "Promise\nActive and satisfied pilots" as Promise
-class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position
-class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup
+top to bottom direction
+
+' --- Overall style ---
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Arial
+skinparam defaultFontSize 13
+skinparam shadowing false
+skinparam roundcorner 2
+skinparam linetype ortho
+skinparam nodesep 28
+skinparam ranksep 32
+skinparam ArrowColor #4285F4
+skinparam ArrowThickness 1.2
+
+skinparam rectangle {
+    BorderColor #8296B2
+    FontColor #172033
+    BorderThickness 1
+    RoundCorner 2
+}
+
+' --- Colour palette ---
+!define BLUE #9DB5E0
+!define GREEN #A5D096
+!define GREY #D9D9D9
+
+' --- Concept ---
+rectangle "Concept\nEngaging experiences with air sports" as Concept GREY
+
+' --- Evidence ---
+rectangle "Evidence\nA sense of ownership and belonging" as Evidence GREEN
+rectangle "Well-functioning facilities" as Facilities BLUE
+rectangle "A healthy culture" as Culture BLUE
+rectangle "Good courses and follow-up" as CoursesFollowUp BLUE
+
+' --- Promise, position and target group ---
+rectangle "Promise\nActive and satisfied pilots" as Promise BLUE
+rectangle "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position BLUE
+rectangle "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup BLUE
+
+' --- Communication ---
 package "Communication" {
-  class "Considerate" as Considerate
-  class "Unifying" as Unifying
-  class "Curious" as Curious
-  class "A playful bringer of joy" as Profile
+  rectangle "Considerate" as Considerate BLUE
+  rectangle "Unifying" as Unifying BLUE
+  rectangle "Curious" as Curious BLUE
+  rectangle "A playful bringer of joy" as Profile GREEN
 }
+
+' --- Organisation ---
 package "Organisation" {
-  class "Inclusion" as Inclusion
-  class "Development" as Development
-  class "Safety" as Safety
-  class "Exciting opportunities" as Opportunities
+  rectangle "Inclusion" as Inclusion BLUE
+  rectangle "Development" as Development BLUE
+  rectangle "Safety" as Safety BLUE
+  rectangle "Exciting opportunities" as Opportunities GREEN
 }
-class "Mission\nFacilitate good experiences in the air\nand among people." as Mission
-class "Vision\nCreate safe and genuine joy in flying!" as Vision
+
+' --- Mission and vision ---
+rectangle "Mission\nFacilitate good experiences in the air\nand among people." as Mission BLUE
+rectangle "Vision\nCreate safe and genuine joy in flying!" as Vision BLUE
 
 Evidence -- Facilities
 Evidence -- Culture

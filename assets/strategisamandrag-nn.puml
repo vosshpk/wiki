@@ -1,35 +1,65 @@
-title Strategisamandrag
-top to bottom direction
-hide circle
-hide empty members
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-skinparam nodesep 20
-skinparam ranksep 25
-scale max 1200 width
+title STRATEGISAMANDRAG
+caption Voss Hang- og Paragliderklubb
 
-class "Konsept\nOpplevtande erfaringar med luftsport" as Konsept
-class "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis
-class "Velfungerande fasilitetar" as Fasilitetar
-class "Sunn kultur" as Kultur
-class "Gode kurs og oppfølging" as KursOppfoelging
-class "Løfte\nAktive og nøgde pilotar" as Loefte
-class "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon
-class "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe
+top to bottom direction
+
+' --- Overordna stil ---
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Arial
+skinparam defaultFontSize 13
+skinparam shadowing false
+skinparam roundcorner 2
+skinparam linetype ortho
+skinparam nodesep 28
+skinparam ranksep 32
+skinparam ArrowColor #4285F4
+skinparam ArrowThickness 1.2
+
+skinparam rectangle {
+    BorderColor #8296B2
+    FontColor #172033
+    BorderThickness 1
+    RoundCorner 2
+}
+
+' --- Fargepalett ---
+!define BLUE #9DB5E0
+!define GREEN #A5D096
+!define GREY #D9D9D9
+
+' --- Konsept ---
+rectangle "Konsept\nOpplevtande erfaringar med luftsport" as Konsept GREY
+
+' --- Bevis ---
+rectangle "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis GREEN
+rectangle "Velfungerande fasilitetar" as Fasilitetar BLUE
+rectangle "Sunn kultur" as Kultur BLUE
+rectangle "Gode kurs og oppfølging" as KursOppfoelging BLUE
+
+' --- Løfte, posisjon og målgruppe ---
+rectangle "Løfte\nAktive og nøgde pilotar" as Loefte BLUE
+rectangle "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon BLUE
+rectangle "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe BLUE
+
+' --- Kommunikasjon ---
 package "Kommunikasjon" {
-  class "Omsynsfull" as Omsynsfull
-  class "Samlande" as Samlande
-  class "Nysgjerrig" as Nysgjerrig
-  class "Leiken gledesspreiar" as Profil
+  rectangle "Omsynsfull" as Omsynsfull BLUE
+  rectangle "Samlande" as Samlande BLUE
+  rectangle "Nysgjerrig" as Nysgjerrig BLUE
+  rectangle "Leiken gledesspreiar" as Profil GREEN
 }
+
+' --- Organisasjon ---
 package "Organisasjon" {
-  class "Inkludering" as Inkludering
-  class "Utvikling" as Utvikling
-  class "Tryggleik" as Tryggleik
-  class "Spennande moglegheiter" as Moglegheiter
+  rectangle "Inkludering" as Inkludering BLUE
+  rectangle "Utvikling" as Utvikling BLUE
+  rectangle "Tryggleik" as Tryggleik BLUE
+  rectangle "Spennande moglegheiter" as Moglegheiter GREEN
 }
-class "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon
-class "Visjon\nSkapa trygg og ekte flyglede!" as Visjon
+
+' --- Misjon og visjon ---
+rectangle "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon BLUE
+rectangle "Visjon\nSkapa trygg og ekte flyglede!" as Visjon BLUE
 
 Bevis -- Fasilitetar
 Bevis -- Kultur

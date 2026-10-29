@@ -37,7 +37,7 @@ rectangle "Årsmøte" as Aarsmoete BLUE
 rectangle "Styret" as Styret GREEN
 rectangle "Dagleg leiar" as DaglegLeiar BLUE
 
-' --- Safety and specialist responsibilities ---
+' --- Tryggleiks- og fagansvar ---
 rectangle "Sikkerheitsgruppa" as Sikkerheitsgruppa GREEN
 rectangle "Utdanningsansvarleg\nog regelverk" as UtdanningRegelverk BLUE
 rectangle "Tandemansvarleg" as Tandemansvarleg BLUE

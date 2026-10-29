@@ -1,56 +1,92 @@
-title Organisation chart
+title ORGANISATION CHART
+caption Voss Hang- and Paraglider Club
+
 top to bottom direction
-hide circle
-hide empty members
-skinparam classAttributeIconSize 0
+
+' --- Overall style ---
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Arial
+skinparam defaultFontSize 13
+skinparam shadowing false
+skinparam roundcorner 2
 skinparam linetype ortho
-skinparam nodesep 20
-skinparam ranksep 25
-scale max 1200 width
+skinparam nodesep 28
+skinparam ranksep 32
+skinparam ArrowColor #4285F4
+skinparam ArrowThickness 1.2
 
-class "Section" as Section
-class "Technical lead" as TechnicalLead
-class "Safety group" as SafetyGroup
-class "Training officer and rules" as TrainingRules
-class "Tandem officer" as TandemOfficer
-class "Equipment officer" as EquipmentOfficer
-class "Safety officer\nMay be an employee." as SafetyOfficer
-class "Secretary\nMay be an employee." as Secretary
-class "AGM" as AGM
-class "Board" as Board
-class "Managing director" as ManagingDirector
-class "Operations manager and course coordinator" as OperationsCourse
-class "Environment" as Environment
-class "Police certificates" as PoliceCertificates
-class "Equipment" as Equipment
-class "Course instructors" as CourseInstructors
-class "Tandem instructors" as TandemInstructors
-class "Administration and member services" as Administration
-class "Website/shop" as WebsiteShop
-class "Facilities" as Facilities
-class "Cleaning and maintenance" as CleaningMaintenance
-class "Finance" as Finance
-class "Events" as Events
+skinparam rectangle {
+    BorderColor #8296B2
+    FontColor #172033
+    BorderThickness 1
+    RoundCorner 2
+}
 
-Section -- TechnicalLead
-Section -- AGM
-TechnicalLead -- SafetyGroup
-SafetyGroup -- TrainingRules
-SafetyGroup -- TandemOfficer
-SafetyGroup -- EquipmentOfficer
-SafetyGroup -- SafetyOfficer
-SafetyGroup -- Secretary
-AGM -- Board
-Board -- ManagingDirector
-ManagingDirector -- OperationsCourse
-OperationsCourse -- Environment
-OperationsCourse -- PoliceCertificates
-OperationsCourse -- Equipment
-OperationsCourse -- CourseInstructors
-OperationsCourse -- TandemInstructors
-ManagingDirector -- Administration
-Administration -- WebsiteShop
-Administration -- Facilities
-Facilities -- CleaningMaintenance
-Administration -- Finance
-Administration -- Events
+' --- Colour palette ---
+!define BLUE #9DB5E0
+!define GREEN #A5D096
+!define GREY #D9D9D9
+
+' --- Root ---
+rectangle "Section" as Section GREY
+
+' --- Leadership and governance ---
+rectangle "Technical lead" as TechnicalLead BLUE
+rectangle "AGM" as AGM BLUE
+rectangle "Board" as Board GREEN
+rectangle "Managing director" as ManagingDirector BLUE
+
+' --- Safety and specialist responsibilities ---
+rectangle "Safety group" as SafetyGroup GREEN
+rectangle "Training officer\nand rules" as TrainingRules BLUE
+rectangle "Tandem officer" as TandemOfficer BLUE
+rectangle "Equipment officer" as EquipmentOfficer BLUE
+rectangle "Safety officer\nMay be an employee." as SafetyOfficer BLUE
+rectangle "Secretary\nMay be an employee." as Secretary BLUE
+
+' --- Operations ---
+rectangle "Operations manager\nand course coordinator" as OperationsCourse BLUE
+rectangle "Environment" as Environment BLUE
+rectangle "Police certificates" as PoliceCertificates BLUE
+rectangle "Equipment" as Equipment BLUE
+rectangle "Course instructors" as CourseInstructors BLUE
+rectangle "Tandem instructors" as TandemInstructors BLUE
+
+' --- Administration and support ---
+rectangle "Administration\nand member services" as Administration BLUE
+rectangle "Website/shop" as WebsiteShop BLUE
+rectangle "Facilities" as Facilities BLUE
+rectangle "Cleaning and\nmaintenance" as CleaningMaintenance BLUE
+rectangle "Finance" as Finance BLUE
+rectangle "Events" as Events BLUE
+
+' --- Organisational relationships ---
+Section -down-> TechnicalLead
+Section -down-> AGM
+
+TechnicalLead -down-> SafetyGroup
+
+SafetyGroup -down-> TrainingRules
+SafetyGroup -down-> TandemOfficer
+SafetyGroup -down-> EquipmentOfficer
+SafetyGroup -down-> SafetyOfficer
+SafetyGroup -down-> Secretary
+
+AGM -down-> Board
+Board -down-> ManagingDirector
+
+ManagingDirector -down-> OperationsCourse
+ManagingDirector -down-> Administration
+
+OperationsCourse -down-> Environment
+OperationsCourse -down-> PoliceCertificates
+OperationsCourse -down-> Equipment
+OperationsCourse -down-> CourseInstructors
+OperationsCourse -down-> TandemInstructors
+
+Administration -down-> WebsiteShop
+Administration -down-> Facilities
+Administration -down-> Finance
+Administration -down-> Events
+
+Facilities -down-> CleaningMaintenance
