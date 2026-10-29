@@ -1,79 +1,95 @@
-# Ekstern kommunikasjonsplan
+# Ekstern kommunikasjonsplan for Voss Hang- og Paragliderklubb (Voss HPK)
 
-## Føremål og mål
+Denne kommunikasjonsplanen har som mål å styrkje Voss HPKs synlegheit, byggje ei sterk digital og fysisk tilstade, og engasjere både medlemmar og publikum.  
+Planen fokuserer på tydeleg kommunikasjon, tryggleik og klubbens identitet som ein inkluderande og spanande møteplass for friluftsentusiastar.
 
-Planen skal gjere Voss HPK synleg, engasjere medlemmer og interesserte, og formidle klubben sine aktivitetar og verdiar.
-Tryggleik skal vere ein grunnverdi i kommunikasjonen.
+## Målsetjingar
 
-Måla i kjeldedokumentet er å:
-
-- auke synlegheita til klubben og aktivitetane
-- engasjere medlemmer og nye interesserte med relevant informasjon
-- setje tryggleik høgt i all kommunikasjon
-- styrkje klubben sin profil innan hang- og paragliding
+1. **Auke synlegheita** til klubben og aktivitetane gjennom digitale og tradisjonelle kanalar.
+2. **Engasjere medlemmar og nye interesserte** med relevante og inspirerande bodskap.
+3. **Setje tryggleik i høgsetet** som ein grunnverdi i all kommunikasjon.
+4. **Styrkje klubbens merkevare** som ein leiande aktør innan hanggliding og paragliding i Noreg.
 
 ## Målgrupper
 
-- **Primære:** eksisterande og potensielle medlemmer, og kursdeltakarar
-- **Sekundære:** lokalsamfunnet, turistar, media, sponsorar og samarbeidspartnarar
+- **Primære målgrupper:** Eksisterande medlemmar, potensielle medlemmar og kursdeltakarar.
+- **Sekundære målgrupper:** Lokalsamfunnet, turistar, media, sponsorar og samarbeidspartnarar.
 
 ## Hovudbodskap
 
-> Kjeldedokumentet føreslår desse bodskapa.
-> Styret bør godkjenne endeleg ordlyd og sikre at han samsvarer med klubben sin profil:
+- **Spaning og inkludering:** «Opplev fridomen i lufta med Voss HPK.»
+- **Tryggleik i høgsetet:** «Tryggleik først -- alltid.»
+- **Natur og eventyr:** «Bli ein del av fellesskapet som oppdagar naturen frå fugleperspektiv.»
 
-- «Opplev fridomen i lufta med Voss HPK.»
-- «Tryggleik først – alltid.»
-- «Bli ein del av fellesskapet som oppdagar naturen frå fugleperspektiv.»
+## Tiltak og kanalar
 
-## Kanalar og tiltak
+### 1. Nettside
 
-### Nettside
+- **Tiltak:** Oppdater nettsida jamleg med:
+  - Kursdatoar og arrangement.
+  - Nyhende, blogginnlegg og historier frå medlemmane.
+  - Praktisk informasjon om tryggleik og utstyr.
+- **Mål:** Auke trafikken til nettsida og fremje konvertering, som kursregistrering og medlemskap.
+- **Søkjeoptimalisering (SEO):** Optimaliser for søk som «paragliding kurs Voss» og «hanggliding i Noreg».
 
-Hald nettsida oppdatert med kursdatoar, arrangement, nyheiter, medlemshistorier og praktisk informasjon om tryggleik og utstyr.
-Målet er å gjere det lett å finne klubben og melde seg på aktivitetar.
-Bruk søkjeord som potensielle kursdeltakarar faktisk nyttar.
+### 2. Sosiale medium
 
-### Sosiale medium
+- **Kanalar:** Facebook, Instagram, YouTube og TikTok.
+- **Innhald:**
+  - Bilete og videoar frå flygingar, kurs og arrangement.
+  - Tryggleikstips og tekniske rettleiingar.
+  - Interaktive innlegg, som avstemmingar, spørsmålsrundar og gåveutdelingar.
+- **Publiseringsfrekvens:** 3–5 innlegg i veka.
+- **Mål:** Auke engasjementet og tiltrekke nye medlemmar.
 
-Kjeldedokumentet nemner Facebook, Instagram, YouTube og TikTok.
-Mogleg innhald er bilete og video frå flyging, kurs og arrangement, tryggleikstips, rettleiingar og spørsmål til følgjarane.
-Dokumentet føreslår 3–5 innlegg i veka; styret eller kommunikasjonsansvarleg bør fastsetje ein gjennomførbar frekvens og velje aktuelle kanalar.
+### 3. Nyheitsbrev
 
-### Nyheitsbrev
+- **Tiltak:** Send ut månadlege nyheitsbrev med:
+  - Kommande arrangement og kurs.
+  - Tryggleikstips og oppdateringar.
+  - Inspirasjonshistorier frå medlemmane.
+- **Verktøy:** MailChimp eller tilsvarande.
+- **Mål:** Halde eksisterande medlemmar informerte og engasjerte.
 
-Eit månadleg nyheitsbrev kan samle komande arrangement og kurs, tryggleiksoppdateringar og medlemshistorier.
-Kjeldedokumentet nemner Mailchimp eller tilsvarande.
-Avklar behandlingsgrunnlag, samtykke der det er relevant, mottakarlister og avmelding før utsending.
+### 4. Arrangement
 
-### Arrangement
+- **Tiltak:** Organisere opne dagar, flyshow og workshops.
+- **Kommunikasjon:** Marknadsfør arrangementa gjennom sosiale medium, nettsida og lokale medium.
+- **Mål:** Auke klubbens synlegheit og rekruttere nye medlemmar.
 
-Vurder opne dagar, flyoppvisingar og verkstader.
-Marknadsfør gjennom nettsida, sosiale medium og lokale medium.
-Føremålet kan vere å informere om klubben og invitere nye medlemmer.
+### 5. Presse og PR
 
-### Presse og mediekontakt
+- **Tiltak:** Utarbeide pressemeldingar for:
+  - Store arrangement.
+  - Suksesshistorier frå medlemmane.
+  - Fokuset på tryggleik og miljøvenleg luftsport.
+- **Mål:** Auke mediedekninga og posisjonere klubben som ein profesjonell aktør.
 
-Vurder pressemeldingar ved større arrangement og relevante klubbnyheiter.
-Avtal kven som uttaler seg på vegner av klubben, og kontroller fakta og personvern før publisering.
+### 6. Video og foto
 
-### Foto og video
+- **Tiltak:** Produsere profesjonelle videoar og bilete som viser klubbens aktivitetar, inkludert:
+  - Droneopptak av flygingar over Voss.
+  - Portrett og intervju med medlemmar.
+- **Mål:** Inspirere og engasjere med visuelt innhald.
 
-Vis aktivitetane gjennom foto, video, portrett og intervju.
-Droneopptak må planleggjast i samsvar med gjeldande reglar og omsyn til personvern.
-Innhald med identifiserbare personar skal handterast etter klubben sine personvernrutinar.
+## Ansvarsfordeling
 
-## Ansvar
+1. **Kommunikasjonsansvarleg:**
+   - Overordna ansvar for strategi og innhald.
+   - Kontaktpunkt for media.
+2. **Sosiale medium-team:**
+   - Dagleg oppdatering og interaksjon.
+3. **Webredaktør:**
+   - Oppdatering av nettsida.
+4. **Eventkoordinator:**
+   - Planlegging og gjennomføring av arrangement.
 
-Kjeldedokumentet skisserer desse rollene; styret må stadfeste kven som har dei:
+## Evaluering og oppfølging
 
-- **Kommunikasjonsansvarleg:** følgjer opp strategi, innhald og mediekontakt.
-- **Sosiale medium-team:** publiserer innhald og svarar på førespurnader.
-- **Webredaktør:** held nettsida oppdatert.
-- **Arrangementsansvarleg:** planlegg og gjennomfører arrangement.
+- **Målingar:**
+  - Talet på besøkande på nettsida.
+  - Følgjarar og engasjement på sosiale medium.
+  - Deltaking på kurs og arrangement.
+- **Evaluering:** Gjennomførast kvartalsvis for å justere tiltaka.
 
-## Evaluering
-
-Moglege måltal er besøk på nettsida, følgjarar og engasjement i sosiale medium, og deltaking på kurs og arrangement.
-Kjeldedokumentet føreslår kvartalsvis evaluering.
-Avklar kven som samlar tala, og bruk dei til å justere tiltaka.
+Denne kommunikasjonsplanen sikrar at Voss HPK kommuniserer effektivt med sine målgrupper og opprettheld ein sterk profil som Noregs leiande hanggliding- og paraglidingklubb.
