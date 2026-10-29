@@ -6,26 +6,48 @@
 
 > **Må stadfestast:** Beskrivingane av styret, dagleg leiar, fagleg leiar og tryggleiksgruppa, særleg omtalen av myndigheit, kjem frå ei rolleavklaring og stadfestar ikkje gjeldande fullmakter. Kontroller dei mot vedtektene, organisasjonsplanen, tryggleikssystemet og instruksane for styret, dagleg leiar og fagleg leiar før bruk.
 
+Kjeldedokumentet er ei kommunikasjons- og myndigheitsavklaring for styret, dagleg leiar, fagleg leiar og sikkerheitsgruppa i Voss Hang- og Paragliderklubb.
+
 ## Styret
 
-**Ansvar:** Overordna juridisk, økonomisk og organisatorisk ansvar.
-Styret skal følgje opp at klubben følgjer gjeldande krav og interne retningslinjer, godkjenne budsjett, strategi og større tiltak, og leggje til rette for samarbeid mellom dagleg leiar, fagleg leiar og tryggleiksgruppa.
+**Ansvar:**
 
-**Kommunikasjon:** Motta rapportar frå dagleg leiar om drift og økonomi og frå fagleg leiar om tryggleiks- og utdanningsarbeid.
-Sikre dialog med tryggleiksgruppa gjennom fagleg leiar.
+- Overordna juridisk, økonomisk og organisatorisk ansvar for klubben.
+- Sikre at klubben følgjer gjeldande lover, forskrifter (som BSL D 4-7), og interne retningslinjer.
+- Godkjenne budsjett, strategiar og større tiltak innan sikkerheit og utdanning.
+- Legge til rette for godt samarbeid mellom dagleg leiar, fagleg leiar og sikkerheitsgruppa.
 
-**Myndigheit i kjeldedokumentet:** Ta endelege avgjerder om større økonomiske og strategiske tiltak.
-Kjeldedokumentet seier at styret kan overstyre faglege avgjerder ved juridiske eller økonomiske utfordringar. Kontroller denne formuleringa mot gjeldande regelverk og tryggleikssystem før ho blir lagd til grunn.
+**Kommunikasjon:**
+
+- Styret får rapportar frå dagleg leiar om drift og økonomi, og frå fagleg leiar om sikkerheits- og utdanningsarbeid.
+- Sørgje for open dialog med sikkerheitsgruppa gjennom fagleg leiar om relevante saker.
+
+**Myndigheit i kjeldedokumentet:**
+
+- Fattar endelege avgjerder om større økonomiske og strategiske tiltak.
+- Kan overstyre faglege avgjerder om det finst juridiske eller økonomiske utfordringar.
+
+> **Må stadfestast:** Kontroller omtalen av myndigheit mot gjeldande regelverk og tryggleikssystem før han blir lagd til grunn.
 
 ## Dagleg leiar
 
-**Ansvar:** Dagleg drift, mellom anna administrasjon, økonomi og medlemskontakt.
-Sørgje for at tryggleiks- og utdanningsarbeidet har naudsynte ressursar, og koordinere mellom styret, fagleg leiar og tryggleiksgruppa.
+**Ansvar:**
 
-**Kommunikasjon:** Rapportere til styret om økonomi, medlemsutvikling og praktiske utfordringar.
-Samarbeide med fagleg leiar om tryggleik i den daglege drifta og informere tryggleiksgruppa om ressursar og driftsrammer.
+- Overordna ansvar for den daglege drifta av klubben, inkludert administrasjon, økonomi og medlemskontakt.
+- Sikre at ressursane som krevst for sikkerheits- og utdanningsarbeid er tilgjengelege.
+- Koordinere mellom styret, fagleg leiar og sikkerheitsgruppa for å oppnå effektiv drift.
 
-**Myndigheit i kjeldedokumentet:** Ta avgjerder om drift og ressursbruk innanfor fastsette økonomiske rammer, og ta initiativ til tryggleikstiltak i samråd med fagleg leiar.
+**Kommunikasjon:**
+
+- Rapportere til styret om økonomi, medlemsutvikling og praktiske utfordringar.
+- Ha tett samarbeid med fagleg leiar for å sikre integrasjon av sikkerheit i den daglege drifta.
+- Informere sikkerheitsgruppa om ressursar og operasjonelle rammer.
+
+**Myndigheit i kjeldedokumentet:**
+
+- Ta avgjerder knytt til drift og ressursbruk innan gitte økonomiske rammer.
+- Initiere tiltak som støttar sikkerheitsarbeidet, i samråd med fagleg leiar.
+
 Sjå òg [fullmaktsmatrisa](/dagleg-leiar/fullmaktsmatrise) og [dagleg leiar](/dagleg-leiar/dagleg-leiar).
 
 ### Ansvarsområde i stikkord
@@ -67,25 +89,66 @@ Bruk dei gjeldande [rammene for kursing](/instruktorinformasjon/rammer-kurs) og 
 
 ## Fagleg leiar
 
-**Ansvar:** Operativ leiing av tryggleiks- og utdanningsarbeidet og oppfølging av klubben sitt tryggleikssystem og regelverk.
-Har ansvar for dei luftsportsfaglege funksjonane etter gjeldande NLF/HPS-reglar, og følgjer opp tryggleiksgruppa, utdanning, instruktørar, tandemflygarar, kurs og faglege rutinar.
-Avklarar tryggleiksspørsmål med rette fagorgan.
+**Ansvar:**
 
-**Kommunikasjon:** Samarbeide med dagleg leiar om ressursar og behov for kurs og tryggleikstiltak.
-Informere styret om tryggleiks- og utdanningsarbeid og halde møte med tryggleiksgruppa om risiko og operative tiltak.
+- Operativ styring av sikkerheits- og utdanningsarbeidet.
+- Implementere og vedlikehalde klubbens sikkerheitssystem og regelverk.
+- Følgje opp og godkjenne instruktørar, tandemflygarar og kurs i samsvar med klubbens og NLF sine retningslinjer.
 
-**Myndigheit i kjeldedokumentet:** Stanse aktivitetar eller kurs ved uakseptabel risiko, ta faglege avgjerder innanfor eige ansvarsområde og sikre at instruktørar og medlemmer følgjer tryggleiksstandardar.
-Avklar grensene mot gjeldande tryggleikssystem.
-**Må avklarast:** gjeldande oppnemning, rapporteringslinje og fullmakter.
+**Kommunikasjon:**
+
+- Samarbeid med dagleg leiar om ressursar og behov for kurs og sikkerheitstiltak.
+- Informere styret om status og tiltak innan sikkerheit og utdanning.
+- Halde faste møte med sikkerheitsgruppa for å evaluere risiko og operasjonelle tiltak.
+
+**Myndigheit i kjeldedokumentet:**
+
+- Stanse aktivitetar eller kurs ved uakseptabel risiko.
+- Ta faglege avgjerder utan å rådføre seg med styret, så lenge dei ikkje har store økonomiske konsekvensar.
+- Sikre at instruktørar og medlemmar følgjer sikkerheitsstandardar.
+
+> **Må stadfestast:** Avklar grensene mot gjeldande tryggleikssystem, oppnemning, rapporteringslinje og fullmakter.
 
 ## Tryggleiksgruppa
 
-**Ansvar:** Støtte fagleg leiar med tryggleiksrutinar, følgje med på aktivitetar, føreslå risikoreduserande tiltak og evaluere hendingar.
+**Ansvar:**
 
-**Kommunikasjon:** Rapportere avvik og hendingar til fagleg leiar, samarbeide med dagleg leiar om ressursar som påverkar tryggleiken, og gi styret råd i strategiske saker.
+- Støtte fagleg leiar med utvikling og gjennomføring av sikkerheitsrutinar.
+- Overvake klubbens aktivitetar og foreslå tiltak for å redusere risiko.
+- Evaluere sikkerheitshendingar og rapportere til fagleg leiar og styret.
 
-**Myndigheit i kjeldedokumentet:** I lag med fagleg leiar kunne stanse aktivitetar som blir vurderte som farlege, og gi råd til styret og dagleg leiar.
-Stadfest dette mot tryggleikssystemet.
+**Kommunikasjon:**
+
+- Rapportere direkte til fagleg leiar om avvik eller sikkerheitshendingar.
+- Samarbeide med dagleg leiar om ressursar som påverkar sikkerheita.
+- Gi tilrådingar til styret i strategiske saker.
+
+**Myndigheit i kjeldedokumentet:**
+
+- I lag med fagleg leiar kan gruppa stanse aktivitetar som vert vurderte som farlege.
+- Gi anbefalingar til både styret og dagleg leiar for sikkerheitsrelaterte tiltak.
+
+> **Må stadfestast:** Stadfest myndigheita mot tryggleikssystemet.
+
+### Tryggleiksansvarleg
+
+- Støtte fagleg leiar og tryggleiksgruppa med tryggleiksarbeid, risikovurderingar, oppfølging av observasjonar og formidling av læringspunkt.
+- Følgje NLF/HPS sitt tryggleikssystem.
+- Ikkje overta ansvaret som ligg hjå fagleg leiar.
+
+> **Må avklarast:** Mandat, rapportering og grense mot tryggleiksgruppa.
+
+### Samarbeid og avgjerder
+
+1. **Styret** har overordna ansvar og gir strategiske føringar.
+2. **Dagleg leiar** sikrar effektiv dagleg drift og at ressursar støttar sikkerheitsarbeidet.
+3. **Fagleg leiar** styrer operativt sikkerheitsarbeid og samarbeider med dagleg leiar for å implementere tryggleik i praksis.
+4. **Sikkerheitsgruppa** er ein uavhengig støttespelar som bistår fagleg leiar og gir råd til styret og dagleg leiar.
+
+### Praktisk døme på ansvarsfordeling
+
+- Ved sikkerheitshendingar: Fagleg leiar og sikkerheitsgruppa kan stanse aktivitetar umiddelbart. Dagleg leiar sørgjer for praktisk handtering og ressursfordeling. Styret tek langsiktige avgjerder om tiltak for å hindre liknande situasjonar.
+- Sjå [kommunikasjon ved hendingar](/arbeidsdokumenter/kommunikasjon-ved-hendingar) og [naudprosedyrane](/tryggleik/nodprosedyrer).
 
 ## Dugnadsansvarleg
 
@@ -119,18 +182,3 @@ Samarbeider med fagleg leiar om tryggleik.
 Sjå [rutinen for båt og fortøying](/rutiner/bat-og-fortoying).
 **Må avklarast:** kompetansekrav, serviceansvar og beredskapsrutinar.
 
-## Tryggleiksansvarleg
-
-Støttar fagleg leiar og tryggleiksgruppa med tryggleiksarbeid, risikovurderingar, oppfølging av observasjonar og formidling av læringspunkt.
-Rolla skal følgje NLF/HPS sitt tryggleikssystem og skal ikkje overta ansvaret som ligg hjå fagleg leiar.
-**Må avklarast:** mandat, rapportering og grense mot tryggleiksgruppa.
-
-## Samarbeid og avgjerder
-
-- Styret har overordna ansvar og gir strategiske føringar.
-- Dagleg leiar følgjer opp dagleg drift og ressursar.
-- Fagleg leiar har ansvar for operativt tryggleiks- og utdanningsarbeid.
-- Tryggleiksgruppa støttar fagleg leiar og gir råd til styret og dagleg leiar.
-
-Ved ei tryggleikshending skisserer kjeldedokumentet at fagleg leiar og tryggleiksgruppa kan stanse aktivitet, dagleg leiar følgjer opp praktiske behov og ressursar, og styret vurderer langsiktige tiltak.
-Sjå [kommunikasjon ved hendingar](/arbeidsdokumenter/kommunikasjon-ved-hendingar) og [naudprosedyrane](/tryggleik/nodprosedyrer).
