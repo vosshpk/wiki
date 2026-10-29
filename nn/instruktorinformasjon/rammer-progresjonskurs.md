@@ -1,4 +1,4 @@
-# Retningslinjer for progresjonskurs Voss HPK
+# Retningslinjer for progresjonskurs
 
 *Kjelde: PDF-dokument datert 10.06.2024.*
 

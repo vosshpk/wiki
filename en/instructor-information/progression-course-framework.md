@@ -1,4 +1,4 @@
-# Progression course framework for Voss HPK
+# Progression course framework
 
 *Source: PDF dated 10 June 2024.*
 
