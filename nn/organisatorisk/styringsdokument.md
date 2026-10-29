@@ -37,9 +37,59 @@ Voss Hang- og Paragliderklubb 2024
 
 Organisasjonskartet frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-![Organisasjonskartet frå presentasjonen, attgjeve som UML-diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.svg)
+```plantuml
+title Organisasjonskart
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
 
-[PlantUML-kjelde](https://github.com/vosshpk/wiki/blob/main/assets/organisasjonskart-nn.puml)
+class "Seksjon" as Seksjon <<organisasjonsledd>>
+class "Fagleg leiar" as FaglegLeiar <<rolle>>
+class "Sikkerheitsgruppa" as Sikkerheitsgruppa <<gruppe>>
+class "Utdanningsansvarleg og regelverk" as UtdanningRegelverk <<rolle>>
+class "Tandemansvarleg" as Tandemansvarleg <<rolle>>
+class "Materialforvaltar" as Materialforvaltar <<rolle>>
+class "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg <<rolle>>
+class "Sekretær\nKan vere ein tilsett." as Sekretaer <<rolle>>
+class "Årsmøte" as Aarsmoete <<organisasjonsledd>>
+class "Styret" as Styret <<organisasjonsledd>>
+class "Dagleg leiar" as DaglegLeiar <<rolle>>
+class "Driftsansvarleg og kurskoordinator" as DriftKurs <<rolle>>
+class "Miljø" as Miljoe <<ansvar>>
+class "Politiattest" as Politiattest <<ansvar>>
+class "Materiell" as Materiell <<ansvar>>
+class "Kursinstruktørar" as Kursinstruktoerar <<rolle>>
+class "Tandeminstruktørar" as Tandeminstruktoerar <<rolle>>
+class "Administrasjon og medlemsservice" as Administrasjon <<funksjon>>
+class "Nettside/butikk" as NettsideButikk <<funksjon>>
+class "Fasilitetar" as Fasilitetar <<funksjon>>
+class "Reinhald og vedlikehald" as ReinhaldVedlikehald <<funksjon>>
+class "Økonomi" as Oekonomi <<funksjon>>
+class "Arrangement" as Arrangement <<funksjon>>
+
+Seksjon -- FaglegLeiar
+Seksjon -- Aarsmoete
+FaglegLeiar -- Sikkerheitsgruppa
+Sikkerheitsgruppa -- UtdanningRegelverk
+Sikkerheitsgruppa -- Tandemansvarleg
+Sikkerheitsgruppa -- Materialforvaltar
+Sikkerheitsgruppa -- Sikkerheitsansvarleg
+Sikkerheitsgruppa -- Sekretaer
+Aarsmoete -- Styret
+Styret -- DaglegLeiar
+DaglegLeiar -- DriftKurs
+DriftKurs -- Miljoe
+DriftKurs -- Politiattest
+DriftKurs -- Materiell
+DriftKurs -- Kursinstruktoerar
+DriftKurs -- Tandeminstruktoerar
+DaglegLeiar -- Administrasjon
+Administrasjon -- NettsideButikk
+Administrasjon -- Fasilitetar
+Fasilitetar -- ReinhaldVedlikehald
+Administrasjon -- Oekonomi
+Administrasjon -- Arrangement
+```
 
 Sjå òg [organisasjonsplanen](/organisatorisk/organisasjonsplan).
 
@@ -86,9 +136,45 @@ Sjå òg [organisasjonsplanen](/organisatorisk/organisasjonsplan).
 
 Strategisamandraget frå presentasjonen er attgjeve nedanfor som PlantUML.
 
-![Strategisamandraget frå presentasjonen, attgjeve som UML-diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategisamandrag-nn.svg)
+```plantuml
+title Strategisamandrag
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
 
-[PlantUML-kjelde](https://github.com/vosshpk/wiki/blob/main/assets/strategisamandrag-nn.puml)
+class "Konsept\nOpplevtande erfaringar med luftsport" as Konsept <<strategi>>
+class "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis <<strategi>>
+class "Velfungerande fasilitetar" as Fasilitetar <<bevis>>
+class "Sunn kultur" as Kultur <<bevis>>
+class "Gode kurs og oppfølging" as KursOppfoelging <<bevis>>
+class "Løfte\nAktive og nøgde pilotar" as Loefte <<strategi>>
+class "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon <<strategi>>
+class "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe <<strategi>>
+package "Kommunikasjon" {
+  class "Omsynsfull" as Omsynsfull <<eigenskap>>
+  class "Samlande" as Samlande <<eigenskap>>
+  class "Nysgjerrig" as Nysgjerrig <<eigenskap>>
+  class "Leiken gledesspreiar" as Profil <<klubbmedlem>>
+}
+package "Organisasjon" {
+  class "Inkludering" as Inkludering <<verdi>>
+  class "Utvikling" as Utvikling <<verdi>>
+  class "Tryggleik" as Tryggleik <<verdi>>
+  class "Spennande moglegheiter" as Moglegheiter <<resultat>>
+}
+class "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon <<strategi>>
+class "Visjon\nSkapa trygg og ekte flyglede!" as Visjon <<strategi>>
+
+Bevis -- Fasilitetar
+Bevis -- Kultur
+Bevis -- KursOppfoelging
+Profil -- Omsynsfull
+Profil -- Samlande
+Profil -- Nysgjerrig
+Moglegheiter -- Inkludering
+Moglegheiter -- Utvikling
+Moglegheiter -- Tryggleik
+```
 
 ### Konsept
 

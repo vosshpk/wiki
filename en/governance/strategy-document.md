@@ -37,9 +37,59 @@ Voss Hang- and Paraglider Club 2024
 
 The organisation chart from the presentation is reproduced below as PlantUML.
 
-![Organisation chart from the presentation, as a UML diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.svg)
+```plantuml
+title Organisation chart
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
 
-[PlantUML source](https://github.com/vosshpk/wiki/blob/main/assets/organisation-chart-en.puml)
+class "Section" as Section <<organisation body>>
+class "Technical lead" as TechnicalLead <<role>>
+class "Safety group" as SafetyGroup <<group>>
+class "Training officer and rules" as TrainingRules <<role>>
+class "Tandem officer" as TandemOfficer <<role>>
+class "Equipment officer" as EquipmentOfficer <<role>>
+class "Safety officer\nMay be an employee." as SafetyOfficer <<role>>
+class "Secretary\nMay be an employee." as Secretary <<role>>
+class "AGM" as AGM <<organisation body>>
+class "Board" as Board <<organisation body>>
+class "Managing director" as ManagingDirector <<role>>
+class "Operations manager and course coordinator" as OperationsCourse <<role>>
+class "Environment" as Environment <<responsibility>>
+class "Police certificates" as PoliceCertificates <<responsibility>>
+class "Equipment" as Equipment <<responsibility>>
+class "Course instructors" as CourseInstructors <<role>>
+class "Tandem instructors" as TandemInstructors <<role>>
+class "Administration and member services" as Administration <<function>>
+class "Website/shop" as WebsiteShop <<function>>
+class "Facilities" as Facilities <<function>>
+class "Cleaning and maintenance" as CleaningMaintenance <<function>>
+class "Finance" as Finance <<function>>
+class "Events" as Events <<function>>
+
+Section -- TechnicalLead
+Section -- AGM
+TechnicalLead -- SafetyGroup
+SafetyGroup -- TrainingRules
+SafetyGroup -- TandemOfficer
+SafetyGroup -- EquipmentOfficer
+SafetyGroup -- SafetyOfficer
+SafetyGroup -- Secretary
+AGM -- Board
+Board -- ManagingDirector
+ManagingDirector -- OperationsCourse
+OperationsCourse -- Environment
+OperationsCourse -- PoliceCertificates
+OperationsCourse -- Equipment
+OperationsCourse -- CourseInstructors
+OperationsCourse -- TandemInstructors
+ManagingDirector -- Administration
+Administration -- WebsiteShop
+Administration -- Facilities
+Facilities -- CleaningMaintenance
+Administration -- Finance
+Administration -- Events
+```
 
 See also the [organisation plan](/en/governance/organisation-plan).
 
@@ -86,9 +136,45 @@ See also the [organisation plan](/en/governance/organisation-plan).
 
 The strategy summary from the presentation is reproduced below as PlantUML.
 
-![Strategy summary from the presentation, as a UML diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategy-summary-en.svg)
+```plantuml
+title Strategy summary
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
 
-[PlantUML source](https://github.com/vosshpk/wiki/blob/main/assets/strategy-summary-en.puml)
+class "Concept\nEngaging experiences with air sports" as Concept <<strategy>>
+class "Evidence\nA sense of ownership and belonging" as Evidence <<strategy>>
+class "Well-functioning facilities" as Facilities <<evidence>>
+class "A healthy culture" as Culture <<evidence>>
+class "Good courses and follow-up" as CoursesFollowUp <<evidence>>
+class "Promise\nActive and satisfied pilots" as Promise <<strategy>>
+class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position <<strategy>>
+class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup <<strategy>>
+package "Communication" {
+  class "Considerate" as Considerate <<characteristic>>
+  class "Unifying" as Unifying <<characteristic>>
+  class "Curious" as Curious <<characteristic>>
+  class "A playful bringer of joy" as Profile <<club member>>
+}
+package "Organisation" {
+  class "Inclusion" as Inclusion <<value>>
+  class "Development" as Development <<value>>
+  class "Safety" as Safety <<value>>
+  class "Exciting opportunities" as Opportunities <<outcome>>
+}
+class "Mission\nFacilitate good experiences in the air\nand among people." as Mission <<strategy>>
+class "Vision\nCreate safe and genuine joy in flying!" as Vision <<strategy>>
+
+Evidence -- Facilities
+Evidence -- Culture
+Evidence -- CoursesFollowUp
+Profile -- Considerate
+Profile -- Unifying
+Profile -- Curious
+Opportunities -- Inclusion
+Opportunities -- Development
+Opportunities -- Safety
+```
 
 ### Concept
 

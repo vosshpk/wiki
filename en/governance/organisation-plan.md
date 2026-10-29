@@ -6,9 +6,59 @@ Source: Organisation Plan for Voss Hang- and Paraglider Club, adopted by the AGM
 
 The organisation chart in the source is reproduced below as PlantUML.
 
-![Organisation chart from the organisation plan, as a UML diagram.](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.svg)
+```plantuml
+title Organisation chart
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
 
-[PlantUML source](https://github.com/vosshpk/wiki/blob/main/assets/organisation-chart-en.puml)
+class "Section" as Section <<organisation body>>
+class "Technical lead" as TechnicalLead <<role>>
+class "Safety group" as SafetyGroup <<group>>
+class "Training officer and rules" as TrainingRules <<role>>
+class "Tandem officer" as TandemOfficer <<role>>
+class "Equipment officer" as EquipmentOfficer <<role>>
+class "Safety officer\nMay be an employee." as SafetyOfficer <<role>>
+class "Secretary\nMay be an employee." as Secretary <<role>>
+class "AGM" as AGM <<organisation body>>
+class "Board" as Board <<organisation body>>
+class "Managing director" as ManagingDirector <<role>>
+class "Operations manager and course coordinator" as OperationsCourse <<role>>
+class "Environment" as Environment <<responsibility>>
+class "Police certificates" as PoliceCertificates <<responsibility>>
+class "Equipment" as Equipment <<responsibility>>
+class "Course instructors" as CourseInstructors <<role>>
+class "Tandem instructors" as TandemInstructors <<role>>
+class "Administration and member services" as Administration <<function>>
+class "Website/shop" as WebsiteShop <<function>>
+class "Facilities" as Facilities <<function>>
+class "Cleaning and maintenance" as CleaningMaintenance <<function>>
+class "Finance" as Finance <<function>>
+class "Events" as Events <<function>>
+
+Section -- TechnicalLead
+Section -- AGM
+TechnicalLead -- SafetyGroup
+SafetyGroup -- TrainingRules
+SafetyGroup -- TandemOfficer
+SafetyGroup -- EquipmentOfficer
+SafetyGroup -- SafetyOfficer
+SafetyGroup -- Secretary
+AGM -- Board
+Board -- ManagingDirector
+ManagingDirector -- OperationsCourse
+OperationsCourse -- Environment
+OperationsCourse -- PoliceCertificates
+OperationsCourse -- Equipment
+OperationsCourse -- CourseInstructors
+OperationsCourse -- TandemInstructors
+ManagingDirector -- Administration
+Administration -- WebsiteShop
+Administration -- Facilities
+Facilities -- CleaningMaintenance
+Administration -- Finance
+Administration -- Events
+```
 
 The same organisation chart also appears in the [strategy document](/en/governance/strategy-document).
 
