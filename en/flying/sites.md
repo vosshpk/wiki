@@ -110,7 +110,7 @@ See the [club facilities page](https://vosshpk.no/om-klubben/fasilitetar-og-skul
 ## Transport and Weather
 
 The club car provides rides to several launches.
-See [club car and transport](/klubbutstyr/bil) for current procedures and prices.
+See [club car and transport](/en/club-equipment/car) for current procedures and prices.
 
 Wind readings from Gjelle, Hangur South and East, the main Kulturhuset landing, Rokne and Ondrahaugen in Myrkdalen are available in the [current weather and wind overview](https://vosshpk.no/fly-pa-voss/vaer-og-vind/){target=_blank}.
 Readings do not replace an on-site assessment.
