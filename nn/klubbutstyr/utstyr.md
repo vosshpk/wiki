@@ -5,7 +5,7 @@ Voss HPK har felles opplærings- og klubbmateriell til kurs, arrangement, tandem
 ## Lagring
 
 Klubben sine venger, opplæringsselar, naudskjermar, hjelmar, radioar og kursmateriell blir lagra på [klubbhuset på Bømoen](/klubbutstyr/klubbhus).
-Operativt tandem- og naudutstyr, førstehjelpsskrin og betalingsterminalar blir oppbevarte i [klubbvogna](/klubbutstyr/tilhenger).
+Operativt tandem- og naudutstyr, førstehjelpsskrin og betalingsterminalar blir oppbevarte i [klubbvogna](/klubbutstyr/klubbvogn).
 
 ## Utlån og bruk
 

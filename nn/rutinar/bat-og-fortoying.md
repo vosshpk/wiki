@@ -1,7 +1,7 @@
 # Båt og fortøying
 
 > **Plasshaldar:** Rutineeigar, sesongdatoar, serviceleverandør, tryggleiks- og fortøyingskontrollar og loggføring må avklarast.
-> Sjå [årshjulet](/rutiner/arshjul).
+> Sjå [årshjulet](/rutinar/arshjul).
 
 ## Opptrekksbåt
 
@@ -12,7 +12,7 @@ Legg inn rutine og logg når dette er stadfesta.
 
 Klubben har tre redningsbåtar.
 Sjå [oversikta over redningsbåtane](/klubbutstyr/bat) for plassering, utstyr og sjekkliste.
-Følg [naudprosedyrane](/tryggleik/nodprosedyrer) ved bruk.
+Følg [naudprosedyrane](/tryggleik/naudprosedyrar) ved bruk.
 Fastset kontroll av motor, drivstoff, batteri, tryggleiksutstyr og fortøying for kvar båt, og plan for opptak og service før vinteren.
 
 ## Årleg kontroll og logg

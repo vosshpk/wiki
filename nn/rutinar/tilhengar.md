@@ -1,7 +1,7 @@
 # Tilhengar
 
 > **Plasshaldar:** Avklar kva tilhengar denne rutinen gjeld, kven som eig han, kontrollintervall, service og kvar loggen skal førast.
-> Klubbvogna ved Prestegardslandet har ei eiga side for [vedlikehaldsrutinar](/rutiner/klubbvogn).
+> Klubbvogna ved Prestegardslandet har ei eiga side for [vedlikehaldsrutinar](/rutinar/klubbvogn).
 
 ## Kontroll og service
 

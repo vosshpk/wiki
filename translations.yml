@@ -22,7 +22,7 @@ pages:
     nn: nn/fyking.md
     en: en/flying.md
   flying-sites:
-    nn: nn/fyking/flysteder.md
+    nn: nn/fyking/flystader.md
     en: en/flying/sites.md
   local-flying-safety:
     nn: nn/fyking/flytrygging.md
@@ -64,10 +64,10 @@ pages:
     nn: nn/tryggleik.md
     en: en/safety.md
   emergency-procedures:
-    nn: nn/tryggleik/nodprosedyrer.md
+    nn: nn/tryggleik/naudprosedyrar.md
     en: en/safety/emergency-procedures.md
   accident-response-plan:
-    nn: nn/tryggleik/handlingsplan-ved-ulykke.md
+    nn: nn/tryggleik/handlingsplan-ved-ulukke.md
     en: en/safety/response-plan.md
   the-club:
     nn: nn/klubben.md
@@ -100,25 +100,25 @@ pages:
     nn: nn/klubbutstyr/opptrekk-landvinsj.md
     en: en/club-equipment/ground-winch.md
   club-trailer:
-    nn: nn/klubbutstyr/tilhenger.md
+    nn: nn/klubbutstyr/klubbvogn.md
     en: en/club-equipment/trailer.md
   shared-equipment:
     nn: nn/klubbutstyr/utstyr.md
     en: en/club-equipment/equipment.md
   working-documents:
-    nn: nn/arbeidsdokumenter.md
+    nn: nn/arbeidsdokument.md
     en: en/working-documents.md
   information-management:
-    nn: nn/arbeidsdokumenter/informasjonsforvaltning.md
+    nn: nn/arbeidsdokument/informasjonsforvaltning.md
     en: en/working-documents/information-management.md
   communications-during-incidents:
-    nn: nn/arbeidsdokumenter/kommunikasjon-ved-hendingar.md
+    nn: nn/arbeidsdokument/kommunikasjon-ved-hendingar.md
     en: en/working-documents/communications-during-incidents.md
   external-communications-plan:
-    nn: nn/arbeidsdokumenter/ekstern-kommunikasjonsplan.md
+    nn: nn/arbeidsdokument/ekstern-kommunikasjonsplan.md
     en: en/working-documents/external-communications-plan.md
   internal-communications-plan:
-    nn: nn/arbeidsdokumenter/intern-kommunikasjonsplan.md
+    nn: nn/arbeidsdokument/intern-kommunikasjonsplan.md
     en: en/working-documents/internal-communications-plan.md
   training:
     nn: nn/utdanningsinfo.md
@@ -187,31 +187,31 @@ pages:
     nn: nn/roller/utval.md
     en: en/roles/election-and-audit-committees.md
   procedures:
-    nn: nn/rutiner.md
+    nn: nn/rutinar.md
     en: en/procedures.md
   annual-calendar:
-    nn: nn/rutiner/arshjul.md
+    nn: nn/rutinar/arshjul.md
     en: en/procedures/annual-calendar.md
   boats-and-moorings:
-    nn: nn/rutiner/bat-og-fortoying.md
+    nn: nn/rutinar/bat-og-fortoying.md
     en: en/procedures/boats-and-moorings.md
   car-maintenance:
-    nn: nn/rutiner/bil.md
+    nn: nn/rutinar/bil.md
     en: en/procedures/car.md
   flying-equipment-maintenance:
-    nn: nn/rutiner/flyutstyr.md
+    nn: nn/rutinar/flyutstyr.md
     en: en/procedures/flying-equipment.md
   clubhouse-maintenance:
-    nn: nn/rutiner/klubbhus.md
+    nn: nn/rutinar/klubbhus.md
     en: en/procedures/clubhouse.md
   club-trailer-maintenance:
-    nn: nn/rutiner/klubbvogn.md
+    nn: nn/rutinar/klubbvogn.md
     en: en/procedures/club-trailer.md
   launch-sites-maintenance:
-    nn: nn/rutiner/startplassar.md
+    nn: nn/rutinar/startplassar.md
     en: en/procedures/launch-sites.md
   towed-trailer-maintenance:
-    nn: nn/rutiner/tilhenger.md
+    nn: nn/rutinar/tilhengar.md
     en: en/procedures/towed-trailer.md
   tandem:
     nn: nn/tandem.md

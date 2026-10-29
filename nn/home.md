@@ -14,7 +14,7 @@
 </div>
 
 <div class="voss-home-cards">
-  <a class="voss-home-card" href="/fyking/flysteder">
+  <a class="voss-home-card" href="/fyking/flystader">
     <span>PLANLEGG FLYTUREN</span>
     <strong>Flystader</strong>
     <small>Lokale tilhøve, startar og landingar</small>
@@ -24,7 +24,7 @@
     <strong>Kurs og progresjon</strong>
     <small>Frå grunnkurs til vidare ferdigheiter</small>
   </a>
-  <a class="voss-home-card" href="/tryggleik/nodprosedyrer">
+  <a class="voss-home-card" href="/tryggleik/naudprosedyrar">
     <span>VER FØREBUDD</span>
     <strong>Naudprosedyrar</strong>
     <small>Viktige nummer og tiltak ved ulukke</small>
@@ -41,9 +41,9 @@
 Sjekk vêr, vind, luftrom og lokale reglar før kvar flytur.
 Informasjonen i wikien erstattar ikkje eigne vurderingar eller gjeldande krav frå NLF/HPAC.
 
-- [Flystader og lokale tilhøve](/fyking/flysteder)
+- [Flystader og lokale tilhøve](/fyking/flystader)
 - [Flytryggleik og lokale reglar](/fyking/flytrygging)
-- [Naudprosedyrar](/tryggleik/nodprosedyrer)
+- [Naudprosedyrar](/tryggleik/naudprosedyrar)
 
 ## Forvaltning av wikien
 

@@ -1,7 +1,7 @@
 # Klubbhus
 
 > **Plasshaldar:** Avklar kven som har ansvar for reinhald, forbruksvarer, avvik og oppfølging av tilgang.
-> Sjå [informasjon om klubbhuset](/klubbutstyr/klubbhus) og [årshjulet](/rutiner/arshjul).
+> Sjå [informasjon om klubbhuset](/klubbutstyr/klubbhus) og [årshjulet](/rutinar/arshjul).
 
 ## Orden og rydding
 

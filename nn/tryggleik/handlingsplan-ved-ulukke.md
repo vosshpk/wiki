@@ -2,7 +2,7 @@
 
 Dette er ei Markdown-utgåve av handlingsplanen.
 Dokumentet har ikkje revisjonsdato.
-Sjå òg [naudprosedyrane](/tryggleik/nodprosedyrer), og kontroller gjeldande varslingsplan hos NLF før bruk.
+Sjå òg [naudprosedyrane](/tryggleik/naudprosedyrar), og kontroller gjeldande varslingsplan hos NLF før bruk.
 
 ## Førstehjelp og varsling
 

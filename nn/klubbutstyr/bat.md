@@ -14,7 +14,7 @@ Den oransje jolla og Pioner Multi ligg på Vangsvatnet og er i beredskap.
 
 Den oransje jolla og Pioner Multi står alltid ulåste, slik at dei er tilgjengelege ved naud.
 Start alltid motoren i fri og fest dødmannssnora før bruk.
-Følg [naudprosedyrane](/tryggleik/nodprosedyrer), og meld frå til dagleg leiar om feil, skade eller behov for vedlikehald.
+Følg [naudprosedyrane](/tryggleik/naudprosedyrar), og meld frå til dagleg leiar om feil, skade eller behov for vedlikehald.
 
 ## Fortøying
 

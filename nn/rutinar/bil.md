@@ -1,7 +1,7 @@
 # Bil
 
 > **Plasshaldar:** Bilansvarleg må stadfeste serviceintervall, verkstad, rutine for dekkbyte og kvar arbeidet blir loggført.
-> Sjå [årshjulet](/rutiner/arshjul).
+> Sjå [årshjulet](/rutinar/arshjul).
 
 ## Service
 

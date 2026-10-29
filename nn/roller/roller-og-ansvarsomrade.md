@@ -148,7 +148,7 @@ Bruk dei gjeldande [rammene for kursing](/instruktorinfo/rammer-kurs) og [progre
 ### Praktisk døme på ansvarsfordeling
 
 - Ved sikkerheitshendingar: Fagleg leiar og sikkerheitsgruppa kan stanse aktivitetar umiddelbart. Dagleg leiar sørgjer for praktisk handtering og ressursfordeling. Styret tek langsiktige avgjerder om tiltak for å hindre liknande situasjonar.
-- Sjå [kommunikasjon ved hendingar](/arbeidsdokumenter/kommunikasjon-ved-hendingar) og [naudprosedyrane](/tryggleik/nodprosedyrer).
+- Sjå [kommunikasjon ved hendingar](/arbeidsdokument/kommunikasjon-ved-hendingar) og [naudprosedyrane](/tryggleik/naudprosedyrar).
 
 ## Dugnadsansvarleg
 
@@ -166,19 +166,19 @@ Følg NIF sine gjeldande rutinar.
 
 Held oversikt over klubben sitt materiell, merking, utlån, tilstand og vedlikehaldsbehov.
 Koordinerer kontroll med kvalifiserte personar og melder behov for innkjøp eller utskifting til dagleg leiar/roller.
-Sjå [rutinen for flyutstyr](/rutiner/flyutstyr).
+Sjå [rutinen for flyutstyr](/rutinar/flyutstyr).
 **Må avklarast:** utstyrsomfang, kontrollkompetanse og fullmakt til innkjøp.
 
 ## Bilansvarleg
 
 Følgjer opp klubbilen, mellom anna service, dekk, reinhald, dokumentasjon og melding av feil.
-Sjå [rutinen for bil](/rutiner/bil).
+Sjå [rutinen for bil](/rutinar/bil).
 **Må avklarast:** kven som bestiller service, godkjenner kostnader og held oversikt over nøklar og køyretøykrav.
 
 ## Båtansvarleg
 
 Følgjer opp opptrekksbåten og redningsbåtane: tilstand, fortøying, tryggleiksutstyr, opptak, service og dokumentasjon.
 Samarbeider med fagleg leiar om tryggleik.
-Sjå [rutinen for båt og fortøying](/rutiner/bat-og-fortoying).
+Sjå [rutinen for båt og fortøying](/rutinar/bat-og-fortoying).
 **Må avklarast:** kompetansekrav, serviceansvar og beredskapsrutinar.
 

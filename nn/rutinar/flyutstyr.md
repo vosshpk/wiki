@@ -1,7 +1,7 @@
 # Flyutstyr
 
 > **Plasshaldar:** Materiellforvaltar og fagleg leiar må avklare kva utstyr klubben eig, kven som kan kontrollere det, intervall og dokumentasjonskrav.
-> Sjå òg [klubbutstyr og utlån](/klubbutstyr/utstyr) og [årshjulet](/rutiner/arshjul).
+> Sjå òg [klubbutstyr og utlån](/klubbutstyr/utstyr) og [årshjulet](/rutinar/arshjul).
 
 ## Kontroll og vedlikehald
 

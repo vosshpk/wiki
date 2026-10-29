@@ -3,7 +3,7 @@
 **Arbeidsdokument for dagleg leiar og fagleg leiar.** Sida samlar rutinen for personvern og arkivering. Målet er å gi ei enkel oversikt over kvar informasjon skal lagrast, kven som bør ha tilgang, og kva vi må hugse undervegs. Bruk dette som praktisk støtte i den daglege drifta, og juster det når arbeidsmåtar eller system endrar seg.
 
 Klubben brukar nettsida, wikien, e-post og sosiale medium for å informere medlemer og andre.
-Sjå [intern kommunikasjonsplan](/arbeidsdokumenter/intern-kommunikasjonsplan) og [ekstern kommunikasjonsplan](/arbeidsdokumenter/ekstern-kommunikasjonsplan) for planane og ansvarsdelinga.
+Sjå [intern kommunikasjonsplan](/arbeidsdokument/intern-kommunikasjonsplan) og [ekstern kommunikasjonsplan](/arbeidsdokument/ekstern-kommunikasjonsplan) for planane og ansvarsdelinga.
 Offisielle kontaktpunkt står på [om klubben-sida](/klubben/om-klubben).
 
 ## Enkel hovudregel

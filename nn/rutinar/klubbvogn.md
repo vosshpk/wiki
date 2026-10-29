@@ -1,7 +1,7 @@
 # Klubbvogn
 
 > **Plasshaldar:** Denne sida gjeld klubbvogna ved Prestegardslandet, brukt til tandemutstyr, betalingsterminalar og førstehjelpsutstyr.
-> Sjå [informasjon om klubbvogna](/klubbutstyr/tilhenger) og [årshjulet](/rutiner/arshjul).
+> Sjå [informasjon om klubbvogna](/klubbutstyr/klubbvogn) og [årshjulet](/rutinar/arshjul).
 
 ## Kontroll og vedlikehald
 

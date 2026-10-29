@@ -31,7 +31,7 @@ Medlemer som brukar klubben sine flystader og fellesanlegg, skal følgje:
 
 1. Gjeldande tryggleiksreglar frå NLF/HPAC.
 2. Lokale reglar for flyging og start på Voss (sjå [Flytryggleik](/fyking/flytrygging)).
-3. Varslings- og [naudprosedyrar](/tryggleik/nodprosedyrer).
+3. Varslings- og [naudprosedyrar](/tryggleik/naudprosedyrar).
 
 ---
 

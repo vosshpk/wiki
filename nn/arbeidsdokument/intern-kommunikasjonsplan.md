@@ -152,4 +152,4 @@ Denne prosedyren sikrar at klubben har ei strukturert og trygg handtering av hen
 > Vi prioriterer å ivareta dei berørte og informerer så snart vi veit meir.  
 > Informasjon skal ikkje delast vidare før dette er avklart.»
 
-Sjå òg [kommunikasjon ved hendingar](/arbeidsdokumenter/kommunikasjon-ved-hendingar).
+Sjå òg [kommunikasjon ved hendingar](/arbeidsdokument/kommunikasjon-ved-hendingar).
