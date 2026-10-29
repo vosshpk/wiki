@@ -1,72 +1,81 @@
-title STRATEGY SUMMARY
-caption Voss Hang- and Paraglider Club
-
 top to bottom direction
 
-' --- Overall style ---
-skinparam backgroundColor #FFFFFF
-skinparam defaultFontName Arial
-skinparam defaultFontSize 13
+skinparam handwritten false
 skinparam shadowing false
-skinparam roundcorner 2
-skinparam linetype ortho
-skinparam nodesep 28
-skinparam ranksep 32
-skinparam ArrowColor #4285F4
-skinparam ArrowThickness 1.2
+skinparam roundcorner 8
+skinparam defaultFontName Monospaced
+skinparam defaultFontSize 13
+skinparam nodesep 25
+skinparam ranksep 25
 
 skinparam rectangle {
-    BorderColor #8296B2
-    FontColor #172033
-    BorderThickness 1
-    RoundCorner 2
+    BackgroundColor White
+    BorderColor #222222
+    BorderThickness 1.5
+}
+skinparam package {
+    BackgroundColor White
+    BorderColor #222222
+    BorderThickness 1.5
+    FontStyle bold
+}
+skinparam ArrowColor #222222
+skinparam ArrowThickness 1.5
+
+rectangle "**Concept**\nUplifting experiences with air sports" as Concept
+rectangle "**Evidence**\nA sense of ownership and belonging" as Evidence
+
+rectangle "Well-functioning\nfacilities" as B1
+rectangle "Healthy culture" as B2
+rectangle "Good courses and\nfollow-up" as B3
+
+rectangle "**Promise**\nActive and satisfied pilots" as Promise
+rectangle "**Position**\nA well-resourced club that drives\nthe development of adventure sports." as Position
+rectangle "**Target group**\nMembers who want to have fun in a\nflying community in Voss!" as TargetGroup
+
+package "Communication: Qualities" as Communication {
+    rectangle "Considerate" as Considerate #EBF3FA
+    rectangle "Unifying" as Unifying #EBF3FA
+    rectangle "**A playful bringer of joy**" as Qualities #EBF3FA
+    rectangle "Curious" as Curious #EBF3FA
+
+    Considerate -[hidden]down- Qualities
+    Unifying -[hidden]right- Qualities
+    Qualities -[hidden]right- Curious
 }
 
-' --- Colour palette ---
-!define BLUE #9DB5E0
-!define GREEN #A5D096
-!define GREY #D9D9D9
+package "Organisation: Values" as Organisation {
+    rectangle "Inclusion" as Inclusion #EAF5EA
+    rectangle "Safety" as Safety #EAF5EA
+    rectangle "**Exciting opportunities**" as Values #EAF5EA
+    rectangle "Development" as Development #EAF5EA
 
-' --- Concept ---
-rectangle "Concept\nEngaging experiences with air sports" as Concept GREY
-
-' --- Evidence ---
-rectangle "Evidence\nA sense of ownership and belonging" as Evidence GREEN
-rectangle "Well-functioning facilities" as Facilities BLUE
-rectangle "A healthy culture" as Culture BLUE
-rectangle "Good courses and follow-up" as CoursesFollowUp BLUE
-
-' --- Promise, position and target group ---
-rectangle "Promise\nActive and satisfied pilots" as Promise BLUE
-rectangle "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position BLUE
-rectangle "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup BLUE
-
-' --- Communication ---
-package "Communication" {
-  rectangle "Considerate" as Considerate BLUE
-  rectangle "Unifying" as Unifying BLUE
-  rectangle "Curious" as Curious BLUE
-  rectangle "A playful bringer of joy" as Profile GREEN
+    Inclusion -[hidden]down- Values
+    Safety -[hidden]right- Values
+    Values -[hidden]right- Development
 }
 
-' --- Organisation ---
-package "Organisation" {
-  rectangle "Inclusion" as Inclusion BLUE
-  rectangle "Development" as Development BLUE
-  rectangle "Safety" as Safety BLUE
-  rectangle "Exciting opportunities" as Opportunities GREEN
-}
+rectangle "**Mission**\nFacilitate good experiences\nin the air and among people." as Mission
+rectangle "**Vision**\nCreate safe and genuine joy in flying!" as Vision
 
-' --- Mission and vision ---
-rectangle "Mission\nFacilitate good experiences in the air\nand among people." as Mission BLUE
-rectangle "Vision\nCreate safe and genuine joy in flying!" as Vision BLUE
+Concept --> Evidence
+Evidence --> B1
+Evidence --> B2
+Evidence --> B3
 
-Evidence -- Facilities
-Evidence -- Culture
-Evidence -- CoursesFollowUp
-Profile -- Considerate
-Profile -- Unifying
-Profile -- Curious
-Opportunities -- Inclusion
-Opportunities -- Development
-Opportunities -- Safety
+B1 -[hidden]right- B2
+B2 -[hidden]right- B3
+
+B2 --> Promise
+Promise --> Position
+Position --> TargetGroup
+
+TargetGroup --> Communication
+TargetGroup --> Organisation
+
+Communication --> Mission
+Organisation --> Mission
+
+Mission --> Vision
+
+Communication -[hidden]right- Organisation

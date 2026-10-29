@@ -1,69 +1,81 @@
-title STRATEGISAMANDRAG
-
 top to bottom direction
 
 skinparam handwritten false
-skinparam packageStyle rectangle
 skinparam shadowing false
+skinparam roundcorner 8
 skinparam defaultFontName Monospaced
+skinparam defaultFontSize 13
+skinparam nodesep 25
+skinparam ranksep 25
+
 skinparam rectangle {
     BackgroundColor White
-    BorderColor #444444
+    BorderColor #222222
+    BorderThickness 1.5
 }
-skinparam triangle {
+skinparam package {
     BackgroundColor White
-    BorderColor #444444
+    BorderColor #222222
+    BorderThickness 1.5
+    FontStyle bold
+}
+skinparam ArrowColor #222222
+skinparam ArrowThickness 1.5
+
+rectangle "**Konsept**\nOppløftande erfaringar med luftsport" as Konsept
+rectangle "**Bevis**\nEi kjensle av eigarskap og tilhøyrsle" as Bevis
+
+rectangle "Velfungerande\nfasilitetar" as B1
+rectangle "Sunn kultur" as B2
+rectangle "Gode kurs og\noppfølging" as B3
+
+rectangle "**Løfte**\nAktive og nøgde pilotar" as Lofte
+rectangle "**Posisjon**\nEin ressurssterk klubb som er drivande\nfor utviklinga av ekstremsport." as Posisjon
+rectangle "**Målgruppe**\nMedlemmar som vil ha det kjekt i eit\nfykande fellesskap pao Voss!" as Malgruppe
+
+package "Kommunikasjon: Eigenskapar" as Kommunikasjon {
+    rectangle "Omsynsfull" as Omsyn #EBF3FA
+    rectangle "Samlande" as Samlande #EBF3FA
+    rectangle "**Leiken gledesspreiar**" as Eigenskapar #EBF3FA
+    rectangle "Nysgjerrig" as Nysgjerrig #EBF3FA
+
+    Omsyn -[hidden]down- Eigenskapar
+    Samlande -[hidden]right- Eigenskapar
+    Eigenskapar -[hidden]right- Nysgjerrig
 }
 
-frame "Brand Platform" {
+package "Organisasjon: Verdiar" as Organisasjon {
+    rectangle "Inkludering" as Inkludering #EAF5EA
+    rectangle "Tryggleik" as Tryggleik #EAF5EA
+    rectangle "**Spennande moglegheiter**" as Verdiar #EAF5EA
+    rectangle "Utvikling" as Utvikling #EAF5EA
 
-    rectangle "**Konsept**\nOppløftande erfaringar med luftsport" as Konsept
-    rectangle "**Bevis**\nEi kjensle av eigarskap og tilhøyrsle" as Bevis
-
-    rectangle "Velfungerande fasilitetar" as B1
-    rectangle "Sunn kultur" as B2
-    rectangle "Gode kurs og oppfølging" as B3
-
-    rectangle "**Løfte**\nAktive og nøgde pilotar" as Lofte
-    rectangle "**Posisjon**\nEin ressurssterk klubb som er drivande for utviklinga av ekstremsport." as Posisjon
-    rectangle "**Målgruppe**\nMedlemmar som vil ha det kjekt i eit fykande fellesskap pao Voss!" as Malgruppe
-
-    package "Kommunikasjon: Eigenskapar" {
-        rectangle "Omsynsfull" as Omsyn
-        rectangle "Samlande" as Samlande
-        rectangle "Nysgjerrig" as Nysgjerrig
-        rectangle "**Leiken gledesspreiar**" as BrandEigenskap
-
-        Omsyn -[hidden]down- Samlande
-        Samlande -[hidden]down- BrandEigenskap
-        BrandEigenskap -[hidden]down- Nysgjerrig
-
-        Omsyn -[hidden]right- Nysgjerrig
-    }
-
-    package "Organisasjon: Verdiar" {
-        rectangle "Inkludering" as Inkludering
-        rectangle "Utvikling" as Utvikling
-        rectangle "Tryggleik" as Tryggleik
-        rectangle "**Spennande moglegheiter**" as BrandVerdi
-
-        Inkludering -[hidden]right- BrandVerdi
-        BrandVerdi -[hidden]right- Utvikling
-        BrandVerdi -[hidden]down- Tryggleik
-    }
-
-    rectangle "**Misjon**\nLeggje til rette for gode opplevingar i lufta, og mellom menneske." as Misjon
-    rectangle "**Visjon**\nSkapa trygg og ekte flyglede!" as Visjon
+    Inkludering -[hidden]down- Verdiar
+    Tryggleik -[hidden]right- Verdiar
+    Verdiar -[hidden]right- Utvikling
 }
 
-Konsept -[hidden]down- Bevis
-Bevis -[hidden]down- B2
+rectangle "**Misjon**\nLeggje til rette for gode opplevingar\ni lufta, og mellom menneske." as Misjon
+rectangle "**Visjon**\nSkapa trygg og ekte flyglede!" as Visjon
+
+Konsept --> Bevis
+Bevis --> B1
+Bevis --> B2
+Bevis --> B3
+
 B1 -[hidden]right- B2
 B2 -[hidden]right- B3
-B2 -[hidden]down- Lofte
-Lofte -[hidden]down- Posisjon
-Posisjon -[hidden]down- Malgruppe
-Malgruppe -[hidden]down- Omsyn
-Nysgjerrig -[hidden]down- Inkludering
-Tryggleik -[hidden]down- Misjon
-Misjon -[hidden]down- Visjon
+
+B2 --> Lofte
+Lofte --> Posisjon
+Posisjon --> Malgruppe
+
+Malgruppe --> Kommunikasjon
+Malgruppe --> Organisasjon
+
+Kommunikasjon --> Misjon
+Organisasjon --> Misjon
+
+Misjon --> Visjon
+
+Kommunikasjon -[hidden]right- Organisasjon
