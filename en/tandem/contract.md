@@ -1,4 +1,4 @@
-# Tandem Contract
+# contract
 
 > **Do not use as a current agreement.**
 > This page summarises “Voss HPK Tandem Agreement”.

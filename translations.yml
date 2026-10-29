@@ -229,8 +229,8 @@ pages:
     nn: nn/tandem/eigenfrasegn.md
     en: en/tandem/passenger-declaration.md
   tandem-contract:
-    nn: nn/tandem/tandemkontrakt.md
-    en: en/tandem/tandem-contract.md
+    nn: nn/tandem/kontrakt.md
+    en: en/tandem/contract.md
   tandem-compensation:
     nn: nn/tandem/kompensasjon.md
     en: en/tandem/compensation.md

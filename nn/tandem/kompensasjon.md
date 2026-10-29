@@ -1,4 +1,4 @@
-# Tandemkompensasjon
+# kompensasjon
 
 ## Pris og fordeling
 

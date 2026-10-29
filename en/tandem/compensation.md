@@ -1,4 +1,4 @@
-# Tandem compensation
+# compensation
 
 ## Prices and split
 
