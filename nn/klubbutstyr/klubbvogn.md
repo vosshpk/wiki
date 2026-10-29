@@ -1,4 +1,4 @@
-# Klubbvogna
+# Vogn
 
 Klubbvogna står ved hovudlandinga på Vangen/Prestegardslandet ved Vangsvatnet.
 Ho blir brukt til oppbevaring av tandemutstyr, betalingsterminalar og førstehjelpsutstyr, og som base for tandembooking under Ekstremsportveko.

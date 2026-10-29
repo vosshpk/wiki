@@ -1,4 +1,4 @@
-# Klubbilen
+# Bil
 
 Klubbilen køyrer pilotar frå landingsområde til startstader på Voss og i omlandet.
 Avtal skyss i Facebook-gruppa «Paragliding i Voss og omegn» eller Messenger-fellesskapen «PG/SPG Flyging i Voss og omegn».
