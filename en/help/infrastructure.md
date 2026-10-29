@@ -12,6 +12,7 @@ Wiki.js uses Git Storage to synchronize pages between the wiki and the main bran
 Synchronization runs on a schedule that is currently set to every five minutes.
 GitHub Actions runs the navigation script when pages change, and the script waits for the content to sync before updating the sidebar.
 The Wiki.js interface controls group labels, order, and placement for links that already exist in the sidebar.
+A horizontal divider appears above Archive by default.
 The script uses the group list in `wiki-infrastructure-v3/scripts/generate-inline-navigation.mjs` as the default placement for new links.
 New links in top-level folders and root-level pages that are not listed in a navigation group go under the expandable **Ungrouped** menu item.
 If such a folder has no landing page, its pages appear as direct links with the folder path in each link label.

@@ -12,6 +12,7 @@ Wiki.js brukar Git Storage til å synkronisere sidene mellom wikien og hovudgrei
 Synkroniseringa går etter ein fast plan, som for tida er kvart femte minutt.
 GitHub Actions køyrer navigasjonsskriptet når sider blir endra, og skriptet ventar på at sidene er synkroniserte før det oppdaterer sidemenyen.
 Wiki.js-grensesnittet styrer gruppenamna, rekkjefølgja og plasseringa til lenkjer som alt finst i sidemenyen.
+Ei vassrett linje står over Arkiv som standard.
 Skriptet brukar gruppelista i `wiki-infrastructure-v3/scripts/generate-inline-navigation.mjs` som standardplassering for nye lenkjer.
 Nye lenkjer i toppmapper og sider på rotplanet som ikkje er førte opp i ei navigasjonsgruppe, kjem under det utvidbare menyvalet **Ugruppert**.
 Viss ei slik mappe manglar ei eiga landingsside, blir sidene viste som direkte lenkjer med mappestigen i lenkjeteksten.
