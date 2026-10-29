@@ -6,59 +6,13 @@ Source: Organisation Plan for Voss Hang- and Paraglider Club, adopted by the AGM
 
 The organisation chart in the source is reproduced below as PlantUML.
 
+::block-plantuml
 ```plantuml
-title Organisation chart
-top to bottom direction
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-
-class "Section" as Section
-class "Technical lead" as TechnicalLead
-class "Safety group" as SafetyGroup
-class "Training officer and rules" as TrainingRules
-class "Tandem officer" as TandemOfficer
-class "Equipment officer" as EquipmentOfficer
-class "Safety officer\nMay be an employee." as SafetyOfficer
-class "Secretary\nMay be an employee." as Secretary
-class "AGM" as AGM
-class "Board" as Board
-class "Managing director" as ManagingDirector
-class "Operations manager and course coordinator" as OperationsCourse
-class "Environment" as Environment
-class "Police certificates" as PoliceCertificates
-class "Equipment" as Equipment
-class "Course instructors" as CourseInstructors
-class "Tandem instructors" as TandemInstructors
-class "Administration and member services" as Administration
-class "Website/shop" as WebsiteShop
-class "Facilities" as Facilities
-class "Cleaning and maintenance" as CleaningMaintenance
-class "Finance" as Finance
-class "Events" as Events
-
-Section -- TechnicalLead
-Section -- AGM
-TechnicalLead -- SafetyGroup
-SafetyGroup -- TrainingRules
-SafetyGroup -- TandemOfficer
-SafetyGroup -- EquipmentOfficer
-SafetyGroup -- SafetyOfficer
-SafetyGroup -- Secretary
-AGM -- Board
-Board -- ManagingDirector
-ManagingDirector -- OperationsCourse
-OperationsCourse -- Environment
-OperationsCourse -- PoliceCertificates
-OperationsCourse -- Equipment
-OperationsCourse -- CourseInstructors
-OperationsCourse -- TandemInstructors
-ManagingDirector -- Administration
-Administration -- WebsiteShop
-Administration -- Facilities
-Facilities -- CleaningMaintenance
-Administration -- Finance
-Administration -- Events
+@startuml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.puml
+@enduml
 ```
+::
 
 The same organisation chart also appears in the [strategy document](/en/governance/strategy-document).
 

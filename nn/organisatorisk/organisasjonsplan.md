@@ -6,59 +6,13 @@ Kjelde: Organisasjonsplan for Voss Hang- og Paragliderklubb, vedteke av årsmøt
 
 Organisasjonskartet i kjelda er attgjeve nedanfor som PlantUML.
 
+::block-plantuml
 ```plantuml
-title Organisasjonskart
-top to bottom direction
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-
-class "Seksjon" as Seksjon
-class "Fagleg leiar" as FaglegLeiar
-class "Sikkerheitsgruppa" as Sikkerheitsgruppa
-class "Utdanningsansvarleg og regelverk" as UtdanningRegelverk
-class "Tandemansvarleg" as Tandemansvarleg
-class "Materialforvaltar" as Materialforvaltar
-class "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg
-class "Sekretær\nKan vere ein tilsett." as Sekretaer
-class "Årsmøte" as Aarsmoete
-class "Styret" as Styret
-class "Dagleg leiar" as DaglegLeiar
-class "Driftsansvarleg og kurskoordinator" as DriftKurs
-class "Miljø" as Miljoe
-class "Politiattest" as Politiattest
-class "Materiell" as Materiell
-class "Kursinstruktørar" as Kursinstruktoerar
-class "Tandeminstruktørar" as Tandeminstruktoerar
-class "Administrasjon og medlemsservice" as Administrasjon
-class "Nettside/butikk" as NettsideButikk
-class "Fasilitetar" as Fasilitetar
-class "Reinhald og vedlikehald" as ReinhaldVedlikehald
-class "Økonomi" as Oekonomi
-class "Arrangement" as Arrangement
-
-Seksjon -- FaglegLeiar
-Seksjon -- Aarsmoete
-FaglegLeiar -- Sikkerheitsgruppa
-Sikkerheitsgruppa -- UtdanningRegelverk
-Sikkerheitsgruppa -- Tandemansvarleg
-Sikkerheitsgruppa -- Materialforvaltar
-Sikkerheitsgruppa -- Sikkerheitsansvarleg
-Sikkerheitsgruppa -- Sekretaer
-Aarsmoete -- Styret
-Styret -- DaglegLeiar
-DaglegLeiar -- DriftKurs
-DriftKurs -- Miljoe
-DriftKurs -- Politiattest
-DriftKurs -- Materiell
-DriftKurs -- Kursinstruktoerar
-DriftKurs -- Tandeminstruktoerar
-DaglegLeiar -- Administrasjon
-Administrasjon -- NettsideButikk
-Administrasjon -- Fasilitetar
-Fasilitetar -- ReinhaldVedlikehald
-Administrasjon -- Oekonomi
-Administrasjon -- Arrangement
+@startuml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.puml
+@enduml
 ```
+::
 
 Det same organisasjonskartet står òg i [styringsdokumentet](/organisatorisk/styringsdokument).
 

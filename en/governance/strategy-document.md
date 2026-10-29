@@ -37,59 +37,13 @@ Voss Hang- and Paraglider Club 2024
 
 The organisation chart from the presentation is reproduced below as PlantUML.
 
+::block-plantuml
 ```plantuml
-title Organisation chart
-top to bottom direction
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-
-class "Section" as Section
-class "Technical lead" as TechnicalLead
-class "Safety group" as SafetyGroup
-class "Training officer and rules" as TrainingRules
-class "Tandem officer" as TandemOfficer
-class "Equipment officer" as EquipmentOfficer
-class "Safety officer\nMay be an employee." as SafetyOfficer
-class "Secretary\nMay be an employee." as Secretary
-class "AGM" as AGM
-class "Board" as Board
-class "Managing director" as ManagingDirector
-class "Operations manager and course coordinator" as OperationsCourse
-class "Environment" as Environment
-class "Police certificates" as PoliceCertificates
-class "Equipment" as Equipment
-class "Course instructors" as CourseInstructors
-class "Tandem instructors" as TandemInstructors
-class "Administration and member services" as Administration
-class "Website/shop" as WebsiteShop
-class "Facilities" as Facilities
-class "Cleaning and maintenance" as CleaningMaintenance
-class "Finance" as Finance
-class "Events" as Events
-
-Section -- TechnicalLead
-Section -- AGM
-TechnicalLead -- SafetyGroup
-SafetyGroup -- TrainingRules
-SafetyGroup -- TandemOfficer
-SafetyGroup -- EquipmentOfficer
-SafetyGroup -- SafetyOfficer
-SafetyGroup -- Secretary
-AGM -- Board
-Board -- ManagingDirector
-ManagingDirector -- OperationsCourse
-OperationsCourse -- Environment
-OperationsCourse -- PoliceCertificates
-OperationsCourse -- Equipment
-OperationsCourse -- CourseInstructors
-OperationsCourse -- TandemInstructors
-ManagingDirector -- Administration
-Administration -- WebsiteShop
-Administration -- Facilities
-Facilities -- CleaningMaintenance
-Administration -- Finance
-Administration -- Events
+@startuml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.puml
+@enduml
 ```
+::
 
 See also the [organisation plan](/en/governance/organisation-plan).
 
@@ -136,45 +90,13 @@ See also the [organisation plan](/en/governance/organisation-plan).
 
 The strategy summary from the presentation is reproduced below as PlantUML.
 
+::block-plantuml
 ```plantuml
-title Strategy summary
-top to bottom direction
-skinparam classAttributeIconSize 0
-skinparam linetype ortho
-
-class "Concept\nEngaging experiences with air sports" as Concept
-class "Evidence\nA sense of ownership and belonging" as Evidence
-class "Well-functioning facilities" as Facilities
-class "A healthy culture" as Culture
-class "Good courses and follow-up" as CoursesFollowUp
-class "Promise\nActive and satisfied pilots" as Promise
-class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position
-class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup
-package "Communication" {
-  class "Considerate" as Considerate
-  class "Unifying" as Unifying
-  class "Curious" as Curious
-  class "A playful bringer of joy" as Profile
-}
-package "Organisation" {
-  class "Inclusion" as Inclusion
-  class "Development" as Development
-  class "Safety" as Safety
-  class "Exciting opportunities" as Opportunities
-}
-class "Mission\nFacilitate good experiences in the air\nand among people." as Mission
-class "Vision\nCreate safe and genuine joy in flying!" as Vision
-
-Evidence -- Facilities
-Evidence -- Culture
-Evidence -- CoursesFollowUp
-Profile -- Considerate
-Profile -- Unifying
-Profile -- Curious
-Opportunities -- Inclusion
-Opportunities -- Development
-Opportunities -- Safety
+@startuml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategy-summary-en.puml
+@enduml
 ```
+::
 
 ### Concept
 

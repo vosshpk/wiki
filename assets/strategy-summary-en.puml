@@ -1,0 +1,37 @@
+title Strategy summary
+top to bottom direction
+skinparam classAttributeIconSize 0
+skinparam linetype ortho
+
+class "Concept\nEngaging experiences with air sports" as Concept
+class "Evidence\nA sense of ownership and belonging" as Evidence
+class "Well-functioning facilities" as Facilities
+class "A healthy culture" as Culture
+class "Good courses and follow-up" as CoursesFollowUp
+class "Promise\nActive and satisfied pilots" as Promise
+class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position
+class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup
+package "Communication" {
+  class "Considerate" as Considerate
+  class "Unifying" as Unifying
+  class "Curious" as Curious
+  class "A playful bringer of joy" as Profile
+}
+package "Organisation" {
+  class "Inclusion" as Inclusion
+  class "Development" as Development
+  class "Safety" as Safety
+  class "Exciting opportunities" as Opportunities
+}
+class "Mission\nFacilitate good experiences in the air\nand among people." as Mission
+class "Vision\nCreate safe and genuine joy in flying!" as Vision
+
+Evidence -- Facilities
+Evidence -- Culture
+Evidence -- CoursesFollowUp
+Profile -- Considerate
+Profile -- Unifying
+Profile -- Curious
+Opportunities -- Inclusion
+Opportunities -- Development
+Opportunities -- Safety
