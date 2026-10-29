@@ -27,6 +27,16 @@ Bidragsytarar kan opprette og redigere sider, men kan ikkje flytte eller slette 
 Be ein redaktør om hjelp dersom ei side må flyttast eller slettast.
 Hald nynorsk og engelsk innhald oppdatert når ei side finst på begge språka.
 
+## Opprett ei side i ei mappe
+
+Skriv heile sidestigen når du opprettar ei side, til dømes `ny-mappe/ny-side`.
+Vel du nynorsk som språk, skal du ikkje ta med `nn/` i sidestigen.
+Wiki.js lagar mappestigen automatisk når sida blir lagra.
+Ei mappe må innehalde minst éi side for å bli synkronisert til GitHub.
+Etter synkronisering blir nye toppmapper som ikkje høyrer til ei fast navigasjonsgruppe, viste under **Ugruppert** i sidemenyen.
+Viss ei slik mappe ikkje har ei eiga landingsside, blir sidelenkjene viste med mappenamnet først.
+Grupperinga gjeld berre sidemenyen; sida blir liggjande på stigen du valde.
+
 ## Kven kan gjere kva?
 
 | Gruppe | Kva du kan gjere |

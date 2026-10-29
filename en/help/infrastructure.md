@@ -11,6 +11,9 @@ Markdown is a simple text format for headings, lists, links and tables.
 Wiki.js uses Git Storage to synchronize pages between the wiki and the main branch in GitHub.
 Synchronization runs on a schedule that is currently set to every five minutes.
 GitHub Actions runs the navigation script when pages change, and the script waits for the content to sync before updating the sidebar.
+The script places new top-level folders that are not listed in a configured navigation group under **Ungrouped**.
+If such a folder has no landing page, its pages appear as direct links with the folder path in each link label.
+Pages stay at their original paths; **Ungrouped** is a sidebar group, not a physical folder.
 
 ## What the services do
 

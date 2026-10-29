@@ -27,6 +27,16 @@ Contributors can create and edit pages, but cannot move or delete them.
 Ask an editor for help if a page needs to be moved or deleted.
 Keep the Nynorsk and English content in step when a page exists in both languages.
 
+## Create a page in a folder
+
+Enter the full page path when creating a page, for example `new-folder/new-page`.
+When Nynorsk is selected as the language, leave `nn/` out of the path.
+Wiki.js creates the folder path automatically when the page is saved.
+The folder needs at least one page to be synchronized to GitHub.
+After synchronization, new top-level folders that are not assigned to a navigation group appear under **Ungrouped** in the sidebar.
+If such a folder has no landing page, its page links are shown with the folder name first.
+This grouping is only for the sidebar; the page stays at the path you chose.
+
 ## Who can do what?
 
 | Group | What you can do |

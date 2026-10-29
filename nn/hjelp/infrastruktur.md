@@ -11,6 +11,9 @@ Markdown er eit enkelt tekstformat for overskrifter, lister, lenkjer og tabellar
 Wiki.js brukar Git Storage til å synkronisere sidene mellom wikien og hovudgreina main i GitHub.
 Synkroniseringa går etter ein fast plan, som for tida er kvart femte minutt.
 GitHub Actions køyrer navigasjonsskriptet når sider blir endra, og skriptet ventar på at sidene er synkroniserte før det oppdaterer sidemenyen.
+Skriptet legg nye toppmapper som ikkje er førte opp i ei fast navigasjonsgruppe, under **Ugruppert**.
+Viss ei slik mappe manglar ei eiga landingsside, blir sidene viste som direkte lenkjer med mappestigen i lenkjeteksten.
+Sidene blir verande på den opphavlege stigen; **Ugruppert** er ei gruppe i sidemenyen, ikkje ei fysisk mappe.
 
 ## Kva tenestene gjer
 
