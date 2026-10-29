@@ -40,34 +40,34 @@ pages:
     nn: nn/fyking/besokande-pilotar.md
     en: en/flying/visiting-pilots.md
   risk-assessments:
-    nn: nn/fyking/ROS.md
+    nn: nn/fyking/ros.md
     en: en/flying/risk-assessments.md
   risk-assessment-gjelle:
-    nn: nn/fyking/ROS/ros-gjelle.md
+    nn: nn/fyking/ros/ros-gjelle.md
     en: en/flying/risk-assessments/risk-assessment-gjelle.md
   risk-assessment-hangurstoppen-east:
-    nn: nn/fyking/ROS/ros-hangurstoppen-aust.md
+    nn: nn/fyking/ros/ros-hangurstoppen-aust.md
     en: en/flying/risk-assessments/risk-assessment-hangurstoppen-east.md
   risk-assessment-hangurstoppen-south:
-    nn: nn/fyking/ROS/ros-hangurstoppen-sor.md
+    nn: nn/fyking/ros/ros-hangurstoppen-sor.md
     en: en/flying/risk-assessments/risk-assessment-hangurstoppen-south.md
   risk-assessment-main-landing-vangen:
-    nn: nn/fyking/ROS/ros-hovudlanding-vangen.md
+    nn: nn/fyking/ros/ros-hovudlanding-vangen.md
     en: en/flying/risk-assessments/risk-assessment-main-landing-vangen.md
   risk-assessment-liaset:
-    nn: nn/fyking/ROS/ros-liaset.md
+    nn: nn/fyking/ros/ros-liaset.md
     en: en/flying/risk-assessments/risk-assessment-liaset.md
   risk-assessment-myrkdalen-spg:
-    nn: nn/fyking/ROS/ros-myrkdalen-spg.md
+    nn: nn/fyking/ros/ros-myrkdalen-spg.md
     en: en/flying/risk-assessments/risk-assessment-myrkdalen-spg-main-launch.md
   risk-assessment-prestegardslandet:
-    nn: nn/fyking/ROS/ros-prestegardslandet.md
+    nn: nn/fyking/ros/ros-prestegardslandet.md
     en: en/flying/risk-assessments/risk-assessment-prestegardslandet.md
   risk-assessment-rokne:
-    nn: nn/fyking/ROS/ros-rokne.md
+    nn: nn/fyking/ros/ros-rokne.md
     en: en/flying/risk-assessments/risk-assessment-rokne.md
   risk-assessment-tverrberg:
-    nn: nn/fyking/ROS/ros-tverrberg.md
+    nn: nn/fyking/ros/ros-tverrberg.md
     en: en/flying/risk-assessments/risk-assessment-tverrberg.md
   safety:
     nn: nn/tryggleik.md

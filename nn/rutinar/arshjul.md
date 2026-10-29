@@ -27,7 +27,7 @@ Gå òg gjennom ei prosedyre når regelverk, utstyr, organisering eller lokale f
 
 | Dokument/prosedyre | Årleg oppfølging |
 |---|---|
-| [ROS-analysar](/fyking/ROS) | Gå gjennom analysane, risikovurderingane og tiltaka for kvar flystad. Oppdater ved endringar og etter alvorlege hendingar. |
+| [ROS-analysar](/fyking/ros) | Gå gjennom analysane, risikovurderingane og tiltaka for kvar flystad. Oppdater ved endringar og etter alvorlege hendingar. |
 | Hendingsoversikt | Kontroller at oppfølgingar har ansvarleg og status, og at avslutta saker blir handterte etter reglane for lagring. Oversikta skal liggje i eit tilgangsavgrensa system, ikkje i den offentlege wikien. Sjå [Informasjonsforvaltning](/arbeidsdokument/informasjonsforvaltning). |
 | Søknad om midlar til drift og utvikling | Gå gjennom behov, prioriteringar, aktuelle ordningar og fristar. Avklar ansvarleg, budsjettgrunnlag, vedlegg og eventuell rapportering. |
 
