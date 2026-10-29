@@ -43,29 +43,29 @@ top to bottom direction
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
 
-class "Section" as Section <<organisation body>>
-class "Technical lead" as TechnicalLead <<role>>
-class "Safety group" as SafetyGroup <<group>>
-class "Training officer and rules" as TrainingRules <<role>>
-class "Tandem officer" as TandemOfficer <<role>>
-class "Equipment officer" as EquipmentOfficer <<role>>
-class "Safety officer\nMay be an employee." as SafetyOfficer <<role>>
-class "Secretary\nMay be an employee." as Secretary <<role>>
-class "AGM" as AGM <<organisation body>>
-class "Board" as Board <<organisation body>>
-class "Managing director" as ManagingDirector <<role>>
-class "Operations manager and course coordinator" as OperationsCourse <<role>>
-class "Environment" as Environment <<responsibility>>
-class "Police certificates" as PoliceCertificates <<responsibility>>
-class "Equipment" as Equipment <<responsibility>>
-class "Course instructors" as CourseInstructors <<role>>
-class "Tandem instructors" as TandemInstructors <<role>>
-class "Administration and member services" as Administration <<function>>
-class "Website/shop" as WebsiteShop <<function>>
-class "Facilities" as Facilities <<function>>
-class "Cleaning and maintenance" as CleaningMaintenance <<function>>
-class "Finance" as Finance <<function>>
-class "Events" as Events <<function>>
+class "Section" as Section
+class "Technical lead" as TechnicalLead
+class "Safety group" as SafetyGroup
+class "Training officer and rules" as TrainingRules
+class "Tandem officer" as TandemOfficer
+class "Equipment officer" as EquipmentOfficer
+class "Safety officer\nMay be an employee." as SafetyOfficer
+class "Secretary\nMay be an employee." as Secretary
+class "AGM" as AGM
+class "Board" as Board
+class "Managing director" as ManagingDirector
+class "Operations manager and course coordinator" as OperationsCourse
+class "Environment" as Environment
+class "Police certificates" as PoliceCertificates
+class "Equipment" as Equipment
+class "Course instructors" as CourseInstructors
+class "Tandem instructors" as TandemInstructors
+class "Administration and member services" as Administration
+class "Website/shop" as WebsiteShop
+class "Facilities" as Facilities
+class "Cleaning and maintenance" as CleaningMaintenance
+class "Finance" as Finance
+class "Events" as Events
 
 Section -- TechnicalLead
 Section -- AGM
@@ -142,28 +142,28 @@ top to bottom direction
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
 
-class "Concept\nEngaging experiences with air sports" as Concept <<strategy>>
-class "Evidence\nA sense of ownership and belonging" as Evidence <<strategy>>
-class "Well-functioning facilities" as Facilities <<evidence>>
-class "A healthy culture" as Culture <<evidence>>
-class "Good courses and follow-up" as CoursesFollowUp <<evidence>>
-class "Promise\nActive and satisfied pilots" as Promise <<strategy>>
-class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position <<strategy>>
-class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup <<strategy>>
+class "Concept\nEngaging experiences with air sports" as Concept
+class "Evidence\nA sense of ownership and belonging" as Evidence
+class "Well-functioning facilities" as Facilities
+class "A healthy culture" as Culture
+class "Good courses and follow-up" as CoursesFollowUp
+class "Promise\nActive and satisfied pilots" as Promise
+class "Position\nA well-resourced club that drives the\ndevelopment of adventure sports." as Position
+class "Target group\nMembers who want to enjoy themselves in a flying\ncommunity in Voss!" as TargetGroup
 package "Communication" {
-  class "Considerate" as Considerate <<characteristic>>
-  class "Unifying" as Unifying <<characteristic>>
-  class "Curious" as Curious <<characteristic>>
-  class "A playful bringer of joy" as Profile <<club member>>
+  class "Considerate" as Considerate
+  class "Unifying" as Unifying
+  class "Curious" as Curious
+  class "A playful bringer of joy" as Profile
 }
 package "Organisation" {
-  class "Inclusion" as Inclusion <<value>>
-  class "Development" as Development <<value>>
-  class "Safety" as Safety <<value>>
-  class "Exciting opportunities" as Opportunities <<outcome>>
+  class "Inclusion" as Inclusion
+  class "Development" as Development
+  class "Safety" as Safety
+  class "Exciting opportunities" as Opportunities
 }
-class "Mission\nFacilitate good experiences in the air\nand among people." as Mission <<strategy>>
-class "Vision\nCreate safe and genuine joy in flying!" as Vision <<strategy>>
+class "Mission\nFacilitate good experiences in the air\nand among people." as Mission
+class "Vision\nCreate safe and genuine joy in flying!" as Vision
 
 Evidence -- Facilities
 Evidence -- Culture

@@ -12,29 +12,29 @@ top to bottom direction
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
 
-class "Section" as Section <<organisation body>>
-class "Technical lead" as TechnicalLead <<role>>
-class "Safety group" as SafetyGroup <<group>>
-class "Training officer and rules" as TrainingRules <<role>>
-class "Tandem officer" as TandemOfficer <<role>>
-class "Equipment officer" as EquipmentOfficer <<role>>
-class "Safety officer\nMay be an employee." as SafetyOfficer <<role>>
-class "Secretary\nMay be an employee." as Secretary <<role>>
-class "AGM" as AGM <<organisation body>>
-class "Board" as Board <<organisation body>>
-class "Managing director" as ManagingDirector <<role>>
-class "Operations manager and course coordinator" as OperationsCourse <<role>>
-class "Environment" as Environment <<responsibility>>
-class "Police certificates" as PoliceCertificates <<responsibility>>
-class "Equipment" as Equipment <<responsibility>>
-class "Course instructors" as CourseInstructors <<role>>
-class "Tandem instructors" as TandemInstructors <<role>>
-class "Administration and member services" as Administration <<function>>
-class "Website/shop" as WebsiteShop <<function>>
-class "Facilities" as Facilities <<function>>
-class "Cleaning and maintenance" as CleaningMaintenance <<function>>
-class "Finance" as Finance <<function>>
-class "Events" as Events <<function>>
+class "Section" as Section
+class "Technical lead" as TechnicalLead
+class "Safety group" as SafetyGroup
+class "Training officer and rules" as TrainingRules
+class "Tandem officer" as TandemOfficer
+class "Equipment officer" as EquipmentOfficer
+class "Safety officer\nMay be an employee." as SafetyOfficer
+class "Secretary\nMay be an employee." as Secretary
+class "AGM" as AGM
+class "Board" as Board
+class "Managing director" as ManagingDirector
+class "Operations manager and course coordinator" as OperationsCourse
+class "Environment" as Environment
+class "Police certificates" as PoliceCertificates
+class "Equipment" as Equipment
+class "Course instructors" as CourseInstructors
+class "Tandem instructors" as TandemInstructors
+class "Administration and member services" as Administration
+class "Website/shop" as WebsiteShop
+class "Facilities" as Facilities
+class "Cleaning and maintenance" as CleaningMaintenance
+class "Finance" as Finance
+class "Events" as Events
 
 Section -- TechnicalLead
 Section -- AGM

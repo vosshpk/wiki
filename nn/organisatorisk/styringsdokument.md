@@ -43,29 +43,29 @@ top to bottom direction
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
 
-class "Seksjon" as Seksjon <<organisasjonsledd>>
-class "Fagleg leiar" as FaglegLeiar <<rolle>>
-class "Sikkerheitsgruppa" as Sikkerheitsgruppa <<gruppe>>
-class "Utdanningsansvarleg og regelverk" as UtdanningRegelverk <<rolle>>
-class "Tandemansvarleg" as Tandemansvarleg <<rolle>>
-class "Materialforvaltar" as Materialforvaltar <<rolle>>
-class "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg <<rolle>>
-class "Sekretær\nKan vere ein tilsett." as Sekretaer <<rolle>>
-class "Årsmøte" as Aarsmoete <<organisasjonsledd>>
-class "Styret" as Styret <<organisasjonsledd>>
-class "Dagleg leiar" as DaglegLeiar <<rolle>>
-class "Driftsansvarleg og kurskoordinator" as DriftKurs <<rolle>>
-class "Miljø" as Miljoe <<ansvar>>
-class "Politiattest" as Politiattest <<ansvar>>
-class "Materiell" as Materiell <<ansvar>>
-class "Kursinstruktørar" as Kursinstruktoerar <<rolle>>
-class "Tandeminstruktørar" as Tandeminstruktoerar <<rolle>>
-class "Administrasjon og medlemsservice" as Administrasjon <<funksjon>>
-class "Nettside/butikk" as NettsideButikk <<funksjon>>
-class "Fasilitetar" as Fasilitetar <<funksjon>>
-class "Reinhald og vedlikehald" as ReinhaldVedlikehald <<funksjon>>
-class "Økonomi" as Oekonomi <<funksjon>>
-class "Arrangement" as Arrangement <<funksjon>>
+class "Seksjon" as Seksjon
+class "Fagleg leiar" as FaglegLeiar
+class "Sikkerheitsgruppa" as Sikkerheitsgruppa
+class "Utdanningsansvarleg og regelverk" as UtdanningRegelverk
+class "Tandemansvarleg" as Tandemansvarleg
+class "Materialforvaltar" as Materialforvaltar
+class "Sikkerheitsansvarleg\nKan vere ein tilsett." as Sikkerheitsansvarleg
+class "Sekretær\nKan vere ein tilsett." as Sekretaer
+class "Årsmøte" as Aarsmoete
+class "Styret" as Styret
+class "Dagleg leiar" as DaglegLeiar
+class "Driftsansvarleg og kurskoordinator" as DriftKurs
+class "Miljø" as Miljoe
+class "Politiattest" as Politiattest
+class "Materiell" as Materiell
+class "Kursinstruktørar" as Kursinstruktoerar
+class "Tandeminstruktørar" as Tandeminstruktoerar
+class "Administrasjon og medlemsservice" as Administrasjon
+class "Nettside/butikk" as NettsideButikk
+class "Fasilitetar" as Fasilitetar
+class "Reinhald og vedlikehald" as ReinhaldVedlikehald
+class "Økonomi" as Oekonomi
+class "Arrangement" as Arrangement
 
 Seksjon -- FaglegLeiar
 Seksjon -- Aarsmoete
@@ -142,28 +142,28 @@ top to bottom direction
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
 
-class "Konsept\nOpplevtande erfaringar med luftsport" as Konsept <<strategi>>
-class "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis <<strategi>>
-class "Velfungerande fasilitetar" as Fasilitetar <<bevis>>
-class "Sunn kultur" as Kultur <<bevis>>
-class "Gode kurs og oppfølging" as KursOppfoelging <<bevis>>
-class "Løfte\nAktive og nøgde pilotar" as Loefte <<strategi>>
-class "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon <<strategi>>
-class "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe <<strategi>>
+class "Konsept\nOpplevtande erfaringar med luftsport" as Konsept
+class "Bevis\nEi kjensle av eigarskap og tilhøyrsle" as Bevis
+class "Velfungerande fasilitetar" as Fasilitetar
+class "Sunn kultur" as Kultur
+class "Gode kurs og oppfølging" as KursOppfoelging
+class "Løfte\nAktive og nøgde pilotar" as Loefte
+class "Posisjon\nEin ressurssterk klubb som er drivande for\nutviklinga av ekstremsport." as Posisjon
+class "Målgruppe\nMedlemmar som vil ha det kjekt i eit fykande\nfellesskap på Voss!" as Maalgruppe
 package "Kommunikasjon" {
-  class "Omsynsfull" as Omsynsfull <<eigenskap>>
-  class "Samlande" as Samlande <<eigenskap>>
-  class "Nysgjerrig" as Nysgjerrig <<eigenskap>>
-  class "Leiken gledesspreiar" as Profil <<klubbmedlem>>
+  class "Omsynsfull" as Omsynsfull
+  class "Samlande" as Samlande
+  class "Nysgjerrig" as Nysgjerrig
+  class "Leiken gledesspreiar" as Profil
 }
 package "Organisasjon" {
-  class "Inkludering" as Inkludering <<verdi>>
-  class "Utvikling" as Utvikling <<verdi>>
-  class "Tryggleik" as Tryggleik <<verdi>>
-  class "Spennande moglegheiter" as Moglegheiter <<resultat>>
+  class "Inkludering" as Inkludering
+  class "Utvikling" as Utvikling
+  class "Tryggleik" as Tryggleik
+  class "Spennande moglegheiter" as Moglegheiter
 }
-class "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon <<strategi>>
-class "Visjon\nSkapa trygg og ekte flyglede!" as Visjon <<strategi>>
+class "Misjon\nLeggje til rette for gode opplevingar i lufta,\nog mellom menneske." as Misjon
+class "Visjon\nSkapa trygg og ekte flyglede!" as Visjon
 
 Bevis -- Fasilitetar
 Bevis -- Kultur
