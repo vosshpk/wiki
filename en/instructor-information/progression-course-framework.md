@@ -1,47 +1,45 @@
-# Progression Course
+# Progression course framework for Voss HPK
 
-*Source: “Retningslinjer for progresjonskurs Voss HPK”, dated 10 June 2024.*
+*Source: PDF dated 10 June 2024.*
 
-## General framework
+## General course framework
 
-- Every course must have at least two instructors.
-- The lead instructor must check that participants meet the entry requirements and that their equipment complies with the rules and is suitable for them.
-- Do as much ground handling as possible, in addition to training on the training hill and high flights.
+- At least two instructors must be present on every course.
+- The lead instructor must also check that participants meet the entry requirements, that their equipment complies with the rules and that it is suitable for the participant.
+- Carry out as much ground handling as possible.
+  This is in addition to training on the training hill and high flights.
   This applies at every level.
-- Continue to focus on a sound flight plan with generous margins when practising new skills.
+- Continue to focus on a good flight plan with generous margins for practising new skills.
 
-## Training hill and equipment
+## Training hill, equipment and ground handling
 
-Training and flying on the training hill should also serve as an equipment check for instructors.
-Check safety and suitability, including size, trim and characteristics.
-Continue training until each participant has completed several takeoffs and landings with good technique.
-
-## Launch technique and ground handling
-
+- Training and flying on the training hill should also serve as an equipment check for instructors.
+  Ensure safety and that equipment is suitable in terms of size, trim and characteristics.
+  Continue training here until every participant has completed several takeoffs and landings with good technique.
 - Use a steady pull-up, check the wing and accelerate gradually towards maximum speed.
-- Participants should be able to hold their planned line and stop before the “point of no return”.
-- Use good technique; do not brake the wing into lift with the brakes.
+  Participants must be able to hold their planned line and stop before the set point of no return.
+  Use good technique and do not brake the wing into lift using the brake handles.
 - Practise forward and reverse ground handling in wind.
-  Participants should balance the wing overhead and be able to bring it down under control.
+  Participants must be able to balance the wing overhead.
+  Participants must be able to bring the wing down under control.
 
-## High flights
+## High flights and foot launching
 
-- Give a thorough briefing on landing and launch.
-  Choose the landing area with the best margin.
-  At Voss, use the Ringheim landing area; it gives more margin and helps students retain capacity for their first landing without skis.
-- Conditions for foot launching should be optimal: wind straight in at 2–3 m/s, little thermal activity and stable conditions.
+- Give a thorough briefing on landing and launch for high flights.
+  Choose a landing area with the greatest possible margin.
+  At Voss, use the Ringheim landing area.
+  This provides a greater margin for landing and gives students more capacity for their first landing without skis.
+- Conditions for foot launching must be optimal.
+  This means wind straight in at 2–3 m/s, little thermal activity and stable conditions.
 - Students must be clearly above the minimum standard to pass.
-  As a rule of thumb, complete at least three high flights, including at least one forward launch and one reverse launch.
-  This gives participants the best chance to learn in a real launch setting.
-
-## Risk assessment and review
-
-- Discuss risk assessment.
-  Take time with all participants to assess the day's conditions before flying.
+  As a rule of thumb, complete at least three high flights, during which students have had the opportunity to try both forward and reverse launches at least once.
+  This ensures participants get as much learning as possible in a real launch situation.
+- Discuss risk assessment and take particular care to assess the day's conditions with all participants before deciding whether to fly.
 - Debrief afterwards and identify learning points.
-- Create a separate list of equipment well suited to foot launching early in progression.
+- Prepare a separate list of equipment well suited to foot launching early in progression.
 
-## SPG instructor-section review
+## Review with the SPG instructors
 
-The source calls for a meeting with SPG instructors to review the section and gather suggestions for improvement.
-The season is year-round.
+- Meet with SPG instructors to review and provide input to the section.
+- What can we improve?
+- The season is year-round.

@@ -1,79 +1,105 @@
-# External communications plan
+# External communications plan for Voss Hang- og Paragliderklubb (Voss HPK)
 
-## Purpose and aims
+This communications plan aims to strengthen Voss HPK's visibility, build a strong digital and physical presence, and engage both members and the public.
+The plan focuses on clear communication, safety and the club's identity as an inclusive and exciting meeting place for outdoor enthusiasts.
 
-This plan aims to raise Voss HPK's profile, engage members and people interested in the club, and communicate its activities and values.
-Safety should be a core value in all communications.
+## Objectives
 
-The source document sets out these aims:
-
-- increase the visibility of the club and its activities
-- engage members and prospective members with relevant information
-- put safety first in all communications
-- strengthen the club's profile in hang gliding and paragliding
+1. **Increase visibility** of the club and its activities through digital and traditional channels.
+2. **Engage members and people who are newly interested** with relevant and inspiring messages.
+3. **Put safety first** as a core value in all communications.
+4. **Strengthen the club's brand** as a leading organisation for hang gliding and paragliding in Norway.
 
 ## Audiences
 
-- **Primary:** current and prospective members, and course participants
-- **Secondary:** the local community, tourists, media, sponsors and partners
+- **Primary audiences:** Existing members, prospective members and course participants.
+- **Secondary audiences:** The local community, tourists, media, sponsors and partners.
 
 ## Key messages
 
-> The source document proposes these messages.
-> The board should approve the final wording and confirm that it fits the club's identity:
+- **Excitement and inclusion:** “Experience the freedom of flight with Voss HPK.”
+- **Safety first:** “Safety first — always.”
+- **Nature and adventure:** “Join a community that discovers nature from a bird's-eye view.”
 
-- “Experience the freedom of flight with Voss HPK.”
-- “Safety first, always.”
-- “Join a community that explores nature from a bird's-eye view.”
+The board should approve the final wording and confirm that it fits the club's identity.
 
-## Channels and activities
+## Activities and channels
 
-### Website
+### 1. Website
 
-Keep the website current with course dates, events, news, member stories, and practical information about safety and equipment.
-Make it easy to find the club and sign up for activities.
-Use search terms that prospective course participants are likely to use.
+- **Actions:** Update the website regularly with:
+  - Course dates and events.
+  - News, blog posts and stories from members.
+  - Practical information about safety and equipment.
+- **Goal:** Increase website traffic and encourage actions such as course registration and membership applications.
+- **Search engine optimisation (SEO):** Optimise for searches such as “paragliding course Voss” and “hang gliding in Norway”.
+Use search terms likely to be used by prospective course participants.
 
-### Social media
+### 2. Social media
 
-The source document mentions Facebook, Instagram, YouTube and TikTok.
-Possible content includes photos and videos from flying, courses and events, safety tips, how-to guides and questions for followers.
-It proposes 3–5 posts a week; the board or communications lead should choose relevant channels and set a sustainable schedule.
+- **Channels:** Facebook, Instagram, YouTube and TikTok.
+- **Content:**
+  - Photos and videos from flying, courses and events.
+  - Safety tips and technical guides.
+  - Interactive posts such as polls, question sessions and giveaways.
+- **Publishing frequency:** 3–5 posts per week.
+- **Goal:** Increase engagement and attract new members.
+The board or communications lead should choose relevant channels and set a sustainable schedule.
 
-### Newsletter
+### 3. Newsletter
 
-A monthly newsletter could cover upcoming events and courses, safety updates and member stories.
-The source document mentions Mailchimp or an equivalent service.
-Before sending, clarify the legal basis for processing, consent where relevant, mailing lists and unsubscribe arrangements.
+- **Action:** Send monthly newsletters with:
+  - Upcoming events and courses.
+  - Safety tips and updates.
+  - Inspiring stories from members.
+- **Tool:** Mailchimp or an equivalent service.
+- **Goal:** Keep existing members informed and engaged.
+Before sending newsletters, clarify the legal basis for processing, consent where relevant, mailing lists and unsubscribe arrangements.
 
-### Events
+### 4. Events
 
-Consider open days, flying demonstrations and workshops.
-Promote them through the website, social media and local media.
-The aim could be to introduce the club and invite prospective members.
+- **Action:** Organise open days, flying demonstrations and workshops.
+- **Communication:** Promote events through social media, the website and local media.
+- **Goal:** Increase the club's visibility and recruit new members.
+The aim is to introduce the club and invite prospective members.
 
-### Press and media contact
+### 5. Press and public relations
 
-Consider press releases for major events and relevant club news.
+- **Action:** Prepare press releases about:
+  - Major events.
+  - Members' success stories.
+  - The focus on safety and environmentally friendly air sports.
+- **Goal:** Increase media coverage and position the club as a professional organisation.
 Agree who may speak on behalf of the club, and check facts and privacy before publication.
 
-### Photos and video
+### 6. Video and photography
 
-Show club activities through photos, video, portraits and interviews.
+- **Action:** Produce professional videos and photos that show the club's activities, including:
+  - Drone footage of flying over Voss.
+  - Portraits and interviews with members.
+- **Goal:** Inspire and engage people with visual content.
 Plan drone footage in accordance with applicable rules and privacy considerations.
 Handle content featuring identifiable people under the club's privacy procedures.
 
 ## Responsibilities
 
-The source document suggests the roles below; the board should confirm who holds them:
+1. **Communications lead:**
+   - Overall responsibility for strategy and content.
+   - Main point of contact for the media.
+2. **Social media team:**
+   - Daily updates and interaction.
+3. **Web editor:**
+   - Website updates.
+4. **Event coordinator:**
+   - Planning and running events.
 
-- **Communications lead:** Follows up on strategy, content and media contact.
-- **Social media team:** Publishes content and responds to enquiries.
-- **Web editor:** Maintains the website.
-- **Event coordinator:** Plans and runs events.
+The board should confirm who holds these roles.
 
-## Review
+## Evaluation and follow-up
 
-Possible measures include website visits, social media followers and engagement, and attendance at courses and events.
-The source document proposes quarterly reviews.
-Assign someone to collect the figures and use them to adjust activities.
+- **Measures:**
+  - Number of website visitors.
+  - Social media followers and engagement.
+  - Attendance at courses and events.
+- **Review:** Review the plan quarterly to adjust the activities.
+Assign someone to collect the figures and use them to adjust the activities.
