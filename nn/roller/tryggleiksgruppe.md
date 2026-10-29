@@ -6,13 +6,13 @@ Ta kontakt om du vil bli instruktør eller tandem-pilot, ta vidare opplæring el
 
 **Kontakt:** [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no)
 
-| Funksjon | Ansvarleg | Kontakt |
-|---|---|---|
-| Fagleg leiar (mellombels) | Malene Hetle Hole | [malene@vosshpk.no](mailto:malene@vosshpk.no) |
-| Tryggleiksansvarleg | Eilif Ullestad Rosnæs | [eilifrosnaes@gmail.com](mailto:eilifrosnaes@gmail.com) |
-| Utdanningsansvarleg | Jens Petter Bergtun | [jpb@sfjbb.net](mailto:jpb@sfjbb.net) |
-| Tandemansvarleg | Morten Knapstad | Tryggleiksgruppa |
-| Medlem | Lars Haukom | Tryggleiksgruppa |
+| Rolle | Namn | Telefon | E-post |
+|---|---|---|---|
+| Fagleg leiar (mellombels) | Malene Hetle Hole | — | [malene@vosshpk.no](mailto:malene@vosshpk.no) |
+| Tryggleiksansvarleg | Eilif Ullestad Rosnæs | — | [eilifrosnaes@gmail.com](mailto:eilifrosnaes@gmail.com) |
+| Utdanningsansvarleg | Jens Petter Bergtun | — | [jpb@sfjbb.net](mailto:jpb@sfjbb.net) |
+| Tandemansvarleg | Morten Knapstad | — | [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no) |
+| Medlem | Lars Haukom | — | [sikkerheit@vosshpk.no](mailto:sikkerheit@vosshpk.no) |
 
 Faglege funksjonar omfattar utdanning, tryggleik, regelverk, miljø og politiattest.
 Namn og verv kan endre seg; stadfest gjeldande oversikt med klubben.

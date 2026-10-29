@@ -1,4 +1,4 @@
-# Revised ground winch towing procedures
+# Ground Winch Towing Procedures
 
 Voss HPK - Voss 12.09.2026
 

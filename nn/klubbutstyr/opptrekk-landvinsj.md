@@ -1,4 +1,4 @@
-# Reviderte opptrekksprosedyrar landvinsj
+# Opptrekksprosedyrar landvinsj
 
 Voss HPK - Voss 12.09.2026
 
