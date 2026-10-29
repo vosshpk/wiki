@@ -1,4 +1,4 @@
-# Job description for the managing director of Voss HPK
+# Job description
 
 > **Status:** Transcribed from “Stillingsinstruks DL 2024”.
 > No approval date is provided.

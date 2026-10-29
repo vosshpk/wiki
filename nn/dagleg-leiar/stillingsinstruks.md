@@ -1,4 +1,4 @@
-# Stillingsinstruks for dagleg leiar i Voss HPK
+# Stillingsinstruks
 
 > **Status:** Transkribert frå «Stillingsinstruks DL 2024».
 > Godkjenningsdato er ikkje oppgitt.

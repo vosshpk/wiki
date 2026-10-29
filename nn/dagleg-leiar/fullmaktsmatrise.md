@@ -1,4 +1,4 @@
-# Fullmaktsmatrise for dagleg leiar i eit idrettslag
+# Fullmaktsmatrise
 
 > **Status: utkast – må godkjennast av styret.**
 > Kjeldedokumentet har ingen vedtaksdato.

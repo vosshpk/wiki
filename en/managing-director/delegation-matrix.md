@@ -1,4 +1,4 @@
-# Delegation matrix for the managing director of a sports club
+# Delegation matrix
 
 > **Status: draft — requires board approval.**
 > The source document has no adoption date.
