@@ -1,64 +1,97 @@
-# Stillingsinstruks
+# Stillingsinstruks for dagleg leiar i Voss HPK
 
 > **Status:** Transkribert frå «Stillingsinstruks DL 2024».
 > Godkjenningsdato er ikkje oppgitt.
 > Dette er eit arbeidsdokument til styret si stadfesting, ikkje dokumentasjon på gjeldande arbeidsvilkår.
 
-**Tittel:** Dagleg leiar <br>
-**Rapporterer til:** Styret i Voss Hang- og Paragliderklubb
-**Føremål:** Sikre forsvarleg drift og utvikling i tråd med vedtekter, NIF-regelverk og strategiske mål, og ta vare på medlemene gjennom god administrativ og økonomisk styring.
+**Tittel:** Dagleg leiar<br>
+**Rapporterer til:** Styret i Voss Hang- og Paragliderklubb (Voss HPK)<br>
+**Føremål:** Sikre forsvarleg drift og utvikling av Voss HPK i tråd med klubben sine vedtekter, Norges idrettsforbund (NIF) sine lover og klubben sine strategiske mål.
+Dagleg leiar skal ivareta klubben sine interesser, skape eit godt miljø for alle medlemer og sikre god administrativ og økonomisk styring.
 
-## Hovudoppgåver
+## 1. Hovudoppgåver
 
-### Administrativ drift
+Dagleg leiar har overordna ansvar for den daglege drifta og utviklinga av klubben.
+Dette omfattar følgjande hovudområde:
 
-- Følgje opp at klubben driv i samsvar med vedtekter, NIF-regelverk og anna relevant lovverk.
-- Førebu styresaker og følgje opp vedtak frå styret og årsmøtet.
-- Halde medlemsregisteret oppdatert og følgje opp inn- og utmelding og kontingent.
-- Ha ansvar for nettside, sosiale medium og informasjonsflyt, og følgje opp førespurnader.
+### 1.1 Administrativ drift
 
-### Økonomistyring
+- **Sikre etterleving av vedtekter og regelverk:** Påsjå at Voss HPK til kvar tid driv i samsvar med klubben sine vedtekter, NIF-regelverket og anna gjeldande lovverk for idrettsorganisasjonar.
+- **Oppfølging av vedtak:** Førebu saker til styremøte, føre referat og sikre oppfølging av vedtak frå styret og årsmøtet.
+- **Medlemsadministrasjon:** Sikre at medlemsregisteret er oppdatert og korrekt i tråd med NIF sine krav, inkludert innmelding, utmelding og oppfølging av medlemskontingent.
+- **Kommunikasjon:** Ha ansvar for klubben si nettside, sosiale medium og annan informasjonsflyt, og sørgje for rask og korrekt oppfølging av e-post og andre førespurnader.
 
-- Forvalte midlar innanfor vedteke budsjett og godkjend fullmaktsmatrise, i samarbeid med kasserar og eventuell rekneskapsførar.
-- Utarbeide budsjettframlegg og rapportere jamleg om økonomisk status.
-- Utarbeide søknader om offentleg og privat støtte og følgje opp sponsorar.
-- Følgje opp kontingentar og andre inntekter.
+### 1.2 Økonomistyring
 
-### Materiell, aktivitetar og prosjekt
+- **Økonomisk ansvar:** Forvalte klubben sine midlar innanfor vedteke budsjett og fullmaktsmatrise, og ha ansvar for den daglege økonomiske drifta i samarbeid med kasserar og eventuell revisor.
+- **Budsjett og rekneskap:** Utarbeide forslag til årsbudsjett og sikre jamleg rapportering til styret om økonomisk status.
+- **Søknader om støtte:** Utarbeide søknader om tilskot frå offentlege og private aktørar som NIF, Voss herad, lokale aktørar og sponsorar.
+- **Medlemskontingent:** Følgje opp innbetaling av medlemskontingentar og andre inntekter.
 
-- Sjå til at klubbutstyr blir vedlikehalde, forsikra og halde i forsvarleg stand.
-- Gjennomføre innkjøp innanfor budsjett og fullmakter.
-- Følgje opp reglar for utlån, leige og bruk av utstyr.
-- Utarbeide aktivitetskalender og koordinere dugnad saman med styret og frivillige.
-- Følgje opp at aktivitetar og prosjekt er i samsvar med gjeldande tryggleiksreglar og vedtekne planar.
+### 1.3 Drift og vedlikehald av materiell
 
-### Personale, frivillige og samarbeid
+- **Utstyr:** Sikre at klubben sitt luftsportsutstyr og anna materiell vert forsvarleg vedlikehalde, er i forskriftsmessig stand og er forsikra.
+- **Innkjøp:** Gjennomføre innkjøp av nødvendig utstyr i tråd med budsjett og behov.
+- **Utlån og bruk:** Påsjå at klubben sine retningslinjer for utlån, leige og bruk av utstyr vert følgde.
 
-- Følgje opp eventuelle tilsette, arbeidsfordeling, opplæring og tilbakemelding.
-- Koordinere frivillige og gjere oppgåver og opplæring tydelege.
-- Vedlikehalde samarbeid med NLF, lokale verksemder, offentlege instansar og andre samarbeidspartnarar.
-- Representere klubben i møte og nettverk etter avtale og fullmakt.
+### 1.4 Planlegging og gjennomføring av aktivitetar
 
-## Mynde
+- **Aktivitetskalender:** Utarbeide og halde oppdatert ein aktivitetskalender for klubben sine arrangement, som konkurransar, kurs og sosiale samlingar.
+- **Dugnad:** Planleggje og koordinere dugnader saman med styret og frivillige.
+- **Tryggleik:** Sikre at klubben sine aktivitetar skjer i samsvar med gjeldande tryggleiksreglar frå Luftfartstilsynet og NIF sine retningslinjer.
+- **Prosjekt:** Iverksetje og gjennomføre prosjekt i samsvar med strategien.
 
-Dagleg leiar kan ta avgjerder i den daglege drifta og gjennomføre innkjøp og avtalar innanfor vedteke budsjett, styret sine retningsliner og godkjend fullmaktsmatrise.
-Dagleg leiar følgjer opp arbeidsoppgåver og opplæring for tilsette og frivillige innanfor delegert ansvar.
+### 1.5 Personalleiing og koordinering av frivillige
 
-## Rapportering og samarbeid
+- **Ansvar for tilsette:** Følgje opp eventuelle tilsette, inkludert arbeidsfordeling, opplæring og tilbakemelding.
+- **Frivillige:** Koordinere og motivere frivillige, og sikre at dei har tydelege oppgåver og tilstrekkeleg opplæring.
 
-Dagleg leiar rapporterer jamleg om økonomi, drift og aktivitet til styret, samarbeider med styret og tryggleiksgruppa, og utarbeider årsrapport til årsmøtet.
+### 1.6 Sponsorarbeid og samarbeid
 
-## Kvalifikasjonar
+- **Sponsoravtalar:** Følgje opp klubben sine sponsorar og sørgje for at avtalane vert gjennomførte.
+- **Samarbeid:** Vedlikehalde og vidareutvikle samarbeid med relevante aktørar som Norges Luftsportforbund, lokale bedrifter og offentlege instansar.
+  Representere klubben i møte og nettverk.
 
-Dokumentet nemner erfaring med administrasjon og økonomistyring, kjennskap til NIF og norsk idrett, digital kompetanse, arrangementserfaring, gode kommunikasjons- og samarbeidsevner, struktur, sjølvstende og interesse for å utvikle klubben.
+## 2. Mynde
 
-## Arbeidstid og vilkår
+Dagleg leiar har mynde til å:
 
-Arbeidstida er skildra som fleksibel, med kvelds- og helgearbeid ved behov.
-Løn og arbeidsvilkår blir fastsette av styret og arbeidsavtalen.
+- **Driftsoppgåver:** Fatte avgjerder i den daglege drifta av klubben, inkludert økonomiske disposisjonar innanfor vedteke budsjett og fullmaktsmatrise.
+- **Disponere midlar:** Gjennomføre innkjøp og avtalar i samsvar med styret sine retningslinjer.
+- **Personalansvar:** Følgje opp arbeidsoppgåver og opplæring for tilsette og frivillige.
+
+## 3. Rapportering og samarbeid
+
+- **Rapportering:** Dagleg leiar rapporterer til styret og skal gi jamlege oppdateringar om økonomi, drift og aktivitetar.
+- **Samarbeid:** Arbeide tett med styret, tryggleiksgruppa, medlemene, sponsorar og andre samarbeidspartnarar for å sikre klubben sitt beste.
+- **Årsrapport:** Utarbeide ein årsrapport som vert lagd fram for årsmøtet.
+
+## 4. Kvalifikasjonar og personlege eigenskapar
+
+### 4.1 Kvalifikasjonar
+
+- Erfaring frå administrasjon og økonomistyring, helst frå idrettslag eller frivillig sektor.
+- Kjennskap til NIF-regelverket og norsk idrettsorganisering.
+- God digital kompetanse, inkludert bruk av medlems- og rekneskapssystem.
+- Erfaring med planlegging og gjennomføring av arrangement.
+
+### 4.2 Personlege eigenskapar
+
+- Gode kommunikasjons- og samarbeidsevner.
+- Strukturert, løysingsorientert og sjølvstendig.
+- Engasjert og motivert for å utvikle klubben vidare.
+- Evne til å handtere fleire oppgåver samstundes og prioritere godt.
+
+## 5. Arbeidstid og vilkår
+
+- **Arbeidstid:** Fleksibel arbeidstid, inkludert kvelds- og helgearbeid ved behov for arrangement, kurs eller møte.
+- **Løn og arbeidsvilkår:** Vert fastsette av styret og går fram av arbeidsavtalen.
+  Elles gjeld norsk arbeidsmiljølov.
+
 Arbeidsavtalen og gjeldande lovverk går føre denne generelle instruksen dersom dei regulerer eit forhold meir konkret.
 
-## Revisjon
+## 6. Revisjon av stillingsinstruksen
 
-Kjeldedokumentet seier at styret og dagleg leiar skal revidere instruksen årleg.
-**Vedteke dato og protokoll:** ikkje registrert.
+Styret skal revidere stillingsinstruksen årleg i samarbeid med dagleg leiar for å sikre at han er tilpassa klubben sine behov.
+
+**Godkjenningsdato og protokoll:** ikkje registrert.
