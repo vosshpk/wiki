@@ -34,7 +34,7 @@ When Nynorsk is selected as the language, leave `nn/` out of the path.
 Wiki.js creates the folder path automatically when the page is saved.
 The folder appears in GitHub when it contains at least one page and synchronization has run.
 New top-level folders mapped to a navigation group appear there by default.
-New top-level folders and root-level pages without a mapping appear under the expandable **Ungrouped** menu item.
+New top-level folders and root-level pages without a mapping appear under the expandable **Ungrouped** folder, which follows Help after a horizontal divider.
 Pages in nested folders appear under the menu link for their containing folder.
 If the folder has no landing page, its pages appear as direct links under **Ungrouped** with the folder name first.
 This grouping is only for the sidebar; the page stays at the path you chose.

@@ -34,7 +34,7 @@ Vel du nynorsk som språk, skal du ikkje ta med `nn/` i sidestigen.
 Wiki.js lagar mappestigen automatisk når sida blir lagra.
 Ei mappe blir synleg i GitHub når ho inneheld minst éi side og synkroniseringa har køyrt.
 Nye toppmapper som er kopla til ei navigasjonsgruppe, kjem der som standard.
-Nye toppmapper og sider på rotplanet utan ei slik kopling kjem under det utvidbare menyvalet **Ugruppert**.
+Nye toppmapper og sider på rotplanet utan ei slik kopling kjem under den utvidbare mappa **Ugruppert**, som står etter Hjelp med ei vassrett linje imellom.
 Sider i undermapper blir viste under menylenkja til den overordna mappa.
 Viss mappa ikkje har ei eiga landingsside, blir sidene viste som direkte lenkjer under **Ugruppert** med mappenamnet først.
 Grupperinga gjeld berre sidemenyen; sida blir liggjande på stigen du valde.
