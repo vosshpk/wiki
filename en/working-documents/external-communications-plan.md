@@ -1,4 +1,4 @@
-# External communications plan for Voss Hang- og Paragliderklubb (Voss HPK)
+# External communications plan
 
 This communications plan aims to strengthen Voss HPK's visibility, build a strong digital and physical presence, and engage both members and the public.
 The plan focuses on clear communication, safety and the club's identity as an inclusive and exciting meeting place for outdoor enthusiasts.

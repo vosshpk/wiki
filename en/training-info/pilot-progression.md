@@ -7,7 +7,7 @@ Check the [club’s current course pages](https://vosshpk.no/kurs/){target=_blan
 
 > **TO RESOLVE:** Publish current course fees, what they cover, cancellation deadlines and refund terms alongside course information.
 
-See also the club's [course framework](/en/instructor-information/course-framework) and [progression course framework](/en/instructor-information/progression-course-framework).
+See also the club's [course framework](/en/instructor-info/course-framework) and [progression course framework](/en/instructor-info/progression-course-framework).
 
 ## Training offered
 

@@ -85,7 +85,7 @@ Coordinates safety, logistics and club resources.
 
 Coordinates the course calendar, instructors, participant follow-up, venues and equipment.
 Works with the technical director on professional requirements and with the managing director on administration, payments and information.
-Use the current [course delivery framework](/en/instructor-information/course-framework) and [progression course framework](/en/instructor-information/progression-course-framework).
+Use the current [course delivery framework](/en/instructor-info/course-framework) and [progression course framework](/en/instructor-info/progression-course-framework).
 **To be clarified:** who approves courses and instructors.
 
 ## Technical director

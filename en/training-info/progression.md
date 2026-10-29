@@ -56,7 +56,7 @@ Discuss new techniques and next-level requirements with an instructor before pra
 
 Plan the approach early and begin it with enough height. The guide warns against launching in crosswind, tailwind, rough or strong wind, and against flying in unstable or turbulent conditions. Flying in lift requires prior briefing and approval from an instructor. If you cannot avoid entering lift without approval, fly straight through the lift band and away from terrain to calmer conditions, or land as soon as possible at the planned landing area.
 
-See [Pilot Progression](/en/training-information/pilot-progression), the [course overview](https://vosshpk.no/kurs/) and [Course Materials](/en/training-information/course-materials).
+See [Pilot Progression](/en/training-info/pilot-progression), the [course overview](https://vosshpk.no/kurs/) and [Course Materials](/en/training-info/course-materials).
 
 ## Source
 

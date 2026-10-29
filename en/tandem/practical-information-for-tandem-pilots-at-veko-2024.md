@@ -1,7 +1,6 @@
-# Practical Information for Tandem Pilots at Veko 2024
+# Practical Information for Tandem Pilots at Veko
 
-> **Archived source document:** Summary of the practical guide for Ekstremsportveko 2024.
-> Booking tools, prices, opening hours, contacts and procedures may be outdated.
+> Summary of the practical guide for Ekstremsportveko.
 > Follow current Veko and club information.
 
 ## Organisation and bookings
@@ -13,7 +12,7 @@ Walk-in passengers were encouraged to use the booking system; if a pilot could f
 Pilots were encouraged to show up even without advance bookings, check the weather and recruit passengers at landing and launch.
 Bookings were promoted on the Veko and Visit Voss websites, with posters, QR codes and a video.
 Transport needs to Aurland or other sites had to be communicated early so a driver could be arranged.
-The source encouraged pilots to save the reservation form and pilot panel as phone shortcuts; the links and system from 2024 may be outdated.
+The source encouraged pilots to save the reservation form and pilot panel as phone shortcuts; confirm that the links and system are still in use.
 It also listed a summer gondola pass at NOK 1,390.
 
 ### Pilot procedures
@@ -46,7 +45,7 @@ During Veko, volunteers were to file them in a binder, photograph them and email
 For a passenger under 18 with separated parents, the source required both guardians' signatures.
 Confirm current requirements and secure storage before handling such forms.
 
-### Historical Veko prices from 2024
+### Veko prices
 
 | Flight/service | Price stated in source |
 |---|---:|
@@ -57,7 +56,7 @@ Confirm current requirements and secure storage before handling such forms.
 | Pilot-to-pilot equipment loan | NOK 400 was suggested as a consistent hire rate |
 | Photos/video | NOK 200 extra directly to the pilot on delivery; the source mentions selfie sticks and a GoPro at the club van |
 
-These are historical Veko prices and must not be confused with [tandem compensation for 2026](/en/tandem/compensation-2026).
+The prices from the source must not be confused with [tandem compensation](/en/tandem/compensation-2026).
 The source mentions Zettle and Vipps.
 Flights and payments were to be recorded so the club and pilots could reconcile settlement.
 

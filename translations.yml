@@ -121,29 +121,32 @@ pages:
     nn: nn/arbeidsdokumenter/intern-kommunikasjonsplan.md
     en: en/working-documents/internal-communications-plan.md
   training:
-    nn: nn/utdanningsinformasjon.md
-    en: en/training-information.md
+    nn: nn/utdanningsinfo.md
+    en: en/training-info.md
+  instructor-info:
+    nn: nn/instruktorinfo.md
+    en: en/instructor-info.md
   accommodation:
-    nn: nn/utdanningsinformasjon/overnatting.md
-    en: en/training-information/accommodation.md
+    nn: nn/utdanningsinfo/overnatting.md
+    en: en/training-info/accommodation.md
   pilot-progression:
-    nn: nn/utdanningsinformasjon/pilotprogresjon.md
-    en: en/training-information/pilot-progression.md
+    nn: nn/utdanningsinfo/pilotprogresjon.md
+    en: en/training-info/pilot-progression.md
   course-materials:
-    nn: nn/utdanningsinformasjon/kursmateriale.md
-    en: en/training-information/course-materials.md
+    nn: nn/utdanningsinfo/kursmateriale.md
+    en: en/training-info/course-materials.md
   progression:
-    nn: nn/utdanningsinformasjon/progresjon.md
-    en: en/training-information/progression.md
+    nn: nn/utdanningsinfo/progresjon.md
+    en: en/training-info/progression.md
   student-guide:
-    nn: nn/utdanningsinformasjon/elevguide.md
-    en: en/training-information/student-guide.md
+    nn: nn/utdanningsinfo/elevguide.md
+    en: en/training-info/student-guide.md
   course-framework:
-    nn: nn/instruktorinformasjon/rammer-kurs.md
-    en: en/instructor-information/course-framework.md
+    nn: nn/instruktorinfo/rammer-kurs.md
+    en: en/instructor-info/course-framework.md
   progression-course-framework:
-    nn: nn/instruktorinformasjon/rammer-progresjonskurs.md
-    en: en/instructor-information/progression-course-framework.md
+    nn: nn/instruktorinfo/rammer-progresjonskurs.md
+    en: en/instructor-info/progression-course-framework.md
   governance:
     nn: nn/organisatorisk.md
     en: en/governance.md
@@ -157,8 +160,11 @@ pages:
     nn: nn/organisatorisk/organisasjonsplan.md
     en: en/governance/organisation-plan.md
   programme-plan-2025:
-    nn: nn/organisatorisk/programplan-2025.md
-    en: en/governance/2025-programme-plan.md
+    nn: nn/arkiv/programplan-2025.md
+    en: en/archive/2025-programme-plan.md
+  archive:
+    nn: nn/arkiv.md
+    en: en/archive.md
   strategy-document:
     nn: nn/organisatorisk/styringsdokument.md
     en: en/governance/strategy-document-2024-2028.md

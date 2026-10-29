@@ -1,4 +1,4 @@
-# Intern kommunikasjonsplan for Voss Hang- og Paragliderklubb (Voss HPK)
+# Intern kommunikasjonsplan
 
 Denne planen er laga for å styrkje den interne kommunikasjonen i klubben, fremje samarbeid mellom medlemmar og styret, og sikre at all informasjon flyt godt.  
 Målet er å byggje ei sterk organisasjon som fungerer godt internt og støttar opp om klubbens overordna visjon.

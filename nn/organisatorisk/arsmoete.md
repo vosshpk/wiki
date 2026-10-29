@@ -38,6 +38,6 @@ Tidlegare årsmøtedokument, årsmeldingar og referat finst i klubben sitt offis
 Klubben følgjer desse styringsdokumenta:
 * [Lov for Voss HPK](/organisatorisk/lov)
 * [Organisasjonsplan](/organisatorisk/organisasjonsplan)
-* [Styringsdokument 2024–2028](/organisatorisk/styringsdokument) (vedtaksstatus må stadfestast)
-* [Programplan 2025](/organisatorisk/programplan-2025) (historisk)
+* [Styringsdokument](/organisatorisk/styringsdokument) (vedtaksstatus må stadfestast)
+* [Programplan 2025](/arkiv/programplan-2025)
 * [Klubben i wikien](/klubben/om-klubben)

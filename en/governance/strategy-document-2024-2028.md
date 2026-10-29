@@ -1,6 +1,6 @@
-# Strategy Document 2024–2028
+# Strategy Document
 
-> **Source and status:** Textual version of the “Styringsdokument 2024–2028” presentation from the 2024 strategy session.
+> **Source and status:** Textual version of the presentation from the strategy session.
 > The presentation calls it a draft that would receive member input.
 > This repository does not establish whether a final version was adopted.
 > Confirm its status with the board before treating it as policy.
@@ -10,7 +10,7 @@
 The board wants a coherent, sustainable and long-term effort that creates stable conditions for hang gliding, paragliding and speed gliding in Voss.
 The document is intended to support the club's development.
 
-The 2024–2028 draft came from a strategy session with the board and employees in 2024 and was expected to receive member input.
+The draft came from a strategy session with the board and employees and was expected to receive member input.
 An adopted strategy document should guide board planning and administration.
 The board and administration should use it to prepare an annual programme for the AGM.
 Members are encouraged to contribute through member meetings, surveys and direct feedback to club leadership.
@@ -25,7 +25,7 @@ The presentation shows this high-level structure:
 - **Managing director/administration** → member services, operations and course coordination, website/shop, facilities, finance and events.
 - Course and tandem instructors support activities and training.
 
-This describes a 2024 chart and does not confirm current role holders.
+This describes an organisation chart and does not confirm current role holders.
 See the [organisation plan](/en/governance/organisation-plan) and [board and committees](/en/roles/board).
 
 ## Annual cycle shown in the presentation
@@ -82,4 +82,4 @@ These are intended to strengthen members' sense of belonging and ownership.
 ## Follow-up
 
 The annual programme should turn goals into actions.
-See the [2025 programme plan](/en/governance/2025-programme-plan), which is now historical, and confirm where the latest adopted plan is published.
+See the [2025 programme plan](/en/archive/2025-programme-plan) and confirm where the latest adopted plan is published.

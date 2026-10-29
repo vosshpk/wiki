@@ -1,4 +1,4 @@
-# Ekstern kommunikasjonsplan for Voss Hang- og Paragliderklubb (Voss HPK)
+# Ekstern kommunikasjonsplan
 
 Denne kommunikasjonsplanen har som mål å styrkje Voss HPKs synlegheit, byggje ei sterk digital og fysisk tilstade, og engasjere både medlemmar og publikum.  
 Planen fokuserer på tydeleg kommunikasjon, tryggleik og klubbens identitet som ein inkluderande og spanande møteplass for friluftsentusiastar.

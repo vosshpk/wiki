@@ -1,4 +1,4 @@
-# Tandem compensation 2026
+# Tandem compensation
 
 ## Prices and split
 

@@ -4,7 +4,7 @@ Thank you for a great course week. Your progression continues from here, and Vos
 
 ## Questions
 
-Start with the updated [NLF/HPS pages](https://nlf.no/grener/hps/). For progression, requirements and privileges at each level, consult the current [training programmes and safety system](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/). Local document links are also collected on [Course Materials](/en/training-information/course-materials).
+Start with the updated [NLF/HPS pages](https://nlf.no/grener/hps/). For progression, requirements and privileges at each level, consult the current [training programmes and safety system](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/). Local document links are also collected on [Course Materials](/en/training-info/course-materials).
 
 For other questions, contact the instructor responsible for your course or the managing director, [Malene Hetle Hole](mailto:malene@vosshpk.no). Questions about Min Idrett invoices or insurance should go to [NLF member services](mailto:post@nlf.no). Voss HPK directs students to its [member pages](https://vosshpk.no/medlem/) for further progression information.
 
@@ -72,7 +72,7 @@ The club advises students against flying abroad without a Para Pro instructor or
 
 ## Further progression
 
-Seek advice from instructors and experienced pilots, ask questions and invite people to explain their decisions. See the [course overview](https://vosshpk.no/kurs/) for progression courses and [Progression](/en/training-information/progression) for practice guidance.
+Seek advice from instructors and experienced pilots, ask questions and invite people to explain their decisions. See the [course overview](https://vosshpk.no/kurs/) for progression courses and [Progression](/en/training-info/progression) for practice guidance.
 
 ## Ekstremsportveko and activities
 

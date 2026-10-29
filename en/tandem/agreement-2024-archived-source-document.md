@@ -1,8 +1,8 @@
-# Tandem Agreement 2024 — Archived Source Document
+# Tandem Agreement
 
 > **Do not use as a current agreement.**
-> This page summarises “Voss HPK Tandem Agreement 2024”.
-> No adoption date is stated, and prices, tax statements, payment methods, booking tools and rules may be outdated.
+> This page summarises “Voss HPK Tandem Agreement”.
+> Prices, tax statements, payment methods, booking tools and rules may need confirmation.
 > The board and technical lead must confirm the current agreement and check legal and tax matters with NLF and the relevant authorities.
 > Signed agreements and passenger information must not be stored in the wiki or Git.
 
@@ -11,7 +11,7 @@
 The source says the agreement governs the relationship between Voss HPK and the tandem instructor.
 According to the source, paid introductory flights from sites naturally belonging to Voss HPK must be flown by full or associate members, and the instructor must sign the agreement.
 The source describes tandem flying in Norway as non-commercial and says flights are introductory flights, not private marketing by individual pilots.
-This is a transcription of the 2024 text, not confirmation of current rules.
+This is a transcription of the source text, not confirmation of current rules.
 
 ## Flights, logging and bookings
 
@@ -29,7 +29,7 @@ This is a transcription of the 2024 text, not confirmation of current rules.
   The source says Veko uses separate prices.
 - The source says a liability declaration must be completed and retained by the instructor under the rules at that time.
 
-## Prices and split stated in the 2024 agreement
+## Prices and split stated in the agreement
 
 | Flight | Source price | Source split |
 |---|---:|---|
@@ -54,7 +54,7 @@ Confirm these points against current decisions and rules before use.
 - Pilots were to keep travel claims/logs and mileage for tandem-related driving.
 - The source states an annual tax-free compensation limit of up to NOK 20,000: up to NOK 10,000 without reporting and up to NOK 10,000 in documented travel/mileage compensation.
   Claims were to be sent before month-end for payment around the 15th.
-  This is a historical tax claim; check with the Norwegian Tax Administration and the club's accountant before use.
+  This is a tax claim from the source; check with the Norwegian Tax Administration and the club's accountant before use.
 - The source says the club may withhold amounts owed and that accrued funds may be used for tandem-related equipment.
 
 ## Safety, conduct and responses
@@ -67,4 +67,4 @@ Confirm processes and sanctions against current NLF/HPS rules and the club's byl
 ## Signing
 
 The source document has fields for the tandem instructor's name in block letters, place and date.
-Use an updated, approved agreement for signatures; do not sign or enter personal information on this archive page.
+Use an approved agreement for signatures; do not sign or enter personal information on this page.

@@ -1,4 +1,4 @@
-# Tandemkompensasjon 2026
+# Tandemkompensasjon
 
 ## Pris og fordeling
 

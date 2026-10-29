@@ -1,6 +1,6 @@
-# Styringsdokument 2024–2028
+# Styringsdokument
 
-> **Kjelde og status:** Tekstleg attgjeving av presentasjonen «Styringsdokument 2024–2028» frå strategisamlinga i 2024.
+> **Kjelde og status:** Tekstleg attgjeving av presentasjonen frå strategisamlinga.
 > Presentasjonen omtalar dokumentet som eit utkast som skulle få innspel frå medlemene.
 > Det er ikkje dokumentert her om endeleg versjon er vedteken.
 > Stadfest status med styret før teksten blir brukt som føring.
@@ -10,7 +10,7 @@
 Styret ønskjer ei heilskapleg, berekraftig og langsiktig satsing som legg til rette for stabile og gode rammevilkår for hanggliding, paragliding og speedgliding på Voss.
 Dokumentet er eit bidrag til utviklinga av klubben.
 
-Utkastet for 2024–2028 byggjer på strategisamlinga for styret og tilsette i 2024 og skulle få innspel frå medlemene.
+Utkastet byggjer på strategisamlinga for styret og tilsette og skulle få innspel frå medlemene.
 Eit vedteke styringsdokument skal leggje føringar for styret si planlegging og administrasjonen si drift.
 Styret og administrasjonen skal på dette grunnlaget utarbeide eit årleg arbeidsprogram som blir lagt fram for årsmøtet.
 Medlemer blir inviterte til å bidra gjennom medlemsmøte, undersøkingar og direkte innspel til leiinga.
@@ -25,7 +25,7 @@ Presentasjonen viser denne overordna strukturen:
 - **Dagleg leiar/administrasjon** → medlemsservice, driftsansvar og kurskoordinering, nettside/butikk, fasilitetar, økonomi og arrangement.
 - Kursinstruktørar og tandeminstruktørar støttar aktivitet og opplæring.
 
-Dette er ei attgjeving av eit organisasjonskart frå 2024, ikkje ei stadfesting av kven som har rollene i dag.
+Dette er ei attgjeving av eit organisasjonskart, ikkje ei stadfesting av kven som har rollene i dag.
 Sjå [organisasjonsplan](/organisatorisk/organisasjonsplan) og [styre og utval](/roller/styret).
 
 ## Årshjul i presentasjonen
@@ -92,4 +92,4 @@ Dette skal styrkje eigarskap og tilhøyrsle til klubben.
 ## Oppfølging
 
 Det årlege arbeidsprogrammet skal konkretisere mål og tiltak.
-Sjå [programplanen for 2025](/organisatorisk/programplan-2025), som no er historisk, og stadfest kvar nyaste vedtekne plan blir publisert.
+Sjå [programplanen for 2025](/arkiv/programplan-2025), og stadfest kvar nyaste vedtekne plan blir publisert.

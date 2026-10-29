@@ -56,7 +56,7 @@ Gå gjennom nye teknikkar og krava til neste nivå med instruktør før du øver
 
 Planlegg innflyginga tidleg og start henne i god høgd. Rettleiinga åtvarar mot start i sidevind, medvind, uroleg eller sterk vind, og mot flyging i ustabile eller turbulente forhold. Flyging i løft krev briefing og godkjenning frå instruktør på førehand. Dersom du ikkje kan unngå å kome inn i løft utan slik godkjenning, skal du fly rett gjennom løftesona og bort frå terrenget til rolege forhold, eller lande snarast på det planlagde landingsområdet.
 
-Sjå òg [pilotprogresjon](/utdanningsinformasjon/pilotprogresjon), [kursoversikta](https://vosshpk.no/kurs/) og [kursmateriale](/utdanningsinformasjon/kursmateriale).
+Sjå òg [pilotprogresjon](/utdanningsinfo/pilotprogresjon), [kursoversikta](https://vosshpk.no/kurs/) og [kursmateriale](/utdanningsinfo/kursmateriale).
 
 ## Kjelde
 

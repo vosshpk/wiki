@@ -4,7 +4,7 @@ Takk for ei fin kursveke. No held progresjonen fram, og Voss HPK ønskjer å hje
 
 ## Har du spørsmål?
 
-Start med dei oppdaterte sidene til [NLF/HPS](https://nlf.no/grener/hps/). For progresjon, krav og rettar på dei ulike kompetansenivåa bør du lese gjeldande [utdanningsprogram og tryggleikssystem](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/). Du finn òg dei lokale lenkjene på sida om [kursmateriale](/utdanningsinformasjon/kursmateriale).
+Start med dei oppdaterte sidene til [NLF/HPS](https://nlf.no/grener/hps/). For progresjon, krav og rettar på dei ulike kompetansenivåa bør du lese gjeldande [utdanningsprogram og tryggleikssystem](https://nlf.no/grener/hps/sikkerhet--utdanning/sikkerhetssystemet/). Du finn òg dei lokale lenkjene på sida om [kursmateriale](/utdanningsinfo/kursmateriale).
 
 Ta andre spørsmål til instruktøren som har ansvar for kurset ditt, eller til dagleg leiar [Malene Hetle Hole](mailto:malene@vosshpk.no). Spørsmål om faktura i Min Idrett eller forsikring skal til [NLF medlemsservice](mailto:post@nlf.no). For vidare progresjon viser Voss HPK til [medlemssidene sine](https://vosshpk.no/medlem/).
 
@@ -72,7 +72,7 @@ Klubben rår elevar frå å fly i utlandet utan Para Pro-instruktør eller ein p
 
 ## Vidare progresjon
 
-Søk råd hos instruktørar og erfarne pilotar, still spørsmål og be gjerne om forklaring på vurderingane som vert gjorde. Sjå [kursoversikta](https://vosshpk.no/kurs/) for progresjonskurs og [progresjonssida](/utdanningsinformasjon/progresjon) for råd og øvingsforslag.
+Søk råd hos instruktørar og erfarne pilotar, still spørsmål og be gjerne om forklaring på vurderingane som vert gjorde. Sjå [kursoversikta](https://vosshpk.no/kurs/) for progresjonskurs og [progresjonssida](/utdanningsinfo/progresjon) for råd og øvingsforslag.
 
 ## Ekstremsportveko og aktivitet
 

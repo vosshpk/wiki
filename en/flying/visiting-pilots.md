@@ -25,7 +25,7 @@ Also see the club’s [current visiting-pilot information](https://vosshpk.no/vi
 4. Carry proof of your licence and third-party insurance.
    Use radio and live tracking where recommended for the flight.
 
-See [accommodation options in Voss](/en/training-information/accommodation) if you need a place to stay.
+See [accommodation options in Voss](/en/training-info/accommodation) if you need a place to stay.
 
 ## Contacts and resources
 

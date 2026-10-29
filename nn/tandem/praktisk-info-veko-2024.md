@@ -1,8 +1,7 @@
-# Praktisk informasjon for tandempilotar under Veko 2024
+# Praktisk informasjon for tandempilotar under Veko
 
-> **Arkivert kjeldedokument:** Attgjeving av praktisk info for Ekstremsportveko 2024.
-> Bookingløysing, prisar, opningstider, kontaktpersonar og rutinar kan vere utdaterte.
-> Bruk gjeldande Veko- og klubbinfo.
+> Attgjeving av praktisk informasjon for Ekstremsportveko.
+> Stadfest gjeldande Veko- og klubbinfo før bruk.
 
 ## Organisering og booking
 
@@ -13,7 +12,7 @@ Drop-in-gjester skulle helst bruke bookingsystemet; dersom piloten kunne ta ture
 Pilotar vart oppmoda til å møte opp sjølv utan førehandsbooking, følgje vêret og rekruttere passasjerar ved landing og start.
 Booking vart marknadsført på Veko- og Visit Voss-nettsidene, med plakatar, QR-kodar og video.
 Transportbehov til Aurland eller andre stader måtte meldast tidleg for å få sjåfør.
-Kjelda oppmoda pilotane til å lagre reservasjonsskjema og pilotpanel som snarvegar på mobilen; lenkjene og systemoppsettet frå 2024 kan vere utdaterte.
+Kjelda oppmoda pilotane til å lagre reservasjonsskjema og pilotpanel som snarvegar på mobilen; stadfest at lenkjene og systemoppsettet framleis gjeld.
 Ho oppgav òg eit sommarkort for gondolen til 1 390 kr.
 
 ### Rutinar for pilotar
@@ -46,7 +45,7 @@ Under Veko skulle frivillige arkivere dei i perm, ta bilete og sende dei til `ta
 For passasjer under 18 år med skilde foreldre kravde kjelda signatur frå begge føresette.
 Stadfest gjeldande krav og trygg lagringsmåte før slike skjema blir handterte.
 
-### Historiske Veko-prisar frå 2024
+### Veko-prisar
 
 | Tur/teneste | Pris oppgitt i kjelda |
 |---|---:|
@@ -57,7 +56,7 @@ Stadfest gjeldande krav og trygg lagringsmåte før slike skjema blir handterte.
 | Utlån av eige tandemutstyr mellom pilotar | 400 kr vart oppmoda som lik leigepris |
 | Foto/film | 200 kr ekstra direkte til pilot ved levering; kjelda nemner selfiestenger og GoPro i klubbvogna |
 
-Dette er historiske Veko-prisar og må ikkje blandast med [tandemkompensasjonen for 2026](/tandem/kompensasjon-2026).
+Prisane frå kjelda må ikkje blandast med [tandemkompensasjonen](/tandem/kompensasjon-2026).
 Kjelda nemner betaling via Zettle og Vipps.
 Turar og betaling skulle registrerast slik at klubb og pilot kunne avstemme oppgjeret.
 

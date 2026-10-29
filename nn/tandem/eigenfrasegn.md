@@ -18,7 +18,7 @@ PDF-en er sett opp for utskrift og signering og inneheld forsikringsinformasjon.
   Ikkje last opp signerte skjema, namn, signaturar eller helseopplysningar i wikien eller Git-repoet.
 - Følg klubben sine godkjende rutinar for trygg oppbevaring og sletting av ferdig utfylte skjema.
 
-Den tidlegare fila frå 2023 er teken vare på som [historisk kjeldedokument](/tandem/eigenfrasegn-2023), ikkje som skjema til bruk.
+Ei tekstleg attgjeving av eit tidlegare skjema ligg under [Eigenfråsegn for tandempassasjerar](/tandem/eigenfrasegn-2023) for referanse, ikkje til bruk.
 
 NLF si [side for instruktørar](https://nlf.no/grener/hps/medlemssider-hps/for-instruktorer/){target=_blank} viser dei gjeldande vala for enkelttur og fleire turar.
 Kontroller sida før utskrift dersom NLF seinare oppdaterer skjemaet.

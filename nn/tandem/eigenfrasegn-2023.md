@@ -1,8 +1,8 @@
-# Eigenfråsegn for tandempassasjerar 2023 – arkiv
+# Eigenfråsegn for tandempassasjerar
 
-> **Historisk skjema – ikkje bruk for nye flygingar.**
-> Dette er ei tekstleg attgjeving av det norske skjemaet frå 2023.
-> Skjemaet viser til COVID-19-råd og forsikringsvilkår/-beløp frå 2023.
+> **Ikkje bruk denne attgjevinga for nye flygingar.**
+> Dette er ei tekstleg attgjeving av det norske skjemaet.
+> Skjemaet viser til COVID-19-råd og forsikringsvilkår/-beløp.
 > Det er ikkje stadfesta at fråsegnsteksten er juridisk gyldig eller at forsikringsdekninga framleis gjeld.
 > Bruk berre skjema som er godkjent og publisert av NLF/HPS og Voss HPK.
 > Ikkje fyll ut eller lagre personopplysningar på denne wiki-sida.
@@ -17,14 +17,14 @@
 - Kjelda seier at passasjeren forstår at tandemflyging har ein vesentleg risiko som ikkje kan fjernast med tryggingstiltak, og tek frivillig på seg risikoen for personskade og død.
   Passasjeren stadfestar at relevante sjukdommar er opplyste til piloten.
 - Fråsegna seier at piloten, NLF/HPS, medlemsklubbane deira, tilsette og representantar ikkje kan haldast ansvarlege for skade eller tap som oppstår i samband med flyginga, og at passasjeren sine etterlatne/arvingar heller ikkje kan fremje slike krav.
-  Dette er berre ei skildring av den historiske teksten, ikkje ei vurdering av rettsverknaden.
-- Den engelske 2023-versjonen legg til at passasjeren har lese og forstått skjemaet og signerer frivillig.
+  Dette er berre ei skildring av kjeldeteksten, ikkje ei vurdering av rettsverknaden.
+- Den engelske versjonen legg til at passasjeren har lese og forstått skjemaet og signerer frivillig.
 - Dato, signatur og namn med blokkbokstavar for passasjer.
 - For passasjer under 18 år: felt for signatur og namn frå begge føresette.
 - Stadfesting på at pilot har informert om forsikringsdekninga, med dato og signatur frå passasjer.
   For passasjer under 18 år har kjelda òg felt for signatur frå begge føresette.
 
-## Forsikringsbeløp oppgjevne i 2023-skjemaet
+## Forsikringsbeløp oppgjevne i skjemaet
 
 | Yting | Beløp/vilkår i kjelda |
 |---|---:|
@@ -41,9 +41,9 @@
 | Egenandel ved ansvarsskade | 1 000 kr per hending |
 
 Kjelda viser til [NLF si forsikringsside](https://www.nlf.no/hps/forsikring/){target=_blank}.
-Kontroller gjeldande vilkår og beløp direkte med NLF/forsikringsselskapet; denne tabellen er berre historisk dokumentasjon.
+Kontroller gjeldande vilkår og beløp direkte med NLF/forsikringsselskapet.
 
 ## Skjema som skal brukast
 
-Bruk [gjeldande NLF-skjema for utskrift og signering](/tandem/eigenfrasegn), ikkje denne 2023-arkivsida.
+Bruk [gjeldande NLF-skjema for utskrift og signering](/tandem/eigenfrasegn), ikkje denne attgjevinga.
 Signerte skjema og helseopplysningar skal lagrast sikkert utanfor wikien og Git-repoet.

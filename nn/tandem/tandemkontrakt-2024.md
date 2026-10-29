@@ -1,9 +1,8 @@
-# Tandemkontrakt 2024 – arkivert kjeldedokument
+# Tandemkontrakt
 
 > **Ikkje bruk som gjeldande avtale.**
-> Dette er ei attgjeving av hovudinnhaldet i «Voss HPK Tandemkontrakt 2024».
-> Dokumentet har ikkje oppgitt vedtaksdato.
-> Prisar, skatteomtale, betalingsmåtar, bookingløysing og regelverk kan vere utdaterte.
+> Dette er ei attgjeving av hovudinnhaldet i «Voss HPK Tandemkontrakt».
+> Prisar, skatteomtale, betalingsmåtar, bookingløysing og regelverk kan krevje stadfesting.
 > Styret og fagleg leiar må stadfeste gjeldande avtale og kontrollere juridiske og skattemessige punkt med NLF og relevante styresmakter.
 > Signerte kontraktar og passasjeropplysningar skal ikkje lagrast i wiki eller Git.
 
@@ -12,7 +11,7 @@
 Kjelda seier at avtalen regulerer forholdet mellom Voss HPK og tandeminstruktøren.
 Introduksjonsturar mot betaling frå startstader som høyrer naturleg til Voss HPK skal etter kjelda utførast av hovud- eller sidemedlemer, og instruktøren skal signere avtalen.
 Kjeldeteksten omtalar tandemflyging i Noreg som ikkje-kommersiell og seier at turane er introduksjonsturar, ikkje privat marknadsføring frå den enkelte piloten.
-Dette er attgjeving av 2024-teksten, ikkje ei stadfesting av gjeldande regelverk.
+Dette er ei attgjeving av kjeldeteksten, ikkje ei stadfesting av gjeldande regelverk.
 
 ## Flyging, logging og booking
 
@@ -30,7 +29,7 @@ Dette er attgjeving av 2024-teksten, ikkje ei stadfesting av gjeldande regelverk
   Kjelda seier at Veko har eigne prisar.
 - Kjelda seier at ansvarserklæring skal fyllast ut og oppbevarast av tandeminstruktøren etter dågjeldande regelverk.
 
-## Pris og fordeling slik 2024-kontrakten oppgav det
+## Pris og fordeling slik kontrakten oppgav det
 
 | Tur | Pris i kjelda | Fordeling i kjelda |
 |---|---:|---|
@@ -55,7 +54,7 @@ Stadfest dette mot gjeldande vedtak og regelverk før bruk.
 - Pilotane skulle føre reiserekning/køyrebok og kilometer for tandemrelatert køyring.
 - Kjelda nemner ei grense på inntil 20 000 kr årleg skattefri kompensasjon: inntil 10 000 kr utan innrapportering og inntil 10 000 kr i reise-/kilometergodtgjersle med dokumentasjon.
   Krav skulle sendast før månadsskiftet for utbetaling kring den 15.
-  Dette er ei historisk skattepåstand frå kjelda; kontroller med Skatteetaten og klubben sin rekneskapsførar før bruk.
+  Dette er ein skattepåstand frå kjelda; kontroller med Skatteetaten og klubben sin rekneskapsførar før bruk.
 - Kjelda seier klubben kan halde tilbake uteståande beløp, og at opptente midlar kan nyttast til tandemrelatert utstyr.
 
 ## Tryggleik, åtferd og reaksjonar
@@ -68,4 +67,4 @@ Reaksjonar og prosess må kontrollerast mot gjeldande NLF/HPS-reglar og klubben 
 ## Signering
 
 Kjeldedokumentet har felt for tandeminstruktør med blokkbokstavar, stad og dato.
-Bruk ei oppdatert, godkjend avtale for signering; ikkje signer eller legg inn personopplysningar på denne arkivsida.
+Bruk ei godkjend avtale for signering; ikkje signer eller legg inn personopplysningar på denne sida.
