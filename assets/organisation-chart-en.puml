@@ -1,7 +1,12 @@
 title Organisation chart
 top to bottom direction
+hide circle
+hide empty members
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
+skinparam nodesep 20
+skinparam ranksep 25
+scale max 1200 width
 
 class "Section" as Section
 class "Technical lead" as TechnicalLead

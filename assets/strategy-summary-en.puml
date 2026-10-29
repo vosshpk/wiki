@@ -1,7 +1,12 @@
 title Strategy summary
 top to bottom direction
+hide circle
+hide empty members
 skinparam classAttributeIconSize 0
 skinparam linetype ortho
+skinparam nodesep 20
+skinparam ranksep 25
+scale max 1200 width
 
 class "Concept\nEngaging experiences with air sports" as Concept
 class "Evidence\nA sense of ownership and belonging" as Evidence
