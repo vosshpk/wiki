@@ -1,6 +1,6 @@
 top to bottom direction
 
-skinparam handwritten false
+!option handwritten false
 skinparam shadowing false
 skinparam roundcorner 8
 skinparam defaultFontName Monospaced
