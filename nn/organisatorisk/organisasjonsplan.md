@@ -1,3 +1,13 @@
+---
+title: Organisasjonsplan
+description: ''
+published: true
+date: '2026-10-29T04:58:32.068Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-27T17:20:27.483Z'
+---
+
 # Organisasjonsplan
 
 Kjelde: Organisasjonsplan for Voss Hang- og Paragliderklubb, vedteke av årsmøtet 27.02.2025.
@@ -9,7 +19,7 @@ Organisasjonskartet i kjelda er attgjeve nedanfor som PlantUML.
 ::block-plantuml
 ```plantuml
 @startuml
-!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.puml
+!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-.puml
 @enduml
 ```
 ::
