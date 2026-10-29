@@ -6,6 +6,11 @@
 | Site | Gjelle |
 | Prepared by | Malene Hetle Hole |
 | Date in source | 9/12/2026 |
+| Classification in source | Internal |
+
+*Source document: “Sikker utførelse av hang-, para- og speedgliding” (risk analysis).*
+**Likelihood scale in source:** 1 low, 2 medium, 3 high.
+**Consequence scale in source:** 1 low, 2 medium, 3 high.
 
 
 ## Risk assessment

@@ -6,6 +6,11 @@
 | Flystad | Gjelle |
 | Utført av | Malene Hetle Hole |
 | Dato i kjelda | 9/12/2026 |
+| Klassifisering i kjelda | Intern |
+
+*Kjeldedokument: «Sikker utførelse av hang-, para- og speedgliding» (risikoanalyse).*
+**Sannsyn i kjelda:** 1 låg, 2 middels, 3 høg.
+**Konsekvens i kjelda:** 1 låg, 2 middels, 3 høg.
 
 
 ## Risikovurdering
