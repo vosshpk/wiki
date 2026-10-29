@@ -9,6 +9,8 @@ This guide is for people who are new to the Voss HPK wiki.
 - Use the locale selector at the top to switch between Nynorsk and English.
 - Choose **Browse** if you prefer to navigate through the folder structure.
 
+Click a page link to open it, then use the headings to find your way through its content.
+
 ## Folders and navigation are different things
 
 A page folder determines where wiki pages are stored and what page path they have.
@@ -30,7 +32,11 @@ If a new folder should appear automatically in a new or existing group, the wiki
 
 ## Create a page and folder at the same time
 
-Choose **New Page** in Wiki.js and open the **Save As** dialog to choose where the page will live.
+Click the plus button in the top right of Wiki.js and choose **New Markdown Page**.
+
+![The menu for choosing New Markdown Page to create a page](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/pages/create-new-page-menu.png)
+
+Open the **Save As** dialog to choose where the page will live.
 Select the parent folder, or select the root folder if you want to create a new top-level folder.
 Use **New Folder** in the folder tree and enter the name of the new folder.
 Enter the page title and a short page path using lowercase letters and hyphens, for example `new-folder/new-page`.
@@ -40,7 +46,7 @@ Save the page in the new folder so that the folder contains a page and appears i
 ![The Save As dialog for choosing a page path and creating a new folder](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/pages/create-page-and-folder.png)
 
 A wiki page folder appears in the content repository when it contains at least one saved page.
-To create a folder for uploaded images or other files, use **File Manager** instead.
+To upload images or other media files, choose **Upload Media Asset** from the plus menu.
 
 ### Create the folder first
 
@@ -69,6 +75,11 @@ If Wiki.js shows the navigation settings, edit the menu inherited by pages acros
 ![Settings for editing the shared navigation menu](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/edit-navigation-settings.png)
 
 Click **Add** to see the item types **Header**, **Link**, **Menu** and **Separator**.
+
+![The Add button in the navigation editor](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/add-navigation-item-button.png)
+
+![The menu for adding a Header, Link, Menu or Separator](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/add-navigation-item-types.png)
+
 Use **Header** to create the name of a navigation group.
 Do not use the **Menu** item type for this kind of group because the navigation job uses headers and nested links.
 Use **Link** to create a clickable link or an expandable parent for a submenu.
@@ -77,11 +88,7 @@ The navigation job sets this folder icon on folder links it recognizes, includin
 Place page links below this parent and use **Nest Item** to make them submenu items.
 If the links should appear directly under a heading without an expandable folder, add them after the heading without nesting them.
 
-![The menu for adding a Header, Link, Menu or Separator](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/add-navigation-item-types.png)
-
 ![Link settings and the option for nesting an item](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/link-trigger-and-nesting.png)
-
-![The Add button in the navigation editor](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/navigation/add-navigation-item-button.png)
 
 Save the menu items and navigation settings when you are done.
 The navigation job keeps existing headings and link placements, but uses the group list to place new links.
@@ -90,25 +97,22 @@ If the folder is not mapped, or its configured group does not exist in Wiki.js, 
 
 ## File Manager
 
-File Manager is for uploaded images, PDFs and other files used on wiki pages.
-It does not change page folders or navigation groups.
+File Manager shows the wiki page folders and the pages they contain.
+Use it to browse the page hierarchy and manage pages and folders.
 Open a page editor, open the tools menu in the top right, and choose **File Manager**.
 
 ![The page editor menu with the File Manager option](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/pages/open-file-manager.png)
 
-Choose the folder where the file should live, then use **New Folder** to create a folder for files.
-Open a file or folder's action menu and choose **Rename** or **Move**.
-When you move a folder, its files move with it.
-If you rename or move a file or folder, update links to those files on the wiki pages that use them.
-To move wiki pages between page folders, use **Rename / Move Page...** instead of File Manager.
+![File Manager showing the folder list and wiki pages](https://raw.githubusercontent.com/vosshpk/wiki/main/assets/help/pages/file-manager-overview.png)
+
+Select the parent folder and use **New Folder** to create a wiki page folder.
+Open a page's action menu and choose **Rename / Move Page...** to rename or move that page.
+Open a folder's action menu and choose **Rename** or **Move** to rename or move the folder.
+When you move a folder, its pages move with it and get new page paths.
+Check links to pages after changing the path of a page or folder.
+To upload images or other media files, choose **Upload Media Asset** from the plus menu.
 
 For more about the group list and the technical navigation job, see [Infrastructure](/en/help/infrastructure).
-
-## Read a page
-
-Click a link in the sidebar or in the text to open the page.
-Use the page headings to find the section you need.
-Some pages link to forms, maps or other documents.
 
 ## Edit and contribute
 
