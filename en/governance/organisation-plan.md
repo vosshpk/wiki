@@ -6,7 +6,7 @@ Source: Organisation Plan for Voss Hang- and Paraglider Club, adopted by the AGM
 
 The organisation chart in the source is reproduced below as PlantUML.
 
-::block-plantuml
+::block-plantuml{format="png"}
 ```plantuml
 @startuml
 !include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.puml

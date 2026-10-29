@@ -16,7 +16,7 @@ Kjelde: Organisasjonsplan for Voss Hang- og Paragliderklubb, vedteke av årsmøt
 
 Organisasjonskartet i kjelda er attgjeve nedanfor som PlantUML.
 
-::block-plantuml
+::block-plantuml{format="png"}
 ```plantuml
 @startuml
 !include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.puml

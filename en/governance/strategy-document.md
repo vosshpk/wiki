@@ -37,7 +37,7 @@ Voss Hang- and Paraglider Club 2024
 
 The organisation chart from the presentation is reproduced below as PlantUML.
 
-::block-plantuml
+::block-plantuml{format="png"}
 ```plantuml
 @startuml
 !include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisation-chart-en.puml
@@ -90,7 +90,7 @@ See also the [organisation plan](/en/governance/organisation-plan).
 
 The strategy summary from the presentation is reproduced below as PlantUML.
 
-::block-plantuml
+::block-plantuml{format="png"}
 ```plantuml
 @startuml
 !include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/strategy-summary-en.puml
