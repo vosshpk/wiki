@@ -18,6 +18,7 @@ New links in top-level folders and root-level pages that are not listed in a nav
 If such a folder has no landing page, its pages appear as direct links with the folder path in each link label.
 The menu item uses `en/ungrouped.md` as its landing page, while its content pages stay at their original paths.
 The expandable folder uses a folder icon and follows Help after a horizontal divider.
+The navigation job sets `mdi:folder-outline` on folder links it recognizes, including links that already exist in the sidebar.
 The menu item and divider are removed when it has no links beneath it.
 
 To place new top-level folders in a group automatically, create or rename the group in Wiki.js and ask the wiki maintainer to add its label and folder path for both Nynorsk and English to the group list.
