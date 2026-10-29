@@ -17,6 +17,7 @@ Nye lenkjer i toppmapper og sider på rotplanet som ikkje er førte opp i ei nav
 Viss ei slik mappe manglar ei eiga landingsside, blir sidene viste som direkte lenkjer med mappestigen i lenkjeteksten.
 Menyvalet brukar `nn/ugruppert.md` som landingsside, medan innhaldssidene blir verande på dei opphavlege stigane sine.
 Den utvidbare mappa har mappeikon og kjem etter Hjelp, med ei vassrett linje mellom dei.
+Menyvalet og linja blir fjerna når det ikkje står att lenkjer under mappa.
 
 Vil du leggje nye toppmapper automatisk i ei gruppe, opprett eller endre gruppa i Wiki.js og be wikiforvaltaren leggje inn gruppenamnet og mappebanen for nynorsk og engelsk i gruppelista.
 Gruppa må finnast i sidemenyen før skriptet legg nye lenkjer der; viss ho manglar, brukar skriptet **Ugruppert**.
