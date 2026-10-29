@@ -1,4 +1,4 @@
-# Help and Guidance
+# Help
 
 Start with the practical guide if you are new to the wiki.
 

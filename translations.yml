@@ -6,6 +6,9 @@ pages:
   home:
     nn: nn/home.md
     en: en/home.md
+  help-section:
+    nn: nn/hjelp.md
+    en: en/help.md
   help-practical-use:
     nn: nn/hjelp/bruk.md
     en: en/help/use.md

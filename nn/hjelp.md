@@ -1,4 +1,4 @@
-# Hjelp og rettleiing
+# Help
 
 Start med den praktiske rettleiinga dersom du er ny i wikien.
 
