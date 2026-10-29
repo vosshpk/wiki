@@ -1,69 +1,157 @@
 # 2025 Programme Plan
 
+Voss Hang- og Paragliderklubb
+
 > **Historical document:** This plan covers 2025.
 > Its deadlines and targets have passed and are not current assignments.
-> This page is transcribed from Voss HPK's 2025 programme plan.
+> This page is a textual translation of Voss HPK's 2025 programme plan.
 > Confirm with the board whether it was adopted and where the latest plan is published.
 
-## Overall goal
+## 1. Overall goal for 2025
 
-Prepare the organisation for the future and for growth in activity, while reducing dependence on individual people to support sustainable operations.
+Structure the organisation for the future and prepare for development and increased activity over time.
+Reducing vulnerability caused by dependence on individuals is essential for sustainable operations.
 
-Priorities included clear responsibilities between administration, board and safety group; better support and motivation for members, instructors and key people; healthy communication and feedback; a digital work and project platform; and stronger financial management and competence.
+Priorities:
 
-## Organisation development
+- Clear division of responsibilities and role understanding between administration, board and safety group.
+  This involves reviewing, preparing and implementing instructions.
+- Improve conditions so members, instructors and key people are well cared for.
+  This includes supporting motivation and making it enjoyable to contribute to positive development over the long term.
+- Healthy culture and good practice for communication and feedback at every level.
+- A digital work platform and project-management tools that make operations more efficient and support continuity in the future.
+  - Areas of responsibility and administration tasks.
+- Improve efficiency and financial management.
+  Structure, procedures and increased competence.
+  Make it easier to free up funds for future projects.
 
-**Actions:** complete and implement mandates and instructions for the board, managing director and technical lead; establish volunteer, Veko, events and professional-development working groups; assess and introduce a digital platform for communication, project management and workflows.
+## 2. Focus areas and measures
 
-**Goals:** clear responsibilities, simpler internal communication, more effective operations and less dependence on individuals.
-**Owner:** board and managing director.
-**Plan deadline:** April 2025.
+### A. Organisation development
 
-## Training and safety
+Professionalising operations: Develop a clear structure, communication and division of responsibilities in the organisation to create a sustainable workplace.
+This enables safe future operations and recruitment to key roles.
 
-**Actions:** develop instructor training and follow-up with the safety group and section; prepare risk assessments for flying sites with maintenance plans; create a pilot progression calendar with SIV training and advanced courses.
+Measures:
 
-**Goals:** improve instructor competence, add five instructors, deliver more progression courses, improve site safety and keep members informed.
-**Owner:** safety group and technical lead.
-**Plan deadline:** June 2025.
+○ Complete and implement mandates and instructions for the board, managing director and technical lead.
+○ Establish working groups for volunteer work, Veko, events and professional development.
+○ Investigate and adopt a digital work platform, and implement an integrated system for communication, project management and workflows.
 
-## Activities and events
+Goals:
 
-**Actions:** continue Ekstremsportveko with strong participation and quality; establish training groups; hold two larger gatherings with other air-sports clubs; arrange member evenings and a Christmas dinner; assess competition and recruitment efforts.
+○ Clear division of responsibilities and efficient operations.
+○ Simplify internal communication.
+○ Professionalise and improve efficiency at every level.
+○ Reduce vulnerability caused by dependence on individuals.
 
-**Goals:** increase social engagement and participation and create a national platform for sharing knowledge.
-**Owner:** events group and managing director.
-**Plan deadline:** September 2025.
+Responsible: Board and managing director.
 
-## Finance and resources
+Deadline: April 2025.
 
-**Actions:** revise financial procedures and account structure; complete a five-year investment plan for equipment, facilities and clubhouse; tender for training paragliders; develop a sponsorship strategy; improve booking and payment for courses, tandem flights and events.
+### B. Training and safety
 
-**Goals:** increase course revenue by 10%, increase tandem revenue in peak season, and work towards NOK 500,000 in annual sponsorship income over time.
-**Owner:** board and managing director.
-**Plan deadline:** December 2025.
+Quality in training and activities: Further develop courses, progression opportunities and instructor education.
+Recruit and develop instructors' competence.
 
-## Cooperation and local community
+Measures:
 
-**Actions:** formalise cooperation with Voss parachute club and Ekstremsportveko; establish dialogue with landowners and the municipality about long-term agreements; update the website with flying-site information and partners.
+○ Further develop instructor education and follow-up in cooperation with the safety group and the section.
+○ Prepare and publish risk assessments for flying sites, including maintenance plans.
+○ Ensure pilots have a progression calendar, including SIV training and advanced courses.
 
-**Goals:** secure long-term agreements for Bømoen and other sites and raise awareness of the club's local role.
-**Owner:** managing director and project groups.
-**Plan deadline:** November 2025.
+Goals:
 
-## 2025 annual calendar
+○ Develop instructor competence.
+○ Increase the instructor group by five new instructors.
+○ Increase the delivery and quality of progression courses.
+○ Improve safety procedures at flying sites.
+○ Ensure good information flow to members.
 
-| Month | Main activity | Owner |
+Responsible: Safety group and technical lead.
+
+Deadline: June 2025.
+
+### C. Activities and events
+
+Measures:
+
+○ Continue Veko with strong participation and quality.
+○ Establish training groups for different skill levels.
+○ Arrange two larger gatherings with other air-sports clubs, for example in Bergen or Loen.
+○ Hold member evenings and a Christmas party.
+○ Consider competition activities and recruitment.
+  How can the club contribute?
+
+Goals:
+
+○ Increase social engagement and participation.
+○ Create a national platform for knowledge exchange.
+
+Responsible: Events group and managing director.
+
+Deadline: September 2025.
+
+### D. Finance and resources
+
+Long-term finances and sustainability: Improve the use of resources and secure long-term investments.
+
+Measures:
+
+○ Review financial-management procedures and the organisation of accounts.
+○ Complete a five-year investment plan for equipment, facilities and the clubhouse.
+○ Conduct tender rounds for purchasing training paragliders.
+○ Develop a sponsorship strategy with concrete measures for local banks and funds.
+○ Further develop booking systems for courses, tandem flights and events, together with payment solutions and practical organisation.
+
+Goals:
+
+○ Increase course income by 10%.
+○ Improve tandem organisation to grow tandem income during the high season.
+○ Work towards annual sponsorship income of NOK 500,000 over the longer term.
+
+Responsible: Board and managing director.
+
+Deadline: December 2025.
+
+### E. Cooperation and local community
+
+Clear community role and strong cooperation: Strengthen cooperation with the local community and national organisations.
+Become a more visible activity provider and partner in the local community.
+
+Measures:
+
+○ Formalise cooperation with Voss Skydiving Club and Ekstremsportveko.
+○ Establish dialogue meetings with landowners and the municipality to secure long-term agreements.
+○ Update the website with information about flying sites, launches and partners.
+
+Goals:
+
+○ Secure long-term agreements for Bømoen and other flying sites.
+○ Raise awareness of the club's role in the community.
+
+Responsible: Managing director and project groups.
+
+Deadline: November 2025.
+
+## 3. Annual calendar 2025
+
+| Month | Main activity | Responsible |
 |---|---|---|
 | January | Strategy session and AGM preparation | Board |
-| February | Course and training calendar follow-up | Managing director |
+| February | Follow-up on course planning and training calendar | Managing director |
 | March | Spring volunteer day and maintenance | Managing director |
 | June | Complete risk assessment | Safety group |
 | July | Ekstremsportveko | Events group |
-| September | Member survey and plan 2026 courses | Managing director |
-| November | Sponsorship and budget work | Board |
+| September | Member survey<br>Course planning for 2026 | Managing director |
+| November | Sponsorship work and budget preparation | Board |
 | December | Evaluation and follow-up | Board |
 
-## Monitoring and evaluation
+## 4. Follow-up and evaluation
 
-The plan called for quarterly status meetings between the board and managing director, a member survey, and a final evaluation at the 2026 AGM.
+● Quarterly status meetings:
+  ○ The board and managing director review progress and achievement of goals.
+● Member survey:
+  ○ Collect feedback on courses, activities and events.
+● Final evaluation:
+  ○ Present results at the 2026 annual general meeting.

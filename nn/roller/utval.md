@@ -10,7 +10,7 @@ Valkomiteen føreslår kandidatar til styret og utvala før årsmøtet.
 | Rolle | Namn | Telefon | E-post |
 |---|---|---|---|
 | Leiar | Malin Mannes Iversen | 916 76 599 | [malin_mannes@hotmail.no](mailto:malin_mannes@hotmail.no) |
-| Medlem | Mathias Helgesen | — | [Mathias.s.helgesen@gmail.com](mailto:Mathias.s.helgesen@gmail.com) |
+| Medlem | Mathias Helgesen | — | [mathias.s.helgesen@gmail.com](mailto:mathias.s.helgesen@gmail.com) |
 | Varamedlem | Elisabeth Viken | — | [vikenelisabeth@gmail.com](mailto:vikenelisabeth@gmail.com) |
 
 ## Kontrollutval

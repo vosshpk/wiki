@@ -10,7 +10,7 @@ The election committee proposes candidates for the board and committees before t
 | Role | Name | Phone | Email |
 |---|---|---|---|
 | Chair | Malin Mannes Iversen | +47 916 76 599 | [malin_mannes@hotmail.no](mailto:malin_mannes@hotmail.no) |
-| Member | Mathias Helgesen | — | [Mathias.s.helgesen@gmail.com](mailto:Mathias.s.helgesen@gmail.com) |
+| Member | Mathias Helgesen | — | [mathias.s.helgesen@gmail.com](mailto:mathias.s.helgesen@gmail.com) |
 | Deputy member | Elisabeth Viken | — | [vikenelisabeth@gmail.com](mailto:vikenelisabeth@gmail.com) |
 
 ## Audit committee
