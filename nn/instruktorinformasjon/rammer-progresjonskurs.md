@@ -1,48 +1,45 @@
-# Progresjonskurs
+# Retningslinjer for progresjonskurs Voss HPK
 
-*Kjelde: «Retningslinjer for progresjonskurs Voss HPK», datert 10.06.2024.*
+*Kjelde: PDF-dokument datert 10.06.2024.*
 
-## Grunnrammer
+## Grunnrammer for kurset
 
-- Det skal vere minst to instruktørar på alle kurs.
-- Ansvarleg instruktør skal kontrollere at deltakarane oppfyller krava for å delta, og at utstyret følgjer regelverket og passar for deltakaren.
-- Det skal gjennomførast så mykje bakkehandtering som mogleg.
-  Dette kjem i tillegg til trening i skulebakke og høgdeturar og gjeld på alle nivå.
-- Ha framleis fokus på ein god flyplan med stor margin når nye ferdigheiter skal øvast.
+- Minimum to instruktørar på alle kurs.
+- Ansvarleg instruktør skal også sjekke at deltakarar har oppfylt krav for deltaking, at utstyret er innanfor regelverket og at det er eigna for deltakaren.
+- Det skal gjennomførast så mykje bakkehandtering som mogleg.  
+  Dette kjem i tillegg til trening i skulebakke og høgdetur.  
+  Det gjeld alltid på alle nivå.
+- Framhald med fokus på ein god flyplan med stor margin for å øve nye ferdigheiter.
 
-## Skulebakke og utstyr
+## Skulebakke, utstyr og bakkehandtering
 
-Trening og flyging i skulebakken skal fungere som utstyrskontroll for instruktørane.
-Kontroller tryggleiken og at utstyret passar med omsyn til storleik, trim og eigenskapar.
-Hald fram treninga til alle deltakarane har gjennomført fleire startar og landingar med god teknikk.
+- Trening og flyging i skulebakke skal fungere som ein utstyrskontroll for instruktørane.  
+  Sikre tryggleik og at utstyret er eigna med tanke på storleik, trim og eigenskapar.  
+  Ein held fram med trening her til alle deltakarar har gjennomført fleire startar og landingar med god teknikk.
+- Jamt opptrekk, sjekk av vinge og gradvis akselerasjon mot maksfart.  
+  Ein er i stand til å halde linja ein har planlagt, og kan gjennomføre stopp før sett point of no return.  
+  God teknikk der ein ikkje bremsar seg til løft ved hjelp av styrehandtak.
+- Groundhandling i vind – opptrekk framlengs og baklengs.  
+  Handtere vingen over hovudet i balanse.  
+  I stand til å leggje ned vingen kontrollert.
 
-## Startteknikk og bakkehandtering
+## Høgdetur og fotstart
 
-- Jamnt opptrekk og kontroll av vengen, med gradvis akselerasjon mot maksfart.
-- Deltakaren skal kunne halde planlagd linje og stoppe før «point of no return».
-- Bruk god teknikk; ikkje brems vengen opp til løft med styrehandtaka.
-- Tren bakkehandtering i vind med framlengs og baklengs opptrekk.
-  Deltakaren skal kunne halde vengen balansert over hovudet og leggje han kontrollert ned.
+- Høgdetur: grundig briefing på landing og start.  
+  Her vel vi ei landing med best mogleg margin.  
+  På Voss skal Ringheimslandinga nyttast.  
+  Det gir større margin på landing, og betre overskot til elevane for første landing utan ski.
+- Forholda skal vere optimale for fotstarting.  
+  Det vil seie vind rett inn 2–3 m/s, lite termisk aktivitet og stabilt.
+- For å få bestått skal elevane vere tydeleg over minstekravet.  
+  Tommelfingerregel: minimum tre høgdeturar der ein har fått prøve både framlengs- og baklengsstart minimum éin gong.  
+  Dette for å sikre at deltakarane får mest mogleg læringsutbytte i reell situasjon på start.
+- Risikovurdering skal snakkast om, og ein skal særleg ta god tid til å vurdere forholda for dagen saman med alle deltakarane før ein eventuelt startar flyging.
+- Debrief etterpå med læringspunkt.
+- Eiga liste med utstyr som er godt eigna for fotstarting tidleg i progresjonen.
 
-## Høgdeturar
+## Evaluering med SPG-instruktørane
 
-- Gje grundig briefing om landing og start.
-  Vel ei landing med best mogleg margin.
-  På Voss skal Ringheimslandinga nyttast.
-  Ho gjev større margin og betre overskot for elevane under den første landinga utan ski.
-- Forholda skal vere optimale for fotstart: vind rett inn på 2–3 m/s, lite termisk aktivitet og stabile forhold.
-- For å bestå skal elevane vere tydeleg over minstekrava.
-  Tommelfingerregelen er minst tre høgdeturar, der deltakaren har fått prøve både framlengs- og baklengsstart minst éin gong.
-  Dette skal gje deltakarane best mogleg læring i ein reell startsituasjon.
-
-## Risikovurdering og evaluering
-
-- Snakk om risikovurdering.
-  Bruk god tid saman med alle deltakarane på å vurdere dagens forhold før eventuell flyging.
-- Ha debrief etterpå med konkrete læringspunkt.
-- Lag ei eiga liste over utstyr som eignar seg godt for fotstart tidleg i progresjonen.
-
-## Evaluering av SPG-instruktørseksjonen
-
-Dokumentet ber om møte med SPG-instruktørane for å evaluere og samle innspel til seksjonen: Kva kan betrast?
-Sesongen er heile året.
+- Møte med SPG-instruktørar: evaluering og innspel til seksjonen.
+- Kva kan vi bli betre på?
+- Sesong heile året.
