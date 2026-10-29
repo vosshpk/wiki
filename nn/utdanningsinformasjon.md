@@ -10,7 +10,7 @@ Informasjon om kurs, vidare progresjon og opphald for kursdeltakarar.
 - [Opplæring og progresjon](/utdanningsinformasjon/pilotprogresjon)
 - [Overnatting på Voss](/utdanningsinformasjon/overnatting)
 
-## Instruktørinformasjon
+## [Instruktørinformasjon](/instruktorinformasjon)
 
 - [Rammer for kursing](/instruktorinformasjon/rammer-kurs)
 - [Rammer for progresjonskurs](/instruktorinformasjon/rammer-progresjonskurs)
