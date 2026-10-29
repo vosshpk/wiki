@@ -2,7 +2,7 @@
 title: Organisasjonsplan
 description: ''
 published: true
-date: '2026-10-29T04:58:44.370Z'
+date: '2026-10-29T04:59:41.852Z'
 tags: []
 editor: markdown
 dateCreated: '2026-10-27T17:20:27.483Z'
@@ -16,13 +16,7 @@ Kjelde: Organisasjonsplan for Voss Hang- og Paragliderklubb, vedteke av årsmøt
 
 Organisasjonskartet i kjelda er attgjeve nedanfor som PlantUML.
 
-::block-plantuml
-```plantuml
-@startuml
-!include https://raw.githubusercontent.com/vosshpk/wiki/main/assets/organisasjonskart-nn.puml
-@enduml
-```
-::
+
 
 Det same organisasjonskartet står òg i [styringsdokumentet](/organisatorisk/styringsdokument).
 
