@@ -1,3 +1,13 @@
+---
+title: Voss Hang- og Paragliderklubb
+description: ''
+published: true
+date: '2026-10-30T12:11:16.034Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-27T17:20:26.165Z'
+---
+
 # Voss Hang- og Paragliderklubb
 
 <div class="voss-home-hero">
@@ -14,7 +24,12 @@
 </div>
 
 <div class="voss-home-cards">
-  <a class="voss-home-card" href="/fyking/flystader">
+   <a class="voss-home-card" href="/tryggleik/naudprosedyrar">
+    <span>VER FØREBUDD</span>
+    <strong>Naudprosedyrar</strong>
+    <small>Viktige nummer og tiltak ved ulukke</small>
+  </a>
+   <a class="voss-home-card" href="/fyking/flystader">
     <span>PLANLEGG FLYTUREN</span>
     <strong>Flystader</strong>
     <small>Lokale tilhøve, startar og landingar</small>
@@ -23,11 +38,6 @@
     <span>LÆR OG UTVIKL DEG</span>
     <strong>Kurs og progresjon</strong>
     <small>Frå grunnkurs til vidare ferdigheiter</small>
-  </a>
-  <a class="voss-home-card" href="/tryggleik/naudprosedyrar">
-    <span>VER FØREBUDD</span>
-    <strong>Naudprosedyrar</strong>
-    <small>Viktige nummer og tiltak ved ulukke</small>
   </a>
   <a class="voss-home-card" href="/klubben/om-klubben">
     <span>OM KLUBBEN</span>
