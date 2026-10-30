@@ -1,3 +1,13 @@
+---
+title: Voss Hang- og Paragliderklubb
+description: ''
+published: true
+date: '2026-10-30T12:16:24.069Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-27T16:40:40.041Z'
+---
+
 # Voss Hang- og Paragliderklubb
 
 <div class="voss-home-hero">
@@ -14,7 +24,12 @@
 </div>
 
 <div class="voss-home-cards">
-  <a class="voss-home-card" href="/en/flying/sites">
+   <a class="voss-home-card" href="/en/safety/emergency-procedures">
+    <span>BE PREPARED</span>
+    <strong>Emergency procedures</strong>
+    <small>Key numbers and actions after an incident</small>
+  </a>
+   <a class="voss-home-card" href="/en/flying/sites">
     <span>PLAN YOUR FLIGHT</span>
     <strong>Flying sites</strong>
     <small>Local conditions, launches and landings</small>
@@ -23,11 +38,6 @@
     <span>LEARN AND PROGRESS</span>
     <strong>Courses and training</strong>
     <small>From beginner courses to further skills</small>
-  </a>
-  <a class="voss-home-card" href="/en/safety/emergency-procedures">
-    <span>BE PREPARED</span>
-    <strong>Emergency procedures</strong>
-    <small>Key numbers and actions after an incident</small>
   </a>
   <a class="voss-home-card" href="/en/the-club/about">
     <span>ABOUT THE CLUB</span>
