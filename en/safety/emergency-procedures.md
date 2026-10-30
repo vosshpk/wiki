@@ -1,3 +1,13 @@
+---
+title: Emergency Procedures
+description: ''
+published: true
+date: '2026-10-30T12:20:49.901Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-28T15:55:07.303Z'
+---
+
 # Emergency Procedures
 
 Safety comes first at Voss HPK.
@@ -35,7 +45,7 @@ If you are first at an accident scene, follow this order:
    If the person is unconscious and not breathing normally, begin CPR with 30 compressions and 2 rescue breaths.
    Control severe visible bleeding.
    Keep the airway open and protect the person from the cold ground, for example with a foil blanket or harness as insulation.
-3. **Call 113 as soon as possible:** Give the exact location using the Hjelp 113 app or GPS coordinates, the number of injured people and their visible injuries and condition.
+3. **Call 113 as soon as possible:** Give the exact location using the Hjelp 113 app or GPS coordinates, the number of injured people and their visible injuries and condition. Mention "high-energy trauma" if it was a hard crash.
    Stay with the person until rescuers take over.
 4. **Notify police (112):** If the medical service does not arrange notification, call the police as well.
 5. **Notify air-sports management:** NLF air-sports director: +47 908 67 560.
