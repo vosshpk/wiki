@@ -1,3 +1,13 @@
+---
+title: Naudprosedyrar
+description: ''
+published: true
+date: '2026-10-30T12:23:16.034Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-29T04:49:39.825Z'
+---
+
 # Naudprosedyrar
 
 Tryggleik kjem først i Voss Hang- og Paragliderklubb.
@@ -43,6 +53,7 @@ Dersom du kjem først til ein ulukkesstad, følg denne prioriteringa:
 3. **Ring 113 så snart som råd:**
    * Oppgje nøyaktig posisjon, med Hjelp 113-appen eller GPS-koordinatar.
    * Oppgje talet på skadde, synlege skadar og tilstanden deira.
+   * Nemn stikkordet «høgenergiskade» om det har vore ein hard krasj.
    * Bli hos pasienten til redningspersonell tek over.
 4. **Varsle politiet (112):** Dersom 113 ikkje sørgjer for varsling, må du òg varsle politiet.
 5. **Varsle luftsportleiinga:**
