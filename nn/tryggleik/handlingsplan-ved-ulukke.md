@@ -1,3 +1,13 @@
+---
+title: Handlingsplan ved ulukke
+description: ''
+published: true
+date: '2026-10-30T12:24:06.709Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-29T04:49:39.778Z'
+---
+
 # Handlingsplan ved ulukke
 
 Dette er ei Markdown-utgåve av handlingsplanen.
@@ -12,7 +22,7 @@ Dersom du er først på ulukkesstaden, følg denne lista:
    Dersom personen ikkje pustar normalt, start hjarte-lungeredning.
    Stans blødingar.
    Dersom personen pustar normalt, men er medvitslaus, observer pusten i eitt minutt og legg deretter personen i sideleie medan de ventar på helsepersonell.
-2. Ring 113 så snart som råd for å få medisinsk hjelp.
+2. Ring 113 så snart som råd for å få medisinsk hjelp. Nemn stikkordet «høgenergiskade» om det har vore ein hard krasj.
 3. Bli hos personen til redningspersonell kjem og tek over ansvaret.
 4. Dersom 113 ikkje har varsla politiet, ring 112 og meld frå om ulukka.
 5. Varsle Hang-, Para- og Speedgliderseksjonen på telefon **908 67 560**.
