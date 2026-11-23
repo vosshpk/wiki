@@ -1,6 +1,16 @@
+---
+title: Lov for Voss Hang- og Paragliderklubb
+description: ''
+published: true
+date: '2026-11-23T22:25:51.322Z'
+tags: []
+editor: markdown
+dateCreated: '2026-10-27T17:20:27.421Z'
+---
+
 # Lov for Voss Hang- og Paragliderklubb
 
-Stifta 01.04.1974
+Stifta 26.09.1976
 
 Sist revidert av styret 27.04.2026 med heimel i vedtak på årsmøtet 06.03.2026.
 
